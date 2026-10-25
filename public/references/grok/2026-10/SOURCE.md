@@ -126,3 +126,55 @@
   - canyon-rain：`c48345bbb16fa578f5b11831f7357347977353f4f2343016f8ff9e6d1510125d`
   - drone-canyon：`e4caac0e32340225723f397b4aa5f0884b94b45047f0f44f132c5fee11227730`
 - 许可备注：版权归 cryptomanavan；仅作视觉参考，不可自由商用。
+
+## skatalyst-rain-street.jpg · 52KB rainy neon WebGPU
+
+- 作品名：Rainy neon city (52 KB HTML / WebGPU, no libraries)
+- 作者：@SKatalystAI
+- 原始 URL：https://x.com/SKatalystAI/status/2111809289442435225
+- 类型：视频-演示（自包含 WebGPU HTML 宣传片截帧）
+- 机位/时间/步骤：下载 `…/2114x1080/s-ygqDXZgOplB410.mp4`；于 10.0s 抽净街谷帧（另备 4s/16s）。
+- 截取日期：2026-10-25
+- 尺寸：2114×1080
+- SHA256：`b0c1ac64ec59f8571e6295987096249a8ea16ba260122dd4dbf5983928827088`
+- 许可备注：版权归 SKatalystAI；仅作视觉参考。
+
+## edolus-compute-core.jpg · EDOLUS compute core
+
+- 作品名：EDOLUS（Awwwards SOTD 2026-10-04）
+- 作者：Yann Trevelot / Vertex3D
+- 原始 URL：https://edolus.com/
+- 类型：3D 网页；本轮入库为官方 WebGPU 宣传静帧（live 加载挂起）
+- 机位/时间/步骤：官方静帧 1920×1063（COMPUTE_CORE）；Browser-use 确认站点可达。
+- 截取日期：2026-10-25
+- 尺寸：1920×1063
+- SHA256：`a1da25e2ee722220aba1119f1b5d890112f58b15804553b8fe2256e1d3175971`
+- 许可备注：版权归 EDOLUS / Vertex3D；仅作视觉参考。
+
+## noah-temple-magnolia-up.jpg / noah-temple-magnolia-alt.jpg · 仰视玉兰古庙
+
+- 作品名：Looking straight up — ancient Chinese temple courtyard with magnolia
+- 作者：@noahvisualsx
+- 原始 URL：https://x.com/noahvisualsx/status/2109719895034474876
+- 类型：静帧-CG（Midjourney）
+- 机位/时间/步骤：下载帖内 `HUc7DGEaEAAewsT.jpg`（主）、`HUc7DDebYAAZ9tp.jpg`（备）。
+- 截取日期：2026-10-25
+- 尺寸：1146×2048（长边 2048）
+- SHA256：
+  - up：`9c54d48dc4b6dc89aab1a7371e10d645560eff2c1fde76ce3e225d88eec86964`
+  - alt：`3f336a1550ac5a0c6ea7eea1c8b9b8e4947c4a650002f5221cef4a1636d7ed9e`
+- 许可备注：版权归原作者；仅作视觉参考。
+
+## monkey-forest-prajapati-8s.jpg / monkey-forest-path-14s.jpg · Sacred Monkey Forest
+
+- 作品名：Sacred Monkey Forest — Ubud, Bali
+- 作者：@SammmAing
+- 原始 URL：https://sam1983aing.github.io/sacred-monkey-forest/ ；X https://x.com/SammmAing/status/2113447422164681142
+- 类型：3D 网页（Three.js）+ 宣传片截帧
+- 机位/时间/步骤：下载 `…/3840x2160/D_xzfGoJUhXQUuVS.mp4`；于 8.0s（Prajapati 寺区）、14.0s（石径林冠）抽帧。Browser-use 1920 打开可玩页并尝试 Hide UI。
+- 截取日期：2026-10-25
+- 尺寸：3840×2160
+- SHA256：
+  - 8s：`7d8cf4c28262ca81207d8ebe7cb0770cc14fdce1cc88e8ba3a4de70460014162`
+  - 14s：`2ce5b12a8a495982c62b18d0a33af4d5d032014321aacb55549d67f45ae1cdf0`
+- 许可备注：开源演示 + 宣传片；版权归 Samnang Aing；仅作视觉参考。

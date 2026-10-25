@@ -104,3 +104,24 @@
 ### 12. `cold-world-warm-refuge` ← dystopia-street-rain.jpg
 - **证明什么**：世界保持冷雨蓝黑，暖色压缩在近处摊灯与个别窗；有人感不靠角色。
 - **博客落点**：Alley；Shrine 夜雨对照。
+
+## R4 补图提议
+
+### 12. `wet-street-reads-neon` ← skatalyst-rain-street.jpg (+ dystopia-street-rain.jpg)
+- **证明什么**：雨夜沥青镜面把立面霓虹拉成竖条色带，街心无角色仍可读赛博峡谷。
+- **博客落点**：Alley / Backstreet；BlackCityHall 雨夜。
+
+### 13. `backlight-reveals-silhouette` ← edolus-compute-core.jpg
+- **证明什么**：中央三角逆光把远方 monolith 剪影钉在雾尘里，两侧机柜成巨构夹道。
+- **博客落点**：Station / 工业翼；文章头图「算力圣殿」气质。
+
+### 14. `framed-distant-view` / `low-eye-entry` ← noah-temple-magnolia-up.jpg
+- **证明什么**：左右飞檐近框 + 极端仰视让古玉兰成「天柱」；落瓣给纵深。
+- **博客落点**：Shrine；修仙/古建仰视头图。
+
+### 15. `fog-separates-depth` ← monkey-forest-prajapati-8s.jpg / path-14s.jpg
+- **证明什么**：金暮体积光切开林冠与石径；近苔石锐、远寺廊被雾软化。
+- **博客落点**：Shrine / Park；圣林路径参考。
+
+### 新卡候选（R4）
+仍不建 `public/candidates/`：湿街霓虹与神社仰视均可挂现有卡；若再收一件「工业逆光圣殿」可议新卡。
