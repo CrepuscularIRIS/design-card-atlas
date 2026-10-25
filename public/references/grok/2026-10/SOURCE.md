@@ -207,3 +207,56 @@
   - limb-14s：`98b145ffd3c66fd044b5c32d57f8ac8adbde549a269c32414976cdf415fee51b`
   - corridor-22s：`cbef515b4704e36927c31d73751e13ac602e6dcecd8c2b76d929336730f197c9`
 - 许可备注：版权归 ChrisGPT；公开 X 预告与 chatgpt.site 演示；仅作视觉参考。
+
+## cooper-station-cornfield-t18.jpg / farmhouse-t14.jpg / axis-t02.jpg · Cooper Station 巨构
+
+- 作品名：Cooper Station — O'Neill cylinder cinematic (Three.js)
+- 作者/发现帖：@TusharXo
+- 原始 URL：https://x.com/TusharXo/status/2113520062862877182
+- 类型：视频-宣传片截帧（3D）
+- 机位/时间/步骤：下载 amplify `…/1920x1080/hu9a0Hdy3ayezEO9.mp4`；于 2.0s（轴心住宅环）、14.0s（农舍仰视端盖）、18.0s（玉米地环曲面，主选）、26.0s（观察窗）抽帧。未放大。
+- 截取日期：2026-10-25
+- 尺寸：1920×1080
+- SHA256：
+  - cornfield-t18：`1b53f0687a13dcc383e3468c8781131bf95f6ef862c6bf4833aff555891621e1`
+  - farmhouse-t14：`42728ac0c6f7786a9df25f20c2d8bcb2f9552450629e7432a949055d3040954a`
+  - axis-t02：`7867bb5b961a6a61230f288b70ff77415de14c644d1b41966bdf35a6c3857b33`
+- 许可备注：版权归原作者/发布者；仅作视觉参考。
+
+## quantum-core-4096x2236.jpg · 量子芯实验室静帧
+
+- 作品名：Quantum computer core cinematic still
+- 作者：@Stellarixorine
+- 原始 URL：https://x.com/Stellarixorine/status/2114395441811128475 ；媒体 `https://pbs.twimg.com/media/HVfXcOfaEAAmz69.jpg?name=orig`
+- 类型：CG 静帧
+- 机位/时间/步骤：下载 name=orig；右下角心形水印极小，未裁切放大。
+- 截取日期：2026-10-25
+- 尺寸：4096×2236
+- SHA256：`70e916ed4a493e5a3e569b5e6d657c6b3036d99d11f158116ba27fd6c7790173`
+- 许可备注：版权归 Stellarixorine；仅作视觉参考。
+
+## sakura-cho-temple-dusk-t22.jpg / temple-gate-day-t06.jpg · Sakura-cho 寺门
+
+- 作品名：Sakura-cho neighborhood tour（Three.js）
+- 作者：@hamster_wat
+- 原始 URL：https://x.com/hamster_wat/status/2112299428245897283
+- 类型：视频-宣传片截帧
+- 机位/时间/步骤：下载 amplify 1920×1080；6.0s 日景门、22.0s 暮色门（主选）。操场日景未入库。
+- 截取日期：2026-10-25
+- 尺寸：1920×1080
+- SHA256：
+  - dusk-t22：`b579a6e356dd238ca634b71bfcf82e82d457b238bffc9ae2310f44496e460a80`
+  - day-t06：`c80b4c18a934577079873663f9e57980e1a643d88a4bfa6038b509237eaf652e`
+- 许可备注：版权归 hamster_wat；仅作视觉参考。
+
+## lighthouse-storm-minimax-t26.jpg · 暴雨灯塔
+
+- 作品名：Lighthouse storm at sea（MiniMax 全幅段）
+- 作者/发现帖：@TokenGremlin
+- 原始 URL：https://x.com/TokenGremlin/status/2113116418677879068
+- 类型：视频-对比宣传片截帧
+- 机位/时间/步骤：下载 amplify 1920×1080；取 MiniMax 全幅 26.0s（非左右半幅）。角标 “MiniMax M3.1 Flash”。
+- 截取日期：2026-10-25
+- 尺寸：1920×1080
+- SHA256：`b07e3e0cbd513cda14ce4e21539f9ca165272cf368cc61d5af6f47c4bc06ab56`
+- 许可备注：版权归 TokenGremlin / MiniMax；仅作视觉参考。

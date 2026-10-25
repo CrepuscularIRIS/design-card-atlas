@@ -156,3 +156,27 @@ Brasilia（教育 UI）、Buzz City（漫画营销）、Lake-City（孪生俯视
 
 ### 新卡候选
 仍不建 `public/candidates/`：哥特碎殿可挂 colonnade / colossus；ISS 挂 Station 现有卡。
+
+---
+
+## R6 · ~15:54–16:10 ET — g067–g081
+
+### 收（4）
+
+**g067 Cooper Station** — 玉米地仰望端盖：熟悉农舍/谷仓对照巨构曲面，轴心圆环逆光。建议 `colossus-crosses-the-frame` / `scale-by-familiar-objects`。主帧 18s；备选 14s 农舍、2s 轴心。
+
+**g068 Quantum core** — 金铜多层芯悬雾中，青芯光+浅景深实验室。建议 `backlight-reveals-silhouette` / `fog-separates-depth`。4096 原图；心形水印可接受。
+
+**g069 Sakura-cho** — 暮色寺门框住内殿灯笼，垂樱与冷紫雾。建议 `framed-distant-view` / `cold-world-warm-refuge`。主帧 22s；日景门 6s 备选。
+
+**g070 Lighthouse storm** — 孤塔束光切暴雨雾，浪白切岩。建议 `backlight-reveals-silhouette` / `fog-separates-depth`。MiniMax 全幅 26s（弃对比半幅）。
+
+### pending 要点
+
+- g071–g074：Tokyo / Slop NY / Sakura Fantasy / Chasing — live WebGL 本轮黑画布或未拍。
+- g075：YAKŌ 1920 实开但 FUI 文案主导；需更满幅 3D。
+- g076：Station tower 开发日志 UI；等 live。
+
+### 不收要点
+
+Floating Japan A/B 营销；Misty meadow 角色主导；DYSTOPIA 更新片不重复 g021；埃及庙 1440 / 浮空庙 ~1790 尺寸不合格。
