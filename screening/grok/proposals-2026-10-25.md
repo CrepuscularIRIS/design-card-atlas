@@ -125,3 +125,34 @@
 
 ### 新卡候选（R4）
 仍不建 `public/candidates/`：湿街霓虹与神社仰视均可挂现有卡；若再收一件「工业逆光圣殿」可议新卡。
+
+## R5 · Obsidian + ORBITAL（2026-10-25 ~14:54 ET）
+
+### 16. `colonnade-rhythm` / `colossus-crosses-the-frame` ← obsidian-shard-cathedral-09s.jpg
+- **证明什么**：碎片铸成哥特中殿拱廊，中央玫瑰光把远端体量钉成「巨构穿框」；无营销字、无 UI。
+- **画面位置**：拱廊轴对称；玫瑰光中心偏上；碎粒漫游成前景尘。
+- **视觉维度（≥4）**：D 拱廊尺度；A 体积光；B 紫天暖地平；E 碎片材质反光。
+- **博客落点**：Shrine / BlackCityHall 哥特翼；柱廊节奏对照。
+
+### 17. `backlight-reveals-silhouette` ← obsidian-shard-nave-04s.jpg
+- **证明什么**：逆光把碎石云剪影化，中景拱肋仍可读结构；「破石见殿」叙事一帧成立。
+- **博客落点**：Shrine；文章过渡帧。
+
+### 18. `scale-by-familiar-objects` ← orbital-earthwalk-eva-08s.jpg / limb-14s.jpg
+- **证明什么**：宇航服/舱段作尺度锚，地球曲率与大气散射给出轨道巨构感；4K 净环境。
+- **视觉维度（≥4）**：D 轨道/舱段尺度；A 大气边缘光；F 地平雾带；C 舱体主次。
+- **博客落点**：Station；薄线 HUD 对照空间。
+
+### 19. `thin-line-hud`（环境侧）← orbital-earthwalk-corridor-22s.jpg
+- **证明什么**：舱内模块走廊几乎无字，结构线本身像 HUD；适合叠薄线 UI 而不抢景。
+- **博客落点**：Station 内景；手机/面板底图。
+
+### Pending（R5 新挂）
+- YAKŌ / Cyber Web City / Gigacity / Titlecard Megacity / Neon Zenith / Unbuilt / Ascension：OG 或海报 ＜1920，等 live ≥1920。
+- threejspunk / Neon Penthouse：仍挂（账本 g046/g047）。
+
+### 不收（R5）
+Brasilia（教育 UI）、Buzz City（漫画营销）、Lake-City（孪生俯视）、Voxel/Gnomon（田园）、Sid 1808、Prism 1728、EXOGENESIS 1672、Agon ISS（探索 UI）、Paper fold（讲解）。
+
+### 新卡候选
+仍不建 `public/candidates/`：哥特碎殿可挂 colonnade / colossus；ISS 挂 Station 现有卡。
