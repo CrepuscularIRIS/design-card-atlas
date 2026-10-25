@@ -1,0 +1,249 @@
+{
+  "media": [
+    {
+      "repo": "ChatdollKit",
+      "path": "assets/previews/ui-ChatdollKit-1.png",
+      "kind": "author_historical_screenshot",
+      "observation": "Unity Game视图中粉发猫耳角色位于中央；下方半透明识别文字与音量条，右侧为Microphone Controller设置。编辑器截图，不是独立产品页面。",
+      "scope": "已实际查看作者历史图；仅支持画面布局、配色和可见状态，不证明当前HEAD、动态行为或运行质量。",
+      "sha256": "344d2a6ac856c0167ccffd4933164d8aa706d8061f9a664ba1ef66178f073d8d",
+      "rights": {
+        "source_code_license_evidence": "LICENSE: Apache-2.0；分发改动和NOTICE义务需保留，角色资产单查",
+        "media_rights": "原作者或官方文档展示图，保留来源用于本地图册参考；截图中的模型、照片、字体和品牌权利未逐项另证，代码许可证不自动证明这些素材可移植。"
+      },
+      "original_path": "Repos/ChatdollKit/Documents/Images/readme081/10_run.png"
+    },
+    {
+      "repo": "Open-LLM-VTuber",
+      "path": "assets/previews/ui-Open-LLM-VTuber-1.jpg",
+      "kind": "author_historical_screenshot",
+      "observation": "左侧历史与摄像头区域、右侧教室中的角色及字幕，底部有thinking-speaking状态、麦克风和打断按钮。",
+      "scope": "已实际查看作者历史图；仅支持画面布局、配色和可见状态，不证明当前HEAD、动态行为或运行质量。",
+      "sha256": "d03ab96d2ec29d176b07e2d7de8b7c272729235d749dc2f93107b8f41a37cd3a",
+      "rights": {
+        "source_code_license_evidence": "LICENSE: MIT；LICENSE-Live2D.md另列Cubism样例素材条款",
+        "media_rights": "原作者或官方文档展示图，保留来源用于本地图册参考；截图中的模型、照片、字体和品牌权利未逐项另证，代码许可证不自动证明这些素材可移植。"
+      },
+      "original_path": "Repos/Open-LLM-VTuber/assets/i1_app_mode.jpg"
+    },
+    {
+      "repo": "amica",
+      "path": "assets/previews/ui-amica-1.png",
+      "kind": "author_historical_screenshot",
+      "observation": "蓝发角色覆盖在暖色窗景房间中；底部浅色半透明对白与输入条，左侧窄工具栏。",
+      "scope": "已实际查看作者历史图；仅支持画面布局、配色和可见状态，不证明当前HEAD、动态行为或运行质量。",
+      "sha256": "f0a8863d5ab4fd29f5e3955d0dea0351c7a6d04d03e72d8c4fa1f12e2ddc5eab",
+      "rights": {
+        "source_code_license_evidence": "LICENSE: MIT (Semper AI,pixiv)；模型资产另查",
+        "media_rights": "原作者或官方文档展示图，保留来源用于本地图册参考；截图中的模型、照片、字体和品牌权利未逐项另证，代码许可证不自动证明这些素材可移植。"
+      },
+      "original_path": "Repos/amica/docs/images/1.png"
+    },
+    {
+      "repo": "uikit",
+      "path": "assets/previews/ui-uikit-1.png",
+      "kind": "author_historical_screenshot",
+      "observation": "浅色仪表盘以顶部导航、四张指标卡、柱状图和Recent Sales列表组织信息；图中仍是二维投影，不能证明深度命中行为。",
+      "scope": "已实际查看作者历史图；仅支持画面布局、配色和可见状态，不证明当前HEAD、动态行为或运行质量。",
+      "sha256": "46e3a39413db580ce30261c200d67cba78853c4da4c0621a9099fc842ff2ce0f",
+      "rights": {
+        "source_code_license_evidence": "LICENSE MIT式授权含多版权人，保留完整正文",
+        "media_rights": "原作者或官方文档展示图，保留来源用于本地图册参考；截图中的模型、照片、字体和品牌权利未逐项另证，代码许可证不自动证明这些素材可移植。"
+      },
+      "original_path": "Repos/uikit/docs/getting-started/example-dashboard.png"
+    },
+    {
+      "repo": "tinylittleoffice",
+      "path": "assets/previews/ui-tinylittleoffice-1.png",
+      "kind": "author_sample_output",
+      "observation": "作者样例输出的组织关系图：蓝色分层节点、黑色实线和紫色虚线说明；这是文档成品预览，不是编辑器截图。",
+      "scope": "已实际查看作者历史图；仅支持画面布局、配色和可见状态，不证明当前HEAD、动态行为或运行质量。",
+      "sha256": "8d05b6e3f9a72e3e356ec541a4854441969830ee19075c88a2567ba0a267caf0",
+      "rights": {
+        "source_code_license_evidence": "LICENSE MIT；IBM Plex资产另核完整许可",
+        "media_rights": "原作者或官方文档展示图，保留来源用于本地图册参考；截图中的模型、照片、字体和品牌权利未逐项另证，代码许可证不自动证明这些素材可移植。"
+      },
+      "original_path": "Repos/tinylittleoffice/samples/cards/diagram.png"
+    },
+    {
+      "repo": "TrendRadar",
+      "path": "assets/previews/ui-TrendRadar-1.png",
+      "kind": "author_historical_screenshot",
+      "observation": "热点新闻页面以紫色摘要区、主题分组、排名/来源/时间元数据组织长列表；新闻内容属于原图历史示例。",
+      "scope": "已实际查看作者历史图；仅支持画面布局、配色和可见状态，不证明当前HEAD、动态行为或运行质量。",
+      "sha256": "76041d24088a465ab1c3f5ee478b7d505b4aa069c0a1b253e1b233c92d04a546",
+      "rights": {
+        "source_code_license_evidence": "LICENSE GPL-3.0；当前只借信息组织思路，不复制实现",
+        "media_rights": "原作者或官方文档展示图，保留来源用于本地图册参考；截图中的模型、照片、字体和品牌权利未逐项另证，代码许可证不自动证明这些素材可移植。"
+      },
+      "original_path": "Repos/TrendRadar/_image/github-pages.png"
+    },
+    {
+      "repo": "gsap-threejs-codrops",
+      "path": "assets/previews/ui-gsap-threejs-codrops-1.webp",
+      "kind": "author_demo_composite",
+      "observation": "Codrops原作者文章配图将两个页面状态叠放：黑白照片、大字排版与底部像素块边界可见。静态拼图不能证明滚动时序。",
+      "scope": "已实际查看作者历史图；仅支持画面布局、配色和可见状态，不证明当前HEAD、动态行为或运行质量。",
+      "sha256": "92c268a8e66c08365a183496879f9defc540dc2105b3652dcc0bef2023544631",
+      "rights": {
+        "source_code_license_evidence": "README 32-34 链接不存在的 LICENSE；未见许可正文",
+        "media_rights": "原作者或官方文档展示图，保留来源用于本地图册参考；截图中的模型、照片、字体和品牌权利未逐项另证，代码许可证不自动证明这些素材可移植。"
+      },
+      "source_url": "https://tympanus.net/codrops/wp-content/uploads/2026/01/pixel_featured.webp",
+      "source_reference": "Repos/gsap-threejs-codrops/README.md:5"
+    },
+    {
+      "repo": "miniflux",
+      "path": "assets/previews/ui-miniflux-1.png",
+      "kind": "author_historical_screenshot",
+      "observation": "白底未读列表以蓝色标题、来源/时间行及细边框区分条目；选中行有浅蓝轮廓。",
+      "scope": "已实际查看作者历史图；仅支持画面布局、配色和可见状态，不证明当前HEAD、动态行为或运行质量。",
+      "sha256": "582457c08ec6c7d2592bc2b2b53512bb4ab48ca0d89f64f7521d7d434e09aae4",
+      "rights": {
+        "source_code_license_evidence": "LICENSE Apache-2.0，复制时保留许可/标注修改",
+        "media_rights": "原作者或官方文档展示图，保留来源用于本地图册参考；截图中的模型、照片、字体和品牌权利未逐项另证，代码许可证不自动证明这些素材可移植。"
+      },
+      "source_url": "https://miniflux.app/images/overview.png",
+      "source_reference": "Repos/miniflux/README.md:138"
+    },
+    {
+      "repo": "miniflux",
+      "path": "assets/previews/ui-miniflux-2.png",
+      "kind": "author_historical_screenshot",
+      "observation": "官方深色主题局部图：选中条目以亮蓝描边和轻微光晕区别于下方灰色列表。",
+      "scope": "已实际查看作者历史图；仅支持画面布局、配色和可见状态，不证明当前HEAD、动态行为或运行质量。",
+      "sha256": "4d08e0505972307a973a4a5e177ad7bfd1dedcba3565e320455f541edb5e37c3",
+      "rights": {
+        "source_code_license_evidence": "LICENSE Apache-2.0，复制时保留许可/标注修改",
+        "media_rights": "原作者或官方文档展示图，保留来源用于本地图册参考；截图中的模型、照片、字体和品牌权利未逐项另证，代码许可证不自动证明这些素材可移植。"
+      },
+      "source_url": "https://miniflux.app/images/item-selection-black-theme.png",
+      "source_reference": "Repos/miniflux/README.md:142"
+    },
+    {
+      "repo": "SillyTavern",
+      "path": "assets/previews/ui-SillyTavern-1.jpg",
+      "kind": "author_historical_screenshot",
+      "observation": "官方文档截图中左侧Author Note、中间API连接设置、右侧角色管理并列；深灰底与少量琥珀提示保持多面板分区。",
+      "scope": "已实际查看作者历史图；仅支持画面布局、配色和可见状态，不证明当前HEAD、动态行为或运行质量。",
+      "sha256": "22837883e5f57b3ac149867da1415c03a91d6142d246e83ec72b9e7aea478388",
+      "rights": {
+        "source_code_license_evidence": "LICENSE与README: AGPL-3.0",
+        "media_rights": "原作者或官方文档展示图，保留来源用于本地图册参考；截图中的模型、照片、字体和品牌权利未逐项另证，代码许可证不自动证明这些素材可移植。"
+      },
+      "source_url": "https://docs.sillytavern.app/static/screenshot1.jpg",
+      "source_reference": "https://docs.sillytavern.app/"
+    },
+    {
+      "repo": "SillyTavern",
+      "path": "assets/previews/ui-SillyTavern-2.jpg",
+      "kind": "author_historical_screenshot",
+      "observation": "官方文档截图将参数滑杆、聊天正文、角色描述并列；中央对话含数学排版，底部输入条保持固定。",
+      "scope": "已实际查看作者历史图；仅支持画面布局、配色和可见状态，不证明当前HEAD、动态行为或运行质量。",
+      "sha256": "ddd3ad9ad5fe703279b4f9cab26b02a140e47fcc2cd89f5461705f6f1a65af7d",
+      "rights": {
+        "source_code_license_evidence": "LICENSE与README: AGPL-3.0",
+        "media_rights": "原作者或官方文档展示图，保留来源用于本地图册参考；截图中的模型、照片、字体和品牌权利未逐项另证，代码许可证不自动证明这些素材可移植。"
+      },
+      "source_url": "https://docs.sillytavern.app/static/screenshot2.jpg",
+      "source_reference": "https://docs.sillytavern.app/"
+    },
+    {
+      "repo": "r3f-scroll-rig",
+      "path": "assets/previews/ui-r3f-scroll-rig-1.png",
+      "kind": "author_demo_frame",
+      "observation": "作者GIF第1秒：白色页面中央黑色圆角媒体区包含蓝色环状物和播放入口；单帧不能证明DOM/WebGL对齐或滚动交接。",
+      "scope": "实际查看所采用的1秒抽帧；没有运行项目、没有连续播放或验证动态行为。",
+      "sha256": "db2fc0f12c05866cb90d39700558cb6396689a60f21aab6aec32b50a89afe6a5",
+      "rights": {
+        "source_code_license_evidence": "LICENSE MIT",
+        "media_rights": "原作者或官方文档展示图，保留来源用于本地图册参考；截图中的模型、照片、字体和品牌权利未逐项另证，代码许可证不自动证明这些素材可移植。"
+      },
+      "source_url": "https://www.dropbox.com/s/kqaweg996jtb2ho/14islands600_10fps_2.gif?dl=0&raw=1",
+      "source_reference": "Repos/r3f-scroll-rig/README.md:8",
+      "source_sha256": "57f754226febcc5b1c312af1b63920dec42785535e6ac74e3dd928decb8649dc",
+      "extraction": {
+        "tool": "ffmpeg",
+        "time_seconds": 1,
+        "frames": 1
+      }
+    },
+    {
+      "repo": "theatre",
+      "path": "assets/previews/ui-theatre-1.png",
+      "kind": "author_demo_frame",
+      "observation": "作者GIF第1秒：火箭场景、编辑相机小窗、右侧相机参数以及底部关键帧与曲线编辑器同屏；不能由此帧验证编辑器交互。",
+      "scope": "实际查看所采用的1秒抽帧；没有运行项目、没有连续播放或验证动态行为。",
+      "sha256": "0c69c078fce03a8a74e5a5ecbc61172a9f218d6cc32e02d83a5f80dee718d594",
+      "rights": {
+        "source_code_license_evidence": "LICENSE Apache-2.0，迁移需保留NOTICE/许可并标修改",
+        "media_rights": "原作者或官方文档展示图，保留来源用于本地图册参考；截图中的模型、照片、字体和品牌权利未逐项另证，代码许可证不自动证明这些素材可移植。"
+      },
+      "source_url": "https://raw.githubusercontent.com/AriaMinaei/theatre-docs/main/docs/.vuepress/public/preview-3d-short.gif",
+      "source_reference": "Repos/theatre/README.md:31",
+      "source_sha256": "281414b15e093e5543f0ec5b0fdd87015e2d1361396715dd8491177bcfccd830",
+      "extraction": {
+        "tool": "ffmpeg",
+        "time_seconds": 1,
+        "frames": 1
+      }
+    },
+    {
+      "repo": "airi",
+      "path": "assets/previews/ui-airi-1.png",
+      "kind": "author_demo_frame",
+      "observation": "本地作者hover教程第0秒：浅蓝发角色作为桌面浮层位于文档右侧，旁边有竖向小工具按钮；角色遮盖部分正文。",
+      "scope": "已查看视频0、1、3、5秒抽帧，仅采用0秒可见角色状态；未连续播放，单帧不证明hover逻辑或口型。",
+      "sha256": "688abbdeb4671e7ff173e884439689db953a5be0495aba38adef22e41883dd99",
+      "rights": {
+        "source_code_license_evidence": "LICENSE: MIT；具体角色模型/素材需独立核对",
+        "media_rights": "原作者或官方文档展示图，保留来源用于本地图册参考；截图中的模型、照片、字体和品牌权利未逐项另证，代码许可证不自动证明这些素材可移植。"
+      },
+      "original_path": "Repos/airi/apps/stage-tamagotchi/src/renderer/assets/videos/tutorial/tutorial-fade-on-hover.light.mp4",
+      "source_sha256": "7a8b079be7ce170e433cfb53c7bd361e3d23bc5c20f8a6d0c1ad4f26e697d055",
+      "extraction": {
+        "tool": "ffmpeg",
+        "time_seconds": 0,
+        "frames": 1
+      }
+    },
+    {
+      "repo": "wawa-lipsync",
+      "path": "assets/previews/ui-wawa-lipsync-1.jpg",
+      "kind": "promotional_reference",
+      "observation": "README链接的作者教程封面：两种角色面孔与Real-Time Lipsync标题。它是宣传参考图，不是运行截图或口型同步证据。",
+      "scope": "已实际查看作者教程缩略图；不能作为效果主图，不能证明模型发声、口型正确或实时性能。",
+      "sha256": "fc90aa88efb956ec384115e701fca504920eb243c6c6e693c0a52fd013fb7de8",
+      "rights": {
+        "source_code_license_evidence": "LICENSE: MIT",
+        "media_rights": "原作者或官方文档展示图，保留来源用于本地图册参考；截图中的模型、照片、字体和品牌权利未逐项另证，代码许可证不自动证明这些素材可移植。"
+      },
+      "source_url": "https://img.youtube.com/vi/GXU1amqvJF8/maxresdefault.jpg",
+      "source_reference": "Repos/wawa-lipsync/README.md:7",
+      "available_demo_url": "https://wawa-lipsync.wawasensei.dev/",
+      "primary_eligible": false
+    }
+  ],
+  "gaps": [
+    {
+      "repo": "OpenRoom",
+      "reason": "本地图片为图标/场景素材，没有整页截图；README:11作者GitHub视频附件返回HTTP 404。官网图像为角色/标志，未用来冒充应用效果。",
+      "available_demo_url": "https://www.openroom.ai/"
+    },
+    {
+      "repo": "json-render",
+      "reason": "已查看本地Remotion OG，内容只有标志与Remotion Example标题；其余本地OG同属标题海报。未找到可采用的运行效果图，不执行示例。",
+      "available_demo_url": "https://json-render.dev/"
+    },
+    {
+      "repo": "void-syndicate",
+      "reason": "本地public/images只有作品贴图；README Hero Preview实际为技术栈badge，无整页截图或可核实公开demo。",
+      "available_demo_url": null
+    },
+    {
+      "repo": "wawa-lipsync",
+      "reason": "仅取得README作者教程宣传缩略图，已标promotional_reference并禁作效果主图；本地只有图标/纹理，仍缺实际应用效果截图。",
+      "available_demo_url": "https://wawa-lipsync.wawasensei.dev/"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+[
+  {
+    "repo": "ink",
+    "card_count": 2,
+    "gaps": []
+  },
+  {
+    "repo": "ag-ui",
+    "card_count": 2,
+    "gaps": []
+  },
+  {
+    "repo": "_libsmoke",
+    "card_count": 0,
+    "gaps": []
+  },
+  {
+    "repo": "awesome-kimi-k3.1-guide-and-use-cases",
+    "card_count": 0,
+    "gaps": []
+  },
+  {
+    "repo": "awesome-kimi-k3-1-videos",
+    "card_count": 0,
+    "gaps": []
+  },
+  {
+    "repo": "awesome-opus-5.5-usecase",
+    "card_count": 0,
+    "gaps": []
+  },
+  {
+    "repo": "lygia",
+    "card_count": 3,
+    "gaps": [
+      {
+        "repo": "lygia",
+        "reason": "已查看官方库首页及颜色文档入口；本轮未取得能对应所读函数的已渲染效果图，保留源码级卡。",
+        "available_demo_url": "https://lygia.xyz/"
+      }
+    ]
+  },
+  {
+    "repo": "gpu-curtains",
+    "card_count": 3,
+    "gaps": [
+      {
+        "repo": "gpu-curtains",
+        "reason": "仓内候选主要是品牌Logo、cubemap六面和模型材质贴图；它们是标识或输入资产，不是效果截图。未运行examples。",
+        "available_demo_url": "https://martinlaxenaire.github.io/gpu-curtains/examples/"
+      },
+      {
+        "repo": "gpu-curtains",
+        "reason": "实开作者DOM+透射气泡示例，Texture构造读取format失败；画面只剩DOM底图，未把它冒充GPU效果。",
+        "available_demo_url": "https://martinlaxenaire.github.io/gpu-curtains/examples/mixing-dom-synced-planes-transmissive-bubbles/"
+      }
+    ]
+  },
+  {
+    "repo": "detect-gpu",
+    "card_count": 1,
+    "gaps": []
+  },
+  {
+    "repo": "glTF-Transform",
+    "card_count": 2,
+    "gaps": []
+  },
+  {
+    "repo": "meshoptimizer",
+    "card_count": 1,
+    "gaps": []
+  },
+  {
+    "repo": "concordia",
+    "card_count": 1,
+    "gaps": []
+  },
+  {
+    "repo": "letta",
+    "card_count": 0,
+    "gaps": []
+  },
+  {
+    "repo": "letta-archive",
+    "card_count": 0,
+    "gaps": []
+  },
+  {
+    "repo": "mem0",
+    "card_count": 0,
+    "gaps": []
+  },
+  {
+    "repo": "readability",
+    "card_count": 1,
+    "gaps": []
+  }
+]

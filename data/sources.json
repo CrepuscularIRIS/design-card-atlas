@@ -1,0 +1,1120 @@
+[
+  {
+    "repo": "ChatdollKit",
+    "origin": "https://github.com/uezo/ChatdollKit",
+    "head": "e694f443247e0a322ea5f0b5dc4a36838defc20e",
+    "analysis_revision": "e694f443247e0a322ea5f0b5dc4a36838defc20e",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE: Apache-2.0；分发改动和NOTICE义务需保留，角色资产单查",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "Open-LLM-VTuber",
+    "origin": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
+    "head": "992309c0aa19845960228f880013d4685fde93b5",
+    "analysis_revision": "992309c0aa19845960228f880013d4685fde93b5",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE: MIT；LICENSE-Live2D.md另列Cubism样例素材条款",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "OpenRoom",
+    "origin": "https://github.com/MiniMax-AI/OpenRoom",
+    "head": "02468154c4d99f8925916425bf444d672454fb3d",
+    "analysis_revision": "02468154c4d99f8925916425bf444d672454fb3d",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE: MIT；NOTICE存在，复用需保留",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "SillyTavern",
+    "origin": "https://github.com/SillyTavern/SillyTavern",
+    "head": "06bde939fb1e9c4c8d8641d810f0a916b5bce127",
+    "analysis_revision": "06bde939fb1e9c4c8d8641d810f0a916b5bce127",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE与README: AGPL-3.0",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "airi",
+    "origin": "https://github.com/moeru-ai/airi",
+    "head": "bc41885f0bfb3483a93833f4bcfbc8ad3afe483d",
+    "analysis_revision": "bc41885f0bfb3483a93833f4bcfbc8ad3afe483d",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE: MIT；具体角色模型/素材需独立核对",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "amica",
+    "origin": "https://github.com/semperai/amica",
+    "head": "ca2415c77d20ec41dd4fcf917dbb0e97961ddf08",
+    "analysis_revision": "ca2415c77d20ec41dd4fcf917dbb0e97961ddf08",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE: MIT (Semper AI,pixiv)；模型资产另查",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "three-vrm",
+    "origin": "https://github.com/pixiv/three-vrm",
+    "head": "68c7d6b1f73b79568f81139be62831968bff7876",
+    "analysis_revision": "68c7d6b1f73b79568f81139be62831968bff7876",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE: MIT；角色模型/纹理资产不由代码许可自动覆盖",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "mesh2motion-app",
+    "origin": "https://github.com/Mesh2Motion/mesh2motion-app",
+    "head": "653a9698f5f315523072f1c3ff3496100401317b",
+    "analysis_revision": "653a9698f5f315523072f1c3ff3496100401317b",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE-MIT.MD: 所有代码MIT；LICENSE-CC0.MD: 3D模型、blend、rig、动画CC0",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "wawa-lipsync",
+    "origin": "https://github.com/wass08/wawa-lipsync",
+    "head": "312dc31a1ee998248aae3431474f455bfc3ae3e1",
+    "analysis_revision": "312dc31a1ee998248aae3431474f455bfc3ae3e1",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE: MIT",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "ink",
+    "origin": "https://github.com/inkle/ink",
+    "head": "35c63e52f1d36060930dc7ed3cfba38ea224b528",
+    "analysis_revision": "35c63e52f1d36060930dc7ed3cfba38ea224b528",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE.txt: MIT",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "inkjs",
+    "origin": "https://github.com/y-lohse/inkjs",
+    "head": "6b1153410ab1c4bcfd9ef04eb2f0107f36be7778",
+    "analysis_revision": "6b1153410ab1c4bcfd9ef04eb2f0107f36be7778",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE.md: MIT，inkle及inkjs contributors",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "ag-ui",
+    "origin": "https://github.com/ag-ui-protocol/ag-ui",
+    "head": "63ad5083823117532216f3c76afd11f6cea7ba3b",
+    "analysis_revision": "63ad5083823117532216f3c76afd11f6cea7ba3b",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE: MIT",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "json-render",
+    "origin": "https://github.com/vercel-labs/json-render",
+    "head": "72568f990e5502c4d3115691facb8ca928a5c9fc",
+    "analysis_revision": "72568f990e5502c4d3115691facb8ca928a5c9fc",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE: Apache-2.0；保留许可、改动声明和适用NOTICE，Remotion依赖许可另查",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "codrops-depth-gallery",
+    "origin": "https://github.com/houmahani/codrops-depth-gallery",
+    "head": "28190e0920df887f069524c3863db397af34c1c8",
+    "analysis_revision": "28190e0920df887f069524c3863db397af34c1c8",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE MIT；README 36 图片来自 Lummi.ai，图片权利需另核",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "gsap-threejs-codrops",
+    "origin": "https://github.com/J0SUKE/gsap-threejs-codrops",
+    "head": "f236f2a7805e15600a59aeba0ad70ac25ef69b1f",
+    "analysis_revision": "f236f2a7805e15600a59aeba0ad70ac25ef69b1f",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "unknown",
+      "evidence": "README 32-34 链接不存在的 LICENSE；未见许可正文",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "void-syndicate",
+    "origin": "https://github.com/ademmrewind/void-syndicate",
+    "head": "01a752e59031a9b78955fe3c7a816b485bb2aab5",
+    "analysis_revision": "01a752e59031a9b78955fe3c7a816b485bb2aab5",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE MIT，public/images素材权属未另证",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "r3f-scroll-rig",
+    "origin": "https://github.com/14islands/r3f-scroll-rig",
+    "head": "123663599e4b31af56f1845a19132d17e6a9b81f",
+    "analysis_revision": "123663599e4b31af56f1845a19132d17e6a9b81f",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE MIT",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "r3f-theatrejs-starter",
+    "origin": "https://github.com/gabrielagbese/r3f-theatrejs-starter",
+    "head": "77583f3e7c047ee36cf72e93d116b589cf92ae43",
+    "analysis_revision": "77583f3e7c047ee36cf72e93d116b589cf92ae43",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "unknown",
+      "evidence": "README有MIT徽章，顶层未见LICENSE正文",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "theatre",
+    "origin": "https://github.com/theatre-js/theatre",
+    "head": "6ea82b938ea49609489f6377ded693ccc6ee8f5b",
+    "analysis_revision": "6ea82b938ea49609489f6377ded693ccc6ee8f5b",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE Apache-2.0，迁移需保留NOTICE/许可并标修改",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "_libsmoke",
+    "origin": "",
+    "head": "",
+    "analysis_revision": "",
+    "is_git": false,
+    "is_shallow": false,
+    "license": {
+      "status": "unknown",
+      "evidence": "目录无README/LICENSE；仅本地测试项目",
+      "reuse": "unknown"
+    }
+  },
+  {
+    "repo": "uikit",
+    "origin": "https://github.com/pmndrs/uikit",
+    "head": "2aaf8aba2e5d7acab7a38426d575d51dcf541597",
+    "analysis_revision": "2aaf8aba2e5d7acab7a38426d575d51dcf541597",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE MIT式授权含多版权人，保留完整正文",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "daedalOS",
+    "origin": "https://github.com/DustinBrett/daedalOS",
+    "head": "f017b393d4175eb396a741a7562299423843f1b1",
+    "analysis_revision": "f017b393d4175eb396a741a7562299423843f1b1",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE MIT；捆绑第三方应用/图标/皮肤须独立检查",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "webamp",
+    "origin": "https://github.com/captbaritone/webamp",
+    "head": "f01369fc2d7aaa9366a3ba9ab0ad1db4b6417a40",
+    "analysis_revision": "f01369fc2d7aaa9366a3ba9ab0ad1db4b6417a40",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE.txt MIT；Winamp皮肤/商标/音乐另核",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "excalidraw",
+    "origin": "https://github.com/excalidraw/excalidraw",
+    "head": "bee01e3a12812c930109aa91242658709480bbf3",
+    "analysis_revision": "bee01e3a12812c930109aa91242658709480bbf3",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE MIT，字体单独许可须保留",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "tinylittleoffice",
+    "origin": "https://github.com/aboard-io/tinylittleoffice",
+    "head": "07f771ceab9e08c9c02e1e4abfe47877d128c202",
+    "analysis_revision": "07f771ceab9e08c9c02e1e4abfe47877d128c202",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE MIT；IBM Plex资产另核完整许可",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "TrendRadar",
+    "origin": "https://github.com/sansan0/TrendRadar",
+    "head": "792bcc3928b1617bba09df34989fd5675c159b86",
+    "analysis_revision": "792bcc3928b1617bba09df34989fd5675c159b86",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE GPL-3.0；当前只借信息组织思路，不复制实现",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "newsnow",
+    "origin": "https://github.com/ourongxing/newsnow",
+    "head": "0f95b2c998dffbfd2ddbc51b47b5809887dc6b97",
+    "analysis_revision": "0f95b2c998dffbfd2ddbc51b47b5809887dc6b97",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE MIT；站点图标独立权属未核",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "miniflux",
+    "origin": "https://github.com/miniflux/v2",
+    "head": "c52bdef6e9811f7c20cebc034a6c0ec6799dc6df",
+    "analysis_revision": "c52bdef6e9811f7c20cebc034a6c0ec6799dc6df",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE Apache-2.0，复制时保留许可/标注修改",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "athenaion",
+    "origin": "https://github.com/Leonxlnx/athenaion",
+    "head": "9b8bd23b39c458a50fb1201037360047781c45b5",
+    "analysis_revision": "9b8bd23b39c458a50fb1201037360047781c45b5",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21 MIT, Copyright 2026 Leon Lin；可复用代码需保留许可。参考图的生成来源仅作者自述，未独立核验其权利链。",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "awesome-kimi-k3.1-guide-and-use-cases",
+    "origin": "https://github.com/cheercheung/awesome-kimi-k3.1-guide-and-use-cases",
+    "head": "af01ea7a4bccb3a8e734a3ec0609ad236c0b7a92",
+    "analysis_revision": "af01ea7a4bccb3a8e734a3ec0609ad236c0b7a92",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "CC BY 4.0；合集文本引用要署名，原帖视频/图片许可另查。",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "awesome-kimi-k3-1-videos",
+    "origin": "https://github.com/yihui-dev/awesome-kimi-k3-1-videos",
+    "head": "286a15bbaa7b52c60d879f81b19e5887ed51c02a",
+    "analysis_revision": "286a15bbaa7b52c60d879f81b19e5887ed51c02a",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "MIT仅适用仓库原创脚本与编目结构；MEDIA-RIGHTS.md明确视频/提示词/音乐/品牌/资产仍归权利人。",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "awesome-opus-5.5-usecase",
+    "origin": "https://github.com/coolbat/awesome-opus-5.5-usecase",
+    "head": "0ba0febb2e97ebc0b8bfc513dd8a65c3510cd45c",
+    "analysis_revision": "0ba0febb2e97ebc0b8bfc513dd8a65c3510cd45c",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "CC0为awesome索引声明；不自动覆盖链接作品和视频。",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "premium-saas-web-skill",
+    "origin": "https://github.com/MiddleSugar7000/premium-saas-web-skill",
+    "head": "813c8801649b1e7220ca207e4534df8424138fa7",
+    "analysis_revision": "813c8801649b1e7220ca207e4534df8424138fa7",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE MIT；人像/字体/品牌资产单独核；模板来源权利不由MIT替代",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "line-item-review",
+    "origin": "https://github.com/pshankinclarke/line-item-review",
+    "head": "c4e995a2e36033eb9f33a6a6b42636882b4aa819",
+    "analysis_revision": "c4e995a2e36033eb9f33a6a6b42636882b4aa819",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "unknown",
+      "evidence": "顶层没有LICENSE，README未给明确授权；只借机制",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "scroll-glitch-hero",
+    "origin": "https://github.com/CoderMaurice/scroll-glitch-hero",
+    "head": "6e0b8e6189dc4c40cd2b590174a3eb814e55c1b7",
+    "analysis_revision": "6e0b8e6189dc4c40cd2b590174a3eb814e55c1b7",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21 MIT Copyright2026 CoderMaurice；index.html:7-9远程Google Fonts，字体权利与部署另核；原站素材未使用为作者声明。",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "dopa-drill",
+    "origin": "https://github.com/grmchn/dopa-drill",
+    "head": "e4da063f74c423b5e6eaad3faeb9631e741d821c",
+    "analysis_revision": "e4da063f74c423b5e6eaad3faeb9631e741d821c",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE代码MIT，但角色Dopakichi、名称/logo设计形象明确排除；商业与其他产品品牌用途须独立许可；字体OFL",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "electromagnetism",
+    "origin": "https://github.com/thebuggeddev/electromagnetism",
+    "head": "820835eb3d429fdbc601a37cc1da811390d830f3",
+    "analysis_revision": "820835eb3d429fdbc601a37cc1da811390d830f3",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "unknown",
+      "evidence": "顶层仅package/index/src/lock等，未见LICENSE或README许可正文；依赖Three许可不等于应用许可",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "kimi-k31pro-opus55-benchmark-showcase",
+    "origin": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase",
+    "head": "65e82c53b63f2fdd918617269c057d8e53af2c6f",
+    "analysis_revision": "65e82c53b63f2fdd918617269c057d8e53af2c6f",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "unknown",
+      "evidence": "全仓文件名扫描未发现LICENSE；README:41要求第三方依赖/素材沿原授权，Kimi官方视频仅引用。",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "offshore-tower",
+    "origin": "https://github.com/thebuggeddev/offshore-tower",
+    "head": "3a67f5ea7aec7955aaa7a576e8d772832add4afe",
+    "analysis_revision": "3a67f5ea7aec7955aaa7a576e8d772832add4afe",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "unknown",
+      "evidence": "根目录及app未找到LICENSE，package未声明license；README“全程序生成、无外部素材”不是复用授权，模型含可见品牌标记",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "csc35-diorama-day",
+    "origin": "https://github.com/agent-marsha/csc35-diorama-day",
+    "head": "aa88c6276e2d57f16e855245780bb83bea662721",
+    "analysis_revision": "aa88c6276e2d57f16e855245780bb83bea662721",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "unknown",
+      "evidence": "仓内仅index.html，未找到README/LICENSE或许可证声明；Three经CDN用0.160.0，其MIT不自动授权该HTML作品",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "mg-styles-15",
+    "origin": "https://github.com/Vincentwei1021/mg-styles-15",
+    "head": "49052d80bfaf9fa8412cc9710530e5e95a3b8d8c",
+    "analysis_revision": "49052d80bfaf9fa8412cc9710530e5e95a3b8d8c",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21 MIT，copyright2026 Vincentwei1021；README.md:137-140称项目自有代码/提示词/影片MIT，第三方音样、HDRI、纸纹/照片/地图CC0或公版，04 mesh/08 glyphs字体轮廓保留OFL，highlight BSD。第三方来源链未逐项独立核验，字体文件未随仓提供。",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "map-of-middle-earth",
+    "origin": "https://github.com/earthwalker17/map-of-middle-earth",
+    "head": "696e968e9d550327beda9e663ef5aec6961583c9",
+    "analysis_revision": "696e968e9d550327beda9e663ef5aec6961583c9",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21代码MIT，CREDITS:48-58原始模型标MIT；字体OFL，外取PolyHaven纹理CC0；CREDITS:60-106明确GIS来源条款/DEM许可未明，docs/images与影片配乐没有复用许可。只迁移代码机制与重新创作，不把图/影片/GIS当MIT资产。",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "web-ocean",
+    "origin": "https://github.com/Noniv/web-ocean",
+    "head": "a07c7fd522ef0a897601c114f927a49d93d95520",
+    "analysis_revision": "a07c7fd522ef0a897601c114f927a49d93d95520",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21 MIT，Copyright2026 Maksymilian Dendura，保留版权及许可；本地README图片为该仓证据，公开再分发仍保留出处。",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "little-rain-cloud",
+    "origin": "https://github.com/dososo/little-rain-cloud",
+    "head": "8180c1b1c98e993bad05e77eb596d472ce2910cd",
+    "analysis_revision": "8180c1b1c98e993bad05e77eb596d472ce2910cd",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE为Apache2；README:97-107区分代码与外部Fox模型，CC0模型/CC BY4绑骨动画和转换不可混同",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "invisible-cities-opus-5.5",
+    "origin": "https://github.com/stared/invisible-cities-opus-5.5",
+    "head": "3c2d0cc6657d053d5c36802db359ce8bb3820aa1",
+    "analysis_revision": "3c2d0cc6657d053d5c36802db359ce8bb3820aa1",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "unknown",
+      "evidence": "已检查根目录未找到LICENSE，package.json未声明license；README文本说明为卡尔维诺作品改写，不等于复用授权",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "tidewater",
+    "origin": "https://github.com/dgreenheck/tidewater",
+    "head": "4811ba48d795197de5621985f404e765c0b7c0ef",
+    "analysis_revision": "4811ba48d795197de5621985f404e765c0b7c0ef",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21代码MIT；CREDITS:3-45区分Freesound CC0、PolyHaven CC0模型/纹理及OFL/Apache字体；素材逐项来源需随文件保留",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "webgl-seascape-video",
+    "origin": "https://github.com/holooooo/webgl-seascape-video",
+    "head": "915cb7c9a318e03bd2228bc232494b496ff2316c",
+    "analysis_revision": "915cb7c9a318e03bd2228bc232494b496ff2316c",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "unknown",
+      "evidence": "全仓LICENSE命名扫描无结果。vendored Three源码自身许可不代表自定义shader/建筑生成已授权。",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "apple-music-effect",
+    "origin": "https://github.com/transitive-bullshit/apple-music-effect",
+    "head": "e31a67602ea03659d60de5290f85b657d11ab27d",
+    "analysis_revision": "e31a67602ea03659d60de5290f85b657d11ab27d",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "license MIT；readme.md:35明确Apple/X商标及sting、描摹logo、对比图等例外",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "yarn-planet",
+    "origin": "https://github.com/makerjackie/yarn-planet",
+    "head": "5c8acce8df04fc7788d48a98343e38c05a458a16",
+    "analysis_revision": "5c8acce8df04fc7788d48a98343e38c05a458a16",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE MIT；THIRD_PARTY_NOTICES保留Three、mesh-bvh和HashWithoutSine通知；README宣传片音乐另有CC BY4.0且不在仓内",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "Singularity",
+    "origin": "https://github.com/broskell/Singularity",
+    "head": "363c12d0e0926bdbd0cfe1a138af2abb0da27c64",
+    "analysis_revision": "363c12d0e0926bdbd0cfe1a138af2abb0da27c64",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "unknown",
+      "evidence": "根目录及README未见LICENSE/许可声明；package.json private=true不是许可证。",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "three-gpu-pathtracer",
+    "origin": "https://github.com/gkjohnson/three-gpu-pathtracer",
+    "head": "288363980a20e53f0627d350fd1bdacb1608643d",
+    "analysis_revision": "288363980a20e53f0627d350fd1bdacb1608643d",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21 MIT，保留版权与许可；例子远程HDR/模型另查权利。",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "THREE.js-PathTracing-Renderer",
+    "origin": "https://github.com/erichlof/THREE.js-PathTracing-Renderer",
+    "head": "f8ded116a3c674db552d4481e59c61d28cf81833",
+    "analysis_revision": "f8ded116a3c674db552d4481e59c61d28cf81833",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-10 CC0 1.0 Universal；第三方模型/图片仍逐项核对。",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "realism-effects",
+    "origin": "https://github.com/0beqz/realism-effects",
+    "head": "061daeaefb7773d8a1a8e10fa95a184fbcda1fb7",
+    "analysis_revision": "061daeaefb7773d8a1a8e10fa95a184fbcda1fb7",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE.md:1-21 MIT；保留版权和许可，示例资产另查。",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "three-good-godrays",
+    "origin": "https://github.com/Ameobea/three-good-godrays",
+    "head": "70ad1c41c78796637064b3bb9246be08e81ee777",
+    "analysis_revision": "70ad1c41c78796637064b3bb9246be08e81ee777",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-22为zlib式许可：不误署名、修改须标记、保留原notice；不是MIT文本。",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "react-postprocessing",
+    "origin": "https://github.com/pmndrs/react-postprocessing",
+    "head": "3da552af77f5f6e150c1a0ba262c55fd570b6914",
+    "analysis_revision": "3da552af77f5f6e150c1a0ba262c55fd570b6914",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21 MIT，保留版权许可。",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "lygia",
+    "origin": "https://github.com/patriciogonzalezvivo/lygia",
+    "head": "ce08fe351478b6c14297d103a8ce98d8e787d4d2",
+    "analysis_revision": "ce08fe351478b6c14297d103a8ce98d8e787d4d2",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE.md:1-21 Prosperity3.0，非商业免费/商业试用30天；fire/water/Gerstner头部另列Patron授权选项，本次无该授权。项目要求idea_only。",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "Gaussian-Splat-Lite",
+    "origin": "https://github.com/WilliamLiu-1997/Gaussian-Splat-Lite",
+    "head": "581864925d74ca8d19dc04e362350a0c8726f32b",
+    "analysis_revision": "581864925d74ca8d19dc04e362350a0c8726f32b",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE Apache2.0；NOTICE标记SparkJS/SuperSplat/ruzstd来源，发布须一并保留所需notice；采集资产另查。",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "gpu-curtains",
+    "origin": "https://github.com/martinlaxenaire/gpu-curtains",
+    "head": "f06ae9782d5bd61f5285711aae9c1dbd3c158348",
+    "analysis_revision": "f06ae9782d5bd61f5285711aae9c1dbd3c158348",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE.txt:1-7 MIT文字；布料组件注明从Yuu6883/WebGPUDemo移植，提取前仍核对来源notice。",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "sandspiel",
+    "origin": "https://github.com/MaxBittker/sandspiel",
+    "head": "9936e06b07a583aedfba9589c0cead2917f405fb",
+    "analysis_revision": "9936e06b07a583aedfba9589c0cead2917f405fb",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21 MIT；README:30-31流体源自PavelDoGreat；字体资产不随源码MIT自动推定。",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "NexusCity",
+    "origin": "https://github.com/vineetsharma96/NexusCity",
+    "head": "bc33737396179be841338eb09675239b5d1f82f0",
+    "analysis_revision": "bc33737396179be841338eb09675239b5d1f82f0",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21 为 MIT，保留版权与许可；本轮只对代码作此判读",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "TheBrutalizer",
+    "origin": "https://github.com/KrishGaur1354/TheBrutalizer",
+    "head": "ec8708101d5debb8cd61d2a6bbdee75edde91b91",
+    "analysis_revision": "ec8708101d5debb8cd61d2a6bbdee75edde91b91",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "unknown",
+      "evidence": "README.md License节与package.json声明ISC，未见根LICENSE；与本项目CLAUDE.md MIT叙述冲突",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "The-Monolith",
+    "origin": "https://github.com/val00813/The-Monolith",
+    "head": "f931b85ada56598d1f1f4c3d3202588ccb6d7261",
+    "analysis_revision": "f931b85ada56598d1f1f4c3d3202588ccb6d7261",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "unknown",
+      "evidence": "根目录未见许可文件，README未声明代码复用许可",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "synthcity",
+    "origin": "https://github.com/jeffbeene/synthcity",
+    "head": "5a4ee0dd231ce06653a2a9776ed2e36137918d21",
+    "analysis_revision": "5a4ee0dd231ce06653a2a9776ed2e36137918d21",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE代码MIT；README Credits另列Sketchfab模型、Freesound声音、Uppbeat音乐，未逐资产核权利",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "neon-zenith",
+    "origin": "https://github.com/billpwchan/neon-zenith",
+    "head": "27ad04ef04aa9e1e1366fccc63e15a379b999f01",
+    "analysis_revision": "27ad04ef04aa9e1e1366fccc63e15a379b999f01",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE代码MIT；CREDITS.md列模型CC BY4.0、PolyHaven/ambientCG CC0、字体OFL，必须按资产保留来源",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "folio-2025",
+    "origin": "https://github.com/brunosimon/folio-2025",
+    "head": "41046b57eeed8d156d9c3fd7fa259900baef7816",
+    "analysis_revision": "41046b57eeed8d156d9c3fd7fa259900baef7816",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "license.md MIT ©2025 Bruno Simon；音效/商业品牌等资产未逐项核权",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "interactive-3d-portfolio",
+    "origin": "https://github.com/Shaun520/interactive-3d-portfolio",
+    "head": "3f8e87827f09e1371c5a8829957b9a2e7cb1bc21",
+    "analysis_revision": "3f8e87827f09e1371c5a8829957b9a2e7cb1bc21",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21 为 MIT，保留版权与许可；本轮只对代码作此判读",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "threejs-procedural-dungeon",
+    "origin": "https://github.com/majidmanzarpour/threejs-procedural-dungeon",
+    "head": "0a2aa0980028cbbc77af6642b4232b45713dc5de",
+    "analysis_revision": "0a2aa0980028cbbc77af6642b4232b45713dc5de",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21 为 MIT，保留版权与许可；本轮只对代码作此判读",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "racing-game",
+    "origin": "https://github.com/pmndrs/racing-game",
+    "head": "7816a5d954b75e6ad853ae4e4f0cbbd628072643",
+    "analysis_revision": "7816a5d954b75e6ad853ae4e4f0cbbd628072643",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE.md代码MIT；README:9声称CC0 assets，未逐项独立核验",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "3dcitydb-web-map",
+    "origin": "https://github.com/3dcitydb/3dcitydb-web-map",
+    "head": "2e779d9e8a5b2acdcb52ae405839950d4d778f51",
+    "analysis_revision": "2e779d9e8a5b2acdcb52ae405839950d4d778f51",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE Apache2.0；源头数据集/地图服务权利另计",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "3DTilesRendererJS",
+    "origin": "https://github.com/NASA-AMMOS/3DTilesRendererJS",
+    "head": "eb6ea84c74fa38ad3c8151aeba877520289485f2",
+    "analysis_revision": "eb6ea84c74fa38ad3c8151aeba877520289485f2",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE Apache2.0；shader注明一段Bayer参考Shadertoy，具体外部数据供应商权利独立",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "awesome-opus5.5-frontend-showcases",
+    "origin": "https://github.com/OpenVGLab/awesome-opus5.5-frontend-showcases",
+    "head": "cac43b250f07b7b86f4709c61effc84269f46494",
+    "analysis_revision": "cac43b250f07b7b86f4709c61effc84269f46494",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21，MIT，Copyright 2026 Yiying Yang；vendor、字体及引用算法需保留各自许可，不把合集MIT当所有外链作品授权。",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "opus55-live-demos",
+    "origin": "",
+    "head": "",
+    "analysis_revision": "",
+    "is_git": false,
+    "is_shallow": false,
+    "license": {
+      "status": "unknown",
+      "evidence": "目录没有LICENSE/README；sakura-valley.html:9-15只注明three MIT和部分Poly Haven资产CC0，不能推出整个作品的许可。",
+      "reuse": "idea_only"
+    }
+  },
+  {
+    "repo": "detect-gpu",
+    "origin": "https://github.com/pmndrs/detect-gpu",
+    "head": "628b7c0aefbcf24714cd550e6f3c2dc279b67adc",
+    "analysis_revision": "628b7c0aefbcf24714cd550e6f3c2dc279b67adc",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21 MIT，保留版权许可；benchmark 数据来源和停更提示见 README:16。",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "ecctrl",
+    "origin": "https://github.com/pmndrs/ecctrl",
+    "head": "e2cab804f9f15661a642e76f52d09f0b2db63f35",
+    "analysis_revision": "e2cab804f9f15661a642e76f52d09f0b2db63f35",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21 MIT；示例资产权利另查。",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "glTF-Transform",
+    "origin": "https://github.com/donmccurdy/glTF-Transform",
+    "head": "8e2a94a2616d293c4b503d0fb6a4b42e6ec7c62f",
+    "analysis_revision": "8e2a94a2616d293c4b503d0fb6a4b42e6ec7c62f",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE.md:1-21 MIT；库许可不覆盖输入模型。",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "instanced-mesh",
+    "origin": "https://github.com/agargaro/instanced-mesh",
+    "head": "56786de4651bf5d45d218d720bb09e95d765db93",
+    "analysis_revision": "56786de4651bf5d45d218d720bb09e95d765db93",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21 MIT，保留版权许可；示例资产单独核对。",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "meshoptimizer",
+    "origin": "https://github.com/zeux/meshoptimizer",
+    "head": "f0a684f11ead064e176775c9b796f82a55910e92",
+    "analysis_revision": "f0a684f11ead064e176775c9b796f82a55910e92",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE.md:1-21 MIT；输入模型权利另查。",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "recast-navigation-js",
+    "origin": "https://github.com/isaac-mason/recast-navigation-js",
+    "head": "8769e8b9995f127033af9f6e6eeac3fad7d66201",
+    "analysis_revision": "8769e8b9995f127033af9f6e6eeac3fad7d66201",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21 MIT，保留版权许可；示例资产单独核对。",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "three-mesh-bvh",
+    "origin": "https://github.com/gkjohnson/three-mesh-bvh",
+    "head": "1d7a4249d4ac6d6500fe16eda482a2b8cf7be521",
+    "analysis_revision": "1d7a4249d4ac6d6500fe16eda482a2b8cf7be521",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21 MIT，保留版权许可；示例资产单独核对。",
+      "reuse": "direct_with_notice"
+    }
+  },
+  {
+    "repo": "ai-town",
+    "origin": "https://github.com/a16z-infra/ai-town",
+    "head": "8e05997f2409275669c8344b84a51692e83f3f33",
+    "analysis_revision": "8e05997f2409275669c8344b84a51692e83f3f33",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-21 MIT；README:49-56列多个第三方tilesheet/UI作者，资产不能笼统按MIT搬。",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "generative_agents",
+    "origin": "https://github.com/joonspk-research/generative_agents",
+    "head": "fe05a71d3e4ed7d10bf68aa4eda6dd995ec070f4",
+    "analysis_revision": "fe05a71d3e4ed7d10bf68aa4eda6dd995ec070f4",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-20 Apache-2.0，复用需保留许可和适用NOTICE；图像/第三方资产另查。",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "concordia",
+    "origin": "https://github.com/google-deepmind/concordia",
+    "head": "239f0e8275a55b186b99e133e06432cd681ff2e3",
+    "analysis_revision": "239f0e8275a55b186b99e133e06432cd681ff2e3",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-20 Apache-2.0，复用需保留许可和适用NOTICE；图像/第三方资产另查。",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "letta",
+    "origin": "https://github.com/letta-ai/letta",
+    "head": "8816d3a8516893bfdc0fa14bfb1235226012e295",
+    "analysis_revision": "8816d3a8516893bfdc0fa14bfb1235226012e295",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-20 Apache-2.0，复用需保留许可和适用NOTICE；图像/第三方资产另查。",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "letta-archive",
+    "origin": "https://github.com/letta-ai/letta",
+    "head": "56ba9c25552605eec89de8ed3dc6394b625c1993",
+    "analysis_revision": "56ba9c25552605eec89de8ed3dc6394b625c1993",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-20 Apache-2.0，复用需保留许可和适用NOTICE；图像/第三方资产另查。",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "mem0",
+    "origin": "https://github.com/mem0ai/mem0",
+    "head": "0724291bd864cf807e88ee8981c8226644e8fb42",
+    "analysis_revision": "0724291bd864cf807e88ee8981c8226644e8fb42",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE:1-20 Apache-2.0，复用需保留许可和适用NOTICE；图像/第三方资产另查。",
+      "reuse": "conditional"
+    }
+  },
+  {
+    "repo": "readability",
+    "origin": "https://github.com/mozilla/readability",
+    "head": "ab4027a8b37669745016869a37a504727992b2ba",
+    "analysis_revision": "ab4027a8b37669745016869a37a504727992b2ba",
+    "is_git": true,
+    "is_shallow": true,
+    "license": {
+      "status": "observed",
+      "evidence": "LICENSE.md Apache-2.0；网页内容版权仍属其作者。",
+      "reuse": "conditional"
+    }
+  }
+]

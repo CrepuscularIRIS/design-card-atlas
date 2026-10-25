@@ -1,0 +1,185 @@
+{
+  "bindings": [
+    {
+      "repo": "kimi-k31pro-opus55-benchmark-showcase",
+      "sha256": "9efc441581b21c66ffbd010fe0885098bb82bdc53f951732042e2c74efce37aa",
+      "card_ids": [
+        "KIM-008"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "kimi-k31pro-opus55-benchmark-showcase",
+      "sha256": "d1a49776f831a42a0f753e4c1ff72e08d8c723fcccbb2f103d993e7b6a68c49b",
+      "card_ids": [],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "kimi-k31pro-opus55-benchmark-showcase",
+      "sha256": "ba46210e29467032b7a5470a49920a50332b3381663f6f1e8406a467f2aa5f66",
+      "card_ids": [
+        "KIM-001",
+        "KIM-007"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "kimi-k31pro-opus55-benchmark-showcase",
+      "sha256": "04146389b1bdb20a0ef8b6d1d76ccaf2485a0ecedecb839e583e0790f1b671ae",
+      "card_ids": [
+        "KIM-001",
+        "KIM-007"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "kimi-k31pro-opus55-benchmark-showcase",
+      "sha256": "adafefd99eacbce52ea950f093ab48fccbbe17bd9dfb7ae396b0466bba5567af",
+      "card_ids": [
+        "KIM-002",
+        "KIM-003",
+        "KIM-004",
+        "KIM-005",
+        "KIM-006"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "kimi-k31pro-opus55-benchmark-showcase",
+      "sha256": "8b2355dd39fd96fcf68ebd907944a0f45b07ba571dbd9aabee6bfed360cb83c6",
+      "card_ids": [
+        "KIM-002",
+        "KIM-003",
+        "KIM-004",
+        "KIM-005",
+        "KIM-006"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "awesome-opus5.5-frontend-showcases",
+      "sha256": "d4e64693ab20f229b4d304dd7cd1d530b4efad6cd5d0fcee5f48fbd865567ef4",
+      "card_ids": [
+        "SHOW-001",
+        "SHOW-002",
+        "SHOW-003",
+        "SHOW-004"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "awesome-opus5.5-frontend-showcases",
+      "sha256": "3656ae17e6b98775d9729c4b394db15de3df7b9d8df07e03314fcda0deca913a",
+      "card_ids": [
+        "SHOW-005",
+        "SHOW-006",
+        "SHOW-007"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "awesome-opus5.5-frontend-showcases",
+      "sha256": "d74f1f9a2bf7f660a832b465fe4c8ec4bf12cc481dc875324ea36d05e555d322",
+      "card_ids": [
+        "SHOW-008",
+        "SHOW-009"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "awesome-opus5.5-frontend-showcases",
+      "sha256": "88fec099399a8cb420d6cf133f8b68d09fe585cfba8fdea49d1d462faa7882f8",
+      "card_ids": [
+        "SHOW-010",
+        "SHOW-011"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "awesome-opus5.5-frontend-showcases",
+      "sha256": "7895c15d82aa67436ca7ea0b4452ec39c8ba04c9ae206bac803531d18442ffdf",
+      "card_ids": [
+        "SHOW-012"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "awesome-opus5.5-frontend-showcases",
+      "sha256": "db29de89def8bab382a29fd82b9a7b1866c9d06899f4fdf373799bed1721ab25",
+      "card_ids": [
+        "SHOW-013"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "awesome-opus5.5-frontend-showcases",
+      "sha256": "c6da1cbf3e3b36789a0be68c45894f6ca01538aa2ec95a609d18932ddb883c12",
+      "card_ids": [
+        "SHOW-014",
+        "SHOW-015"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "awesome-opus5.5-frontend-showcases",
+      "sha256": "02d99c05fcab208f2f4785f50ff24c17a75cd60622d9102a514bc5bd28d03d8b",
+      "card_ids": [
+        "SHOW-016",
+        "SHOW-017"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "awesome-opus5.5-frontend-showcases",
+      "sha256": "29822a37f8f422d364304ab0df7a1a620fe804250c5ee133cdeb0896ec7015d6",
+      "card_ids": [
+        "SHOW-018",
+        "SHOW-019"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "awesome-opus5.5-frontend-showcases",
+      "sha256": "17e09aaef0c8345ee5b1c28d496db69f831910b9755ffe0f00b777877b1c217d",
+      "card_ids": [
+        "SHOW-020"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "awesome-opus5.5-frontend-showcases",
+      "sha256": "57b5094393cae1485645679bbcdcb5691efb0f196128495d9b89ba4b445b969d",
+      "card_ids": [
+        "SHOW-021"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "awesome-opus5.5-frontend-showcases",
+      "sha256": "bd3f08f6128279f7679472ee674eb88200dc90b52ca85f666434cbc19ceb3be1",
+      "card_ids": [
+        "SHOW-022"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "awesome-opus5.5-frontend-showcases",
+      "sha256": "206c0206dd24643072d6dcd5a2c3ef6f8a348de041330838f6262c4c5c09f6ef",
+      "card_ids": [
+        "SHOW-023"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    },
+    {
+      "repo": "webgl-seascape-video",
+      "sha256": "f96a4794416eb4947a6b80669c24a27e537cb60155649a4d39f05ac7a6bb7468",
+      "card_ids": [
+        "SEA-001",
+        "SEA-002",
+        "SEA-003",
+        "SEA-004"
+      ],
+      "card_binding_scope": "仅关联同一子作品；项目静帧不证明本卡全部机制。"
+    }
+  ]
+}

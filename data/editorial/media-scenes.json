@@ -1,0 +1,237 @@
+{
+  "media": [
+    {
+      "repo": "NexusCity",
+      "path": "assets/previews/scene-nexuscity-1.webp",
+      "kind": "archived_local_screenshot",
+      "observation": "实际查看：夜街斑马线、中央NPC与交互提示，青色HUD/雷达、暗楼体和橙色树冠；画面整体很暗。",
+      "scope": "2026-09-27本地审阅项目快照中的Nexus City界面；未绑定当前Repos/NexusCity提交。静帧不证明当前运行、动画或模型质量。",
+      "sha256": "191a0a79044fe3730a35a0c8a62727dde4a2cfa7daf58aaa575ef81e21039718",
+      "rights": "历史项目截图；原界面/素材权属未单独核验，不能把代码MIT自动扩展为全部素材授权。",
+      "width": 960,
+      "height": 540,
+      "viewed": true,
+      "original_path": "reviews/2026-09-27-production-reaudit-0fac868/snapshot-head/public/lab/nexuscity.webp"
+    },
+    {
+      "repo": "The-Monolith",
+      "path": "assets/previews/scene-the-monolith-1.webp",
+      "kind": "archived_local_screenshot",
+      "observation": "实际查看：黑色空间里白色发光点团和多层细线格网，文字提示点击开始并允许麦克风。",
+      "scope": "历史项目快照，明确处于点击/麦克风启动前待机态；不是音频响应已运行或各阶段完整效果证据。",
+      "sha256": "5d8424dc2bb0f68104d59bd1542cbcec12058ebb9b74e4f72d2a5a8fdcae213d",
+      "rights": "历史项目截图；原作者作品权利未单独核验，保留界面文字与来源。",
+      "width": 960,
+      "height": 540,
+      "viewed": true,
+      "original_path": "reviews/2026-09-27-production-reaudit-0fac868/snapshot-head/public/lab/the-monolith.webp"
+    },
+    {
+      "repo": "Singularity",
+      "path": "assets/previews/scene-singularity-1.webp",
+      "kind": "archived_local_screenshot",
+      "observation": "实际查看：蓝绿线框漏斗汇聚到中央粒子核，两侧遥测/尺度面板与开始按钮，黑底高对比。",
+      "scope": "2026-09-27历史项目快照的引导界面；不证明后续黑洞、原子或滚动镜头效果，不绑定当前源提交。",
+      "sha256": "87c6c8fea0a88698d64916c377ef617aa5d3be65f0f8257113939840766e1938",
+      "rights": "历史项目截图；原作品及界面素材权利未单独核验。",
+      "width": 960,
+      "height": 540,
+      "viewed": true,
+      "original_path": "reviews/2026-09-27-production-reaudit-0fac868/snapshot-head/public/lab/singularity.webp"
+    },
+    {
+      "repo": "synthcity",
+      "path": "assets/previews/scene-synthcity-1.jpg",
+      "kind": "author_repository_screenshot",
+      "observation": "实际查看：高角度密集夜城，蓝紫雾压远景，窗格/招牌粉青发光，光柱与高楼构成竖向节奏。",
+      "scope": "原仓README所用效果图的本地同名文件；历史静帧，不证明当前帧率、雨动或车辆控制。",
+      "sha256": "900eac5401c79c8c496cd8c53be9c111c2b0e502aa9371b29fe48b23efe22614",
+      "rights": "原仓作者效果图；README列第三方音效/音乐等来源，图像权属未独立厘清，引用保持原图。",
+      "width": 1500,
+      "height": 844,
+      "viewed": true,
+      "original_path": "Repos/synthcity/screenshots/readme.jpg"
+    },
+    {
+      "repo": "synthcity",
+      "path": "assets/previews/scene-synthcity-2.jpg",
+      "kind": "author_repository_screenshot",
+      "observation": "实际查看：近中景大块深色交叉悬挑楼体，被蓝紫雾与白粉霓虹窗面包围，轮廓与高亮区分明。",
+      "scope": "原仓screenshots目录的历史渲染图；可观察体量与色彩，不能单凭此图认定所有几何可通行或动态稳定。",
+      "sha256": "c44a87a856052190560f7ad8ab46bbce5649d77496675310e8352d86a9a6f0a7",
+      "rights": "原作者仓库截图；第三方资产和图像再发布权未逐项核验。",
+      "width": 2560,
+      "height": 1440,
+      "viewed": true,
+      "original_path": "Repos/synthcity/screenshots/synthcity_screenshot_03.jpg"
+    },
+    {
+      "repo": "3dcitydb-web-map",
+      "path": "assets/previews/scene-3dcitydb-web-map-1.jpg",
+      "kind": "author_repository_screenshot",
+      "observation": "实际查看：柏林贴图建筑与底图叠合，黄色高亮建筑、绿色选择框和右侧语义属性表同时出现。",
+      "scope": "README Demo 2历史截图，展示地理模型选择与语义数据；不是电影化建模质量样片。",
+      "sha256": "f2daaf804444ac1e270d097ba36a12ac9aec903998b49c24a5d4bea2624966c9",
+      "rights": "原仓代码Apache2不替代地图数据/航片/底图权利；原图底部Cesium、地图和机构署名完整保留。",
+      "width": 1280,
+      "height": 798,
+      "viewed": true,
+      "original_path": "Repos/3dcitydb-web-map/theme/img/berlin_buildings_texture_demo.jpg"
+    },
+    {
+      "repo": "3dcitydb-web-map",
+      "path": "assets/previews/scene-3dcitydb-web-map-2.png",
+      "kind": "author_repository_screenshot",
+      "observation": "实际查看：铁路、车站小屋、桥梁、隧道和植被落在三角地形上，带Cesium控件与比例尺。",
+      "scope": "README Demo 1的LoD3组合场景历史截图；不证明当前远端数据仍可访问。",
+      "sha256": "2813a142df13068e67568e0ca5618ab0ac07fe03459afe39cd035476ebcb1364",
+      "rights": "原图底部包含机构/地图/数据供应商署名，原样保留；数据许可不能由仓库代码Apache2推定。",
+      "width": 1202,
+      "height": 828,
+      "viewed": true,
+      "original_path": "Repos/3dcitydb-web-map/theme/img/railway_scene_lod3_Demo.png"
+    },
+    {
+      "repo": "3DTilesRendererJS",
+      "path": "assets/previews/scene-3dtilesrendererjs-1.png",
+      "kind": "author_demo_banner",
+      "observation": "实际查看：火星地形的摄影纹理和岩石细节上叠加白色瓦片边界，底部为项目标题。",
+      "scope": "原作者README渲染展示横幅，确有地形效果；带标题的静态展示，不是本轮运行截图，也不能证明LOD淡出动画。",
+      "sha256": "c985acb919c9e713e912f22d610cbb5c5c2cb5b59741735db175f22efa74f65e",
+      "rights": "NASA AMMOS仓库展示图；代码Apache2，底层地形影像权利未单独核验；保留原标题/署名。",
+      "width": 800,
+      "height": 500,
+      "viewed": true,
+      "original_path": "Repos/3DTilesRendererJS/images/header-mars.png"
+    },
+    {
+      "repo": "3DTilesRendererJS",
+      "path": "assets/previews/scene-3dtilesrendererjs-2.png",
+      "kind": "author_demo_banner",
+      "observation": "实际查看：同块地形以平面分区、等高线和灰度细节三种表示并列，能比较轮廓和表面信息层。",
+      "scope": "原仓展示横幅，包含真实地形可视化效果与项目字样；不是单个现场运行状态。",
+      "sha256": "8d443b46a1cada6c96eceead700798bf8441865b0d97b80075d77a40c2670b13",
+      "rights": "NASA AMMOS项目展示图，底层数据/图片权利未独立核验；保留原署名。",
+      "width": 850,
+      "height": 500,
+      "viewed": true,
+      "original_path": "Repos/3DTilesRendererJS/images/header.png"
+    },
+    {
+      "repo": "scroll-glitch-hero",
+      "path": "assets/previews/scene-scroll-glitch-hero-1.jpg",
+      "kind": "author_repository_screenshot",
+      "observation": "实际查看：米灰天空与白色纵向褶皱山脊，中央衬线MERIDIAN标题，小字号副标题和右上黑按钮。",
+      "scope": "README Hero历史截图，展示首屏排版与景深层次；没有证明滚动动画。",
+      "sha256": "ec6b94db67f4e22fc78edec147ff0af9b5e0cb8203170b8b485f4abed8aecf07",
+      "rights": "仓库声明MIT；未见截图另列许可，保留原作标识与来源。",
+      "width": 800,
+      "height": 936,
+      "viewed": true,
+      "original_path": "Repos/scroll-glitch-hero/docs/hero.jpg"
+    },
+    {
+      "repo": "scroll-glitch-hero",
+      "path": "assets/previews/scene-scroll-glitch-hero-2.jpg",
+      "kind": "author_repository_screenshot",
+      "observation": "实际查看：原山景/大标题被横向碎条、代码片段与轻微彩边打断，仍能辨认原构图。",
+      "scope": "README Transition历史截图，只确认转场的一个中间态；不能证明正反播放连续性。",
+      "sha256": "1bab9400f5652236a2cac567d30f3ca10af257e2d8569231af9ef17ad329d2a4",
+      "rights": "仓库声明MIT；图像未单列许可，保留原作标识。",
+      "width": 800,
+      "height": 917,
+      "viewed": true,
+      "original_path": "Repos/scroll-glitch-hero/docs/transition.jpg"
+    },
+    {
+      "repo": "scroll-glitch-hero",
+      "path": "assets/previews/scene-scroll-glitch-hero-3.png",
+      "kind": "author_repository_screenshot",
+      "observation": "实际查看：山脊和MERIDIAN字形附近出现局部弯曲、错位及浅绿色代码字，原构图仍在。",
+      "scope": "README Pointer interaction历史截图，仅一个指针反馈状态；并非本轮交互测试。",
+      "sha256": "aef3e9a7909357db8c1bcbcc425f6103db32427e18f09c0ae0b49c0f7c4ba664",
+      "rights": "仓库声明MIT；图像未单列许可，保留原作标识。",
+      "width": 800,
+      "height": 340,
+      "viewed": true,
+      "original_path": "Repos/scroll-glitch-hero/docs/pointer.png"
+    },
+    {
+      "repo": "webgl-seascape-video",
+      "path": "assets/previews/scene-webgl-seascape-video-1.jpg",
+      "kind": "author_og_effect_cover",
+      "observation": "实际查看：低太阳金色海面、远山暗轮廓和层叠云，海面反光有多尺度细纹；叠加第一期教学标题和LIVE UNIFORMS面板。",
+      "scope": "作者部署首页明确og:image=cover1.jpg；是第一期海景效果封面，画面内“全部实时计算”等文字是作者声明，不是本轮运行验证。",
+      "sha256": "f96a4794416eb4947a6b80669c24a27e537cb60155649a4d39f05ac7a6bb7468",
+      "rights": "原作者公开部署OG效果图；具体图片授权未单独核验，保留标题和署名来源。",
+      "width": 1920,
+      "height": 1080,
+      "viewed": true,
+      "source_url": "https://webgl-seascape.pages.dev/cover1.jpg",
+      "case": "01-realistic-seascape"
+    },
+    {
+      "repo": "opus55-live-demos",
+      "path": "assets/previews/scene-opus55-live-demos-1.jpg",
+      "kind": "author_og_loading_state",
+      "observation": "实际查看：暗绿黑背景中央是一段暖色墨圈弧线、少量花瓣与细环；没有山谷/水面/树木。",
+      "scope": "仅对应Sakura Valley的加载标记卡LIVE-006。官方OG截在加载态，严禁当作已加载山谷效果图或fog-over-the-gate画面。",
+      "sha256": "65f9a3302936aa548c31dc1b4f04dc7a33b6e58419e8e6be15c95dcfb6df65b6",
+      "rights": "原作者部署OG图；源wrapper只声明部分依赖/素材许可，完整作品及此图权利不明。",
+      "width": 1280,
+      "height": 720,
+      "viewed": true,
+      "source_url": "https://here.now/og/vowful-prism-y87r.jpg",
+      "case": "sakura-valley-loading",
+      "card_ids": [
+        "LIVE-006"
+      ]
+    }
+  ],
+  "gaps": [
+    {
+      "repo": "csc35-diorama-day",
+      "reason": "仓内只有index.html，无README、截图、视频或明确原作者图片URL；GitHub公开元数据homepage=null。未运行源码或浏览器，不生成假图。",
+      "available_demo_url": null,
+      "source_repository_url": "https://github.com/agent-marsha/csc35-diorama-day"
+    },
+    {
+      "repo": "invisible-cities-opus-5.5",
+      "reason": "本地仓无截图/视频；README无效果图；作者homepage HTML无img/OG图片。55城场景效果仍缺可靠静帧。",
+      "available_demo_url": "https://p.migdal.pl/invisible-cities-opus-5.5/",
+      "url_provenance": "GitHub公开仓库homepage，已仅获取HTML，不执行页面"
+    },
+    {
+      "repo": "opus55-live-demos",
+      "reason": "只能补LIVE-006加载标记；Sakura Valley OG是loading态，不能充当山谷渲染。Fog Over the Gate无本地图。Data Center在既有cards.json中excluded，不用其OG替代已有案例。",
+      "available_demo_url": "https://valley.mengto.here.now/",
+      "partial": true,
+      "missing_cases": [
+        "sakura-valley scene",
+        "fog-over-the-gate"
+      ]
+    }
+  ],
+  "coverage": {
+    "requested_repos": 11,
+    "repos_with_media": 9,
+    "repos_with_scene_or_ui_effects": 8,
+    "media_count": 14,
+    "all_adopted_images_viewed": true,
+    "runtime_execution": false,
+    "browser_used": false,
+    "note": "仅复制本地历史图和下载原作者明确OG图片；未裁切、未重绘、未抽帧（未发现本地视频文件）。"
+  },
+  "rejected_candidates": [
+    {
+      "repo": "The-Monolith",
+      "original_path": "Repos/The-Monolith/icon.png",
+      "reason": "图标不是场景效果，不采用。"
+    },
+    {
+      "repo": "opus55-live-demos",
+      "source_url": "https://datacenter.lab.sael.net/og.png",
+      "reason": "虽为真实剖面效果图且已查看，但属于既有清单明确excluded的Data Center，不拿来为fog/sakura子卡配图；已移除临时候选文件。"
+    }
+  ]
+}

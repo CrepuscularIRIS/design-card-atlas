@@ -1,0 +1,16 @@
+{
+  "schema_version": "2.0",
+  "counts": {
+    "cases": 86,
+    "cards": 257,
+    "patterns": 24,
+    "lenses": 16,
+    "trajectories": 6,
+    "visuals": 139,
+    "illustrated_cases": 70,
+    "expanded_cases": 16
+  },
+  "pro_recommendations": 14,
+  "errors": [],
+  "scope": "schema, immutable source pointers, image hashes and local links; browser actions checked separately; no source-project runtime certification"
+}

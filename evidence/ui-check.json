@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-25",
+  "desktop": {
+    "exact_card_search": "passed MF-010 and SHOW-020",
+    "subwork_images": "SHOW-020 matched a11y-login; MF-010 matched its film frames",
+    "draw_three": "passed distinct sources; dopa-drill 4-card single-source pool returns 3",
+    "favorite_export": "NI-005 source_only, idea_only, image scope retained; test favorite removed",
+    "download": "actual design-card-brief.md saved, 2908 bytes, content checked",
+    "trajectories": "6 tracks; first track 5 steps opened",
+    "console_errors": []
+  },
+  "responsive": {
+    "status": "not_verified",
+    "attempted_width": 390,
+    "observed_client_width": 2479,
+    "reason": "Browser viewport override did not affect target tab; reset after attempted test."
+  },
+  "boundaries": "Atlas interface checks only; no blanket source-project runtime or aesthetic certification."
+}
