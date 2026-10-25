@@ -85,3 +85,29 @@
 - Original size: 1920×1080
 - sha256: 5b3daf0dad63d0b6b725e086339ce1e172c6c262f7c8f4d1030930f11d096cf2
 - Rights: © Vast; reference only, no commercial reuse
+
+## orion-flycar-rain.jpg / orion-hologram-plaza.jpg · Cyber City Orion
+
+- 作品名：Cyber City Orion — Blade Runner flyable megacity
+- 作者：Adrian Red（adrianred.com）
+- 原始 URL：https://orion.adrianred.com ；作品集 https://www.adrianred.com/portfolio/cyber-city-orion
+- 类型：3D 网页（可玩）+ 官方作品集静帧
+- 机位/时间/步骤：Browser-use / 桌面实看确认雨夜街谷飞车（ENTER 后）；参考图取自作品集 `orion-hero-high.jpg`、`orion-design2-high.jpg`（2000×1125），原尺寸 JPEG 入库，未放大。标题 ENTER 层与设备拼贴 mockup 未入库。
+- 截取日期：2026-10-25
+- 尺寸：2000×1125
+- SHA256：
+  - flycar-rain：`cdf3f1d2f01e656e80de1270b0f9704f66181ba94be3b7cae90aabbb0b9395bf`
+  - hologram-plaza：`57b7a4a95aabe7cd1682bbd27e4c1ab494c10dc341692160d1fc66e8df16aa23`
+- 许可备注：版权归 Adrian Red；仅作视觉参考，不可自由商用。
+
+## spark-city-hud-dont-think.jpg · The Spark scroll-film city
+
+- 作品名：The Spark — scroll-driven WebGL short film
+- 作者：The Digital Panda
+- 原始 URL：https://spark.thedigitalpanda.com/ ；Codrops https://tympanus.net/codrops/2026/01/09/the-spark-engineering-an-immersive-story-first-web-experience/
+- 类型：3D 网页（滚动短片）+ Codrops 工程文配图
+- 机位/时间/步骤：自 Codrops 文章配图 `14.png`（1920×1080）原尺寸转 JPEG 入库；画面为锈蚀街谷与细线 HUD，「DO NOT THINK」为场景内全息字。本轮 live 白屏未清；webgpu showcase 帧 1912×1080 差 8px 未用。
+- 截取日期：2026-10-25
+- 尺寸：1920×1080
+- SHA256：`00cdd7e628fecc3e99ec1e565e2935cb00dc22c9cc53207444e0bdb4fb9a9bdc`
+- 许可备注：版权归 The Digital Panda / Codrops 配图权利人；仅作视觉参考，不可自由商用。

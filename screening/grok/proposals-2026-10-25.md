@@ -67,10 +67,18 @@
 - Suggested cards: soft-tech-habitat; orbital-megastructure; scale-by-familiar-objects
 - Citadel use: space / habitat rooms; loading art that shows a quieter craft than the destination.
 
-### Pending (need ≥1920 live capture)
-- **Orion** (g012): rainy neon canyon flyover confirmed live — highest priority re-capture at 1920.
-- **Above the Clouds** (g013): Burj through fog sea confirmed — re-capture at 1920.
-- **The Spark** (g016): showcase 1912×1080 street+HUD nearly clears bar; live white-screen this run.
+### 收 · Orion rainy neon flyover (g012)
+- Visual language: rain-slick megacity canyon, holographic rings, bloom neon, rear flycar POV.
+- Suggested cards: high-view-reads-hierarchy; cold-world-warm-refuge; fog-separates-depth
+- Refs: `orion-flycar-rain.jpg`, `orion-hologram-plaza.jpg` (official portfolio 2000×1125)
+
+### 收 · The Spark city + HUD (g016)
+- Visual language: rust megastructure street + thin-line neural HUD / OBJ.TRACKING; diegetic holographic type.
+- Suggested cards: thin-line-hud; high-view-reads-hierarchy
+- Ref: `spark-city-hud-dont-think.jpg` (Codrops 1920×1080)
+
+### Pending
+- **Above the Clouds** (g013): Burj through fog confirmed earlier at 1280; 1920 session stuck on START EXPERIENCE white; portfolio stills are marketing/collage.
 - **Threejs-Punk** (g014): WebGL shader errors blocked ENTER.
 
 ### 不收 (r2)
