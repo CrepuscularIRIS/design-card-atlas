@@ -69,3 +69,19 @@
   - 3s：`c13d7eaac1a6e37fcb6b0dc19ed9df8806cc4e5f1ad9736a20e9c936f6d18c6b`
   - 8s：`1fd676dc45559bfc80ea6a30e7be3ca81db865c2ecbdba2648bbfa10465377d3`
 - 许可备注：版权归属以原帖/平台为准；仅作视觉参考，不可自由商用。
+
+## haven1-exterior-orbit.jpg
+- Work: Vast Haven-1
+- URL: https://www.vastspace.com/haven-1
+- Capture: official site press still (not upscaled); live browser observation of interactive tour 2026-10-25 ET
+- Original size: 1920×1080
+- sha256: 0a45575db9bf41ccdd62510b287091ff7937bb01800e987a1712d2793600781b
+- Rights: © Vast; reference only, no commercial reuse
+
+## haven1-common-area.jpg
+- Work: Vast Haven-1 common area
+- URL: https://www.vastspace.com/haven-1
+- Capture: official site press still matching live common-area view 2026-10-25 ET
+- Original size: 1920×1080
+- sha256: 5b3daf0dad63d0b6b725e086339ce1e172c6c262f7c8f4d1030930f11d096cf2
+- Rights: © Vast; reference only, no commercial reuse
