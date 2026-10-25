@@ -1628,7 +1628,7 @@
     "repo": "ai-town",
     "path": "assets/previews/lib-ai-town-author-screenshot.png",
     "source_url": "https://github.com/a16z-infra/ai-town/assets/3489963/a4c91f17-23ed-47ec-8c4e-9f9a8505057d",
-    "resolved_url": "https://github-production-user-asset-6210df.s3.amazonaws.com/3489963/260520547-a4c91f17-23ed-47ec-8c4e-9f9a8505057d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20261025%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20261025T052132Z&X-Amz-Expires=300&X-Amz-Signature=55f9b3e6a659038e206f0adae8d77455cb9ae89274d5f4249db6b177bed736cf&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng",
+    "resolved_url": "https://github-production-user-asset-6210df.s3.amazonaws.com/3489963/260520547-a4c91f17-23ed-47ec-8c4e-9f9a8505057d.png",
     "sha256": "af892fafca95271e224056b4df37bc897bf5713f3bdb67d4317e0d8aaf6238a4",
     "observation": "左侧像素草地、交叉土路、菜地与多个人物，右侧羊皮纸色聊天栏显示Lucky/Kurt对话和时间戳。",
     "scope": "README明确历史应用截图；含品牌页眉但主要区域是实际场景与聊天界面，不证明现有后端对话质量或实时运行。",

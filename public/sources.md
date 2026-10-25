@@ -136,4 +136,4 @@ Opus、Kimi、Sonnet、DeepSeek等归因保留作者/发布者自述；混合制
 
 截图与视频帧保留原作者/素材权利人的权利，本库文档许可不覆盖第三方媒体；有明确许可者单独注明。`lygia`、`gsap-threejs-codrops`、`opus55-live-demos`只借思路，不粘贴代码。
 
-旧257张机制卡和旧网页只作工程背景，旧入口移入 [archive/engineering-v1](../archive/engineering-v1/)。新交付为Markdown README、卡片、图片和配方。`public/`是本地目录名，不表示已更改远端私有仓库的可见性。
+旧257张机制卡和旧网页只作工程背景，旧入口移入 [archive/engineering-v1](../archive/engineering-v1/)。新交付为Markdown README、卡片、图片和配方。本仓库已公开（2026-10-25）。

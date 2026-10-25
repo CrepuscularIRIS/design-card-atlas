@@ -12,35 +12,67 @@ HEROES = [
     ('references/kimi-videos/059-mist-colossi-1.788.jpg', '雾中巨像 · 近舟、暗水与层层远山', 'https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203'),
 ]
 
+BANNER = ('cards/fog-separates-depth/shots/03.jpg', '清明上河 · 黄昏全城', 'https://silentfleetkk.github.io/qingming-bianjing/opus-5.5/qingming-bianjing.html')
+ANCHORS = {g: g.lower().replace(' ', '-') for g in GROUPS}
+
+
+def _img_row(items, prefix_img):
+    """Three-column table: images on top, linked captions below."""
+    cells = ''.join(f'<td width="33%" valign="top"><a href="{prefix_img(i)}"><img src="{prefix_img(i)}" width="100%" alt="{alt}"></a></td>'
+                    for i, alt, _ in items)
+    caps = ''.join(f'<td valign="top"><sub>{cap}</sub></td>' for _, _, cap in items)
+    return ['<table>', f'<tr>{cells}</tr>', f'<tr>{caps}</tr>', '</table>', '']
+
+
+def _recipe(p):
+    lines = p.read_text().splitlines()
+    title = lines[0].lstrip('# ')
+    lead = next((l for l in lines[1:] if l.strip() and not l.startswith(('#', '|', '['))), '').replace('**', '')
+    shot = next((l.split('](')[1].split(')')[0] for l in lines if '[![' in l), '')
+    return title, lead, shot
+
+
 def render(prefix):
     cards = [json.loads(p.read_text()) for p in sorted((PUBLIC / 'cards').glob('*/card.json'))]
-    lines = ['# Citadel · 视觉设计卡', '',
-             '给 Crepuscular Citadel 的 3D 建模、电影感镜头与场景 UI 一组可以直接指着画面讨论的参考：看它如何组织光、尺度、材质和注意力。', '']
-    lines += [' '.join(f'<a href="{prefix}{file}"><img src="{prefix}{file}" width="360" alt="{label}"></a>' for file, label, url in HEROES), '',
-              ' · '.join(f'[{label}]({url})' for file, label, url in HEROES), '']
-    lines += ['每张卡只讲一种视觉语言；图片点击看完整截图，作品名打开原作。先确定想要的感觉，再读拆解与迁移做法。', '',
-              f'[视觉维度]({prefix}docs/DIMENSIONS.md) · [来源与筛选记录]({prefix}sources.md)', '']
+    recipes = [(p, *_recipe(p)) for p in sorted((PUBLIC / 'recipes').glob('*.md'))]
+    file, label, url = BANNER
+    nav = ' · '.join(f'<a href="#{ANCHORS[g]}">{g}</a>' for g in GROUPS if any(c['group'] == g for c in cards))
+    lines = ['<div align="center">', '',
+             f'<a href="{prefix}{file}"><img src="{prefix}{file}" width="100%" alt="{label}"></a>', '',
+             '# Citadel · 视觉设计卡', '',
+             '**光 · 尺度 · 材质 · 镜头 · 排版**', '',
+             '给 Crepuscular Citadel 的 3D 场景与 UI 的参考图册。<br>每张卡只讲一种视觉语言，配一组真实画面；指着图说「做成这样」。', '',
+             f'<sub>{len(cards)} 张视觉卡 · {len(recipes)} 个场景配方 · 头图：<a href="{url}">{label}</a></sub>', '',
+             nav + ' · <a href="#场景配方">场景配方</a>', '',
+             '</div>', '', '<br>', '']
+    lines += _img_row([(f, label, f'<a href="{u}">{label}</a>') for f, label, u in HEROES], lambda f: prefix + f)
+    lines += ['| 1 · 找感觉 | 2 · 读拆解 | 3 · 组场景 |', '|---|---|---|',
+              '| 先翻图，挑出和目标场景气质最接近的卡 | 卡内按光影、色彩、构图等维度拆开，给出色值、比例与源码参数 | 用配方把多张卡分到不同维度，检查光源、色彩与明暗是否打架 |', '',
+              f'维度定义见 [视觉维度]({prefix}docs/DIMENSIONS.md)，每张图的出处与筛选结论见 [来源与筛选记录]({prefix}sources.md)。', '']
     for group in GROUPS:
         rows = [c for c in cards if c['group'] == group]
         if not rows:
             continue
-        lines += ['## ' + group, '']
+        lines += ['<br>', '', f'## {group}', '']
         for c in rows:
             folder = prefix + 'cards/' + c['id'] + '/'
-            lines += [f'### [{c["title"]}]({folder}README.md)', '', c['summary'], '']
-            refs = [s for s in c['shots'] if s['role'] == 'reference'][:4]
-            lines += [' '.join(f'<a href="{folder}{s["local"]}"><img src="{folder}{s["local"]}" width="280" alt="{s["work"]}：{s["proof"]}"></a>' for s in refs), '',
-                      ' · '.join(f'[{s["work"]}]({s["url"]})' for s in refs), '',
-                      '**用在博客：**' + c['blog'] + '。', '']
-    recipes = sorted((PUBLIC / 'recipes').glob('*.md'))
+            refs = [s for s in c['shots'] if s['role'] == 'reference'][:3]
+            lines += [f'### {c["title"]}', '', f'> {c["summary"]}', '']
+            lines += _img_row([(s['local'], f'{s["work"]}：{s["proof"]}', f'<a href="{s["url"]}">{s["work"]}</a>') for s in refs],
+                              lambda f, folder=folder: folder + f)
+            lines += [f'<sub>**情绪** {c.get("mood", "")} · **用在博客** {c["blog"]} · <a href="{folder}README.md">拆解与做法 →</a></sub>', '']
     if recipes:
-        lines += ['## 场景配方', '']
-        for p in recipes:
-            title = p.read_text().splitlines()[0].lstrip('# ')
-            lines += [f'- [{title}]({prefix}recipes/{p.name})']
-        lines += ['']
-    lines += ['---', '', '图像保留原作者权利。卡内区分实际网页截图、作品视频帧与作者独立渲染成片；每张图的出处与复现方式见对应 SOURCE。', '']
+        lines += ['<br>', '', '## 场景配方', '', '把多张卡分配到不同维度，组成一个完整场景的情绪板与检查表。', '']
+        items = []
+        for p, title, lead, shot in recipes:
+            img = str((PUBLIC / 'recipes' / shot).resolve().relative_to(PUBLIC)) if shot else ''
+            items.append((img, title, f'<a href="{prefix}recipes/{p.name}"><b>{title}</b></a><br>{lead[:60]}{"…" if len(lead) > 60 else ""}'))
+        lines += _img_row(items, lambda f: prefix + f)
+    lines += ['---', '',
+              '<sub>图像保留原作者权利，本库仅作设计研究与评论引用；每张图的出处、复现方式与图像类型（网页截图、视频帧、作者渲染）见各卡 SOURCE.md。'
+              f'抽卡方法见 <a href="{"" if prefix else "../"}docs/VISUAL_CARD_PROMPT.md">提示词</a>；旧版机制卡归档在 <a href="{"" if prefix else "../"}archive/engineering-v1/">archive</a>。</sub>', '']
     return '\n'.join(lines)
+
 
 if __name__ == '__main__':
     (ROOT / 'README.md').write_text(render('public/'))

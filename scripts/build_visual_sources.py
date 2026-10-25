@@ -35,5 +35,5 @@ lines+=['','## 编辑取舍','','[独立审图](../screening/visual-editorial-re
 '本轮新增的可追溯源码记录在 [new-source-clones.json](new-source-clones.json)：qingming-bianjing、clearwater、falcon9-blender已克隆；cybercity与ProceduralBuildingsThreeJS取得固定HEAD与源码检出，大体积媒体/模型未完整检出，不能称为完整资产归档。没有公开源码链接的网页或视频仍只记视觉出处；不把视频条数等同已取得的Git仓数量。原有参考仓保持原文件，不修改其实现。','',
 'Opus、Kimi、Sonnet、DeepSeek等归因保留作者/发布者自述；混合制作也可参考。不把仓库标题、宣传句或单帧画质当作某模型独立完成的证明。','',
 '## 权利与工程旧版','','截图与视频帧保留原作者/素材权利人的权利，本库文档许可不覆盖第三方媒体；有明确许可者单独注明。`lygia`、`gsap-threejs-codrops`、`opus55-live-demos`只借思路，不粘贴代码。','',
-'旧257张机制卡和旧网页只作工程背景，旧入口移入 [archive/engineering-v1](../archive/engineering-v1/)。新交付为Markdown README、卡片、图片和配方。`public/`是本地目录名，不表示已更改远端私有仓库的可见性。','']
+'旧257张机制卡和旧网页只作工程背景，旧入口移入 [archive/engineering-v1](../archive/engineering-v1/)。新交付为Markdown README、卡片、图片和配方。本仓库已公开（2026-10-25）。','']
 (P/'sources.md').write_text('\n'.join(lines))
