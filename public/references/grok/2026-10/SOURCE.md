@@ -260,3 +260,33 @@
 - 尺寸：1920×1080
 - SHA256：`b07e3e0cbd513cda14ce4e21539f9ca165272cf368cc61d5af6f47c4bc06ab56`
 - 许可备注：版权归 TokenGremlin / MiniMax；仅作视觉参考。
+
+## kage-torii-moon-scroll.png / kage-temple-stats-scroll.png · Kage 京都夜山寺
+
+- 作品名：Kage — Kyoto night mountain temple walk
+- 作者：MengTo（github.com/MengTo）
+- 原始 URL：https://mengto.github.io/kage/
+- 类型：3D 网页（滚动叙事，three.js）
+- 机位/时间/步骤：Browser-use 1920×1080 打开；过加载「RAISING THE MOUNTAIN TEMPLE」后滚动多章，取鸟居血月与山寺统计两滚动帧；非连续全站截取。
+- 截取日期：2026-10-25
+- 尺寸：1920×1080
+- SHA256：
+  - torii-moon-scroll：`88de2a2bed7f8e3c61f11c9378fb77848624d0836a45bd3907a0a9c40b92e8ce`
+  - temple-stats-scroll：`d52fa1ded09e01fa553ff9e2a4bd2abea5e5fb32940de9164fff51c32d36e2db`
+- 许可备注：版权归 MengTo；公开 GitHub Pages 演示；仅作视觉参考，不可自由商用。
+
+## space-train-trestle-t03.jpg / platform-t08.jpg / vault-t14.jpg / fog-t20.jpg · Space Train 星际栈桥
+
+- 作品名：Space Train — orbital trestle steam train + ringed planet
+- 作者：@zengyphor
+- 原始 URL：https://x.com/zengyphor/status/2112428736565973169
+- 类型：视频-CG 截帧
+- 机位/时间/步骤：下载 X amplify 2560×1440 mp4；于 3.0s（栈桥）、8.0s（站台，主帧）、14.0s（拱穹）、20.0s（雾段）抽帧；核对为净环境、非左右 A/B 半幅。
+- 截取日期：2026-10-25
+- 尺寸：2560×1440
+- SHA256：
+  - trestle-t03：`02b4977f500d15c74f776a25a334b080c5f4f2da5f4f149c9390af6633a89cc0`
+  - platform-t08：`283530c39259f06a82be75ddacf8ea583998e29d272de6ab6ec1ba8bf31dfbe1`
+  - vault-t14：`f9a86119d3af57736178541b462eb7e6c970a753ffe7fc23858cfe7c19d53914`
+  - fog-t20：`cc9212bcab7016fd495a5f7cdf6730d75e15724b3ea9dd938294ee96bc6bdf35`
+- 许可备注：版权归 @zengyphor；截帧自公开 X 视频；仅作视觉参考，不可自由商用。
