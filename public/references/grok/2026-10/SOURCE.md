@@ -330,3 +330,89 @@
   - meseven-1920：`adfff95e7e00325eef75d70f83f9aefae09d5711305978d5f5a6a3c49a37f9a4`
   - meseven-alt：`d03ab0db6cadf87490249b54f2da85369b368f68e179258d21dae738d03704ac`
 - 许可备注：版权归 meseven_journey；仅作视觉参考，不可自由商用。
+
+## prometheus-ring-vadim-3840.jpg · Prometheus Ring
+
+- 作品名：Prometheus Ring — Saturn orbital habitat
+- 作者：Vadim Sadovski
+- 原始 URL：https://vadimsadovski.artstation.com/projects/XaJN4R
+- 类型：静帧-CG（ArtStation 公开作品页）
+- 机位/时间/步骤：WebFetch 作品页 og:image → ArtStation 4k CDN 原图下载；核对为净环境、无 UI/品牌 IP。
+- 截取日期：2026-10-25
+- 尺寸：3840×2400
+- SHA256：`2e57d25b494a9092001804fad3c0168f3e1fc90a42eef3f6f4c65b316384f7cb`
+- 许可备注：版权归 Vadim Sadovski；ArtStation 公开静帧；仅作视觉参考，不可自由商用。
+
+## torus-habitat-exterior-1920.jpg · Torus Habitat
+
+- 作品名：Torus Habitat — exterior Stanford torus
+- 作者：Nichlas Benjamin（Pipedreaming）
+- 原始 URL：https://pipedreaming.artstation.com/projects/YeWdzw
+- 类型：静帧-CG（ArtStation 公开作品页）
+- 机位/时间/步骤：WebFetch 作品页 og:image large CDN 原图下载；核对为净硬科幻外景。
+- 截取日期：2026-10-25
+- 尺寸：1920×1080
+- SHA256：`84a563440b9a40bb710d34c55eb6be4005c741b185ac88ec19a6c23a0ef5d170`
+- 许可备注：版权归 Nichlas Benjamin；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## remy-paul-megastructure-3314.jpg · Megastructure
+
+- 作品名：Megastructure — industrial chasm studies
+- 作者：Remy PAUL（alpyro）
+- 原始 URL：https://alpyro.artstation.com/projects/YBkde6
+- 类型：静帧-概念（ArtStation 公开作品页）
+- 机位/时间/步骤：WebFetch 作品页 og:image → 4k CDN 原图下载；核对为环境主导、小人给尺度。
+- 截取日期：2026-10-25
+- 尺寸：3314×2000
+- SHA256：`7925b8f829395c16762cf0f1b28dc070b6e145d32fe0bbfcec79a330ca7044b0`
+- 许可备注：版权归 Remy PAUL；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## tu-bui-canyon-city-3117.jpg · Canyon City
+
+- 作品名：Canyon City — domed canyon megacity
+- 作者：Tu Bui（2buiart）
+- 原始 URL：https://2buiart.artstation.com/projects/n1w51
+- 类型：静帧-概念（ArtStation 公开作品页）
+- 机位/时间/步骤：WebFetch 作品页 og:image → 4k CDN 原图下载；核对为净环境史诗基建。
+- 截取日期：2026-10-25
+- 尺寸：3117×1700
+- SHA256：`5f4e9a15aa89494c528fb03d178b42babcb2ed39363db4fd3467b94d93310612`
+- 许可备注：版权归 Tu Bui；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## swang-great-beyond-3840.jpg · The Great Beyond
+
+- 作品名：The Great Beyond — post-Elysium torus metropolis
+- 作者：Swang
+- 原始 URL：https://swang.artstation.com/projects/WKoJBN
+- 类型：静帧-概念（ArtStation 公开作品页）
+- 机位/时间/步骤：WebFetch 作品页 og:image → 4k CDN 原图下载；核对为环内净环境。
+- 截取日期：2026-10-25
+- 尺寸：3840×2160
+- SHA256：`4e04ea318885f495b949e9978d595aa37cd31db05155d4ac0dcd3b331edcf85e`
+- 许可备注：版权归 Swang；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## alex-kuhn-gothic-cathedral-1920.jpg · Gothic Cathedral
+
+- 作品名：Gothic Cathedral Environment — overgrown courtyard
+- 作者：Alex Kuhn
+- 原始 URL：https://alexkuhn.artstation.com/projects/WKoRGv
+- 类型：静帧-概念（ArtStation 公开作品页）
+- 机位/时间/步骤：WebFetch 作品页 og:image → CDN 原图下载；核对为院落净环境、人物极小。
+- 截取日期：2026-10-25
+- 尺寸：1920×1083
+- SHA256：`08163ae05d0621a40703983f947e1108afe93748e9c96d0b208051e3edb815c9`
+- 许可备注：版权归 Alex Kuhn；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## pirate-cove-sunset-1920.jpg / pirate-cove-floating-rocks-1920.jpg · Pirate Cove
+
+- 作品名：Pirate Cove — tropical island sunset（three.js + WebGPU）
+- 作者：@itsnex1s
+- 原始 URL：https://x.com/itsnex1s/status/2114484652857520277
+- 类型：视频-3D 宣传截帧
+- 机位/时间/步骤：下载帖内 amplify 1920×804 mp4；于 5.0s（日落主帧）、12.0s（浮岩备选）抽帧；核对无 UI、非 A/B 拼版。
+- 截取日期：2026-10-25
+- 尺寸：1920×804
+- SHA256：
+  - sunset：`02f1e437fdeab6bce1c2c057f2c79554aef5ea6c0eb8f9dec885e6592f12e45e`
+  - floating-rocks：`e7382763bc4ab5242f7991ff594a53e10976e5ac79173a9de9687e396b0e8fd2`
+- 许可备注：版权归 itsnex1s；截帧自公开 X 预告；仅作视觉参考，不可自由商用。
