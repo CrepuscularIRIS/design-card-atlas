@@ -180,3 +180,22 @@ Brasilia（教育 UI）、Buzz City（漫画营销）、Lake-City（孪生俯视
 ### 不收要点
 
 Floating Japan A/B 营销；Misty meadow 角色主导；DYSTOPIA 更新片不重复 g021；埃及庙 1440 / 浮空庙 ~1790 尺寸不合格。
+
+---
+
+## R7 · ~16:55–17:20 ET — g082–g096
+
+### 收（2）
+
+**g082 Kage** — 京都夜山寺：血月鸟居、雾中石阶、灯笼暖点，电影噪点；1920 滚动实看帧。建议 `cold-world-warm-refuge` / `fog-separates-depth` / `ordered-frame-wild-growth`。主帧 torii-moon；备选 temple-stats。
+
+**g083 Space Train** — 星际栈桥蒸汽火车 + 环状巨行星：净环境、无左右对比框；2560×1440 多时间点抽帧。建议 `megastructure-silhouette` / `fog-separates-depth`。主帧 platform-t08；备选 trestle-t03 / vault-t14 / fog-t20。
+
+### pending 要点
+
+- g084–g087：NAVIS / Odessis / Persepolis / UltraSuperNew — 重 WebGL 页本轮 CDP 截屏超时或加载未过，挂下次单标签优先。
+- g095–g096：Halcyon / The Sleepers（正确 URL projects.thibautfoussard.com/the-sleepers/）— 同因截屏超时未落盘 ≥1920 净帧。
+
+### 不收要点
+
+Elderwake 机甲 HUD 主导；AnXin 编辑器 UI 占半幅；CP2077 商业 IP 实机；haolv 浮空庙复核 ~1790＜1920；Noir592/Love2Code 静帧落盘＜1920；Cinema Seat Preview 仅加载 UI。
