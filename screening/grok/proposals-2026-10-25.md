@@ -59,3 +59,19 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。无卡挂图由人工从参考库挑选。
+
+## R2 additions (afternoon ET)
+
+### 收 · Haven-1 orbital habitat (g011)
+- Visual language: soft-tech orbital habitat — warm wood against padded hull, curved hatch as scale cue; exterior module+arrays against Earth limb.
+- Suggested cards: soft-tech-habitat; orbital-megastructure; scale-by-familiar-objects
+- Citadel use: space / habitat rooms; loading art that shows a quieter craft than the destination.
+
+### Pending (need ≥1920 live capture)
+- **Orion** (g012): rainy neon canyon flyover confirmed live — highest priority re-capture at 1920.
+- **Above the Clouds** (g013): Burj through fog sea confirmed — re-capture at 1920.
+- **The Spark** (g016): showcase 1912×1080 street+HUD nearly clears bar; live white-screen this run.
+- **Threejs-Punk** (g014): WebGL shader errors blocked ENTER.
+
+### 不收 (r2)
+- Neon Drift, Lightstorm, Pendragon, SynthCity (overbloom), vib3coded (benchmark UI).
