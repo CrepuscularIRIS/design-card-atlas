@@ -178,3 +178,32 @@
   - 8s：`7d8cf4c28262ca81207d8ebe7cb0770cc14fdce1cc88e8ba3a4de70460014162`
   - 14s：`2ce5b12a8a495982c62b18d0a33af4d5d032014321aacb55549d67f45ae1cdf0`
 - 许可备注：开源演示 + 宣传片；版权归 Samnang Aing；仅作视觉参考。
+
+## obsidian-shard-cathedral-09s.jpg / obsidian-shard-nave-04s.jpg · Obsidian / Lavoisier
+
+- 作品名：Obsidian — monolith → 32,000 shards → cathedral → whale loop
+- 作者：@techartist_ / iamtechartist
+- 原始 URL：https://iamtechartist.github.io/obsidian/ ；源码 https://github.com/iamtechartist/obsidian ；X https://x.com/techartist_/status/2106848293678620860
+- 类型：3D 网页（Three.js）+ X 预告片截帧
+- 机位/时间/步骤：下载 `…/1920x1080/o1PJSOz6HKK3-Sd9.mp4`；于 ~4.0s（中殿碎粒漫游）、~9.0s（哥特拱廊+中央玫瑰光）抽帧。live 页本轮 computerUse 未交净截；以官方 1920 预告净环境帧入库。
+- 截取日期：2026-10-25
+- 尺寸：1920×1080
+- SHA256：
+  - cathedral-09s：`eaf08950909be76b3cd95bc9c85d822322a40a1331cd1f31d871ff89699102ff`
+  - nave-04s：`9f8890be4edad19c80a53b064ec05117040fbd93d2b11815f338e6d4ace7e19a`
+- 许可备注：版权归 techartist_/iamtechartist；开源演示 + 公开预告；仅作视觉参考。
+
+## orbital-earthwalk-eva-08s.jpg / corridor-22s.jpg / limb-14s.jpg · ORBITAL Earthwalk
+
+- 作品名：ORBITAL — Earthwalk (ISS Three.js)
+- 作者：@ChrisGPT
+- 原始 URL：https://orbital-earthwalk-chris.love.chatgpt.site/ ；X https://x.com/ChrisGPT/status/2113934778877579360
+- 类型：3D 网页 + X 4K/1920 预告截帧
+- 机位/时间/步骤：4K 片于 ~8.0s（舱外 EVA 对地球）、~14.0s（地平线日出）；1920 片于 ~22.0s（舱内走廊模块）。Browser-use 本轮 daemon 失败；computerUse 超时无截屏；以官方预告净帧入库。
+- 截取日期：2026-10-25
+- 尺寸：3840×2160（eva/limb）；1920×1080（corridor）
+- SHA256：
+  - eva-08s：`e9f502763f3365ac07dfbeaa92195244430b8244e52b6c6de16fe93ff2196b1a`
+  - limb-14s：`98b145ffd3c66fd044b5c32d57f8ac8adbde549a269c32414976cdf415fee51b`
+  - corridor-22s：`cbef515b4704e36927c31d73751e13ac602e6dcecd8c2b76d929336730f197c9`
+- 许可备注：版权归 ChrisGPT；公开 X 预告与 chatgpt.site 演示；仅作视觉参考。
