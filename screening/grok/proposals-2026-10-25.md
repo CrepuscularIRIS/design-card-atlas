@@ -59,3 +59,27 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。无卡挂图由人工从参考库挑选。
+
+## R2 additions (afternoon ET)
+
+### 收 · Haven-1 orbital habitat (g011)
+- Visual language: soft-tech orbital habitat — warm wood against padded hull, curved hatch as scale cue; exterior module+arrays against Earth limb.
+- Suggested cards: soft-tech-habitat; orbital-megastructure; scale-by-familiar-objects
+- Citadel use: space / habitat rooms; loading art that shows a quieter craft than the destination.
+
+### 收 · Orion rainy neon flyover (g012)
+- Visual language: rain-slick megacity canyon, holographic rings, bloom neon, rear flycar POV.
+- Suggested cards: high-view-reads-hierarchy; cold-world-warm-refuge; fog-separates-depth
+- Refs: `orion-flycar-rain.jpg`, `orion-hologram-plaza.jpg` (official portfolio 2000×1125)
+
+### 收 · The Spark city + HUD (g016)
+- Visual language: rust megastructure street + thin-line neural HUD / OBJ.TRACKING; diegetic holographic type.
+- Suggested cards: thin-line-hud; high-view-reads-hierarchy
+- Ref: `spark-city-hud-dont-think.jpg` (Codrops 1920×1080)
+
+### Pending
+- **Above the Clouds** (g013): Burj through fog confirmed earlier at 1280; 1920 session stuck on START EXPERIENCE white; portfolio stills are marketing/collage.
+- **Threejs-Punk** (g014): WebGL shader errors blocked ENTER.
+
+### 不收 (r2)
+- Neon Drift, Lightstorm, Pendragon, SynthCity (overbloom), vib3coded (benchmark UI).
