@@ -111,3 +111,18 @@
 - 尺寸：1920×1080
 - SHA256：`00cdd7e628fecc3e99ec1e565e2935cb00dc22c9cc53207444e0bdb4fb9a9bdc`
 - 许可备注：版权归 The Digital Panda / Codrops 配图权利人；仅作视觉参考，不可自由商用。
+
+## dystopia-street-rain.jpg / dystopia-canyon-rain.jpg / dystopia-drone-canyon.jpg · DYSTOPIA noir megacity
+
+- 作品名：DYSTOPIA（procedural noir island / WebGPU+TSL）
+- 作者：@cryptomanavan
+- 原始 URL：https://dystopia-noir.netlify.app/ ；X https://x.com/cryptomanavan/status/2113063479565271054
+- 类型：3D 网页（可玩，需桌面 WebGPU）+ 官方静帧 / 宣传片截帧
+- 机位/时间/步骤：live WebGPU 本轮浏览器会话失败；自 X 媒体 `name=orig` 下载官方静帧（街面雨夜 / 无人机峡谷）；另自宣传片于约 4.0s 抽俯视雨峡谷帧。
+- 截取日期：2026-10-25（R3）
+- 尺寸：3840×2160（street / drone）；2560×1440（canyon-rain）；原尺寸保存，未放大。
+- SHA256：
+  - street-rain：`61a4083d548a4866beb821a2be70f15f2a6045e60a406bfe74544e36d81b59a0`
+  - canyon-rain：`c48345bbb16fa578f5b11831f7357347977353f4f2343016f8ff9e6d1510125d`
+  - drone-canyon：`e4caac0e32340225723f397b4aa5f0884b94b45047f0f44f132c5fee11227730`
+- 许可备注：版权归 cryptomanavan；仅作视觉参考，不可自由商用。

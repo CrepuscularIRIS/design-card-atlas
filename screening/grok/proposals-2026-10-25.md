@@ -83,3 +83,24 @@
 
 ### 不收 (r2)
 - Neon Drift, Lightstorm, Pendragon, SynthCity (overbloom), vib3coded (benchmark UI).
+
+## R3 · DYSTOPIA（2026-10-25 ~13:00 ET）
+
+### 9. `high-view-reads-hierarchy` ← dystopia-canyon-rain.jpg / dystopia-drone-canyon.jpg
+- **证明什么**：高俯角读出雨夜街谷层级——近楼剪影、中景窗格网格、远景光核与雾吞；无人机帧让通路与广告牌高度可读。
+- **画面位置**：峡谷轴居中；雨丝满幅；地平/街底约在下 20–30%。
+- **博客落点**：BlackCityHall；Main street / Alley 远景头图。
+
+### 10. `wet-street-reads-neon` ← dystopia-street-rain.jpg
+- **证明什么**：石板湿地镜像粉青霓虹与「LIVE」竖牌，近处棚柱暖灯 vs 远雾冷蓝；雨幕提供纵深衰减。
+- **画面位置**：一点透视街谷；前景棚廊柱；中景霓虹；远景白光核。
+- **视觉维度（≥4）**：C 街谷透视；A 霓虹 bloom；E 湿地反射；D 塔楼尺度；F 雨雾分层。
+- **博客落点**：Alley / Backstreet；cold-world-warm-refuge 变体。
+
+### 11. `fog-separates-depth` ← dystopia-canyon-rain.jpg
+- **证明什么**：雨雾使远楼对比度骤降，近楼仍有硬边与窗格；体量靠剪影成立。
+- **博客落点**：BlackCityHall；雾城夜景。
+
+### 12. `cold-world-warm-refuge` ← dystopia-street-rain.jpg
+- **证明什么**：世界保持冷雨蓝黑，暖色压缩在近处摊灯与个别窗；有人感不靠角色。
+- **博客落点**：Alley；Shrine 夜雨对照。
