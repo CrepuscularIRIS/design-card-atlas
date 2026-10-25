@@ -199,3 +199,16 @@ Floating Japan A/B 营销；Misty meadow 角色主导；DYSTOPIA 更新片不重
 ### 不收要点
 
 Elderwake 机甲 HUD 主导；AnXin 编辑器 UI 占半幅；CP2077 商业 IP 实机；haolv 浮空庙复核 ~1790＜1920；Noir592/Love2Code 静帧落盘＜1920；Cinema Seat Preview 仅加载 UI。
+
+---
+
+## R8 proposals · g097–g099
+
+### g097 SurceBeats oceanic planet
+近轨海洋行星：金侧光切山脊，薄云降远景对比；右下细线 QR 框不盖主景。建议 `megastructure-silhouette` / `thin-line-hud` / `fog-separates-depth`。
+
+### g098 Cloud-Bound Isle nightfall
+浮空岛夜：冷紫天际 vs 村灯暖 bloom + 萤火点；UI 细。建议 `cold-world-warm-refuge` / `fog-separates-depth` / `ordered-frame-wild-growth`。主帧 night 78s；备选 afternoon 20s。
+
+### g099 Pagoda garden meseven
+高视谷地五层塔+樱+拱桥河，硬影读层次。建议 `high-view-reads-hierarchy` / `ordered-frame-wild-growth`；博客 Shrine。

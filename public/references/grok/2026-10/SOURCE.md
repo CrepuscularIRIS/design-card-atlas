@@ -290,3 +290,43 @@
   - vault-t14：`f9a86119d3af57736178541b462eb7e6c970a753ffe7fc23858cfe7c19d53914`
   - fog-t20：`cc9212bcab7016fd495a5f7cdf6730d75e15724b3ea9dd938294ee96bc6bdf35`
 - 许可备注：版权归 @zengyphor；截帧自公开 X 视频；仅作视觉参考，不可自由商用。
+
+## surcebeats-oceanic-planet-1920x965.jpg · SurceBeats ATLAS 3 oceanic planet
+
+- 作品名：ATLAS 3 — Quaorgolgol QSR-677 oceanic planet (three.js procedural universe)
+- 作者：@SurceBeats
+- 原始 URL：https://x.com/SurceBeats/status/2114286638050468049 ；媒体 `https://pbs.twimg.com/media/HVdzNU_XYAALocY.jpg?name=orig`
+- 类型：静帧-3D
+- 机位/时间/步骤：下载 name=orig；核验 1920×965；构图为近轨行星+细线 HUD/QR，非左右 A/B。
+- 截取日期：2026-10-25
+- 尺寸：1920×965
+- SHA256：`43900dedfcd4ce8777ab340ebd469a78003d8c13f9190e5764db41de1a008b0d`
+- 许可备注：版权归 SurceBeats；仅作视觉参考，不可自由商用。
+
+## cloud-bound-isle-night-1920.jpg / afternoon-1920.jpg · Cloud-Bound Isle
+
+- 作品名：The Cloud-Bound Isle — living three.js diorama (pagoda / keep / hamlet)
+- 作者：@ItsmeAjayKV（Qwen3.8-27B local one-shot）
+- 原始 URL：https://x.com/ItsmeAjayKV/status/2114199072416628910
+- 类型：视频-3D 截帧
+- 机位/时间/步骤：下载 X amplify 1920×1080 mp4；于 20.0s（午后）与 78.0s（夜景主帧）抽帧；核对净环境、非左右 A/B。
+- 截取日期：2026-10-25
+- 尺寸：1920×1080
+- SHA256：
+  - night-1920：`df890fdd763f122855a8f1a06ce34ab1d33981bf81d4c692f4367f6659acc9c0`
+  - afternoon-1920：`994a482f69e939bb755267011171edc19b8ad309366ec83bd58d81a3c0c1dd0a`
+- 许可备注：版权归 ItsmeAjayKV；截帧自公开 X 视频；仅作视觉参考，不可自由商用。
+
+## pagoda-garden-meseven-1920.jpg / alt-1920.jpg · Pagoda garden valley
+
+- 作品名：Pagoda garden — sunny Three.js valley with birds / river / bridges
+- 作者：@meseven_journey
+- 原始 URL：https://x.com/meseven_journey/status/2113983355482198128 ；媒体 `HVZga1pasAAtZ6o` / `HVZga1saoAAKw7O`
+- 类型：静帧-3D（作者自截）
+- 机位/时间/步骤：下载帖内两张自带截图 name=orig；主帧俯瞰五层塔；备选同园另一角。
+- 截取日期：2026-10-25
+- 尺寸：1920×958
+- SHA256：
+  - meseven-1920：`adfff95e7e00325eef75d70f83f9aefae09d5711305978d5f5a6a3c49a37f9a4`
+  - meseven-alt：`d03ab0db6cadf87490249b54f2da85369b368f68e179258d21dae738d03704ac`
+- 许可备注：版权归 meseven_journey；仅作视觉参考，不可自由商用。
