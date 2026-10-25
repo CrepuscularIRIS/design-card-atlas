@@ -212,3 +212,28 @@ Elderwake 机甲 HUD 主导；AnXin 编辑器 UI 占半幅；CP2077 商业 IP �
 
 ### g099 Pagoda garden meseven
 高视谷地五层塔+樱+拱桥河，硬影读层次。建议 `high-view-reads-hierarchy` / `ordered-frame-wild-growth`；博客 Shrine。
+
+---
+
+## R9 proposals · g110–g116
+
+### g110 Prometheus Ring
+土星环栖地：硬侧光切沙漠脊与外桁架，小人给尺度；3840 净帧。建议 `megastructure-silhouette` / `colossus-crosses-the-frame`；博客 Orbital。
+
+### g111 Torus Habitat exterior
+斯坦福环外骨骼白桁架+辐条电梯，星空虚空。建议 `megastructure-silhouette` / `colonnade-rhythm`。
+
+### g112 Remy PAUL Megastructure
+灰阶竖井巨构：走道小人+机械壁面层次。建议 `colossus-crosses-the-frame` / `colonnade-rhythm`。
+
+### g113 Canyon City
+峡谷穹顶城：崖壁滤水塔瀑布+居住台地。建议 `megastructure-silhouette` / `high-view-reads-hierarchy`；博客 Canyon。
+
+### g114 The Great Beyond
+环内都会上曲：绿带、列车、舷窗外行星。建议 `megastructure-silhouette` / `colonnade-rhythm`。
+
+### g115 Alex Kuhn Gothic Cathedral
+荒蔓哥特院落玫瑰窗+雾阶；骑士极小。建议 `colonnade-rhythm` / `fog-separates-depth`；博客 Gothic。
+
+### g116 Pirate Cove sunset
+热带岛日落逆光棕榈+薄雾；无 UI。建议 `fog-separates-depth` / `cold-world-warm-refuge`。主帧 sunset；备选 floating-rocks。
