@@ -1,0 +1,13 @@
+id,标题,链接/本地路径,类型,结论,一句理由,截图文件
+web-ocean,WebGPU Ocean,Repos/web-ocean/,3D,打不开,浏览器实际显示No WebGPU adapter found；未用README海景补位,
+godrays-sponza,Sponza体积光,https://three-good-godrays.ameo.design/#sponza,3D,不收,本次机位中间调过暗；只留反例,public/references/light-water/godrays-sponza-shadow.png
+seascape-cosmos,Shader与宇宙,Repos/webgl-seascape-video/episodes/03-shader-cosmos/interactive.html,3D,不收,实际看06透镜/08吸积盘；太阳、金环与水面亮点同时抢焦，留真实视觉反例，不选为主卡正例。,public/references/light-water/cosmos-accretion-08.png
+seascape-jiangnan,江南山谷,https://github.com/holooooo/webgl-seascape-video/blob/915cb7c9a318e03bd2228bc232494b496ff2316c/episodes/04-jiangnan-voxel/interactive.html,3D,收,实际看蓝调全景、清晨河边、蓝调山寺；收前两图，山寺保留对照,public/references/light-water/jiangnan-blue-valley.png;public/references/light-water/jiangnan-morning-water.png;public/references/light-water/jiangnan-temple-blue.png
+gpu-pathtracer-equirect,Three GPU pathtracer equirect,https://gkjohnson.github.io/three-gpu-pathtracer/equirect.html,3D,打不开,本环境实际持续加载，console显示renderer backend未初始化；没有最终画面,
+classic-ocean,PathTracing Ocean and Sky,https://erichlof.github.io/THREE.js-PathTracing-Renderer/Ocean_And_Sky_Rendering.html,3D,不收,新标签复看已成功渲染：灰海波浪、日落到白昼变化、中央Cornell测试盒；可作海面实现参考，但不是成熟场景构图，未选卡图。此前工具中断不是作品失败。,
+yarn-planet,Yarn Planet,https://yarn.ynot.games/,3D,不收,实际看首屏并Begin进入NPC对话；纸底描线卡通小星球，与本轮巨构/电影场景目标不符；未走完整任务,
+little-rain-cloud,小雨云,https://dososo.github.io/little-rain-cloud/,3D,不收,实际白天看到远机位小云/草块/狐狸；R切夜与滚轮近景后画面黑，回日仍黑；未获得符合门槛的完整画面，不评价未看到夜景品质,
+realism-effects,Realism Effects v2 demo,https://realism-effects-git-v2-obeqz.vercel.app/,3D,打不开,README官方入口实际返回404 DEPLOYMENT_NOT_FOUND；未用README宣传图替代运行结果,
+folio-2025,Bruno Folio2025,https://bruno-simon.com/,3D,不收,实际进入开场岛与BRUNO SIMON字牌区，查看控制说明；当前夜景紫蓝饱和灯光/玩具车风格不选本轮主参考；未遍历13区或完整昼夜周期,
+csc35-diorama-day,Diorama Day,http://127.0.0.1:3079/Repos/csc35-diorama-day/,3D,不收,实际Click to play后看浅米色剖面客厅、低多边形家人及四人状态面板；图像明确但属简单微缩生活模拟，不满足本轮巨构冲击门槛,
+apple-music-effect,Apple Music liquid logo,https://apple-music-effect.transitivebullsh.it/,3D,不收,实际播放并定位1.5s/4s；小型液态环到品牌logo的短转场，不是空间/建模场景，保留实现思路不纳入视觉卡,

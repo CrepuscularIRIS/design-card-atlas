@@ -1,0 +1,78 @@
+{
+  "id": "weathering-follows-form",
+  "title": "风化依附形体",
+  "group": "材质",
+  "dimension": "E",
+  "dimensions": [
+    "E 表面状态",
+    "D 破损层级",
+    "A 侧光",
+    "B 低饱和",
+    "I 时间痕迹"
+  ],
+  "mood": "古老、遗迹",
+  "summary": "让磨损发生在边缘、接缝和暴露面，而不是给全部表面撒同一种噪点。",
+  "blog": "Shrine 台阶、BlackCityHall 石构件",
+  "shots": [
+    {
+      "file": "strong-scenes/athenaion-author-shot6.jpg",
+      "work": "Athenaion · Grand staircase",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "石阶的缺角、裂隙草和局部斑驳把规则台阶打散，但台阶轮廓仍连续。",
+      "capture": "作者最终独立渲染静帧；pos=[24,26.8,50]，target=[-11.3,60.2,-37.4]，FOV42°；非本轮runtime。",
+      "kind": "已逐张查看的作者3D最终成片",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "strong-scenes/athenaion-author-shot8.jpg",
+      "work": "Athenaion · Fallen head",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "斑驳与叶片沿残头像表面和边缘分布，受光大面仍然连续。",
+      "capture": "作者最终独立渲染静帧；pos=[134.4,54,145]，target=[83.2,47.4,59.5]，FOV34.7°；原始版本9b8bd23，非本轮runtime。",
+      "kind": "已逐张查看的作者3D最终成片",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "strong-scenes/athenaion-author-shot9.jpg",
+      "work": "Athenaion · Ruined portico",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "近柱断口与地面缝隙有局部草与小孔，未把每个完整面均匀染脏。",
+      "capture": "作者最终独立渲染静帧；pos=[151.56,57.8,139.41]，target=[83.16,60,66.41]，FOV36.5°；非本轮runtime。",
+      "kind": "已逐张查看的作者3D最终成片",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "light-water/godrays-sponza-shadow.png",
+      "work": "Sponza · 本次偏暗机位",
+      "url": "https://three-good-godrays.ameo.design/#sponza",
+      "proof": "暗部把石墙、柱脚的表面差异压没，不能据此读出风化位置。 仅评价本次画面。",
+      "capture": "sponza加载完成→Close Controls；1920×1080；拖动(950,450)到(950,260)，再至(950,385)。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/04.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "counterexample",
+      "work_id": "https://three-good-godrays.ameo.design/#sponza"
+    }
+  ]
+}

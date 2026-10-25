@@ -1,0 +1,12 @@
+id,标题,链接/本地路径,类型,结论,一句理由,截图文件
+SS-01,NexusCity,http://127.0.0.1:3001/,3D,不收,实看开场、DAY、VISTA；大量黑面、巨构遮住主体，VISTA穿楼；低帧率迫使LITE，此次结果不代表原作者最佳品质。,
+SS-02,synthcity,http://127.0.0.1:3008/,3D,收,支持候选，非精选。补看Freeroam+固定5794，摆脱车辆遮挡；收1张密度节奏参考，但青白bloom仍过强，不作配色/首图。,public/references/strong-scenes/synthcity-freeroam-runtime.jpg
+SS-03,TheBrutalizer,http://127.0.0.1:3007/index.html,3D,不收,实看默认楼体、重新生成、屋顶花园与地面公园；灰色方盒和锥形树显出样机感，固定设置面板，未发现足够完整的成片构图。,
+SS-04,void-syndicate,http://127.0.0.1:3002/,3D,不收,实看首屏与SYSTEM ENTRY/CORE LOGIC；主体是巨幅文字和暗色卡片，3D只露出少量绿色螺旋，不能支持强场景视觉卡。,
+SS-05,neon-zenith,https://zenith.billpwchan.art/,3D,打不开,载入未完成：两次进入在线作品均停LOADING TEXTURES数分钟；WebGPU回退WebGL2，无进场画面。画廊独立图1400×788不满足1920，hero为标题画面不收。,
+SS-06,The-Monolith,http://127.0.0.1:3009/,3D,打不开,完整体验受权限限制：实际进入SYSTEM READY与白粒子线框待机；页面明确要求麦克风，未授权该权限，因此未进入音频驱动体验，不把待机当成片。,
+SS-07,Singularity,http://127.0.0.1:3012/,3D,打不开,渲染未完成：实际点BEGIN INVESTIGATION并滚动5%到42%及后续，叙事更新但画面一直为中心星点，未见黑洞，不以源码效果冒充实看。,
+SS-08,offshore-tower,Repos/offshore-tower/app,3D,不收,本轮不收。本地无依赖且无公开demo；作者verification单张仅760×900，实看左视图模型完整但不足1920；reference/poster/contact sheet排除。,
+SS-09,athenaion,http://127.0.0.1:3019/?shot=1&quality=preview,3D,收,收（作者成片）。已实际启动但生成期间工具连接中断；另逐张看作者9张独立最终render，选6张支持框景/阶梯/尺度/材质，不冒称本轮runtime。,public/references/strong-scenes/athenaion-author-shot1.jpg;public/references/strong-scenes/athenaion-author-shot2.jpg;public/references/strong-scenes/athenaion-author-shot5.jpg;public/references/strong-scenes/athenaion-author-shot6.jpg;public/references/strong-scenes/athenaion-author-shot8.jpg;public/references/strong-scenes/athenaion-author-shot9.jpg
+SS-10,invisible-cities-opus-5.5,https://p.migdal.pl/invisible-cities-opus-5.5/,3D,收,支持候选，非精选。实看Atlas、Octavia、Zenobia、昼夜与Journey；3帧仅支持结构/昼夜对照，微缩圆台及紫灰外场占比大，不作为巨构主图。,public/references/strong-scenes/invisible-octavia-runtime.jpg;public/references/strong-scenes/invisible-zenobia-runtime.jpg;public/references/strong-scenes/invisible-zenobia-night-runtime.jpg
+SS-11,map-of-middle-earth,https://youtu.be/kRuPq4GjhGc,视频,不收,已看，图像尺寸不足。实际播放作者3分47秒电影，采看Hobbiton、山谷要塞、Minas Tirith；有效播放器画幅约1300宽，图库多数1280，未放大充数。,

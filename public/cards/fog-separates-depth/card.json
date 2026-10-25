@@ -1,0 +1,78 @@
+{
+  "id": "fog-separates-depth",
+  "title": "雾层分远近",
+  "group": "水与大气",
+  "dimension": "F",
+  "dimensions": [
+    "F 距离层次",
+    "A 局部反差",
+    "B 雾色",
+    "C 空间开口",
+    "D 尺度"
+  ],
+  "mood": "幽远、敬畏",
+  "summary": "让远景先失去反差、再失去细节，近景仍有黑位，雾才会把空间拉开。",
+  "blog": "Shrine 远山、atlas 地标之间的空气层",
+  "shots": [
+    {
+      "file": "kimi-videos/059-mist-colossi-1.788.jpg",
+      "work": "中式幻想 RPG · 雾中巨像",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203",
+      "proof": "近舟、两侧巨像、中央浮岩、远山依次向浅灰靠近。",
+      "capture": "浏览器实际看10.03/12.49s并拖回1.788s；已观察原片1.788s原尺寸抽帧；非连续全片验收。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203"
+    },
+    {
+      "file": "light-water/jiangnan-blue-valley.png",
+      "work": "江南山谷 · 蓝调全景",
+      "url": "https://github.com/holooooo/webgl-seascape-video/blob/915cb7c9a318e03bd2228bc232494b496ff2316c/episodes/04-jiangnan-voxel/interactive.html",
+      "proof": "近岸深、中央村落浅、后方山脊更淡，灯光没有代替距离层次。",
+      "capture": "本地3079/Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html；01山谷全景、默认蓝调、隐藏界面，1920×1080。画质曾自适应降低，不称最高质量。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/02.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "webgl-seascape-jiangnan"
+    },
+    {
+      "file": "opus-a/qingming-dusk-wide.jpg",
+      "work": "清明上河 · 黄昏全城",
+      "url": "https://silentfleetkk.github.io/qingming-bianjing/opus-5.5/qingming-bianjing.html",
+      "proof": "近屋顶仍分瓦面，远城渐成淡金剪影。",
+      "capture": "Chrome打开Opus版→默认汴河全景→黄昏华灯初上→H隐藏界面，待变化稳定；2494×905原生视口。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "qingming-bianjing-opus"
+    },
+    {
+      "file": "light-water/godrays-sponza-shadow.png",
+      "work": "Sponza · 本次偏暗机位",
+      "url": "https://three-good-godrays.ameo.design/#sponza",
+      "proof": "近中景一起压成黑，暗并没有带来足够的距离线索。",
+      "capture": "sponza加载完成→Close Controls；1920×1080；拖动(950,450)到(950,260)，再至(950,385)。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/04.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "counterexample",
+      "work_id": "https://three-good-godrays.ameo.design/#sponza"
+    }
+  ]
+}

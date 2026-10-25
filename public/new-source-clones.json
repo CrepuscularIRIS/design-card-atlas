@@ -1,0 +1,45 @@
+[
+  {
+    "repo": "qingming-bianjing",
+    "url": "https://github.com/silentfleetkk/qingming-bianjing.git",
+    "date": "2026-10-25T07:11:11.911432+00:00",
+    "head": "d9d85a0a19e9e52daa028e37407637c3da211f31",
+    "origin": "https://github.com/silentfleetkk/qingming-bianjing.git",
+    "state": "cloned"
+  },
+  {
+    "repo": "clearwater",
+    "url": "https://github.com/aureliengmz/clearwater.git",
+    "date": "2026-10-25T07:11:11.914150+00:00",
+    "head": "4bc826134321043a25df3c2b6fed16fb7b9241e8",
+    "origin": "https://github.com/aureliengmz/clearwater.git",
+    "state": "cloned"
+  },
+  {
+    "repo": "falcon9-blender",
+    "url": "https://github.com/noahsabaj/falcon9-blender.git",
+    "date": "2026-10-25T07:11:11.916231+00:00",
+    "head": "c6a6349c0968870a7a864f8ba44d2182cafad60e",
+    "origin": "https://github.com/noahsabaj/falcon9-blender.git",
+    "state": "cloned"
+  },
+  {
+    "repo": "cybercity",
+    "url": "https://github.com/xikhar/cybercity.git",
+    "date": "2026-10-25T07:11:11.918467+00:00",
+    "recovery_fetch_exit": 128,
+    "state": "source_partial_clone",
+    "head": "21ce1e48294628e3a597bfdfd74be6e9c347856c",
+    "origin": "https://github.com/xikhar/cybercity.git",
+    "note": "Shallow blob-filtered Git with source checkout; large media/assets excluded from worktree. Not a full asset archive."
+  },
+  {
+    "repo": "ProceduralBuildingsThreeJS",
+    "url": "https://github.com/achrefelouafi/ProceduralBuildingsThreeJS.git",
+    "date": "2026-10-25T07:11:14.873619+00:00",
+    "state": "source_partial_clone",
+    "head": "6c19f1b1f14408353989ad26cda27f1e1ede5e91",
+    "origin": "https://github.com/achrefelouafi/ProceduralBuildingsThreeJS.git",
+    "note": "Shallow blob-filtered Git with source checkout; large media/assets excluded from worktree. Not a full asset archive."
+  }
+]

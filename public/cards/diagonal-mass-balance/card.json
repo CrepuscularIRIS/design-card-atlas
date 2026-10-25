@@ -1,0 +1,80 @@
+{
+  "id": "diagonal-mass-balance",
+  "title": "斜向配重",
+  "group": "构图重心",
+  "dimension": "C",
+  "dimensions": [
+    "C 不对称平衡",
+    "D 体量主次",
+    "A 亮暗配重",
+    "G 透视方向",
+    "F 空场"
+  ],
+  "mood": "张力、延伸",
+  "summary": "把重体块压向一侧，用斜向地面或水带把另一侧的空场接回来。",
+  "blog": "title 主建筑取景、BlackCityHall 外廊",
+  "shots": [
+    {
+      "file": "strong-scenes/athenaion-author-shot1.jpg",
+      "work": "Athenaion · Panorama",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "右侧大殿与左侧低城不等重，山谷与天空补出呼吸。",
+      "capture": "作者最终独立静帧，1920×1080逐字节保存；pos=[108,66,30]，target=[15.1,61.5,-6.7]，FOV40°。原作9b8bd23。非本轮运行截图。",
+      "kind": "作者实际3D渲染成片，已逐张查看",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "kimi-videos/016-celestial-palace-33.376.jpg",
+      "work": "Unreal 云上神殿与巨龙",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-1",
+      "proof": "巨龙压左、柱廊弯向右远处，小人物落在两种尺度交界。",
+      "capture": "浏览器抽看12.65/18.31/33.38秒；已观察原片33.376s原尺寸抽帧。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-1"
+    },
+    {
+      "file": "local-collections/opus-black-sand-wide.jpg",
+      "work": "雷尼斯黑沙滩 · 海滩",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/reynisfjara/index.html",
+      "proof": "左黑壁的重量由右侧海面亮带抵住，斜岸线把两侧接在一起。",
+      "capture": "阴天默认机位1；本地Chrome实际观察。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "opus-reynisfjara",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/reynisfjara/index.html"
+    },
+    {
+      "file": "local-collections/counter-buffalo-camp-miniature.jpg",
+      "work": "水牛露营 · 浮岛",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/02-camp.html",
+      "proof": "孤立浮岛与左侧广告文本是产品陈列平衡，不是人在巨构旁边的空间张力。",
+      "capture": "实际完整首屏；真实作品对照，不是故障图。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/04.jpg",
+      "dimensions": [
+        2479,
+        900
+      ],
+      "role": "counterexample",
+      "work_id": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/02-camp.html",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/buffalo/02-camp.html"
+    }
+  ]
+}

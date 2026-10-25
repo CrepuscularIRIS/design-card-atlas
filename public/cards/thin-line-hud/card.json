@@ -1,0 +1,80 @@
+{
+  "id": "thin-line-hud",
+  "title": "HUD细线叠层",
+  "group": "排版 UI",
+  "dimension": "H",
+  "dimensions": [
+    "H 等宽与边栏",
+    "A 发光面积",
+    "B 状态色",
+    "C 中央主任务",
+    "G 状态变化"
+  ],
+  "mood": "精密、警戒",
+  "summary": "让细线与数字提供秩序，中央留给目标；仅在事件发生时改变颜色和字级。",
+  "blog": "atlas 地点选中状态、Platform 设备叠层提案",
+  "shots": [
+    {
+      "file": "local-collections/mg-hud-scan-5.5.jpg",
+      "work": "KESTREL-9 · 扫描",
+      "url": "https://vincentwei1021.github.io/mg-styles-15/#22-hud",
+      "proof": "中央球体与两边栏分工，线比面多，数字有三级亮度。",
+      "capture": "浏览器看真实MP4启动/扫描/锁定阶段后，从本地22-hud.mp4原生抽5.5s单帧；未放大。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "mg-kestrel9-hud"
+    },
+    {
+      "file": "local-collections/mg-hud-lock-8.2.jpg",
+      "work": "KESTREL-9 · 锁定",
+      "url": "https://vincentwei1021.github.io/mg-styles-15/#22-hud",
+      "proof": "锁定时暖色横幅跨入中心，常驻数据主动变暗。",
+      "capture": "同一真实成片8.2s原生单帧，浏览器实际看过锁定阶段；不是15宫格或封面。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "mg-kestrel9-hud"
+    },
+    {
+      "file": "local-collections/warp-city-canyon.jpg",
+      "work": "Warp Striker · 城市峡谷",
+      "url": "https://github.com/OpenVGLab/awesome-opus5.5-frontend-showcases/blob/cac43b250f07b7b86f4709c61effc84269f46494/repro/warp-shooter/index.html",
+      "proof": "分数、时间、护盾沿边缘布置，中央仍是航道。",
+      "capture": "Enter开始，看到曲率开场进入城市；续局截图HUD 00:14.91。后续复访黑屏，不覆盖此前有效结果。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "https://github.com/OpenVGLab/awesome-opus5.5-frontend-showcases/blob/cac43b250f07b7b86f4709c61effc84269f46494/repro/warp-shooter/index.html",
+      "local_route": "http://localhost:3079/Repos/awesome-opus5.5-frontend-showcases/repro/warp-shooter/index.html"
+    },
+    {
+      "file": "local-collections/counter-expedition-title.jpg",
+      "work": "水牛远征 · 大字与山谷",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/01-expedition.html",
+      "proof": "永久巨字和两个高对比按钮压过山谷与暖点目的地。",
+      "capture": "加载完成后实际首屏；真实作品对照。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/04.jpg",
+      "dimensions": [
+        2479,
+        900
+      ],
+      "role": "counterexample",
+      "work_id": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/01-expedition.html",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/buffalo/01-expedition.html"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "mirror-beside-roughness",
+  "title": "镜面邻粗面",
+  "group": "材质",
+  "dimension": "E",
+  "dimensions": [
+    "E 粗糙度对照",
+    "A 高光形状",
+    "C 接触边界",
+    "B 反射色",
+    "D 形体保存"
+  ],
+  "mood": "清晰、触感",
+  "summary": "让会映出形状的面紧挨着哑光实体，观众靠高光形状读懂材质差异。",
+  "blog": "BlackCityHall 石地局部、Shrine 雨后台阶方案",
+  "shots": [
+    {
+      "file": "opus-d/577-falcon9-56s.jpg",
+      "local": "shots/05.jpg",
+      "work": "Falcon 9 · 海面降落",
+      "url": "https://github.com/noahsabaj/falcon9-blender/releases/tag/v1.0",
+      "proof": "海面续出船体、箱体的暗轮廓与左侧绿灯，船舷大面保留实体暗部。",
+      "capture": "作者v1.0成片56.000s原尺寸帧；已实际查看，非本轮本地Blender运行。",
+      "kind": "作者3D电影单帧；noahsabaj，CC BY-NC 4.0",
+      "work_id": "falcon9-blender",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "local-collections/opus-black-sand-wide.jpg",
+      "work": "雷尼斯黑沙滩 · 海滩",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/reynisfjara/index.html",
+      "proof": "干黑沙吸光，邻近湿沙出现宽银带，边界说明同一地面状态变化。",
+      "capture": "阴天默认机位1；本地Chrome实际观察。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "opus-reynisfjara",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/reynisfjara/index.html"
+    },
+    {
+      "file": "kimi-videos/016-celestial-palace-33.376.jpg",
+      "work": "Unreal 云上神殿与巨龙",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-1",
+      "proof": "地面续出朱柱与人物反光，柱体本身仍以实体暗面为主。",
+      "capture": "浏览器抽看12.65/18.31/33.38秒；已观察原片33.376s原尺寸抽帧。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-1"
+    },
+    {
+      "file": "opus-c-guide/kimi-56-12s.jpg",
+      "work": "Glass goblets · 12s",
+      "url": "https://x.com/liambraus/status/2113724051332194589",
+      "proof": "杯腹主要展示折射，地面承接焦散；这不是镜面映形的同类证据，留作概念边界对照。",
+      "capture": "浏览器实看原片；pageAssets保存该video后ffmpeg在12.000s原尺寸抽帧。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "counterexample",
+      "work_id": "liambraus-glass-goblets"
+    },
+    {
+      "file": "light-water/cosmos-accretion-08.png",
+      "work": "Shader & Cosmos · 吸积盘",
+      "url": "https://github.com/holooooo/webgl-seascape-video",
+      "proof": "满水面尖亮点与天空金环同样强，材质差异被统一的闪亮节奏盖过。",
+      "capture": "本地3079/Repos/webgl-seascape-video/episodes/03-shader-cosmos/interactive.html；高画质、暂停、08吸积盘、隐藏界面；质量1.1、亮度1、曝光0.85，波相位未固定。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/04.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "counterexample",
+      "work_id": "webgl-seascape-cosmos"
+    }
+  ]
+}

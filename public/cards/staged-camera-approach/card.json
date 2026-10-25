@@ -1,0 +1,108 @@
+{
+  "id": "staged-camera-approach",
+  "title": "分级机位靠近",
+  "group": "镜头运动",
+  "dimension": "G",
+  "dimensions": [
+    "G 视点与机位切换",
+    "C 前中后景",
+    "D 重复节奏",
+    "E 表面阅读",
+    "H 信息退场"
+  ],
+  "mood": "肃穆、靠近",
+  "summary": "先交代海岸与目的地，再把相机交给柱壁，让近景回答远景留下的问题。",
+  "blog": "BlackCityHall 外廊、Shrine 入口",
+  "shots": [
+    {
+      "file": "local-collections/opus-black-sand-wide.jpg",
+      "work": "雷尼斯黑沙滩 · 海滩",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/reynisfjara/index.html",
+      "proof": "起点：近沙、左侧柱壁、右侧远礁同框，沿岸线先交代柱壁在海岸中的位置。",
+      "capture": "阴天默认机位1；本地Chrome实际观察。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "opus-reynisfjara",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/reynisfjara/index.html",
+      "order": 1,
+      "sha256": "5621789958ca2a92776461369c745e8e00e608971f075b47463f4c086677ff29"
+    },
+    {
+      "file": "local-collections/opus-black-sand-columns.jpg",
+      "work": "雷尼斯黑沙滩 · 柱壁",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/reynisfjara/index.html",
+      "proof": "终点：正面柱壁横跨约80%画宽，柱头高低、横向断层和脚下碎石新增可读信息；整体仍偏暗。",
+      "capture": "从机位1按2，实际观察过渡后正面柱壁；未计时。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "opus-reynisfjara",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/reynisfjara/index.html",
+      "order": 2,
+      "sha256": "c7c976ed7b3813183603be85d8743dfe58cdb66fa8e10382a9e0fd455c8e2827"
+    },
+    {
+      "file": "local-collections/kimi-black-sand-wide.jpg",
+      "work": "黑沙之境 · 海岸全景",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/kimi/iceland-black-sand/dist/index.html",
+      "proof": "第三张总览旁证：海岸、远礁与右侧大壁的关系清楚；只支持起点的空间交代，不证明其近景细节。",
+      "capture": "默认01全景；本地Chrome实际观察。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "kimi-iceland-black-sand",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/kimi/iceland-black-sand/dist/index.html",
+      "order": 3,
+      "sha256": "8d2dccae5c22411726c2740c588855b1a805aeb83ab079a491a55189e5fdf832"
+    },
+    {
+      "file": "local-collections/kimi-black-sand-columns.jpg",
+      "work": "黑沙之境 · 玄武岩柱",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/kimi/iceland-black-sand/dist/index.html",
+      "proof": "边界反例：机位确实靠近且大标题退场，但柱壁大面近同一暗值，只剩少量竖棱；不能作为高品质近景终点。",
+      "capture": "真实点击02；看到标题淡出及近柱完成态。未计时连续录屏。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/04.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "counterexample",
+      "work_id": "kimi-iceland-black-sand",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/kimi/iceland-black-sand/dist/index.html",
+      "order": 4,
+      "sha256": "21cfc103e158c2caaa1a4e58e22b3b50513f79cdd1fade77635bf04cddf0b71f"
+    },
+    {
+      "file": "local-collections/counter-buffalo-camp-miniature.jpg",
+      "work": "水牛露营 · 浮岛",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/02-camp.html",
+      "proof": "尺度边界反例：完整浮岛底座与俯视让世界成为可清点的陈列模型；不是一次相机靠近失败的录像。",
+      "capture": "实际完整首屏；真实作品对照，不是故障图。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/05.jpg",
+      "dimensions": [
+        2479,
+        900
+      ],
+      "role": "counterexample",
+      "work_id": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/02-camp.html",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/buffalo/02-camp.html",
+      "order": 5,
+      "sha256": "5bd51ef63adc50e1015e85905da2aee224d1775769e13a81220d9e18ab422e6c"
+    }
+  ]
+}

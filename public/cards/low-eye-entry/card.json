@@ -1,0 +1,80 @@
+{
+  "id": "low-eye-entry",
+  "title": "低机位入场",
+  "group": "镜头运动",
+  "dimension": "G",
+  "dimensions": [
+    "G 视点与透视",
+    "C 通道引导线",
+    "D 前景裁切",
+    "F 雾中纵深",
+    "I 入境感"
+  ],
+  "mood": "进入、压迫",
+  "summary": "把观众放进通道，允许近物切出画外，让消失方向成为入口。",
+  "blog": "title 到主城的入场、Shrine 水路背景",
+  "shots": [
+    {
+      "file": "local-collections/sakura-river-approach.jpg",
+      "work": "Sakura River Valley · 行船",
+      "url": "https://valley.mengto.here.now/",
+      "proof": "近船贴下边，河道在桥与远塔之间收束。",
+      "capture": "作者在线版实际看行船与花瓣的两个阶段；无时间码，未走完整路径；非本地HEAD验收。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "https://valley.mengto.here.now"
+    },
+    {
+      "file": "kimi-videos/059-mist-colossi-1.788.jpg",
+      "work": "雾中巨像 · 人舟水路",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203",
+      "proof": "船沿切出左下画外，巨像的顶部也出框；观众已经在水道里。",
+      "capture": "同团队浏览器实看10.03s、12.49s，并UI拖回1.788s；原片单帧1920×1080。此卡只分析已查看1.788s视点，不推连续镜头轨迹。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203"
+    },
+    {
+      "file": "local-collections/warp-city-canyon.jpg",
+      "work": "Warp Striker · 城市峡谷",
+      "url": "https://github.com/OpenVGLab/awesome-opus5.5-frontend-showcases/blob/cac43b250f07b7b86f4709c61effc84269f46494/repro/warp-shooter/index.html",
+      "proof": "两侧窗格楼体切出画面，以水平灯线夹出中央航路。",
+      "capture": "Enter开始，看到曲率开场进入城市；续局截图HUD 00:14.91。后续复访黑屏，不覆盖此前有效结果。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "https://github.com/OpenVGLab/awesome-opus5.5-frontend-showcases/blob/cac43b250f07b7b86f4709c61effc84269f46494/repro/warp-shooter/index.html",
+      "local_route": "http://localhost:3079/Repos/awesome-opus5.5-frontend-showcases/repro/warp-shooter/index.html"
+    },
+    {
+      "file": "local-collections/counter-buffalo-camp-miniature.jpg",
+      "work": "水牛露营 · 浮岛",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/02-camp.html",
+      "proof": "高处俯看完整浮岛，视点停留在场景外部。",
+      "capture": "实际完整首屏；真实作品对照，不是故障图。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/04.jpg",
+      "dimensions": [
+        2479,
+        900
+      ],
+      "role": "counterexample",
+      "work_id": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/02-camp.html",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/buffalo/02-camp.html"
+    }
+  ]
+}

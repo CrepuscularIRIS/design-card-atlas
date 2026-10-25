@@ -1,0 +1,104 @@
+{
+  "checked_at": "2026-10-25T07:10:38.909640+00:00",
+  "scope": "14 Pro recommendations, local read-only Git checks",
+  "repos": [
+    {
+      "repo": "apple-music-effect",
+      "head": "e31a67602ea03659d60de5290f85b657d11ab27d",
+      "origin": "https://github.com/transitive-bullshit/apple-music-effect.git",
+      "independent_git": true,
+      "unchanged_from_prior_audit": true
+    },
+    {
+      "repo": "yarn-planet",
+      "head": "5c8acce8df04fc7788d48a98343e38c05a458a16",
+      "origin": "https://github.com/makerjackie/yarn-planet.git",
+      "independent_git": true,
+      "unchanged_from_prior_audit": true
+    },
+    {
+      "repo": "athenaion",
+      "head": "9b8bd23b39c458a50fb1201037360047781c45b5",
+      "origin": "https://github.com/Leonxlnx/athenaion.git",
+      "independent_git": true,
+      "unchanged_from_prior_audit": true
+    },
+    {
+      "repo": "web-ocean",
+      "head": "a07c7fd522ef0a897601c114f927a49d93d95520",
+      "origin": "https://github.com/Noniv/web-ocean.git",
+      "independent_git": true,
+      "unchanged_from_prior_audit": true
+    },
+    {
+      "repo": "invisible-cities-opus-5.5",
+      "head": "3c2d0cc6657d053d5c36802db359ce8bb3820aa1",
+      "origin": "https://github.com/stared/invisible-cities-opus-5.5.git",
+      "independent_git": true,
+      "unchanged_from_prior_audit": true
+    },
+    {
+      "repo": "map-of-middle-earth",
+      "head": "696e968e9d550327beda9e663ef5aec6961583c9",
+      "origin": "https://github.com/earthwalker17/map-of-middle-earth.git",
+      "independent_git": true,
+      "unchanged_from_prior_audit": true
+    },
+    {
+      "repo": "mg-styles-15",
+      "head": "49052d80bfaf9fa8412cc9710530e5e95a3b8d8c",
+      "origin": "https://github.com/Vincentwei1021/mg-styles-15.git",
+      "independent_git": true,
+      "unchanged_from_prior_audit": true
+    },
+    {
+      "repo": "electromagnetism",
+      "head": "820835eb3d429fdbc601a37cc1da811390d830f3",
+      "origin": "https://github.com/thebuggeddev/electromagnetism.git",
+      "independent_git": true,
+      "unchanged_from_prior_audit": true
+    },
+    {
+      "repo": "dopa-drill",
+      "head": "e4da063f74c423b5e6eaad3faeb9631e741d821c",
+      "origin": "https://github.com/grmchn/dopa-drill.git",
+      "independent_git": true,
+      "unchanged_from_prior_audit": true
+    },
+    {
+      "repo": "kimi-k31pro-opus55-benchmark-showcase",
+      "head": "65e82c53b63f2fdd918617269c057d8e53af2c6f",
+      "origin": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase.git",
+      "independent_git": true,
+      "unchanged_from_prior_audit": true
+    },
+    {
+      "repo": "offshore-tower",
+      "head": "3a67f5ea7aec7955aaa7a576e8d772832add4afe",
+      "origin": "https://github.com/thebuggeddev/offshore-tower.git",
+      "independent_git": true,
+      "unchanged_from_prior_audit": true
+    },
+    {
+      "repo": "csc35-diorama-day",
+      "head": "aa88c6276e2d57f16e855245780bb83bea662721",
+      "origin": "https://github.com/agent-marsha/csc35-diorama-day.git",
+      "independent_git": true,
+      "unchanged_from_prior_audit": true
+    },
+    {
+      "repo": "scroll-glitch-hero",
+      "head": "6e0b8e6189dc4c40cd2b590174a3eb814e55c1b7",
+      "origin": "https://github.com/CoderMaurice/scroll-glitch-hero.git",
+      "independent_git": true,
+      "unchanged_from_prior_audit": true
+    },
+    {
+      "repo": "webgl-seascape-video",
+      "head": "915cb7c9a318e03bd2228bc232494b496ff2316c",
+      "origin": "https://github.com/holooooo/webgl-seascape-video.git",
+      "independent_git": true,
+      "unchanged_from_prior_audit": true
+    }
+  ]
+}

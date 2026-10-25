@@ -1,0 +1,11 @@
+id,标题,链接/本地路径,类型,结论,一句理由,截图文件,观察状态,范围说明
+KIMI-LOCAL-01,kimi/buffalo-racing,http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/kimi/buffalo-racing/dist/index.html,3D,不收,黛绿低多边形江南赛道，圆树与简化水牛形成田园玩具感，非史诗巨构,,实际浏览器画面,已看加载后起跑门前场景，未完整比赛
+KIMI-LOCAL-02,kimi/buffalo-sites,http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/kimi/buffalo-sites/dist/index.html,UI,不收,山野背包、山巅帐篷与周末折叠椅均为单品电商Hero，巨构空间不成立,,实际浏览器画面,三个dist HTML首屏均实际观察，未走购买流程
+KIMI-LOCAL-03,kimi/iceland-black-sand,http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/kimi/iceland-black-sand/dist/index.html,3D,收,黑柱壁与远海蚀柱被灰雾分开，01全景到02近柱建立观看层级,kimi-black-sand-wide.jpg | kimi-black-sand-columns.jpg,实际浏览器画面,已实际切01→02，观察中间标题淡出和最终近柱；未验持续帧率
+KIMI-LOCAL-04,kimi/kimi-k3.1-film,http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/kimi/kimi-k3.1-film/dist/Kimi-K3.1-Pro-Launch-Film.mp4,视频,不收,暗色数字计数与浅色研究信息板为产品宣传动态图形，不作为巨构空间主参考,,实际浏览器片段,实际抽看LONG CONTEXT计数、REASONING TO RESULT段；未完整观看，也未把所嵌第三方案例算原创
+KIMI-LOCAL-05,kimi/realm-blade,http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/kimi/realm-blade/dist/index.html,3D,不收,等轴方形小擂台和三角锥山形成棋盘微缩观感，缺少巨构冲击,,实际浏览器画面,已看3D入场页；未完整对战
+KIMI-LOCAL-06,opus/buffalo,http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/buffalo/01-expedition.html,UI,不收,三款产品营销站均不进主位；远征大字遮山、露营浮岛可作真实反例,counter-buffalo-camp-miniature.jpg | counter-expedition-title.jpg,实际浏览器画面,实际看完三个HTML加载后的首屏；截图仅用于对照
+KIMI-LOCAL-07,opus/buffalo-race,http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/buffalo-race/index.html,3D,不收,白墙灰瓦与圆润骑牛角色是乡村轻游戏，缺少巨构尺度张力,,实际浏览器画面,起跑角色选择背景实际观察，未完整比赛
+KIMI-LOCAL-08,opus/kimi-k3.1-promo,http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/kimi-k3.1-promo/out/kimi_k3.1_promo.mp4,视频,不收,蓝色网格地板上金属齿轮与参数文字属于功能演示，未形成可迁移史诗场景,,实际浏览器片段,实际看片参数化3D建模段；未完整观看，片内数据不作事实背书
+KIMI-LOCAL-09,opus/reynisfjara,http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/reynisfjara/index.html,3D,收,低机位黑沙—镜面浪带—柱壁与海蚀柱形成连续纵深,opus-black-sand-wide.jpg | opus-black-sand-columns.jpg,实际浏览器画面,实际按2从海滩转柱壁，已看两端与中间画面；未测性能
+KIMI-LOCAL-10,opus/swap-blade,http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/swap-blade/dist-single/index.html,3D,不收,粉嫩樱树与卡通庭院刀战不符史诗赛博主体方向,,实际浏览器画面,实际查看完整构建入场背景，未完整比赛

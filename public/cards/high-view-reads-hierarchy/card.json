@@ -1,0 +1,79 @@
+{
+  "id": "high-view-reads-hierarchy",
+  "title": "俯瞰读层级",
+  "group": "镜头运动",
+  "dimension": "G",
+  "dimensions": [
+    "G 高视点",
+    "C 布局与通路",
+    "D 高低层级",
+    "F 远景衰减",
+    "H 标注空间"
+  ],
+  "mood": "开阔、统观",
+  "summary": "把相机抬到能读懂地形与通路的位置，同时保留近景遮挡，避免把世界拍成桌面模型。",
+  "blog": "atlas 地点总览与 title 远景备选",
+  "shots": [
+    {
+      "file": "opus-a/qingming-dusk-wide.jpg",
+      "work": "清明上河 · 黄昏全城",
+      "url": "https://silentfleetkk.github.io/qingming-bianjing/opus-5.5/qingming-bianjing.html",
+      "proof": "河与街区关系被一次读懂，桥成为岸区之间的连接点。",
+      "capture": "Chrome打开Opus版→默认汴河全景→黄昏华灯初上→H隐藏界面，待变化稳定；2494×905原生视口。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "qingming-bianjing-opus"
+    },
+    {
+      "file": "strong-scenes/athenaion-author-shot1.jpg",
+      "work": "Athenaion · Panorama",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "高处斜看仍有近殿遮挡，城市由高殿、低居与远山组成。",
+      "capture": "作者最终独立静帧，1920×1080逐字节保存；pos=[108,66,30]，target=[15.1,61.5,-6.7]，FOV40°。原作9b8bd23。非本轮运行截图。",
+      "kind": "作者实际3D渲染成片，已逐张查看",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "light-water/jiangnan-blue-valley.png",
+      "work": "江南山谷 · 蓝调全景",
+      "url": "https://github.com/holooooo/webgl-seascape-video/blob/915cb7c9a318e03bd2228bc232494b496ff2316c/episodes/04-jiangnan-voxel/interactive.html",
+      "proof": "山脊围住水与村落，视点够高能看布局，又未露出世界底盘。",
+      "capture": "本地3079/Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html；01山谷全景、默认蓝调、隐藏界面，1920×1080。画质曾自适应降低，不称最高质量。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/03.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "webgl-seascape-jiangnan"
+    },
+    {
+      "file": "local-collections/counter-buffalo-camp-miniature.jpg",
+      "work": "水牛露营 · 浮岛",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/02-camp.html",
+      "proof": "完整岛底与等比例小树让俯视变成手办展示，缺少框外世界。",
+      "capture": "实际完整首屏；真实作品对照，不是故障图。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/04.jpg",
+      "dimensions": [
+        2479,
+        900
+      ],
+      "role": "counterexample",
+      "work_id": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/02-camp.html",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/buffalo/02-camp.html"
+    }
+  ]
+}

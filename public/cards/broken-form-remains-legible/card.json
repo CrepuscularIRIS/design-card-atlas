@@ -1,0 +1,79 @@
+{
+  "id": "broken-form-remains-legible",
+  "title": "残损仍识原形",
+  "group": "材质",
+  "dimension": "E",
+  "dimensions": [
+    "E 断口与磨损",
+    "D 可辨认残体",
+    "C 完整与破损对照",
+    "A 凹凸光影",
+    "I 时间"
+  ],
+  "mood": "沧桑、失落",
+  "summary": "保留足以辨认的原形，再用缺失、断口和散件说明它经历过什么。",
+  "blog": "Shrine 旧庭院、BlackCityHall 历史层提案",
+  "shots": [
+    {
+      "file": "opus-a/ozymandias-isolation-110s-crop.png",
+      "work": "Ozymandias · 孤立残像",
+      "url": "https://www.echohive.ai/posts/ozymandias/animation.html",
+      "proof": "残腿、底座、散石分别留着完整纪念物的线索。",
+      "capture": "Enter the desert→Pause→slider110s；原2494×905保留于references/opus-a，裁切(0,65,2494,815)去播放器，得2494×750；无放大，长影末端被裁。",
+      "kind": "实际浏览器截图的标注裁切，原全图保留",
+      "local": "shots/03.png",
+      "dimensions": [
+        2494,
+        750
+      ],
+      "role": "reference",
+      "work_id": "ozymandias"
+    },
+    {
+      "file": "strong-scenes/athenaion-author-shot8.jpg",
+      "work": "Athenaion · Fallen head",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "落地巨像保留鼻梁、眼与发束，断裂不是均匀污渍。",
+      "capture": "作者最终独立渲染静帧；pos=[134.4,54,145]，target=[83.2,47.4,59.5]，FOV34.7°；原始版本9b8bd23，非本轮runtime。",
+      "kind": "已逐张查看的作者3D最终成片",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "strong-scenes/athenaion-author-shot9.jpg",
+      "work": "Athenaion · Ruined portico",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "柱头和残梁还说明这里原有廊架，断掉的部分由观众补全。",
+      "capture": "作者最终独立渲染静帧；pos=[151.56,57.8,139.41]，target=[83.16,60,66.41]，FOV36.5°；非本轮runtime。",
+      "kind": "已逐张查看的作者3D最终成片",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "local-collections/opus-black-sand-columns.jpg",
+      "work": "雷尼斯黑沙滩 · 柱壁",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/reynisfjara/index.html",
+      "proof": "完整等距柱列是秩序参考；若只均匀贴噪点，不能讲出局部破损事件。",
+      "capture": "从机位1按2，实际观察过渡后正面柱壁；未计时。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/04.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "counterexample",
+      "work_id": "opus-reynisfjara",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/reynisfjara/index.html"
+    }
+  ]
+}

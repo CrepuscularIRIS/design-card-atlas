@@ -1,0 +1,16 @@
+id,标题,链接/本地路径,类型,结论,一句理由,截图文件,观察状态,范围说明
+MG-01-flat-vector,popwise — One Dot,http://localhost:3079/Repos/mg-styles-15/videos/01-flat-vector.mp4,视频,不收,蓝底橙点与圆润品牌字，轻快平面广告语汇，与巨构/史诗/赛博场景方向不合,,浏览器已看开场与片尾,demos/01-flat-vector/index.html；本地成片videos/01-flat-vector.mp4
+MG-02-line-art,ATELIER LINEA — one line,http://localhost:3079/Repos/mg-styles-15/videos/02-line-art.mp4,视频,不收,深蓝底金线勾建筑并收为标志，偏品牌线描，无强空间尺度或场景冲击,,浏览器已看起笔与片尾,demos/02-line-art/index.html；本地成片videos/02-line-art.mp4
+MG-03-isometric,ISOPOLIS — 03-isometric,http://localhost:3079/Repos/mg-styles-15/videos/03-isometric.mp4,视频,不收,浅色等轴棋盘、玩具屋/风机，迷你城市说明风格，未达到巨构画面门槛,,浏览器已看城市搭建片段,demos/03-isometric/index.html；本地成片videos/03-isometric.mp4
+MG-04-3d-render,soft. — 04-3d-render,http://localhost:3079/Repos/mg-styles-15/videos/04-3d-render.mp4,视频,不收,粉色soft软体字与浅紫球阵，材质完成度可参考但配色/玩具广告风与本轮禁区相冲,,浏览器已看真实成片片尾,demos/04-3d-render/index.html；本地成片videos/04-3d-render.mp4
+MG-05-cel-boil,05 · 手作 — cel animation / line boil,http://localhost:3079/Repos/mg-styles-15/videos/05-cel-boil.mp4,视频,不收,火柴盒与纸面手绘字，棕红复古童趣，非本轮巨构/赛博场景方向,,已看真实片开场与手作字结尾,demos/05-cel-boil/index.html；本地成片videos/05-cel-boil.mp4
+MG-06-collage,06-collage,http://localhost:3079/Repos/mg-styles-15/videos/06-collage.mp4,视频,不收,牛皮纸、剪报人物与剪刀的编辑拼贴，非3D场景或赛博叠加语言,,已看真实片开场及人物剪报阶段,demos/06-collage/index.html；本地成片videos/06-collage.mp4
+MG-07-liquid,07 · 液态流动 Liquid Motion — drop,http://localhost:3079/Repos/mg-styles-15/videos/07-liquid.mp4,视频,不收,紫背景与粉红液滴的抽象广告画面；方向与紫渐变禁区冲突,,已看真实成片液滴阶段,demos/07-liquid/index.html；本地成片videos/07-liquid.mp4
+MG-08-morph,08-morph,http://localhost:3079/Repos/mg-styles-15/videos/08-morph.mp4,视频,不收,纸白背景的咖啡杯图标与早安文字，平面日常品牌语汇，不符合巨构/史诗/赛博方向。,,browser_observed,实际打开原生MP4并观察至少一个内容阶段；未声称完整连续观看。
+MG-09-bauhaus,09-bauhaus — KONSTRUKTION,http://localhost:3079/Repos/mg-styles-15/videos/09-bauhaus.mp4,视频,不收,米色网格上红圆蓝块黄三角的包豪斯运动图形，强平面构成但不进入3D主位。,,browser_observed,实际打开原生MP4并观察至少一个内容阶段；未声称完整连续观看。
+MG-10-synthwave,NEON DRIVE · Midnight,http://localhost:3079/Repos/mg-styles-15/videos/10-synthwave.mp4,视频,不收,紫粉霓虹网格与复古汽车夕阳，VHS颗粒强；大面积紫色违反本轮方向。,,browser_observed,实际打开原生MP4并观察至少一个内容阶段；未声称完整连续观看。
+MG-12-aurora-glass,Aurora — think in light,http://localhost:3079/Repos/mg-styles-15/videos/12-aurora-glass.mp4,视频,不收,紫蓝极光背景的半透明圆角聊天卡，直接落入紫色渐变与玻璃拟态禁区。,,browser_observed,实际打开原生MP4并观察至少一个内容阶段；未声称完整连续观看。
+MG-18-hanazi,18-hanazi,http://localhost:3079/Repos/mg-styles-15/videos/18-hanazi.mp4,视频,不收,猫咪竖屏实拍叠粗描边花字与贴纸，娱乐短视频方向，不收。,,browser_observed,浏览器实际观看开场与后续/末段画面，未声称逐帧完整分析。
+MG-19-paperclip,19-paperclip,http://localhost:3079/Repos/mg-styles-15/videos/19-paperclip.mp4,视频,不收,白底点阵网格叠手机/矿石/世界地图的信息科普，排版清楚但缺强3D空间。,,browser_observed,浏览器实际观看开场与后续/末段画面，未声称逐帧完整分析。
+MG-20-pixel,20-pixel,http://localhost:3079/Repos/mg-styles-15/videos/20-pixel.mp4,视频,不收,复古横版像素冒险与宝箱放射光，作为游戏风格成立但偏可爱2D且紫粉天空，不符本轮。,,browser_observed,浏览器实际观看开场与后续/末段画面，未声称逐帧完整分析。
+MG-22-hud,22-hud · KESTREL-9 TARGET ACQUIRED,http://localhost:3079/Repos/mg-styles-15/videos/22-hud.mp4,视频,收,青色扫描球体、环形刻度与两侧细线仪表；橙色锁定横幅形成事件层级，适合赛博HUD叠加,public/references/local-collections/mg-hud-scan-5.5.jpg | public/references/local-collections/mg-hud-lock-8.2.jpg,浏览器已看重播启动、扫描与橙色锁定；另核看5.5/8.2秒原生单帧,demos/22-hud/index.html；本地成片videos/22-hud.mp4

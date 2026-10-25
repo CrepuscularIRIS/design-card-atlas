@@ -1,0 +1,78 @@
+{
+  "id": "colonnade-rhythm",
+  "title": "柱廊明暗节奏",
+  "group": "造型尺度",
+  "dimension": "D",
+  "dimensions": [
+    "A 侧光",
+    "C 消失点",
+    "D 重复与尺度",
+    "E 石木对照",
+    "I 仪式感"
+  ],
+  "mood": "庄严、神圣",
+  "summary": "用重复的柱身与暗腔给空间节拍，再用递减的间距把视线带向深处。",
+  "blog": "BlackCityHall 登记场景、Shrine 入口",
+  "shots": [
+    {
+      "file": "opus-c-guide/kimi-63-18s.jpg",
+      "work": "Blender cathedral interior",
+      "url": "https://x.com/k1rallik/status/2113693629713633435",
+      "proof": "柱束亮面与柱间暗腔成对重复，越靠尽端间距越紧，过道保留整段节奏的观看距离。",
+      "capture": "浏览器观看成片，pageAssets保存已观察原片，18.000s原尺寸抽帧；编辑器时刻已排除。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "kimi-cologne-cathedral"
+    },
+    {
+      "file": "strong-scenes/athenaion-author-shot5.jpg",
+      "work": "Athenaion · Temple facade",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "柱身受光与柱间暗腔交替；侧立面把这组节奏延伸到深处。",
+      "capture": "作者最终独立静帧，1920×1080逐字节保存；机位pos=[75,62,66]，target=[32.73,74.2,-24.23]，FOV18.5°。原作9b8bd23。非本轮运行截图。",
+      "kind": "作者实际3D渲染成片，已逐张查看",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "kimi-videos/016-celestial-palace-33.376.jpg",
+      "work": "Unreal 云上神殿与巨龙",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-1",
+      "proof": "右侧朱柱与柱间暗隙连续递进，弧形檐线把一根根柱的重复接成向远处收拢的节奏。",
+      "capture": "浏览器抽看12.65/18.31/33.38秒；已观察原片33.376s原尺寸抽帧。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-1"
+    },
+    {
+      "file": "light-water/godrays-sponza-shadow.png",
+      "work": "Sponza · 本次偏暗机位",
+      "url": "https://three-good-godrays.ameo.design/#sponza",
+      "proof": "帘幕与柱间暗区连成大块，重复柱与间隙难以交替辨认。 仅评价本次画面。",
+      "capture": "sponza加载完成→Close Controls；1920×1080；拖动(950,450)到(950,260)，再至(950,385)。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/04.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "counterexample",
+      "work_id": "https://three-good-godrays.ameo.design/#sponza"
+    }
+  ]
+}

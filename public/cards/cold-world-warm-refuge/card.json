@@ -1,0 +1,78 @@
+{
+  "id": "cold-world-warm-refuge",
+  "title": "冷境暖灯",
+  "group": "色彩",
+  "dimension": "B",
+  "dimensions": [
+    "A 光的叙事",
+    "B 冷暖分区",
+    "C 视觉重心",
+    "E 发光表面",
+    "I 居住暗示"
+  ],
+  "mood": "孤寂、庇护",
+  "summary": "让整个世界保持冷色，把“有人在”的信息压缩成一小块暖光。",
+  "blog": "title 主视觉、Shrine 夜景与 Alley2 门口",
+  "shots": [
+    {
+      "file": "opus-c-guide/kimi-17-cloud-castle.jpg",
+      "work": "Castle above the clouds",
+      "url": "https://x.com/i/status/2113279019005460816",
+      "proof": "灰蓝云海包住暖窗和串灯，居住感集中在右下建筑。",
+      "capture": "Chrome实际看近景与移动全景，约26.58s隐藏播放控件截图；原片2560×1440，浏览器1920×1080。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://x.com/i/status/2113279019005460816"
+    },
+    {
+      "file": "kimi-videos/023-robot-film-10.406.jpg",
+      "work": "末日机器人短片",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-8",
+      "proof": "冷蓝废墟中，工作间的一条暖灯定义仅存的生活空间。",
+      "capture": "浏览器看10.41s与14.04s终帧；已观察原片10.406s原尺寸抽帧。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-8"
+    },
+    {
+      "file": "light-water/jiangnan-blue-valley.png",
+      "work": "江南山谷 · 蓝调全景",
+      "url": "https://github.com/holooooo/webgl-seascape-video/blob/915cb7c9a318e03bd2228bc232494b496ff2316c/episodes/04-jiangnan-voxel/interactive.html",
+      "proof": "山体与树林保持冷暗，河岸灯、亭灯、山寺窗依距离构成三个暖点。",
+      "capture": "本地3079/Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html；01山谷全景、默认蓝调、隐藏界面，1920×1080。画质曾自适应降低，不称最高质量。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/03.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "webgl-seascape-jiangnan"
+    },
+    {
+      "file": "light-water/jiangnan-temple-blue.png",
+      "work": "江南山谷 · 山寺蓝调",
+      "url": "https://github.com/holooooo/webgl-seascape-video",
+      "proof": "暖门灯有目的性，但光晕开始覆盖门口细节。",
+      "capture": "本地3079同江南路由；03山寺小径、蓝调、隐藏界面；2494×905原生截图。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/04.png",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "counterexample",
+      "work_id": "webgl-seascape-jiangnan"
+    }
+  ]
+}

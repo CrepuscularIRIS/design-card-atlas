@@ -1,0 +1,95 @@
+{
+  "id": "warm-stone-cool-shadow",
+  "title": "暖石冷影",
+  "group": "色彩",
+  "dimension": "B",
+  "dimensions": [
+    "B 受光与阴影色",
+    "A 环境填充",
+    "D 面转折",
+    "E 石材",
+    "C 主次"
+  ],
+  "mood": "庄严、清朗",
+  "summary": "把暖白受光面与灰蓝背光面放在同一块石头上，冷暖用于塑体而非分割两盏彩灯。",
+  "blog": "Shrine 巨像与台阶、BlackCityHall 石质立面",
+  "shots": [
+    {
+      "file": "kimi-videos/017-stone-deity-7.918.jpg",
+      "work": "云上石像",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-2",
+      "proof": "同一石像脸部左上受光面暖白，右侧脸颊与胸前衣褶阴面灰蓝；色差随面转折，而非石像与天空两物体分色。",
+      "capture": "浏览器抽看1.699、6.793、7.918、10.914s与尾段；7.918004s原尺寸视频帧，非连续全片。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-2",
+      "order": 1,
+      "sha256": "3bffd14ed1e201811f6f5e3c7c82f7b6690748942dd8d05c9c137b1514f8c33d"
+    },
+    {
+      "file": "strong-scenes/athenaion-author-shot1.jpg",
+      "work": "Athenaion · Panorama",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "证据边界：暖神殿与蓝灰远山分属不同物体、不同距离；环境分色清楚，但不能单独证明同一石面的暖面冷影。",
+      "capture": "作者最终独立静帧，1920×1080逐字节保存；pos=[108,66,30]，target=[15.1,61.5,-6.7]，FOV40°。原作9b8bd23。非本轮运行截图。",
+      "kind": "作者实际3D渲染成片，已逐张查看",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "counterexample",
+      "work_id": "athenaion",
+      "order": 2,
+      "sha256": "225681349ac39c0291d3786b2a384887ed2d48a4535935a8c82c2253d417592d"
+    },
+    {
+      "file": "opus-a/qingming-rain-bridge.jpg",
+      "work": "清明上河 · 雨中虹桥",
+      "url": "https://silentfleetkk.github.io/qingming-bianjing/opus-5.5/qingming-bianjing.html",
+      "proof": "雨桥被均匀灰天包住，冷灰同调适合雨景，却没有强暖面/冷影塑体。",
+      "capture": "虹桥河岸→清明时节雨纷纷→隐藏界面；待雨线出现。2494×905原生。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/04.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "counterexample",
+      "work_id": "qingming-bianjing-opus",
+      "order": 3,
+      "sha256": "7ecd1b00cadbf84d5907156ed454640eb4f355712d17a734f7801f4ab9e467a6"
+    }
+  ],
+  "archived_shots": [
+    {
+      "file": "strong-scenes/athenaion-author-shot9.jpg",
+      "work": "Athenaion · Ruined portico",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "已复核的近柱有明暗与表面细节，但阴面主要为中性灰褐，不能作为同物体灰蓝冷影的强证明；原图保留，不计正例。",
+      "capture": "作者最终独立渲染静帧；pos=[151.56,57.8,139.41]，target=[83.16,60,66.41]，FOV36.5°；非本轮runtime。",
+      "kind": "已逐张查看的作者3D最终成片",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "archived",
+      "work_id": "athenaion",
+      "sha256": "68d7bf692af8428ee7b94584a6b76ba5eb348275fe648ef93022b9c94c479462"
+    }
+  ],
+  "editorial_status": "needs_more_positive_evidence",
+  "evidence_limit": "本卡只有1张有效全图正例，未满足3–8张正例门槛；不计入证据完整的精选卡。不可用同机位相邻帧或不同物体环境分色补数。",
+  "additional_review": {
+    "date": "2026-10-25",
+    "scope": "浏览器原片抽看7.639069、8.775470、9.395326秒，三次均为基本固定低机位，主要云层变化；没有新增独立机位。",
+    "video_url": "https://media.skillry.dev/kimi-k3-1/2113680701770068067-2/sword-flight.6629872b9f45.w1920.mp4",
+    "new_frames_saved": false
+  }
+}

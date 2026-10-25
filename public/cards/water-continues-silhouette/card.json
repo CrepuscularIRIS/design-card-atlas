@@ -1,0 +1,78 @@
+{
+  "id": "water-continues-silhouette",
+  "title": "水面续轮廓",
+  "group": "水与大气",
+  "dimension": "F",
+  "dimensions": [
+    "F 反射连续性",
+    "C 水平分界",
+    "D 形体重复",
+    "B 反射色",
+    "E 波面"
+  ],
+  "mood": "安静、延展",
+  "summary": "让岸上形体在水里接着存在，倒影为建筑增加第二个向下延伸的空间。",
+  "blog": "Beach1/2 水岸后续建模、Shrine 水庭提案",
+  "shots": [
+    {
+      "file": "light-water/jiangnan-morning-water.png",
+      "work": "江南山谷 · 清晨河岸",
+      "url": "https://github.com/holooooo/webgl-seascape-video/blob/915cb7c9a318e03bd2228bc232494b496ff2316c/episodes/04-jiangnan-voxel/interactive.html",
+      "proof": "桥洞与倒影接近闭合，两侧墙体沿岸线向下延伸。",
+      "capture": "本地3079江南interactive.html；02河边低机位→清晨→隐藏界面；1920×1080。画质曾自适应降低。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/01.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "webgl-seascape-jiangnan"
+    },
+    {
+      "file": "opus-a/qingming-rain-bridge.jpg",
+      "work": "清明上河 · 雨中虹桥",
+      "url": "https://silentfleetkk.github.io/qingming-bianjing/opus-5.5/qingming-bianjing.html",
+      "proof": "船身和桅杆被波纹打碎，仍能对回水上的对象。",
+      "capture": "虹桥河岸→清明时节雨纷纷→隐藏界面；待雨线出现。2494×905原生。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "qingming-bianjing-opus"
+    },
+    {
+      "file": "opus-d/577-falcon9-56s.jpg",
+      "local": "shots/03.jpg",
+      "work": "Falcon 9 · 海面降落",
+      "url": "https://github.com/noahsabaj/falcon9-blender/releases/tag/v1.0",
+      "proof": "船舷与右侧箱体在水中延成倒形，左侧绿灯也有对应亮点；水纹只轻微打散它们。",
+      "capture": "作者v1.0成片56.000s原尺寸帧；已实际查看，非本轮本地Blender运行。",
+      "kind": "作者3D电影单帧；noahsabaj，CC BY-NC 4.0",
+      "work_id": "falcon9-blender",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "light-water/cosmos-accretion-08.png",
+      "work": "Shader & Cosmos · 吸积盘",
+      "url": "https://github.com/holooooo/webgl-seascape-video",
+      "proof": "亮点覆盖大部分水面，很难用稳定倒影读出上方形体。",
+      "capture": "本地3079/Repos/webgl-seascape-video/episodes/03-shader-cosmos/interactive.html；高画质、暂停、08吸积盘、隐藏界面；质量1.1、亮度1、曝光0.85，波相位未固定。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/04.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "counterexample",
+      "work_id": "webgl-seascape-cosmos"
+    }
+  ]
+}

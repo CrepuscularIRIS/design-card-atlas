@@ -1,0 +1,93 @@
+{
+  "id": "backlight-reveals-silhouette",
+  "title": "逆光露轮廓",
+  "group": "光影",
+  "dimension": "A",
+  "dimensions": [
+    "A 逆光",
+    "B 色温",
+    "C 亮暗重心",
+    "D 剪影",
+    "F 明亮大气"
+  ],
+  "mood": "敬畏、压迫",
+  "summary": "把亮背景放在需要读懂的外轮廓后面，让暗主体以形状而不是满身高光成立。",
+  "blog": "title 主建筑、Shrine 巨像背景",
+  "shots": [
+    {
+      "file": "opus-a/qingming-dusk-bridge.jpg",
+      "work": "清明上河 · 黄昏虹桥",
+      "url": "https://silentfleetkk.github.io/qingming-bianjing/opus-5.5/qingming-bianjing.html",
+      "proof": "亮天空从桥栏、人物与拱洞后透出，桥本身保持暗形。",
+      "capture": "黄昏→显示界面→虹桥河岸→隐藏界面；待镜头稳定。2494×905原生。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "qingming-bianjing-opus"
+    },
+    {
+      "file": "kimi-videos/016-celestial-palace-33.376.jpg",
+      "work": "Unreal 云上神殿与巨龙",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-1",
+      "proof": "看下方人物与右侧檐线：暖云是它们的亮背景；龙鬃白高光不是本卡目标。",
+      "capture": "浏览器抽看12.65/18.31/33.38秒；已观察原片33.376s原尺寸抽帧。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-1"
+    },
+    {
+      "file": "kimi-videos/059-mist-colossi-1.788.jpg",
+      "work": "中式幻想 RPG · 雾中巨像",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203",
+      "proof": "两侧合掌轮廓由中央淡雾开口衬出，暗像不必全身发亮。",
+      "capture": "浏览器实际看10.03/12.49s并拖回1.788s；已观察原片1.788s原尺寸抽帧；非连续全片验收。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203"
+    },
+    {
+      "file": "opus-b-tail/250-long-wind-grassland.jpg",
+      "local": "shots/05.jpg",
+      "work": "长风 · 草原风起",
+      "url": "https://jbang2004.github.io/long-wind/",
+      "proof": "看太阳下方三个中景人形与右侧树干：亮雾把暗轮廓分出来；草穗亮边属于另一层，近角色面部不是建模范本。",
+      "capture": "2026-10-25浏览器实看；等待Earth/Stone/Sword完整生成→点击启程→必要时继续RESUME→草原第一回默认第三人称机位，等大字消退；保留左下气条。仅观察本章，动态草与云未固定相位。",
+      "kind": "本轮实际浏览器截图",
+      "work_id": "https://jbang2004.github.io/long-wind",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "light-water/cosmos-accretion-08.png",
+      "work": "Shader & Cosmos · 吸积盘",
+      "url": "https://github.com/holooooo/webgl-seascape-video",
+      "proof": "太阳、环带与满水面亮点同时抢高光，不作为主参考。",
+      "capture": "本地3079/Repos/webgl-seascape-video/episodes/03-shader-cosmos/interactive.html；高画质、暂停、08吸积盘、隐藏界面；质量1.1、亮度1、曝光0.85，波相位未固定。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/04.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "counterexample",
+      "work_id": "webgl-seascape-cosmos"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "ordered-frame-wild-growth",
+  "title": "骨架规整草木野",
+  "group": "造型尺度",
+  "dimension": "D",
+  "dimensions": [
+    "D 规则与有机",
+    "C 密度分区",
+    "E 表面差",
+    "A 光下细节",
+    "I 生长感"
+  ],
+  "mood": "生机、时间",
+  "summary": "把清楚的建筑骨架与不均匀生长的植物并置，让两种秩序互相说明。",
+  "blog": "Shrine 庭院与废墟边缘、atlas 绿化地标",
+  "shots": [
+    {
+      "file": "kimi-videos/019-airport-rainforest-13.773.jpg",
+      "work": "Blender 机场室内雨林",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-4",
+      "proof": "大网格天幕托住空间，下面林冠高低和疏密不一，水柱穿过两者。",
+      "capture": "浏览器看9.63s编辑器与13.77s成片；仅取13.773s，1920×1080原尺寸。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-4"
+    },
+    {
+      "file": "strong-scenes/athenaion-author-shot2.jpg",
+      "work": "Athenaion · 水庭",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "圆亭和栏杆有确定边界，树冠与草簇越出边界但没有填平道路。",
+      "capture": "作者独立3D成片；pos=[-19,7,227] target=[-13.6,14.8,127.4] FOV28.5°，版本9b8bd23；非本轮runtime。",
+      "kind": "已逐张查看的作者3D最终成片",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "strong-scenes/athenaion-author-shot9.jpg",
+      "work": "Athenaion · Ruined portico",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "残柱与梁仍可读为规整构架，杂草沿地面与断口生长。",
+      "capture": "作者最终独立渲染静帧；pos=[151.56,57.8,139.41]，target=[83.16,60,66.41]，FOV36.5°；非本轮runtime。",
+      "kind": "已逐张查看的作者3D最终成片",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "opus-b/268-koyo-en-entry.jpg",
+      "work": "Kōyō-en · 入口",
+      "url": "https://modelzengarden.com/garden/opus-5-5-claude-code",
+      "proof": "叶片与草地的重复纹理接近木廊节奏，缩图时自然层也变成规整花纹。",
+      "capture": "Show me the results→Opus5.5 garden→Step inside；入口原生2494×905截图，未移动。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/04.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "counterexample",
+      "work_id": "https://modelzengarden.com/garden/opus-5-5-claude-code"
+    }
+  ]
+}

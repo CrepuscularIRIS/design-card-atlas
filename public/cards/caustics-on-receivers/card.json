@@ -1,0 +1,93 @@
+{
+  "id": "caustics-on-receivers",
+  "title": "焦散落在表面",
+  "group": "材质",
+  "dimension": "E",
+  "dimensions": [
+    "E 透明与折射",
+    "A 高光分工",
+    "B 局部色散",
+    "C 留白",
+    "F 浅水层次"
+  ],
+  "mood": "澄澈、精密",
+  "summary": "把透光的物体、表面高光和投到周围的光斑分开组织，透明材质才有空间关系。",
+  "blog": "Beach 浅水、Shrine 器物、Platform 展示道具",
+  "shots": [
+    {
+      "file": "opus-a/clearwater-caustics.jpg",
+      "work": "Clearwater",
+      "url": "https://aureliengmz.github.io/clearwater/",
+      "proof": "浅绿光网落在可见水底石粒上，白色表面反光另处于上中部。",
+      "capture": "实际网页默认向下机位，水面完成后截2494×905；没有拖动或点击，波相位未固定。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "https://aureliengmz.github.io/clearwater"
+    },
+    {
+      "file": "opus-c-guide/kimi-56-12s.jpg",
+      "work": "Glass goblets · 12s",
+      "url": "https://x.com/liambraus/status/2113724051332194589",
+      "proof": "透明棱面集中在杯腹，彩色光斑投到左侧地面，背景留得很安静。",
+      "capture": "浏览器实看原片；pageAssets保存该video后ffmpeg在12.000s原尺寸抽帧。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "liambraus-glass-goblets"
+    },
+    {
+      "file": "opus-c-guide/kimi-56-21s.jpg",
+      "work": "Glass goblets · 21s",
+      "url": "https://x.com/liambraus/status/2113724051332194589",
+      "proof": "换一视角后仍能区分实体轮廓、折射碎色和投地光斑。",
+      "capture": "同一已观察原片21.000s抽帧；这是同一作品，不算第二独立来源。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "liambraus-glass-goblets"
+    },
+    {
+      "file": "opus-a/seiryu-riffle-crop.png",
+      "work": "清流 · 浅滩河床",
+      "url": "https://seiryu.miraicode.one/",
+      "proof": "近水石床仍可辨认，细焦散贴在水底，岸上白岩与暗叶另成层次。",
+      "capture": "原作者回复链接的后续钓鱼可玩版；TAP TO START→Skip tutorial→Summer/Lower Riffle，待介绍消失；原2494×905保留，裁切(0,185,2335,735)成2335×550，无放大。",
+      "kind": "实际浏览器截图，裁切与版本范围见步骤",
+      "work_id": "https://seiryu.miraicode.one",
+      "local": "shots/05.png",
+      "dimensions": [
+        2335,
+        550
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "light-water/cosmos-accretion-08.png",
+      "work": "Shader & Cosmos · 吸积盘",
+      "url": "https://github.com/holooooo/webgl-seascape-video",
+      "proof": "只有水面闪点，未展示可辨水底受光面，不能当作焦散落地正例。 仅评价本次画面。",
+      "capture": "本地3079/Repos/webgl-seascape-video/episodes/03-shader-cosmos/interactive.html；高画质、暂停、08吸积盘、隐藏界面；质量1.1、亮度1、曝光0.85，波相位未固定。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/04.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "counterexample",
+      "work_id": "webgl-seascape-cosmos"
+    }
+  ]
+}

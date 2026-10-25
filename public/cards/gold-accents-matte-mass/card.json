@@ -1,0 +1,78 @@
+{
+  "id": "gold-accents-matte-mass",
+  "title": "金饰点亮哑面",
+  "group": "材质",
+  "dimension": "E",
+  "dimensions": [
+    "E 金色光泽与哑面",
+    "A 亮边位置",
+    "B 点缀色面积",
+    "D 结构节点",
+    "C 识别焦点"
+  ],
+  "mood": "庄严、精致",
+  "summary": "让金色光泽只强调冠、盾、边和器件，大体块继续由哑石、毛发或布料承担。",
+  "blog": "Shrine 门饰与立柱、BlackCityHall 徽记提案",
+  "shots": [
+    {
+      "file": "strong-scenes/athenaion-author-shot5.jpg",
+      "work": "Athenaion · Temple facade",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "金盾、冠饰和檐口小饰在大面积灰石旁形成窄亮边，石柱仍是主体体块。",
+      "capture": "作者最终独立静帧，1920×1080逐字节保存；机位pos=[75,62,66]，target=[32.73,74.2,-24.23]，FOV18.5°。原作9b8bd23。非本轮运行截图。",
+      "kind": "作者实际3D渲染成片，已逐张查看",
+      "work_id": "athenaion",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "kimi-videos-tail/140-wukong-17.117.jpg",
+      "work": "悟空 · 金箍与棍端",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/oddjolt-160428",
+      "proof": "金箍与棍端出现集中的金色亮边，毛发、暗棍身与布料保留宽暗面；银灰肩甲不作为金饰证据。",
+      "capture": "浏览器实看17.117s人物近景与30.293s末帧；已观察原片17.117s原尺寸抽帧，1920×1080；非完整动作验收。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/oddjolt-160428"
+    },
+    {
+      "file": "strong-scenes/athenaion-author-shot6.jpg",
+      "work": "Athenaion · Grand staircase",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "左前景金盆的窄亮边邻接灰石宽面；看盆沿、盆腹与石基座，不把火焰当金饰发光。",
+      "capture": "作者独立静帧，1920×1080逐字节保存；机位pos=[24,26.8,50]，target=[-11.3,60.2,-37.4]，FOV42°。原作9b8bd23。与图01为同一作品的不同机位，非本轮运行截图。",
+      "kind": "作者实际3D渲染成片，已逐张查看",
+      "work_id": "athenaion",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "local-collections/kintsugi-gold-seams.jpg",
+      "work": "Kintsugi · 发光裂缝",
+      "url": "https://github.com/OpenVGLab/awesome-opus5.5-frontend-showcases/blob/cac43b250f07b7b86f4709c61effc84269f46494/repro/imaginary-planets/index.html",
+      "proof": "大面积金缝主动发亮并软扩散，属于能量裂缝语言，不能当作少量金饰受光的证据。",
+      "capture": "本地3079/repro/imaginary-planets/index.html→Kintsugi第02行星→近景；实际整视口2494×905，默认自转相位未固定。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/04.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "counterexample",
+      "work_id": "https://github.com/OpenVGLab/awesome-opus5.5-frontend-showcases/blob/cac43b250f07b7b86f4709c61effc84269f46494/repro/imaginary-planets/index.html"
+    }
+  ]
+}

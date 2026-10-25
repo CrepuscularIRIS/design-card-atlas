@@ -1,0 +1,54 @@
+{
+  "structural_errors": [],
+  "incomplete_delivery_requirements": [],
+  "cards": 25,
+  "multi_work_cards": 23,
+  "coverage": {
+    "A": 2,
+    "E": 5,
+    "B": 2,
+    "D": 5,
+    "C": 4,
+    "F": 2,
+    "G": 3,
+    "H": 2
+  },
+  "screening": {
+    "Kimi guide": {
+      "rows": 83,
+      "expected": 83,
+      "unresolved": 0
+    },
+    "Kimi videos": {
+      "rows": 187,
+      "expected": 187,
+      "unresolved": 0
+    },
+    "Kimi / Opus benchmark": {
+      "rows": 10,
+      "expected": 10,
+      "unresolved": 0
+    },
+    "Opus frontend": {
+      "rows": 91,
+      "expected": 91,
+      "unresolved": 0
+    },
+    "Opus usecases": {
+      "rows": 663,
+      "expected": 663,
+      "unresolved": 0
+    },
+    "Opus live demos": {
+      "rows": 3,
+      "expected": 3,
+      "unresolved": 0
+    },
+    "MG styles": {
+      "rows": 15,
+      "expected": 15,
+      "unresolved": 0
+    }
+  },
+  "note": "Requires separate visual review and complete screening CSV audit."
+}

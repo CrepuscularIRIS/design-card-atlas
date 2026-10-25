@@ -1,0 +1,78 @@
+{
+  "id": "scale-by-familiar-objects",
+  "title": "熟悉物标定巨构",
+  "group": "造型尺度",
+  "dimension": "D",
+  "dimensions": [
+    "D 尺度参照",
+    "C 前中后景",
+    "A 轮廓",
+    "G 视点",
+    "I 世界观"
+  ],
+  "mood": "宏大、敬畏",
+  "summary": "给巨物旁边放一个观众认识大小的东西，巨大才会从形容词变成直觉。",
+  "blog": "atlas 主地标、BlackCityHall、Shrine 会面背景",
+  "shots": [
+    {
+      "file": "kimi-videos/016-celestial-palace-33.376.jpg",
+      "work": "Unreal 云上神殿与巨龙",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-1",
+      "proof": "近处巨龙、远处人物与右侧柱列共同给出尺度。",
+      "capture": "浏览器抽看12.65/18.31/33.38秒；已观察原片33.376s原尺寸抽帧。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-1"
+    },
+    {
+      "file": "strong-scenes/athenaion-author-shot1.jpg",
+      "work": "Athenaion · Panorama",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "右侧神殿和巨像与左侧成片民居相比，宏大来自城市内的相对大小。",
+      "capture": "作者最终独立静帧，1920×1080逐字节保存；pos=[108,66,30]，target=[15.1,61.5,-6.7]，FOV40°。原作9b8bd23。非本轮运行截图。",
+      "kind": "作者实际3D渲染成片，已逐张查看",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "kimi-videos/019-airport-rainforest-13.773.jpg",
+      "work": "Blender 机场室内雨林",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-4",
+      "proof": "可识别的列车和树冠让屋盖的巨大变得可量，而不只是把镜头拉远。",
+      "capture": "浏览器看9.63s编辑器与13.77s成片；仅取13.773s，1920×1080原尺寸。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-4"
+    },
+    {
+      "file": "strong-scenes/invisible-octavia-runtime.jpg",
+      "work": "Invisible Cities · Octavia",
+      "url": "https://p.migdal.pl/invisible-cities-opus-5.5/?solo=octavia&view=side",
+      "proof": "完整底座和外场网格使观众读成桌面模型；不能直接当成身临其境的巨构镜头。",
+      "capture": "Enter Atlas→Octavia→H→solo side；两次水平拖动面向峡谷开口；2494×905原生截图。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/04.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "counterexample",
+      "work_id": "https://p.migdal.pl/invisible-cities-opus-5.5/?solo=octavia&view=side"
+    }
+  ]
+}

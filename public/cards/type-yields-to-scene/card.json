@@ -1,0 +1,82 @@
+{
+  "id": "type-yields-to-scene",
+  "title": "巨字随景退场",
+  "group": "排版 UI",
+  "dimension": "H",
+  "dimensions": [
+    "H 字级与退场",
+    "C 负空间",
+    "G 机位切换",
+    "A 文字亮度",
+    "I 从命名到观看"
+  ],
+  "mood": "克制、肃穆",
+  "summary": "全景用大字命名世界，进入近景后让标题退场，保留足够轻的导航。",
+  "blog": "title 主视觉、BlackCityHall / Shrine 初次进入",
+  "shots": [
+    {
+      "file": "local-collections/kimi-black-sand-wide.jpg",
+      "work": "黑沙之境 · 海岸全景",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/kimi/iceland-black-sand/dist/index.html",
+      "proof": "全景左侧留出标题区，右柱壁与中远礁仍可读。",
+      "capture": "默认01全景；本地Chrome实际观察。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "kimi-iceland-black-sand",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/kimi/iceland-black-sand/dist/index.html"
+    },
+    {
+      "file": "local-collections/kimi-black-sand-columns.jpg",
+      "work": "黑沙之境 · 玄武岩柱",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/kimi/iceland-black-sand/dist/index.html",
+      "proof": "点击近柱后巨字消退，四周细标注保留方向。",
+      "capture": "真实点击02；看到标题淡出及近柱完成态。未计时连续录屏。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "kimi-iceland-black-sand",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/kimi/iceland-black-sand/dist/index.html"
+    },
+    {
+      "file": "local-collections/opus-black-sand-wide.jpg",
+      "work": "雷尼斯黑沙滩 · 海滩",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/reynisfjara/index.html",
+      "proof": "另一海滩把标题从一开始压到左上，作为无需巨字的对照方案。",
+      "capture": "阴天默认机位1；本地Chrome实际观察。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "opus-reynisfjara",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/reynisfjara/index.html"
+    },
+    {
+      "file": "local-collections/counter-expedition-title.jpg",
+      "work": "水牛远征 · 大字与山谷",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/01-expedition.html",
+      "proof": "广告巨字在山谷前常驻，目标小帐篷很难与之争夺第一眼。",
+      "capture": "加载完成后实际首屏；真实作品对照。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/04.jpg",
+      "dimensions": [
+        2479,
+        900
+      ],
+      "role": "counterexample",
+      "work_id": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/01-expedition.html",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/buffalo/01-expedition.html"
+    }
+  ]
+}

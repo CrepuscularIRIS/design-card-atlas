@@ -1,0 +1,92 @@
+[
+  {
+    "file": "cosmos-lens-06.png",
+    "work": "webgl-seascape-video / Shader & Cosmos",
+    "url": "http://127.0.0.1:3079/Repos/webgl-seascape-video/episodes/03-shader-cosmos/interactive.html",
+    "steps": "打开作品集→03 Shader与宇宙→交互探索；高画质；暂停运动；06引力透镜；隐藏界面。相机默认；水面时间相位未固定。",
+    "meaning": "纯黑圆心被弯曲背景包围，中心负空间清晰；外侧水纹过密，暂列比较候选，不作为精选结论。",
+    "role": "candidate",
+    "date": "2026-10-25",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "rights": "原作品与素材权利归原作者；仅作署名设计研究引用，不授权复用。"
+  },
+  {
+    "file": "cosmos-accretion-08.png",
+    "work": "webgl-seascape-video / Shader & Cosmos",
+    "url": "http://127.0.0.1:3079/Repos/webgl-seascape-video/episodes/03-shader-cosmos/interactive.html",
+    "steps": "上图相同暂停状态→显示界面→08吸积盘→隐藏界面；质量1.1、亮度1、曝光0.85。",
+    "meaning": "暖金环的横带与上方弧线围出黑核；左侧太阳和密集水面亮点分散焦点，可能用作高光争抢反例。",
+    "role": "comparison",
+    "date": "2026-10-25",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "rights": "原作品与素材权利归原作者；仅作署名设计研究引用，不授权复用。"
+  },
+  {
+    "file": "godrays-sponza-shadow.png",
+    "work": "three-good-godrays / Sponza",
+    "url": "https://three-good-godrays.ameo.design/#sponza",
+    "steps": "demo切sponza，资源加载完成，Close Controls；1920×1080；从(950,450)拖到(950,260)，再从(950,260)拖到(950,385)。",
+    "meaning": "柱廊与远处雾光存在，但墙面和帘幕中间调丢失，缩小后只剩暗块；不作为优秀体积光代表。",
+    "role": "counterexample",
+    "date": "2026-10-25",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "rights": "原作品与素材权利归原作者；仅作署名设计研究引用，不授权复用。"
+  },
+  {
+    "file": "jiangnan-blue-valley.png",
+    "work": "webgl-seascape-video / 江南山谷",
+    "url": "http://127.0.0.1:3079/Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html",
+    "original_url": "https://github.com/holooooo/webgl-seascape-video/blob/915cb7c9a318e03bd2228bc232494b496ff2316c/episodes/04-jiangnan-voxel/interactive.html",
+    "steps": "01 山谷全景；默认蓝调；资源完成后隐藏界面；未启用镜头巡游。",
+    "meaning": "前景暗松树、中景白墙与河桥、后景淡山分成三层；暖灯沿水岸点到为止。",
+    "role": "reference",
+    "date": "2026-10-25",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "4308b890156e394809125f5507d59f9874426d8989b11025fde0b2581c1419b2",
+    "rights": "图像与原作品权利归原作者；署名设计研究引用，不重新授权。"
+  },
+  {
+    "file": "jiangnan-morning-water.png",
+    "work": "webgl-seascape-video / 江南山谷",
+    "url": "http://127.0.0.1:3079/Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html",
+    "original_url": "https://github.com/holooooo/webgl-seascape-video/blob/915cb7c9a318e03bd2228bc232494b496ff2316c/episodes/04-jiangnan-voxel/interactive.html",
+    "steps": "显示界面→02 河边低机位→清晨→隐藏界面；等待色调和镜头切换结束。",
+    "meaning": "贴水看向石桥；倒影占下方约45%，白墙与淡山留在其上，石岸近景提供深度。",
+    "role": "reference",
+    "date": "2026-10-25",
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "sha256": "4cc30085a77796e235e74957481ffc42f02f2cc70bf94f9127fc9b0de6a50ba3",
+    "rights": "图像与原作品权利归原作者；署名设计研究引用，不重新授权。"
+  },
+  {
+    "file": "jiangnan-temple-blue.png",
+    "work": "webgl-seascape-video / 江南山谷",
+    "url": "http://127.0.0.1:3079/Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html",
+    "original_url": "https://github.com/holooooo/webgl-seascape-video/blob/915cb7c9a318e03bd2228bc232494b496ff2316c/episodes/04-jiangnan-voxel/interactive.html",
+    "steps": "重新打开默认蓝调→03 山寺小径→隐藏界面；截图原生2494×905。",
+    "meaning": "石阶引向唯一暖门灯；整坡中间调压得很低，适合说明灯光目的地，但不作为巨构大场景主图。",
+    "role": "comparison",
+    "date": "2026-10-25",
+    "dimensions": [
+      2494,
+      905
+    ],
+    "sha256": "400ab5b37a1c399ec890541cdd8685b9439f7970aee485511e2eeb927c51a0dc",
+    "rights": "图像与原作品权利归原作者；署名设计研究引用，不重新授权。"
+  }
+]

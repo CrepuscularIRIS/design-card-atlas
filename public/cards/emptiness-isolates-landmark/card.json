@@ -1,0 +1,79 @@
+{
+  "id": "emptiness-isolates-landmark",
+  "title": "留空放大孤立物",
+  "group": "构图重心",
+  "dimension": "C",
+  "dimensions": [
+    "C 负空间",
+    "D 单体尺度",
+    "A 高光预算",
+    "B 色域",
+    "I 孤立"
+  ],
+  "mood": "孤寂、静止",
+  "summary": "让一个可辨认的物体独占大面积空场，空白本身成为时间和距离。",
+  "blog": "title 的单地标构图、Platform 远眺背景",
+  "shots": [
+    {
+      "file": "opus-d/577-falcon9-29s.jpg",
+      "work": "Falcon 9 · 暮空尾迹",
+      "url": "https://github.com/noahsabaj/falcon9-blender/releases/tag/v1.0",
+      "proof": "深蓝天空让出大面积低细节空场，白色薄尾迹成为唯一事件。",
+      "capture": "作者v1.0成片原尺寸29秒；实际查看11个成片帧中的此帧，非本地Blender运行。",
+      "kind": "作者3D电影原尺寸帧；CC BY-NC 4.0，作者noahsabaj",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "falcon9-blender"
+    },
+    {
+      "file": "opus-a/ozymandias-isolation-110s-crop.png",
+      "work": "Ozymandias · 孤立残像",
+      "url": "https://www.echohive.ai/posts/ozymandias/animation.html",
+      "proof": "空沙丘围住一小组残腿与碎块，物体靠孤立和长影获得重量。",
+      "capture": "Enter the desert→Pause→slider110s；原2494×905保留于references/opus-a，裁切(0,65,2494,815)去播放器，得2494×750；无放大，长影末端被裁。",
+      "kind": "实际浏览器截图的标注裁切，原全图保留",
+      "local": "shots/01.png",
+      "dimensions": [
+        2494,
+        750
+      ],
+      "role": "reference",
+      "work_id": "ozymandias"
+    },
+    {
+      "file": "local-collections/opus-black-sand-wide.jpg",
+      "work": "雷尼斯黑沙滩 · 海滩",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/reynisfjara/index.html",
+      "proof": "黑壁以外的大段灰天与空海让远礁独立出来，湿带只提供一条方向。",
+      "capture": "阴天默认机位1；本地Chrome实际观察。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "opus-reynisfjara",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/reynisfjara/index.html"
+    },
+    {
+      "file": "opus-a/qingming-dusk-wide.jpg",
+      "work": "清明上河 · 黄昏全城",
+      "url": "https://silentfleetkk.github.io/qingming-bianjing/opus-5.5/qingming-bianjing.html",
+      "proof": "满城屋顶和船桥都在提供生活信息；它不能同时承担孤绝留白。",
+      "capture": "Chrome打开Opus版→默认汴河全景→黄昏华灯初上→H隐藏界面，待变化稳定；2494×905原生视口。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/04.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "counterexample",
+      "work_id": "qingming-bianjing-opus"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "framed-distant-view",
+  "title": "近框套远景",
+  "group": "构图重心",
+  "dimension": "C",
+  "dimensions": [
+    "C 画中框",
+    "D 近远尺度",
+    "A 局部反差",
+    "E 前景材质",
+    "I 观察位置"
+  ],
+  "mood": "窥见、敬畏",
+  "summary": "用有厚度的近景边界围住远处目标，让观众先拥有一个站立的位置。",
+  "blog": "title 前景、Shrine 入口与 Alley2 门洞",
+  "shots": [
+    {
+      "file": "strong-scenes/athenaion-author-shot9.jpg",
+      "work": "Athenaion · Ruined portico",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "近柱与残梁组成不完整的窗，远殿仍然是窗内最清晰的结构。",
+      "capture": "作者最终独立渲染静帧；pos=[151.56,57.8,139.41]，target=[83.16,60,66.41]，FOV36.5°；非本轮runtime。",
+      "kind": "已逐张查看的作者3D最终成片",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "kimi-videos/059-mist-colossi-1.788.jpg",
+      "work": "中式幻想 RPG · 雾中巨像",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203",
+      "proof": "两侧巨像与底座夹出中央远岩、水道的开口，近舟压住左下前景。",
+      "capture": "浏览器实际看10.03/12.49s并拖回1.788s；已观察原片1.788s原尺寸抽帧；非连续全片验收。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203"
+    },
+    {
+      "file": "strong-scenes/athenaion-author-shot2.jpg",
+      "work": "Athenaion · 水庭",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "上角枝叶与右侧近雕像、柱座围出不规则开口，圆亭和阶台后的主殿保留完整轮廓；框不必四边封闭。",
+      "capture": "作者独立3D成片；pos=[-19,7,227] target=[-13.6,14.8,127.4] FOV28.5°，版本9b8bd23；非本轮runtime。 与本卡01是同一作品的不同机位，不计独立作品。",
+      "kind": "已逐张查看的作者3D最终成片",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "light-water/godrays-sponza-shadow.png",
+      "work": "Sponza · 本次偏暗机位",
+      "url": "https://three-good-godrays.ameo.design/#sponza",
+      "proof": "暗帘堵住拱间开口，框内没有清楚目标。 仅评价本次画面。",
+      "capture": "sponza加载完成→Close Controls；1920×1080；拖动(950,450)到(950,260)，再至(950,385)。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/04.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "counterexample",
+      "work_id": "https://three-good-godrays.ameo.design/#sponza"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "low-chroma-value-steps",
+  "title": "低彩分灰阶",
+  "group": "色彩",
+  "dimension": "B",
+  "dimensions": [
+    "B 低饱和",
+    "A 明暗层级",
+    "C 大色块",
+    "E 表面差",
+    "F 远层"
+  ],
+  "mood": "肃穆、清冷",
+  "summary": "减少色相竞争，让暗壁、灰天、亮水各占一个明度层，画面仍能有重量。",
+  "blog": "BlackCityHall 外部、Beach1/2 海岸方案",
+  "shots": [
+    {
+      "file": "local-collections/kimi-black-sand-wide.jpg",
+      "work": "黑沙之境 · 海岸全景",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/kimi/iceland-black-sand/dist/index.html",
+      "proof": "灰天、灰海与黑柱壁分出层级，低彩并没有抹掉地理关系。",
+      "capture": "默认01全景；本地Chrome实际观察。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "kimi-iceland-black-sand",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/kimi/iceland-black-sand/dist/index.html"
+    },
+    {
+      "file": "local-collections/opus-black-sand-wide.jpg",
+      "work": "雷尼斯黑沙滩 · 海滩",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/reynisfjara/index.html",
+      "proof": "黑壁与干沙占大暗块，湿沙银带成为主要亮部。",
+      "capture": "阴天默认机位1；本地Chrome实际观察。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        2494,
+        905
+      ],
+      "role": "reference",
+      "work_id": "opus-reynisfjara",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/reynisfjara/index.html"
+    },
+    {
+      "file": "kimi-videos/059-mist-colossi-1.788.jpg",
+      "work": "中式幻想 RPG · 雾中巨像",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203",
+      "proof": "灰绿近像与淡雾分层，最深的舟棚为全图定黑位。",
+      "capture": "浏览器实际看10.03/12.49s并拖回1.788s；已观察原片1.788s原尺寸抽帧；非连续全片验收。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203"
+    },
+    {
+      "file": "light-water/godrays-sponza-shadow.png",
+      "work": "Sponza · 本次偏暗机位",
+      "url": "https://three-good-godrays.ameo.design/#sponza",
+      "proof": "几种表面都沉到同一暗值，低彩失去中间调就会只剩黑块。",
+      "capture": "sponza加载完成→Close Controls；1920×1080；拖动(950,450)到(950,260)，再至(950,385)。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/04.png",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "counterexample",
+      "work_id": "https://three-good-godrays.ameo.design/#sponza"
+    }
+  ]
+}

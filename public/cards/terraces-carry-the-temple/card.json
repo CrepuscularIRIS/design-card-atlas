@@ -1,0 +1,79 @@
+{
+  "id": "terraces-carry-the-temple",
+  "title": "阶台托举主殿",
+  "group": "造型尺度",
+  "dimension": "D",
+  "dimensions": [
+    "D 层台与主殿",
+    "C 路径层级",
+    "A 面转折",
+    "G 视点",
+    "I 仪式感"
+  ],
+  "mood": "庄严、攀登",
+  "summary": "用宽台、细阶和最高处主殿组成逐级上升的体量，庄严感来自可读的攀登关系。",
+  "blog": "Shrine 入口层台、BlackCityHall 门厅基座",
+  "shots": [
+    {
+      "file": "strong-scenes/athenaion-author-shot2.jpg",
+      "work": "Athenaion · 水庭",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "水庭、环廊、中央高台再到后殿，让高度关系拥有前景起点。",
+      "capture": "作者独立3D成片；pos=[-19,7,227] target=[-13.6,14.8,127.4] FOV28.5°，版本9b8bd23；非本轮runtime。",
+      "kind": "已逐张查看的作者3D最终成片",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "strong-scenes/athenaion-author-shot6.jpg",
+      "work": "Athenaion · Grand staircase",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "近阶宽面一路抬向高处主殿，平台停顿打断机械等距。",
+      "capture": "作者最终独立渲染静帧；pos=[24,26.8,50]，target=[-11.3,60.2,-37.4]，FOV42°；非本轮runtime。",
+      "kind": "已逐张查看的作者3D最终成片",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "strong-scenes/athenaion-author-shot1.jpg",
+      "work": "Athenaion · Panorama",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "城镇低层台阶为高处主殿提供基底，民居与巨像不是同一高度。",
+      "capture": "作者最终独立静帧，1920×1080逐字节保存；pos=[108,66,30]，target=[15.1,61.5,-6.7]，FOV40°。原作9b8bd23。非本轮运行截图。",
+      "kind": "作者实际3D渲染成片，已逐张查看",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "local-collections/counter-buffalo-camp-miniature.jpg",
+      "work": "水牛露营 · 浮岛",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/02-camp.html",
+      "proof": "浮岛只有一层薄底座，主物像摆在托盘上，无法讲述攀登。",
+      "capture": "实际完整首屏；真实作品对照，不是故障图。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/04.jpg",
+      "dimensions": [
+        2479,
+        900
+      ],
+      "role": "counterexample",
+      "work_id": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/02-camp.html",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/buffalo/02-camp.html"
+    }
+  ]
+}

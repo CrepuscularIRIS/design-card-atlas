@@ -1,0 +1,4 @@
+id,标题,链接/本地路径,类型,结论,一句理由,截图文件,观察状态,范围说明
+OPUS-LIVE-01,Inside an AI Data Center: where the watts go,http://localhost:3079/Repos/opus55-live-demos/datacenter.html,3D,不收,本地缺three模块；在线成功，已看机房冷却与电力近景并切Idle，属科普模型+控制面板，非本轮强场景,,已看https://sael.net/data-center/及状态操作,单文件作品
+OPUS-LIVE-02,Fog Over the Gate,http://localhost:3079/Repos/opus55-live-demos/fog-over-the-gate.html,3D,收,实际播放并拖到中后段：暖天冷雾遮住桥面，双塔和缆索保留巨构轮廓；仅选宏观纵深，不视为细腻云标杆,public/references/local-collections/opus-fog-high.jpg,已看首屏/早段/约36–42秒,单文件作品
+OPUS-LIVE-03,Sakura River Valley,http://localhost:3079/Repos/opus55-live-demos/sakura-valley.html,3D,收,本地缺纹理；作者在线版实际行船画面有近船暖灯、冷河道、雾桥与远塔层级，可作古风水路参考,public/references/local-collections/sakura-river-approach.jpg,已看在线默认行船连续画面，未完整走完路径,单文件作品
