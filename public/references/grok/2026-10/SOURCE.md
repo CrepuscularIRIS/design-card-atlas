@@ -502,3 +502,75 @@
   - dock-twilight：`b9df3e836efb8845131bb03f1175f1764dd222551d2d1b45522c157d2f4bc95d`
   - moon-milkyway：`e34275dfa0ad3bb5447b783c2a0d0088f262ef8d449464675200b8660a8bbc2d`
 - 许可备注：版权归 sino1782013；截帧自公开 X 视频；仅作视觉参考，不可自由商用。
+
+## dofresh-mobile-cathedral-1920.jpg · Grand Space Opera — The cathedral
+
+- 作品名：Grand Space Opera: Light Age / The cathedral (Mobile Church)
+- 作者：DOFRESH
+- 原始 URL：https://dofresh.artstation.com/projects/Pob2K3
+- 类型：静帧-概念（ArtStation 公开作品页）
+- 机位/时间/步骤：WebFetch 作品页 og:image → 4k CDN JPG；核对为沙漠机动哥特大教堂+全息环净环境（队列为尺度）。
+- 截取日期：2026-10-25
+- 尺寸：1920×1080
+- SHA256：`f062de30ba17e5b1e42a6eb34989226cd7d4f6e1511ddbda79895757a2ceca3d`
+- 许可备注：版权归 DOFRESH；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## vjaurel-stellarch-2912.jpg · Stellarch
+
+- 作品名：Série Stellarch — megastructure above clouds
+- 作者：Aurélien（VJAurel）
+- 原始 URL：https://x.com/VJAurel/status/2037995050345361720
+- 类型：静帧-AI（公开 X）
+- 机位/时间/步骤：X media :orig 下载；核对云上白环城+针塔无角色/UI。
+- 截取日期：2026-10-25
+- 尺寸：2912×1632
+- SHA256：`1e5bb7f73977210fc16aaf5abb436c221fbac1698cbaaf13424059ee7f496b50`
+- 许可备注：版权归 VJAurel；公开 X 静帧；仅作视觉参考，不可自由商用。
+
+## artingent-cliff-temple-2560.jpg · Cliff temple waterfall
+
+- 作品名：Sacred cliff temple complex beside multi-tiered waterfall
+- 作者：@artingent
+- 原始 URL：https://x.com/artingent/status/2028464778352685193
+- 类型：静帧-AI（公开 X）
+- 机位/时间/步骤：X :orig；核对丛林崖壁神庙+巨瀑神光，朝圣小人仅作尺度。
+- 截取日期：2026-10-25
+- 尺寸：2560×1440
+- SHA256：`46cdaeb7e04720ba4750abe46d6918b27340619842b8fe98db9cf9943ac446aa`
+- 许可备注：版权归 artingent；公开 X 静帧；仅作视觉参考，不可自由商用。
+
+## artingent-orbital-ring-crash-3168.jpg · Crashed Orbital Ring
+
+- 作品名：Crashed Orbital Ring Segment Scene
+- 作者：@artingent
+- 原始 URL：https://x.com/artingent/status/2024944493334868368
+- 类型：静帧-AI（公开 X）
+- 机位/时间/步骤：X :orig；核对断裂轨道环砸入山谷烟柱残骸，无角色/UI。
+- 截取日期：2026-10-25
+- 尺寸：3168×1344
+- SHA256：`944c6233bf2142539bbbab934a486a192292428da6ac4cc86c335f0470826c26`
+- 许可备注：版权归 artingent；公开 X 静帧；仅作视觉参考，不可自由商用。
+
+## renrose-abandoned-gothic-nave-2048.jpg · Abandoned gothic nave
+
+- 作品名：Abandoned gothic cathedral interior overgrown with vines
+- 作者：Ren Rose（RenRose321）
+- 原始 URL：https://x.com/RenRose321/status/1993801330994106536
+- 类型：静帧-AI（公开 X）
+- 机位/时间/步骤：X :orig；核对荒蔓哥特中殿月神光柱，无角色。
+- 截取日期：2026-10-25
+- 尺寸：1638×2048
+- SHA256：`9616eb750f88da5e8e42ead8dfcd1f27c97655b73de857be1b25fefdfc1f0312`
+- 许可备注：版权归 Ren Rose；公开 X 静帧；仅作视觉参考，不可自由商用。
+
+## guidice-stanford-torus-interior-2620.jpg · Stanford Torus (Rick Guidice / NASA)
+
+- 作品名：Stanford Torus / wheel-shaped space colony interior (1975)
+- 作者：Rick Guidice（via @HumanoidHistory）
+- 原始 URL：https://x.com/HumanoidHistory/status/2105790676671647774
+- 类型：静帧-概念（NASA Ames 1975 公开概念画传播）
+- 机位/时间/步骤：X :orig；核对环内上曲居住层+舷窗星云；异于 g111 外骨骼外景。
+- 截取日期：2026-10-25
+- 尺寸：2620×2048
+- SHA256：`4ad0d1904641049cae215c068a2c14609051fa78dfd42698118929e2a1cd0e3f`
+- 许可备注：Rick Guidice / NASA Ames 1975 概念画公开传播；仅作视觉参考。
