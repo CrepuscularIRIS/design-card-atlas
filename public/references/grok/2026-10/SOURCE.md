@@ -1063,3 +1063,107 @@
 - 尺寸：1920×824
 - SHA256：`b6b9a75fe73b1c7e306a31d9f19b31ee6b0a0db66fea3113a4e89b10b08b8daa`
 - 许可备注：版权归原作者；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## greendookie-desert-necropolis-3840.jpg · A sprawling desert necropolis under a blood-red moon
+
+- 作品名：A sprawling desert necropolis under a blood-red moon
+- 作者：greendookie814
+- 原始 URL：https://www.artstation.com/artwork/nJBDP6
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；沙漠血月墓城：火把尺度锚+阶梯金字塔。
+- 截取日期：2026-10-26
+- 尺寸：3840×2560
+- SHA256：`25f00efddade7639702acc7fb8c2ba9f592d7b619e9b898715ec0c4c2603a106`
+- 许可备注：版权归 greendookie814；ArtStation 公开；仅作视觉参考。
+
+
+## lcywinski-cloud-temple-3840.jpg · Cloud temple
+
+- 作品名：Cloud temple
+- 作者：lcywinski
+- 原始 URL：https://www.artstation.com/artwork/qQlKWN
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；崖谷云寺：红袍尺度+拱廊桥。
+- 截取日期：2026-10-26
+- 尺寸：3840×2160
+- SHA256：`916cf97f726224a482e2b0804aa5d707ac3ec034017a74b6c4e0e8b0445f655d`
+- 许可备注：版权归 lcywinski；ArtStation 公开；仅作视觉参考。
+
+
+## daniel-respaud-clouds-temple-2560.jpg · Clouds Temple
+
+- 作品名：Clouds Temple
+- 作者：daniel-respaud
+- 原始 URL：https://www.artstation.com/artwork/aYXRZJ
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；谷地 Brutalist 巨塔群：雾分层+鸟群尺度。
+- 截取日期：2026-10-26
+- 尺寸：2560×1440
+- SHA256：`4c2c571404df467f46334712a7c846a7b50bb25473a92f2bb8dea8e14caf97b0`
+- 许可备注：版权归 daniel-respaud；ArtStation 公开；仅作视觉参考。
+
+
+## rizpineda-hanging-gardens-3543.jpg · Hanging Gardens of Babylon
+
+- 作品名：Hanging Gardens of Babylon
+- 作者：rizpineda
+- 原始 URL：https://www.artstation.com/artwork/NODY1
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；崖边空中花园：柱廊层叠+旅人尺度。
+- 截取日期：2026-10-26
+- 尺寸：3543×1772
+- SHA256：`4da757639e3e886610529675727cb7be0b235634f6cc835b3b7452ac3a9c0b48`
+- 许可备注：版权归 rizpineda；ArtStation 公开；仅作视觉参考。
+
+
+## liaohongjian-space-elevator-city-1920.jpg · SPACE ELEVATOR CITY
+
+- 作品名：SPACE ELEVATOR CITY
+- 作者：liaohongjian
+- 原始 URL：https://www.artstation.com/artwork/ArWg4e
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；同心环海城+中央天梯尖塔：俯视层级。
+- 截取日期：2026-10-26
+- 尺寸：1920×995
+- SHA256：`cdc99b9bc00bd344b16f0592a0c4e3b75aeae3250b12d92bf07422d67cf870a1`
+- 许可备注：版权归 liaohongjian；ArtStation 公开；仅作视觉参考。
+
+
+## liammacdonald-city-climbers-elevator-3840.jpg · City Climbers: Space Elevator
+
+- 作品名：City Climbers: Space Elevator
+- 作者：liammacdonald
+- 原始 URL：https://www.artstation.com/artwork/kZWa6
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；云上辐状天梯枢纽：玻璃廊桥+庭园。
+- 截取日期：2026-10-26
+- 尺寸：3840×2485
+- SHA256：`0d24f6b272b875c102b41987a46c3528a942262f42a2fca55360c5fb7999638b`
+- 许可备注：版权归 liammacdonald；ArtStation 公开；仅作视觉参考。
+
+
+## beisusu-cloud-sea-taoist-temple-1920.jpg · Cloud Sea  Taoist Temple
+
+- 作品名：Cloud Sea  Taoist Temple
+- 作者：beisususususususu
+- 原始 URL：https://www.artstation.com/artwork/XgzQlL
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；云海仙侠山寺：塔楼+石坛俯视。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`2a15cb317cb326e0aca64ea1253b626141f2c08a310c6e1862f4c277dcb032b1`
+- 许可备注：版权归 beisususususususu；ArtStation 公开；仅作视觉参考。
+
+
+## fluex-dew-point-2400.jpg · Dew Point
+
+- 作品名：Dew Point
+- 作者：Fluex_Artworks
+- 原始 URL：https://x.com/Fluex_Artworks/status/2109656586792603783
+- 类型：静帧-概念（X）
+- 机位/时间/步骤：X :orig 实看；冰港三足巨舱竖构图。
+- 截取日期：2026-10-26
+- 尺寸：1920×2400
+- SHA256：`724db113424139e4604c4f2abd86132cb4ed3fcf5d285ef112b362dd01f702b3`
+- 许可备注：版权归 Fluex_Artworks；X 公开；仅作视觉参考。
+

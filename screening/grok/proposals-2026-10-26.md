@@ -210,3 +210,48 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
+
+---
+
+# Grok 补图 / 新卡提议 · 2026-10-26（R6）
+
+只提议，不改 `public/cards/**`。人工合并时再挂图。
+
+## 补图提议
+
+### 1. `megastructure-silhouette` ← liaohongjian-space-elevator-city-1920.jpg + liammacdonald-city-climbers-elevator-3840.jpg + daniel-respaud-clouds-temple-2560.jpg + fluex-dew-point-2400.jpg
+- **证明什么（Elevator City）**：同心环海城外轮廓先于街区细节成立；中央天梯尖塔剪影压过雾。
+- **证明什么（City Climbers）**：云上辐状枢纽外轮廓先于廊桥玻璃细节。
+- **证明什么（Clouds Temple）**：谷地 Brutalist 巨塔剪影先于纹理。
+- **证明什么（Dew Point）**：三足巨舱外轮廓压过锈迹与小舟。
+- **博客落点**：Megastructure；Orbital；Canyon。
+
+### 2. `fog-separates-depth` ← lcywinski-cloud-temple-3840.jpg + beisusu-cloud-sea-taoist-temple-1920.jpg + daniel-respaud-clouds-temple-2560.jpg
+- **证明什么**：崖谷雾 / 云海 / 谷底雾先丢远景，近景桥面/石坛/巨塔仍保黑位。
+- **博客落点**：Shrine/Canyon；Xianxia。
+
+### 3. `terraces-carry-the-temple` / `colonnade-rhythm` ← rizpineda-hanging-gardens-3543.jpg + lcywinski-cloud-temple-3840.jpg + beisusu-cloud-sea-taoist-temple-1920.jpg
+- **证明什么（Hanging Gardens）**：台地柱廊层叠把视线送向崖边神庙。
+- **证明什么（Cloud temple）**：拱廊桥节奏引向崖寺。
+- **证明什么（Taoist）**：石坛圆环与山脊台地层级。
+- **博客落点**：Shrine；Canyon；Xianxia。
+
+### 4. `scale-by-familiar-objects` ← greendookie-desert-necropolis-3840.jpg + fluex-dew-point-2400.jpg + rizpineda-hanging-gardens-3543.jpg
+- **证明什么**：火把旅人 / 冰港行人小舟 / 花园旅人相对墓城、巨舱、台地，尺度变直觉。
+- **博客落点**：Shrine/Desert；Megastructure。
+
+### 5. `high-view-reads-hierarchy` ← liaohongjian-space-elevator-city-1920.jpg + liammacdonald-city-climbers-elevator-3840.jpg + beisusu-cloud-sea-taoist-temple-1920.jpg
+- **证明什么**：俯视读出同心环层级、辐状廊桥层级、云海山寺层级。
+- **博客落点**：Megastructure；Orbital；Xianxia。
+
+### 6. `cold-world-warm-refuge` ← fluex-dew-point-2400.jpg
+- **证明什么**：冰港蓝灰中舱底暖橙成为避难锚点。
+- **博客落点**：Megastructure。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：均可挂现有卡。若后续再收 1–2 件「同心环天梯城 / 三足冰港巨舱」不同作品，可议 `ring-elevator-megacity` 或 `tripod-harbor-ark` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
