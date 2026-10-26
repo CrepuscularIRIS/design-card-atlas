@@ -670,3 +670,99 @@
 - 尺寸：1920×2400
 - SHA256：`a7fa51cc6e007e2855f9620710851ddc1c09ca10398962bd1d4d9ee43e99af0e`
 - 许可备注：版权归 Fluex_Artworks；公开 X 静帧；仅作视觉参考，不可自由商用。
+
+## dario-marzadori-harvester-3600.jpg · Harvester: Colossal Mining Platform
+
+- 作品名：Harvester — Colossal Mining Platform
+- 作者：Dario Marzadori（mbanshee）
+- 原始 URL：https://mbanshee.artstation.com/projects/dy2AQQ
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k；核对四足采掘巨构+雾中远端同型机；小人仅尺度。
+- 截取日期：2026-10-26
+- 尺寸：3600×1600
+- SHA256：`6232e383771ed6207692965c3b2105e2acd34f36b3ad83ba7b4e7dfe1b667118`
+- 许可备注：版权归 Dario Marzadori；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## xiangzhao-xi-twilight-canyon-3840.jpg · Edge of the World — Twilight Canyon
+
+- 作品名：Edge of the World — Twilight Canyon
+- 作者：Xiangzhao Xi（tiejiang）
+- 原始 URL：https://tiejiang.artstation.com/projects/6bLaLN
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k；核对雾谷码头+缆索飞船；无 UI。
+- 截取日期：2026-10-26
+- 尺寸：3840×1936
+- SHA256：`5f5a14160d283d80340c360270dda46f0798b7def892f9decfeb73a3891dbba2`
+- 许可备注：版权归 Xiangzhao Xi；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## voloshyn-floating-temple-3840.jpg · Floating Temple
+
+- 作品名：Floating Temple
+- 作者：Viacheslav Voloshyn（slavoartist）
+- 原始 URL：https://slavoartist.artstation.com/projects/oJJOWB
+- 类型：静帧-CG（ArtStation / Blender）
+- 机位/时间/步骤：ArtStation CDN 4k；核对雾中临水亭阁；红衣小人仅尺度。
+- 截取日期：2026-10-26
+- 尺寸：3840×2160
+- SHA256：`9784c2c29e64dff4e8714b74446a6b7fd89a29aa8c44f206153a20d082df1594`
+- 许可备注：版权归 Viacheslav Voloshyn；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## ostaschenko-kyiv-arcology-3840.jpg · Kyiv Central Arcology
+
+- 作品名：project3090:KyivCentralArcology
+- 作者：Vitaliy Ostaschenko（kruger7215）
+- 原始 URL：https://kruger7215.artstation.com/projects/1dZxL
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k；核对弧学环塔+世界内西里尔霓虹（非品牌 IP 海报）。
+- 截取日期：2026-10-26
+- 尺寸：3840×2030
+- SHA256：`de8bca85dbee8b1b7dc365ca57d460de0529db598a1f5aa1945eaf49fdb5193d`
+- 许可备注：版权归 Vitaliy Ostaschenko；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## james-wintle-terraformer-3840.jpg · Terraformer
+
+- 作品名：Terraformer
+- 作者：James Wintle
+- 原始 URL：https://jameswintle.artstation.com/projects/8B0nmQ
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k；核对白环造星巨构浮云；无角色。
+- 截取日期：2026-10-26
+- 尺寸：3840×1920
+- SHA256：`2b937f266a57018a18671c38de7cba213b5457f7a30285b66301787574e36969`
+- 许可备注：版权归 James Wintle；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## robert-masucci-cliff-city-3840.jpg · Cliff City
+
+- 作品名：Cliff City (concept)
+- 作者：Robert Masucci
+- 原始 URL：https://robertmasucci.artstation.com/projects/WmWqvE
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k；核对崖壁嵌城剪影+前景弃车；无 UI。
+- 截取日期：2026-10-26
+- 尺寸：3840×2490
+- SHA256：`b8f7ce484ca1c0c2972262c310d0f0aaf9211e3c9c133390d1c58a089416aa24`
+- 许可备注：版权归 Robert Masucci；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## colin-rudd-cathedral-ruins-1920.jpg · Cathedral Ruins
+
+- 作品名：Cathedral Ruins — UE4 Environment
+- 作者：Colin Rudd
+- 原始 URL：https://colinrudd.artstation.com/projects/Bg1q4
+- 类型：静帧-环境（ArtStation / UE4）
+- 机位/时间/步骤：ArtStation CDN large（4k 同为 1920）；核对雪中哥特废墟净环境。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`c58ee514cffc7d5af7d677fb7531b8bde2851800e01837dcad97d4a47b993c46`
+- 许可备注：版权归 Colin Rudd；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## fluex-jellyfish-1920.jpg · Jellyfish
+
+- 作品名：Jellyfish — floating colossus heads at misty pier
+- 作者：PTG FLUEX（@Fluex_Artworks）
+- 原始 URL：https://x.com/Fluex_Artworks/status/2114718700670779830
+- 类型：静帧-AI（公开 X）
+- 机位/时间/步骤：X media :orig（1920×2400）；核对雾海浮头巨像；码头人物仅尺度。
+- 截取日期：2026-10-26
+- 尺寸：1920×2400
+- SHA256：`f1e934cda2ce1df778cb302ae97489737f1444a73ff03fa7481ea3f994196e6d`
+- 许可备注：版权归 Fluex_Artworks；公开 X 静帧；仅作视觉参考，不可自由商用。
