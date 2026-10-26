@@ -864,3 +864,99 @@
 - 尺寸：1920×1080
 - SHA256：`f2454644058c77654d2b84fe5907b457235206722d2dc4eca729a52d81461704`
 - 许可备注：版权归 Nichlas Benjamin；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## kenserk-andhaka-7-1920.jpg · Andhaka-7 LAYER-0 HABITATION
+
+- 作品名：Andhaka-7, LAYER- 0 -HABITATION
+- 作者：prasad.s.shinde / kenserk
+- 原始 URL：https://www.artstation.com/artwork/6LVwnW
+- 类型：静帧-3D环境（ArtStation）
+- 机位/时间/步骤：ArtStation CDN large 实看；核对净环境无大段营销字；长边≥1920。
+- 截取日期：2026-10-26
+- 尺寸：1690×1920
+- SHA256：`5dfe1094db6e70ab1455c3acf3fe748cab6be5304bcae540a621135455a467f1`
+- 许可备注：版权归 kenserk；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## ambrosini-sinking-city-3840.jpg · Sinking City
+
+- 作品名：Sinking City
+- 作者：Livio Ambrosini
+- 原始 URL：https://www.artstation.com/artwork/AZY0qV
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k 实看；洪水脚手架水巷主帧。
+- 截取日期：2026-10-26
+- 尺寸：3840×1634
+- SHA256：`e29fd91704c01a7be66b54c0c7ab6b1126f52d4ab2fe260494182726f21ca54f`
+- 许可备注：版权归 Livio Ambrosini；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## calliotte-moon-shrines-3840.jpg · Moon Shrines
+
+- 作品名：Moon Shrines
+- 作者：Josephine Calliotte
+- 原始 URL：https://www.artstation.com/artwork/5vrb3z
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k 实看；暮色月门废墟。
+- 截取日期：2026-10-26
+- 尺寸：3840×1634
+- SHA256：`b1b52ac98fbb5208a5cf1208c36e5bb1068a1d109fa23db9d04f1ed05624795e`
+- 许可备注：版权归 Josephine Calliotte；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## kras-caelum-cava-2752.jpg · Caelum Cava – The City Below
+
+- 作品名：Caelum Cava – The City Below.
+- 作者：Maggie Kras
+- 原始 URL：https://www.artstation.com/artwork/xdJ48R
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN large 实看；崖壁瀑布城。
+- 截取日期：2026-10-26
+- 尺寸：2752×1536
+- SHA256：`6c749d41dbee30112fcfc5c29324a242b2bb4b7c28b7a1be7cf2c6b528a4242b`
+- 许可备注：版权归 Maggie Kras；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## nigam-providence-3840.jpg · Providence
+
+- 作品名：Providence
+- 作者：Apoorv Nigam / altappy
+- 原始 URL：https://www.artstation.com/artwork/wrm9W6
+- 类型：静帧-3D环境（ArtStation / UE5）
+- 机位/时间/步骤：ArtStation CDN 4k 实看；陨坑穹拱定居点主帧。
+- 截取日期：2026-10-26
+- 尺寸：3840×1607
+- SHA256：`2a53e7032f36bda3667a1acb07aad11255c8aa71414d5185e4bfb454ddd24da6`
+- 许可备注：版权归 Apoorv Nigam；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## gauthier-bangkok-xxiii-3840.jpg · Bangkok XXIII - Flooded District
+
+- 作品名：Bangkok XXIII - Flooded District
+- 作者：Julien Gauthier / renart
+- 原始 URL：https://www.artstation.com/artwork/eqK5Z
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k 实看；水上棚户+巨坝。
+- 截取日期：2026-10-26
+- 尺寸：3840×1611
+- SHA256：`402a8320891f0ba098055fd245f796c98a09115b16e23bef68bfe158b5fcd594`
+- 许可备注：版权归 Julien Gauthier；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## williams-sunken-city-3840.jpg · The Sunken City
+
+- 作品名：The Sunken City – Real-Time Lighting Study (Unreal Engine 5)
+- 作者：Emma Williams
+- 原始 URL：https://www.artstation.com/artwork/wrVzog
+- 类型：静帧-3D环境（ArtStation / UE5）
+- 机位/时间/步骤：ArtStation CDN 4k 实看；水下街景体积光。
+- 截取日期：2026-10-26
+- 尺寸：3840×2588
+- SHA256：`7d0cf4f14089293f9f757a087f051fe636edb83d6f5515a1de1232c64cfa6918`
+- 许可备注：版权归 Emma Williams；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## gritl-future-city-no12-1928.jpg · A Future City From The Past No.12
+
+- 作品名：A Future City From The Past — No.12
+- 作者：Clemens Gritl
+- 原始 URL：https://www.clemensgritl.com/a-future-city-from-the-past
+- 类型：静帧-CGI建筑
+- 机位/时间/步骤：艺术家站 Squarespace CDN 实看；黑白 Brutalist 广场帧。
+- 截取日期：2026-10-26
+- 尺寸：1928×1413
+- SHA256：`e11f5228a7534f716b2f73e8ee0275ebc351529d2e577af8fc96f208a0aa3c1e`
+- 许可备注：版权归 Clemens Gritl；仅作视觉参考，不可自由商用。
