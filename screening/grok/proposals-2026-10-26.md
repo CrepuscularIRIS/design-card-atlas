@@ -129,3 +129,44 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
+
+
+---
+
+# Grok 补图 / 新卡提议 · 2026-10-26（R4）
+
+只提议，不改 `public/cards/**`。人工合并时再挂图。
+
+## 补图提议
+
+### 1. `megastructure-silhouette` ← kenserk-andhaka-7-1920.jpg + gritl-future-city-no12-1928.jpg + gauthier-bangkok-xxiii-3840.jpg
+- **证明什么（Andhaka）**：竖直赛博峡谷里塔楼外轮廓先于细节成立。
+- **证明什么（Gritl）**：黑白 Brutalist 巨城广场以形体压迫感剪影成立。
+- **证明什么（Bangkok）**：远景巨坝横贯地平，剪影压过棚户细节。
+- **博客落点**：Megastructure；Cyberpunk。
+
+### 2. `fog-separates-depth` ← ambrosini-sinking-city-3840.jpg + calliotte-moon-shrines-3840.jpg + williams-sunken-city-3840.jpg + kras-caelum-cava-2752.jpg
+- **证明什么**：洪水雾 / 暮色紫雾 / 水下浑浊 / 崖谷雾先丢远景，近景脚手架/月门/街灯/桥面仍保黑位。
+- **博客落点**：Megastructure；Shrine；Underwater；Canyon。
+
+### 3. `framed-distant-view` ← calliotte-moon-shrines-3840.jpg + nigam-providence-3840.jpg + williams-sunken-city-3840.jpg
+- **证明什么（Moon Shrines）**：工业残骸前景框住中景月门与旅人。
+- **证明什么（Providence）**：穹拱骨架框住远景雕像与定居点。
+- **证明什么（Sunken）**：街灯与废墟纵深把视线送向水面光。
+- **博客落点**：Shrine；Canyon；Underwater。
+
+### 4. `scale-by-familiar-objects` ← nigam-providence-3840.jpg + gauthier-bangkok-xxiii-3840.jpg + ambrosini-sinking-city-3840.jpg
+- **证明什么**：穿梭机/长尾艇/小舟相对穹拱、巨坝、脚手架公寓，尺度变直觉。
+- **博客落点**：Canyon；Megastructure。
+
+### 5. `high-view-reads-hierarchy` ← gritl-future-city-no12-1928.jpg + kenserk-andhaka-7-1920.jpg
+- **证明什么**：仰/斜视读出 Brutalist 街区层叠与赛博立面层级。
+- **博客落点**：Megastructure。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：均可挂现有卡。若后续再收 1–2 件「洪水脚手架水巷 / 黑白 Brutalist 广场」不同作品，可议 `flooded-scaffolding-megacity` 或 `brutalist-plaza-monochrome` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
