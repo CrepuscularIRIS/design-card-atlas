@@ -416,3 +416,89 @@
   - sunset：`02f1e437fdeab6bce1c2c057f2c79554aef5ea6c0eb8f9dec885e6592f12e45e`
   - floating-rocks：`e7382763bc4ab5242f7991ff594a53e10976e5ac79173a9de9687e396b0e8fd2`
 - 许可备注：版权归 itsnex1s；截帧自公开 X 预告；仅作视觉参考，不可自由商用。
+
+## mitchell-stuart-ringworld-2850.jpg · Ringworld Habitat Interior
+
+- 作品名：Ringworld Habitat Interior — city in the curve
+- 作者：Mitchell Stuart
+- 原始 URL：https://mitchellstuart.artstation.com/projects/nQyxkr
+- 类型：静帧-CG（ArtStation 公开作品页）
+- 机位/时间/步骤：WebFetch 作品页 og:image → 4k CDN 原图下载；核对为环内都会上曲净环境、无 UI/品牌 IP。
+- 截取日期：2026-10-25
+- 尺寸：2850×1208
+- SHA256：`e166a7167fbd52f46cf7e275b8137ff14a4c25075e817bc9e50fcffbe74fc70b`
+- 许可备注：版权归 Mitchell Stuart；ArtStation 公开静帧；仅作视觉参考，不可自由商用。
+
+## nichlas-bernal-sphere-1920.jpg · Bernal Sphere Habitat
+
+- 作品名：Bernal Sphere Habitat — elongated elliptical colony
+- 作者：Nichlas Benjamin（Pipedreaming）
+- 原始 URL：https://pipedreaming.artstation.com/projects/OmqVQk
+- 类型：静帧-CG（ArtStation 公开作品页）
+- 机位/时间/步骤：WebFetch 作品页 og:image large CDN 原图下载；核对为椭圆伯纳球净硬科幻外景（异于 g111 斯坦福环）。
+- 截取日期：2026-10-25
+- 尺寸：1920×1080
+- SHA256：`be5aad29518d36ab6b02095a0478cf712fccd77a6c3df835cfe4c425d318a872`
+- 许可备注：版权归 Nichlas Benjamin；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## naima-dystopian-ringworld-3840.jpg · Dystopian Ringworld Orbis
+
+- 作品名：Dystopian Ringworld Orbis — Esperia glass tube habitat
+- 作者：Naima S. T. C.
+- 原始 URL：https://naima.artstation.com/projects/4baveW
+- 类型：静帧-CG（ArtStation 公开作品页）
+- 机位/时间/步骤：WebFetch 作品页 og:image → 4k CDN 原图下载；核对为透光栖管巨构净环境。
+- 截取日期：2026-10-25
+- 尺寸：3840×1991
+- SHA256：`3ec72fb192497c33da89ae6b6fe56b5d24e1886a85db28ae029b4ac374f0df80`
+- 许可备注：版权归 Naima S. T. C.；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## tia-chassaing-cloud-cathedral-1920.jpg · Cloud Cathedral
+
+- 作品名：CLOUD CATHEDRAL — floating gothic fortress above clouds
+- 作者：Tia Chassaing
+- 原始 URL：https://www.artstation.com/artwork/DvWnLy
+- 类型：静帧-概念（ArtStation 公开作品页）
+- 机位/时间/步骤：WebFetch 作品页 og:image large CDN 原图下载；核对为云上哥特要塞环境主导。
+- 截取日期：2026-10-25
+- 尺寸：1920×817
+- SHA256：`f4515794beffd3eb8861c8a6c4d1bdbc065f1c2ab35625d0dfcdc7d942c5cfd9`
+- 许可备注：版权归 Tia Chassaing；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## viktor-karaluna-floating-blue-city-2064.jpg · Karaluna
+
+- 作品名：Karaluna — Floating Blue City night sanctum
+- 作者：Viktor Blomqvist（artviktor）
+- 原始 URL：https://artviktor.artstation.com/projects/a0ARL9
+- 类型：静帧-概念（ArtStation 公开作品页）
+- 机位/时间/步骤：WebFetch 作品页 og:image → 4k CDN（webp 转 jpg）；核对为夜空浮岛圣所竖构图净环境。
+- 截取日期：2026-10-25
+- 尺寸：2064×2724
+- SHA256：`ed04425bae31d7fe3f097705246240b38bc52cee6b0d6d2d7f7df693387104d5`
+- 许可备注：版权归 Viktor Blomqvist；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## theo-whitcombe-cyber-edo-island-1920.jpg · Japanese Cyberpunk Floating Island
+
+- 作品名：Japanese Cyberpunk Floating Island — neon pagoda / torii
+- 作者：Theo Whitcombe
+- 原始 URL：https://theowhitcombe.artstation.com/projects/GX4avd
+- 类型：静帧-CG（ArtStation 公开作品页，og video thumb）
+- 机位/时间/步骤：WebFetch 作品页 og video thumb large CDN 原图下载；核对为赛博江户浮岛净环境静帧。
+- 截取日期：2026-10-25
+- 尺寸：1920×1080
+- SHA256：`c50d5dfa570e7e5d5f0193d76480862b293f2727771185f82cbc78400406c372`
+- 许可备注：版权归 Theo Whitcombe；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## watershed-forest-dock-twilight-1920.jpg / watershed-forest-moon-milkyway-1920.jpg · Watershed Forest
+
+- 作品名：Watershed Forest — WebGPU twilight dock & moon meadow
+- 作者：@sino1782013
+- 原始 URL：https://x.com/sino1782013/status/2114312814072561985
+- 类型：视频-3D 宣传截帧（WebGPU）
+- 机位/时间/步骤：下载帖内 amplify 1920×1080 mp4；于 ~8s（码头逆光波光路）、~45s（满月草甸银河）抽帧；跳过鹿特写帧；核对无 UI。
+- 截取日期：2026-10-25
+- 尺寸：1920×1080
+- SHA256：
+  - dock-twilight：`b9df3e836efb8845131bb03f1175f1764dd222551d2d1b45522c157d2f4bc95d`
+  - moon-milkyway：`e34275dfa0ad3bb5447b783c2a0d0088f262ef8d449464675200b8660a8bbc2d`
+- 许可备注：版权归 sino1782013；截帧自公开 X 视频；仅作视觉参考，不可自由商用。
