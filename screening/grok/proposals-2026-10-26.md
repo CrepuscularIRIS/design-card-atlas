@@ -93,3 +93,39 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
+
+
+---
+
+# Grok 补图 / 新卡提议 · 2026-10-26（R3）
+
+只提议，不改 `public/cards/**`。人工合并时再挂图。
+
+## 补图提议
+
+### 1. `megastructure-silhouette` ← nicholas-lim-techno-egyptian-3840.jpg + alejandro-silent-megacity-2667.jpg + serananova-orbital-habitat-1920.jpg + nichlas-benjamin-cylinder-habitats-1920.jpg + destrox-habitat-approach-1920.jpg
+- **证明什么（Techno Egyptian）**：沙漠水工柱廊以弧学立面剪影先于细节成立。
+- **证明什么（Silent Megacity）**：brutalist 竖向基座在雾中仍可读为巨城地基。
+- **证明什么（Orbital / Cylinders / Approach）**：白环/双圆柱/逼近剪影以外形即可读为轨道栖地。
+- **博客落点**：Megastructure；Orbital；Desert。
+
+### 2. `fog-separates-depth` ← jason-scheier-snowy-ruined-cathedral-3200.jpg + alejandro-silent-megacity-2667.jpg + aight-lost-underwater-temple-3840.jpg
+- **证明什么**：雪雾 / 城雾 / 水深雾先丢远景，近景立面/柱廊/基座仍保黑位。
+- **博客落点**：Gothic；Megastructure；Shrine/Underwater。
+
+### 3. `colonnade-rhythm` ← jason-scheier-snowy-ruined-cathedral-3200.jpg + aight-lost-underwater-temple-3840.jpg + nicholas-lim-techno-egyptian-3840.jpg
+- **证明什么**：雪中哥特柱列 / 水下科林斯节奏 / 埃及水工柱廊把视线送向消失点。
+- **博客落点**：Gothic；Shrine；Desert。
+
+### 4. `high-view-reads-hierarchy` ← guidice-oneill-cylinder-hills-2377.jpg + nichlas-benjamin-cylinder-habitats-1920.jpg
+- **证明什么（Guidice）**：圆柱弧壁内丘陵河湾层级一次读清。
+- **证明什么（Cylinders）**：双圆柱外骨架并置读出栖地对位。
+- **博客落点**：Orbital。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：均可挂现有卡。若后续再收 1–2 件「水下柱廊神光 / brutalist 竖城基座」不同作品，可议 `underwater-colonnade-godrays` 或 `brutalist-megacity-foundations` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
