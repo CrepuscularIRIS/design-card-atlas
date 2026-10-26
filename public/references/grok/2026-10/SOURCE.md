@@ -1374,3 +1374,107 @@
 - 尺寸：2960×1696
 - SHA256：`6e7d4fed34679006b7280317859f201a76038fdf0c07b9aff30748a5342fb048`
 - 许可备注：版权归 alejandro_xyz；ArtStation 公开；仅作视觉参考。
+
+
+## zhang-still-hanging-city-3840.jpg · Hanging City
+
+- 作品名：Hanging City
+- 作者：zhang-still
+- 原始 URL：https://www.artstation.com/artwork/L4aDJl
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；轨道悬城巨柱：云层框景+小飞船尺度；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：3840×2174
+- SHA256：`c39a821f1b19fa1dfb9d1fdf76c00b38b5a7e88cfcf9e87d265fd213337ec9c7`
+- 许可备注：版权归 zhang-still；ArtStation 公开；仅作视觉参考。
+
+
+## sapphirethm-city-above-waterfalls-3840.jpg · City above Waterfalls
+
+- 作品名：City above Waterfalls
+- 作者：sapphirethm
+- 原始 URL：https://www.artstation.com/artwork/A5B5e
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；峡谷瀑群+远门殿金光：净环境无角色；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：3840×2160
+- SHA256：`22a706d02c58efab76364f7fe64a80eb609c71129d14155d16a3f2be80de3b09`
+- 许可备注：版权归 sapphirethm；ArtStation 公开；仅作视觉参考。
+
+
+## lexmartin-subterranean-city-5120.jpg · SUBTERRANIAN CITY
+
+- 作品名：SUBTERRANIAN CITY
+- 作者：lexmartin
+- 原始 URL：https://www.artstation.com/artwork/5BaZlw
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；竖向地下赛博城：层桥灯带+竖构5120；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：3072×5120
+- SHA256：`d0cca1e3b6d37039c6d1a1c4ce3ad1e76b53288a239fb482eb1491b4249dbf92`
+- 许可备注：版权归 lexmartin；ArtStation 公开；仅作视觉参考。
+
+
+## gyax-city-hanging-cliffs-3508.jpg · The City of the Hanging Cliffs
+
+- 作品名：The City of the Hanging Cliffs
+- 作者：gyax
+- 原始 URL：https://www.artstation.com/artwork/Bkgkmk
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；崖城悬居+飞艇尺度：洞口框景；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：2599×3508
+- SHA256：`0a55fd4120ca1d02471853c5cd47db6d151e34aa96344abf219b7e00c53b6d4d`
+- 许可备注：版权归 gyax；ArtStation 公开；仅作视觉参考。
+
+
+## saurabhkoranga2-ancient-submerged-temple-3840.jpg · An ancient submerged temple lost in time
+
+- 作品名：An ancient submerged temple lost in time
+- 作者：saurabhkoranga2
+- 原始 URL：https://www.artstation.com/artwork/a06BLz
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；淹没石殿+雾链：火把尺度；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：3840×2160
+- SHA256：`6a36d5c559e7988534a093e4c77349513cc98ee7e0cf7f0150179e20dd66f707`
+- 许可备注：版权归 saurabhkoranga2；ArtStation 公开；仅作视觉参考。
+
+
+## hamada-hamada-ascendant-city-3840.jpg · The Ascendant City
+
+- 作品名：The Ascendant City
+- 作者：hamada_hamada
+- 原始 URL：https://www.artstation.com/artwork/dyZbae
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；岸线阶梯金字塔巨城：水面倒影；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：3840×1280
+- SHA256：`4229dbbb25f9079d1f02db6bd7360d38367611a47be0884626d154797e9cb06f`
+- 许可备注：版权归 hamada_hamada；ArtStation 公开；仅作视觉参考。
+
+
+## oliviaelvira-subterranean-scifi-city-3840.jpg · Subterranean Sci-fi City
+
+- 作品名：Subterranean Sci-fi City
+- 作者：oliviaelvira
+- 原始 URL：https://www.artstation.com/artwork/obvdmJ
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；竖井俯视远城灯带：窗框景；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：3840×2214
+- SHA256：`2154e9f0b7e36791ce9a081d3918ae06d27a3dbabac6277ce4e855e53703deff`
+- 许可备注：版权归 oliviaelvira；ArtStation 公开；仅作视觉参考。
+
+
+## allison111-endless-temple-1920.jpg · Endless temple
+
+- 作品名：Endless temple
+- 作者：allison111
+- 原始 URL：https://www.artstation.com/artwork/0lAyDV
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；叠层古石城竖构：柱廊密度；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：1080×1920
+- SHA256：`5e9ef1576928d1d96f2469030309eb840016a881ad95d46a261361c2131b70cc`
+- 许可备注：版权归 allison111；ArtStation 公开；仅作视觉参考。
