@@ -170,3 +170,43 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
+
+---
+
+# Grok 补图 / 新卡提议 · 2026-10-26（R5）
+
+只提议，不改 `public/cards/**`。人工合并时再挂图。
+
+## 补图提议
+
+### 1. `megastructure-silhouette` ← liam-young-planet-city-farms-3840.jpg + smalljoe-urban-monolith-1920.jpg + sergeypolo-floating-market-city-1920.jpg + rareden-dyson-swarm-2560.jpg
+- **证明什么（Planet City）**：峡谷立面公寓外轮廓先于阳台细节成立。
+- **证明什么（Urban Monolith）**：圆柱中庭环状剪影读出巨构尺度。
+- **证明什么（Floating Market）**：废船拼岛外轮廓压过帆布细节。
+- **证明什么（Dyson）**：金尘环带剪影横贯恒星。
+- **博客落点**：Megastructure；Orbital；Canyon。
+
+### 2. `fog-separates-depth` ← scottrichard-volcanic-temple-2-3840.jpg + nauman-underwater-city-2560.jpg + kasza-lava-river-temple-2880.jpg
+- **证明什么**：火山烟尘 / 水下浑浊 / 熔岩蒸汽先丢远景，近景桥面/拱廊仍保黑位。
+- **博客落点**：Shrine/Volcanic；Underwater。
+
+### 3. `colonnade-rhythm` / `framed-distant-view` ← divi-nity-elysian-sanctum-1920.jpg + nauman-underwater-city-2560.jpg
+- **证明什么（Elysian）**：阶梯柱廊节奏引向三角圣所与叠瀑。
+- **证明什么（Underwater）**：前景拱桥框住远景发光塔。
+- **博客落点**：Shrine/Canyon；Underwater。
+
+### 4. `scale-by-familiar-objects` ← kasza-lava-river-temple-2880.jpg + sergeypolo-floating-market-city-1920.jpg + scottrichard-volcanic-temple-2-3840.jpg
+- **证明什么**：红袍/小舟/骑士相对神庙、浮岛、熔岩城，尺度变直觉。
+- **博客落点**：Shrine；Megastructure。
+
+### 5. `high-view-reads-hierarchy` ← liam-young-planet-city-farms-3840.jpg + smalljoe-urban-monolith-1920.jpg
+- **证明什么**：俯/仰视读出立面层级与中庭环层。
+- **博客落点**：Megastructure；Canyon。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：均可挂现有卡。若后续再收 1–2 件「浮船拼岛市 / 戴森金尘环」不同作品，可议 `floating-salvage-market` 或 `dyson-swarm-rings` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。

@@ -960,3 +960,106 @@
 - 尺寸：1928×1413
 - SHA256：`e11f5228a7534f716b2f73e8ee0275ebc351529d2e577af8fc96f208a0aa3c1e`
 - 许可备注：版权归 Clemens Gritl；仅作视觉参考，不可自由商用。
+
+## scottrichard-volcanic-temple-2-3840.jpg · Volcanic Temple 2
+
+- 作品名：Volcanic Temple 2
+- 作者：Scott Richard / scottrichard
+- 原始 URL：https://www.artstation.com/artwork/dqOLw
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；火山熔岩神庙城主帧。
+- 截取日期：2026-10-26
+- 尺寸：3840×2160
+- SHA256：`0e94e38b84c255be31a05fdb46e846e09f6a4d6e8ac62b93577123bd25246c29`
+- 许可备注：版权归原作者；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+
+## divi-nity-elysian-sanctum-1920.jpg · Elysian Sanctum - Temple exterior
+
+- 作品名：Elysian Sanctum - Temple exterior
+- 作者：divi_nity
+- 原始 URL：https://www.artstation.com/artwork/49QWoW
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；崖壁三角圣所外景。
+- 截取日期：2026-10-26
+- 尺寸：1920×1195
+- SHA256：`c4aa3250791d68617f6b97c50f1b881a1edc507418b57f80d4379a146fdf1073`
+- 许可备注：版权归原作者；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+
+## liam-young-planet-city-farms-3840.jpg · Planet City: Vertical Farms
+
+- 作品名：Planet City: Vertical Farms
+- 作者：Liam Young
+- 原始 URL：https://www.artstation.com/artwork/68xrwW
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；峡谷立面垂直农场/公寓巨构。
+- 截取日期：2026-10-26
+- 尺寸：3840×2160
+- SHA256：`63bd9f50a8780ba245b7d40a52dee7e444e64a914c06332c43c1a08927e6724b`
+- 许可备注：版权归原作者；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+
+## smalljoe-urban-monolith-1920.jpg · Urban Monolith
+
+- 作品名：Urban Monolith
+- 作者：smalljoe
+- 原始 URL：https://www.artstation.com/artwork/vbqkoD
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；Brutalist 圆柱中庭仰视。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`86874e85ccc5416ca30ece025f0e3efda5f5611f4d8b746b94d703aeba1d7c63`
+- 许可备注：版权归原作者；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+
+## kasza-lava-river-temple-2880.jpg · lava river temple
+
+- 作品名：lava river temple
+- 作者：kasza
+- 原始 URL：https://www.artstation.com/artwork/4bAQ0k
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；熔岩河桥面神庙。
+- 截取日期：2026-10-26
+- 尺寸：2880×1522
+- SHA256：`de9c7f04fc14b5b0ead8d0560a1f0bd019faf1481697ed070b6161a40128eb87`
+- 许可备注：版权归原作者；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+
+## rareden-dyson-swarm-2560.jpg · Dyson Swarm
+
+- 作品名：Dyson Swarm
+- 作者：rareden
+- 原始 URL：https://www.artstation.com/artwork/oJGRwz
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；恒星戴森群轨道帧。
+- 截取日期：2026-10-26
+- 尺寸：2560×1440
+- SHA256：`8ef49a589ba033b4d465f142fec08460d23f3e538fdc5b570315caed4ca6851d`
+- 许可备注：版权归原作者；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+
+## nauman-underwater-city-2560.jpg · Underwater city
+
+- 作品名：Underwater city
+- 作者：Nauman Abdulhaq / nauman_abdulhaq
+- 原始 URL：https://www.artstation.com/artwork/LRrgvr
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；生物光水下城竖构图。
+- 截取日期：2026-10-26
+- 尺寸：2560×3328
+- SHA256：`c5f95aea023478d180c8baf23b30c649b6d50bc7326639595e5e9548924f0f01`
+- 许可备注：版权归原作者；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+
+## sergeypolo-floating-market-city-1920.jpg · Floating Market City
+
+- 作品名：Floating Market City
+- 作者：Sergey Polo / sergeypolo
+- 原始 URL：https://www.artstation.com/artwork/q0AAna
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；废船拼岛浮市宽幅。
+- 截取日期：2026-10-26
+- 尺寸：1920×824
+- SHA256：`b6b9a75fe73b1c7e306a31d9f19b31ee6b0a0db66fea3113a4e89b10b08b8daa`
+- 许可备注：版权归原作者；ArtStation 公开；仅作视觉参考，不可自由商用。
