@@ -255,3 +255,48 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
+
+---
+
+---
+
+# Grok 补图 / 新卡提议 · 2026-10-26（R7）
+
+只提议，不改 `public/cards/**`。人工合并时再挂图。
+
+## 补图提议
+
+### 1. `megastructure-silhouette` ← vadimsadovski-ringworld-artificial-sun-3840.jpg + samk-ecumenopolis-nebulae-3840.jpg + joshzoss-brutalist-city-3840.jpg + mateoma53-ecumenopolis-ravine-1920.jpg + jarredeagley-evening-cityscape-2851.jpg + chief-smokey-brutalist-city-i-1920.jpg
+- **证明什么（Artificial sun / Ecumenopolis）**：环带外壳与行星城灯光网外轮廓先于细节。
+- **证明什么（Brutalist / Ravine / Evening / City I）**：竖城、峡谷立面、天梯剪影、夜广场块面先于霓虹与纹理。
+- **博客落点**：Orbital；Megastructure；Cyberpunk。
+
+### 2. `fog-separates-depth` ← joshzoss-brutalist-city-3840.jpg + alejandro-cathedral-cascading-stone-2667.jpg + theirishone-brutalist-skylight-city-3840.jpg
+- **证明什么**：竖城雾带 / 崖谷雾 / 天窗下雾先丢远景，近景结构仍保黑位。
+- **博客落点**：Megastructure；Gothic/Canyon。
+
+### 3. `framed-distant-view` / `ordered-frame-wild-growth` ← theirishone-brutalist-skylight-city-3840.jpg + samk-ecumenopolis-nebulae-3840.jpg + jarredeagley-evening-cityscape-2851.jpg + chief-smokey-brutalist-city-i-1920.jpg
+- **证明什么（Skylight）**：混凝土方框把树冠与天空收成远景窗。
+- **证明什么（Ecumenopolis / Evening / City I）**：轨道俯视、暮色天梯、仰角广场把远景收进画面。
+- **博客落点**：Megastructure；Orbital。
+
+### 4. `scale-by-familiar-objects` ← joshzoss-brutalist-city-3840.jpg + mateoma53-ecumenopolis-ravine-1920.jpg + alejandro-cathedral-cascading-stone-2667.jpg
+- **证明什么**：小人/红轨 / 红衣行人 / 红袍旅人相对竖城、峡谷立面、崖城，尺度变直觉。
+- **博客落点**：Megastructure；Gothic/Canyon。
+
+### 5. `colonnade-rhythm` ← alejandro-cathedral-cascading-stone-2667.jpg + mateoma53-ecumenopolis-ravine-1920.jpg
+- **证明什么**：桥廊尖塔节奏 / 立面块体灯带节奏引导视线。
+- **博客落点**：Gothic/Canyon；Megastructure。
+
+### 6. `colossus-crosses-the-frame` / `high-view-reads-hierarchy` ← vadimsadovski-ringworld-artificial-sun-3840.jpg + samk-ecumenopolis-nebulae-3840.jpg + jarredeagley-evening-cityscape-2851.jpg
+- **证明什么**：人工太阳定环带层级；行星环+全球城网；竖向天梯横切暮色画面。
+- **博客落点**：Orbital；Megastructure。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：均可挂现有卡。若后续再收 1–2 件「环世界人工太阳 / 暮色天梯海岸」不同作品，可议 `ringworld-artificial-sun` 或 `coastal-elevator-silhouette` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
+

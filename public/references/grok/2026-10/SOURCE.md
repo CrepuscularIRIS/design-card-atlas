@@ -1167,3 +1167,106 @@
 - SHA256：`724db113424139e4604c4f2abd86132cb4ed3fcf5d285ef112b362dd01f702b3`
 - 许可备注：版权归 Fluex_Artworks；X 公开；仅作视觉参考。
 
+## jarredeagley-evening-cityscape-2851.jpg · Evening Cityscape
+
+- 作品名：Evening Cityscape
+- 作者：jarredeagley
+- 原始 URL：https://www.artstation.com/artwork/YerdvV
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；暮色海岸天梯剪影竖构图。
+- 截取日期：2026-10-26
+- 尺寸：2851×3803
+- SHA256：`be66da768c9ec88e9cbea78c907f2948e6fa3194e38ebce39d20bc5dbc71f4b7`
+- 许可备注：版权归 jarredeagley；ArtStation 公开；仅作视觉参考。
+
+
+## chief-smokey-brutalist-city-i-1920.jpg · Brutalist City I
+
+- 作品名：Brutalist City I
+- 作者：chief_smokey
+- 原始 URL：https://www.artstation.com/artwork/4XB554
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN large 实看；Brutalist 夜广场仰角块面+冷光锥。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`64c6d7f022f9f1b9de740f4838fa520df37775ff610fbce63aa51faee58d6548`
+- 许可备注：版权归 chief_smokey；ArtStation 公开；仅作视觉参考。
+
+
+
+## vadimsadovski-ringworld-artificial-sun-3840.jpg · Maintenance of the ringworld's artificial sun
+
+- 作品名：Maintenance of the ringworld's artificial sun
+- 作者：vadimsadovski
+- 原始 URL：https://www.artstation.com/artwork/BkqlzD
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；Bishop环外壳greeble+中心人工太阳照亮内景云海。
+- 截取日期：2026-10-26
+- 尺寸：3840×2400
+- SHA256：`d0ab6dadd3a8f31448708b92257e5bb8f86a87353f2b14b38f2a5cde34daa1b4`
+- 许可备注：版权归 vadimsadovski；ArtStation 公开；仅作视觉参考。
+
+
+## samk-ecumenopolis-nebulae-3840.jpg · Melodysheep - The Human Future Ecumenopolis/Nebulae
+
+- 作品名：Melodysheep - The Human Future Ecumenopolis/Nebulae
+- 作者：samk_9632
+- 原始 URL：https://www.artstation.com/artwork/BXeQQ9
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；行星环+全球夜城灯光网轨道俯视。
+- 截取日期：2026-10-26
+- 尺寸：3840×2160
+- SHA256：`9a5ab9e565c0b60204a128e9d7a967bea584468fcc3a2e02e5276ef18efc25b4`
+- 许可备注：版权归 samk_9632；ArtStation 公开；仅作视觉参考。
+
+
+## joshzoss-brutalist-city-3840.jpg · Brutalist City
+
+- 作品名：Brutalist City
+- 作者：joshzoss
+- 原始 URL：https://www.artstation.com/artwork/aYbGkX
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；赛博竖城红轨+小人尺度+雾分层。
+- 截取日期：2026-10-26
+- 尺寸：3840×2160
+- SHA256：`9ad1e37ab1210dfa588e6cf98aed6b3b1c250b84c3491df19133f77519dad63e`
+- 许可备注：版权归 joshzoss；ArtStation 公开；仅作视觉参考。
+
+
+## mateoma53-ecumenopolis-ravine-1920.jpg · Ecumenopolis Ravine
+
+- 作品名：Ecumenopolis Ravine
+- 作者：mateoma53
+- 原始 URL：https://www.artstation.com/artwork/QXALmZ
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；巨构峡谷立面红衣尺度+灯带层。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`cf2a655de4515b2a0c5bcfd0991a1aa2942c7a7a72436f701c1de149adc8b95e`
+- 许可备注：版权归 mateoma53；ArtStation 公开；仅作视觉参考。
+
+
+## theirishone-brutalist-skylight-city-3840.jpg · Brutalist Skylight City
+
+- 作品名：Brutalist Skylight City
+- 作者：theirishone
+- 原始 URL：https://www.artstation.com/artwork/n0aWP1
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；仰望混凝土天窗框景+树冠/鸟群。
+- 截取日期：2026-10-26
+- 尺寸：3840×2879
+- SHA256：`7cbc7bdaaf98e8b206b33f7debc89932be1371b71ecd75e1ac8886472cccb96a`
+- 许可备注：版权归 theirishone；ArtStation 公开；仅作视觉参考。
+
+
+## alejandro-cathedral-cascading-stone-2667.jpg · Cathedral of Cascading Stone - Series
+
+- 作品名：Cathedral of Cascading Stone - Series
+- 作者：alejandro_xyz
+- 原始 URL：https://www.artstation.com/artwork/a0vwRL
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；崖谷哥特城寨雾分层+桥廊+红袍尺度。
+- 截取日期：2026-10-26
+- 尺寸：1500×2667
+- SHA256：`83ecb6d98b003fa885c29c05e9bb2719b2a747751e451c999fc7f013c364bcff`
+- 许可备注：版权归 alejandro_xyz；ArtStation 公开；仅作视觉参考。
