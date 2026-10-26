@@ -46,3 +46,50 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
+
+---
+
+# Grok 补图 / 新卡提议 · 2026-10-26（R2）
+
+只提议，不改 `public/cards/**`。人工合并时再挂图。
+
+## 补图提议
+
+### 1. `megastructure-silhouette` ← dario-marzadori-harvester-3600.jpg + james-wintle-terraformer-3840.jpg + ostaschenko-kyiv-arcology-3840.jpg
+- **证明什么（Harvester）**：四足采掘机以腿架剪影先于细节成立，雾中同型机补规模。
+- **证明什么（Terraformer）**：白环嵌套架空于云层，外形即可读为造星巨构。
+- **证明什么（Kyiv）**：中心环塔在雾城天际线中仍可读为弧学核。
+- **博客落点**：Megastructure；Orbital；Cyberpunk。
+
+### 2. `fog-separates-depth` ← xiangzhao-xi-twilight-canyon-3840.jpg + voloshyn-floating-temple-3840.jpg + colin-rudd-cathedral-ruins-1920.jpg + fluex-jellyfish-1920.jpg
+- **证明什么**：孢雾/雪雾/海雾先丢远景反差，近景码头/亭阁/碑林/浮头仍保黑位。
+- **博客落点**：Canyon；Shrine；Gothic；Megastructure 巨像篇。
+
+### 3. `scale-by-familiar-objects` ← dario-marzadori-harvester-3600.jpg + fluex-jellyfish-1920.jpg
+- **证明什么**：雪原小人 / 码头渔人相对采掘塔与浮头，巨大变直觉。
+- **博客落点**：Megastructure。
+
+### 4. `colossus-crosses-the-frame` ← fluex-jellyfish-1920.jpg
+- **证明什么**：多颗浮头越出合理雕像比例，画外雾中仍暗示延续。
+- **博客落点**：Megastructure；与 R1 Tide 同族。
+
+### 5. `framed-distant-view` ← xiangzhao-xi-twilight-canyon-3840.jpg + robert-masucci-cliff-city-3840.jpg
+- **证明什么（峡谷）**：前景工业平台框住雾中悬居与飞船。
+- **证明什么（崖城）**：暗前景弃车/电线杆框住日照山城。
+- **博客落点**：Canyon；Station。
+
+### 6. `colonnade-rhythm` ← colin-rudd-cathedral-ruins-1920.jpg + voloshyn-floating-temple-3840.jpg
+- **证明什么**：碑林/亭柱节奏把视线送向雾中消失点。
+- **博客落点**：Gothic；Shrine 古风。
+
+### 7. `high-view-reads-hierarchy` ← ostaschenko-kyiv-arcology-3840.jpg
+- **证明什么**：俯/斜视读出环塔层、霓虹带与雾中塔群层级。
+- **博客落点**：Cyberpunk；Megastructure。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：语言均可挂现有卡。若后续再收 1–2 件「四足工业巨构 / 崖壁嵌城」不同作品，可议 `legged-harvester` 或 `cliff-embedded-city` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
