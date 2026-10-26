@@ -237,3 +237,46 @@ Elderwake 机甲 HUD 主导；AnXin 编辑器 UI 占半幅；CP2077 商业 IP �
 
 ### g116 Pirate Cove sunset
 热带岛日落逆光棕榈+薄雾；无 UI。建议 `fog-separates-depth` / `cold-world-warm-refuge`。主帧 sunset；备选 floating-rocks。
+## R10 accepts · quick deconstruct
+
+### g129 Mitchell Ringworld
+- E: 上曲地平占幅上 40%；城市带中景
+- A: 硬侧光金属高光 + 虚空冷底
+- D: 农业带纹理 vs 城核密度对比
+- C: 舷窗外深空框景
+
+### g130 Bernal Sphere
+- E: 椭圆球壳 + 同心环占中景
+- A: 金属硬高光对气巨反射
+- D: 散热翼桁架节奏
+- C: 行星盘与星空层次
+
+### g131 Naima Orbis
+- E: 透光管廊横贯全幅；内陆海尺度
+- A: 管壁耀斑 + 熔岩星热源
+- D: 管壁结构格子
+- C: 双天体虚空
+
+### g132 Cloud Cathedral
+- D: 哥特立面/玫瑰窗节奏
+- E: 浮岛要塞对云海
+- A: 门廊暖神光
+- F: 云层分层遮挡
+
+### g133 Karaluna
+- E: 竖构图浮岛尖塔
+- A: 青辉射束点光
+- F: 夜雾山脊分离
+- D: 低多边形峭壁块面
+
+### g134 Theo cyber-edo
+- B: 冷霓虹 trim vs 暖月
+- D: 多岛桥与层塔
+- A: 青灯带勾边
+- F: 云海托底
+
+### g135 Watershed Forest
+- A: 码头逆光波光路径
+- F: 月夜银河/雾
+- E: 湖岸尺度可读
+- B: 冷夜暖际光
