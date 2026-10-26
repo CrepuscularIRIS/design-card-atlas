@@ -766,3 +766,101 @@
 - 尺寸：1920×2400
 - SHA256：`f1e934cda2ce1df778cb302ae97489737f1444a73ff03fa7481ea3f994196e6d`
 - 许可备注：版权归 Fluex_Artworks；公开 X 静帧；仅作视觉参考，不可自由商用。
+
+# R3 · 2026-10-26
+
+## nicholas-lim-techno-egyptian-3840.jpg · Techno Egyptian Waterworks Abandoned
+
+- 作品名：Techno Egyptian Waterworks Abandoned
+- 作者：Nicholas Lim
+- 原始 URL：https://www.artstation.com/artwork/nQZ2A4
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN/media 实看；核对净环境无大段营销字；长边≥1920。
+- 截取日期：2026-10-26
+- 尺寸：3840×1920
+- SHA256：`7abe405cb9d05c973e65cbf47f37efc2dd350ac21f2f32de815a88397707b44d`
+- 许可备注：版权归 Nicholas Lim；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## jason-scheier-snowy-ruined-cathedral-3200.jpg · Snowy Ruined Cathedral
+
+- 作品名：Snowy Ruined Cathedral
+- 作者：Jason Scheier
+- 原始 URL：https://www.artstation.com/artwork/n09rr
+- 类型：静帧-环境（ArtStation）
+- 机位/时间/步骤：ArtStation CDN/media 实看；核对净环境无大段营销字；长边≥1920。
+- 截取日期：2026-10-26
+- 尺寸：3200×1600
+- SHA256：`084993a71ef6e7a340b9351346e6e05b20641b4c2e3d69edad4f3bcedec992db`
+- 许可备注：版权归 Jason Scheier；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## guidice-oneill-cylinder-hills-2377.jpg · O'Neill cylinder interior
+
+- 作品名：O'Neill cylinder interior — rolling hills (1975 NASA)
+- 作者：Rick Guidice (NASA Ames)
+- 原始 URL：https://x.com/HumanoidHistory/status/2106054668308586855
+- 类型：静帧-概念（X）
+- 机位/时间/步骤：X CDN/media 实看；核对净环境无大段营销字；长边≥1920。
+- 截取日期：2026-10-26
+- 尺寸：2377×1598
+- SHA256：`6b9db86eaeba2df6bd7b91a7dd7de3487e004c334119d9929c534b8ce8c4ab97`
+- 许可备注：NASA 1975 概念图（Rick Guidice）；公开档案/X 转载；仅作视觉参考，不可自由商用。
+
+## destrox-habitat-approach-1920.jpg · Habitat Approach
+
+- 作品名：Habitat Approach
+- 作者：Isaac MT / destrox
+- 原始 URL：https://www.artstation.com/artwork/3qmYVD
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN/media 实看；核对净环境无大段营销字；长边≥1920。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`f27d62f2be05a33cd81829dac7aec008f02521bad0a2a27e9933adaf3f30cad3`
+- 许可备注：版权归 Isaac MT；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## serananova-orbital-habitat-1920.jpg · Orbital Habitat
+
+- 作品名：Orbital Habitat
+- 作者：serananova
+- 原始 URL：https://www.artstation.com/artwork/oJnJ8B
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN/media 实看；核对净环境无大段营销字；长边≥1920。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`945bf3210316ba8c41dba9a3e57975facc5e745c026b6bcaa7228c39296f5599`
+- 许可备注：版权归 serananova；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## alejandro-silent-megacity-2667.jpg · Foundations of the Silent Megacity
+
+- 作品名：Foundations of the Silent Megacity
+- 作者：Alejandro Mendez
+- 原始 URL：https://www.artstation.com/artwork/lGg2Vk
+- 类型：静帧-环境（ArtStation）
+- 机位/时间/步骤：ArtStation CDN/media 实看；核对净环境无大段营销字；长边≥1920。
+- 截取日期：2026-10-26
+- 尺寸：1500×2667
+- SHA256：`a0909785726a5d27c5fc18280f9fdff6a79cacaa4a8e01dd954b280f54182777`
+- 许可备注：版权归 Alejandro Mendez；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## aight-lost-underwater-temple-3840.jpg · Lost Underwater Temple
+
+- 作品名：Lost Underwater Temple
+- 作者：aight
+- 原始 URL：https://www.artstation.com/artwork/dKaK2W
+- 类型：静帧-环境（ArtStation）
+- 机位/时间/步骤：ArtStation CDN/media 实看；核对净环境无大段营销字；长边≥1920。
+- 截取日期：2026-10-26
+- 尺寸：3840×2560
+- SHA256：`f8bb23b2a94d269dc5f057dc3022c7a1cf2c85c87d87846c18c7769008440d9a`
+- 许可备注：版权归 aight；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## nichlas-benjamin-cylinder-habitats-1920.jpg · Cylinder habitats
+
+- 作品名：Cylinder habitats
+- 作者：Nichlas Benjamin / pipedreaming
+- 原始 URL：https://www.artstation.com/artwork/Ye9ZE3
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN/media 实看；核对净环境无大段营销字；长边≥1920。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`f2454644058c77654d2b84fe5907b457235206722d2dc4eca729a52d81461704`
+- 许可备注：版权归 Nichlas Benjamin；ArtStation 公开；仅作视觉参考，不可自由商用。
