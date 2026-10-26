@@ -300,3 +300,42 @@
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
 
+
+
+---
+
+# Grok 补图 / 新卡提议 · 2026-10-26（R8）
+
+只提议，不改 `public/cards/**`。人工合并时再挂图。
+
+## 补图提议
+
+### 1. `megastructure-silhouette` ← pipedreaming-venusian-arcologies-1920.jpg + pipedreaming-stanford-torus-original-3840.jpg + alejandro-desert-research-megastructure-3562.jpg + alejandro-last-horizon-colony-2960.jpg + kellen8-neon-rain-district-3840.jpg + dariusk-cathedral-of-ice-2048.jpg + esemaauri-industrial-cathedral-3000.jpg
+- **证明什么（Venusian / Torus）**：白塔舱口与环带灯网外轮廓先于细节。
+- **证明什么（Desert / Horizon / Neon / Ice / Industrial）**：沙谷研究塔、废港弯塔、雨夜竖街、冰穹、工业哥特堂先于霓虹与纹理。
+- **博客落点**：Orbital；Megastructure；Cyberpunk；Gothic。
+
+### 2. `fog-separates-depth` ← alejandro-valley-of-the-monastery-2667.jpg + alejandro-desert-research-megastructure-3562.jpg + alejandro-last-horizon-colony-2960.jpg + dariusk-cathedral-of-ice-2048.jpg
+- **证明什么**：崖寺谷雾 / 沙谷霾 / 绿霾废港 / 冰穹云海先丢远景，近景结构仍保黑位。
+- **博客落点**：Gothic/Canyon；Megastructure。
+
+### 3. `high-view-reads-hierarchy` / `scale-by-familiar-objects` ← pipedreaming-stanford-torus-original-3840.jpg + dariusk-cathedral-of-ice-2048.jpg + kellen8-neon-rain-district-3840.jpg + esemaauri-industrial-cathedral-3000.jpg + alejandro-valley-of-the-monastery-2667.jpg
+- **证明什么**：环带灯网层级；冰穹下车队；竖街车道；堂前小人；崖顶旅人相对巨构变尺度直觉。
+- **博客落点**：Orbital；Megastructure；Cyberpunk；Gothic。
+
+### 4. `terraces-carry-the-temple` / `cold-world-warm-refuge` ← alejandro-valley-of-the-monastery-2667.jpg + esemaauri-industrial-cathedral-3000.jpg
+- **证明什么（Valley）**：崖顶白塔寺院坐落在梯田/雾谷台地上。
+- **证明什么（Industrial）**：暖窗哥特堂在冷崖穴中成避难焦点。
+- **博客落点**：Gothic/Canyon；Megastructure。
+
+### 5. `framed-distant-view` ← alejandro-desert-research-megastructure-3562.jpg + alejandro-last-horizon-colony-2960.jpg + pipedreaming-venusian-arcologies-1920.jpg
+- **证明什么**：前景舱体/岩壁/货箱把远景巨构收进画面。
+- **博客落点**：Megastructure；Orbital。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：均可挂现有卡。若后续再收 1–2 件「金星云层弧学塔 / 雨夜霓虹竖街」不同作品，可议 `venusian-arcology-tower` 或 `neon-rain-canyon` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。

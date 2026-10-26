@@ -1270,3 +1270,107 @@
 - 尺寸：1500×2667
 - SHA256：`83ecb6d98b003fa885c29c05e9bb2719b2a747751e451c999fc7f013c364bcff`
 - 许可备注：版权归 alejandro_xyz；ArtStation 公开；仅作视觉参考。
+
+
+## pipedreaming-venusian-arcologies-1920.jpg · Venusian Arcologies
+
+- 作品名：Venusian Arcologies
+- 作者：pipedreaming
+- 原始 URL：https://www.artstation.com/artwork/a06LqL
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；金星云层白塔巨构：舱口/桁架净硬科幻；无角色。
+- 截取日期：2026-10-26
+- 尺寸：1920×1038
+- SHA256：`b5356f4e631bb67cc2aec8cff5cf1c856fac536488e3d81b1363d44e7a7cff58`
+- 许可备注：版权归 pipedreaming；ArtStation 公开；仅作视觉参考。
+
+
+## pipedreaming-stanford-torus-original-3840.jpg · Stanford Torus - Original concept design
+
+- 作品名：Stanford Torus - Original concept design
+- 作者：pipedreaming
+- 原始 URL：https://www.artstation.com/artwork/V2OL8g
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；环带灯网+前景白塔：3840净轨道巨构俯视。
+- 截取日期：2026-10-26
+- 尺寸：3840×2160
+- SHA256：`e8316050c1511d424179c17247096d87faa6470a03bad7e86e5614dfda69c30d`
+- 许可备注：版权归 pipedreaming；ArtStation 公开；仅作视觉参考。
+
+
+## alejandro-valley-of-the-monastery-2667.jpg · Valley of the Monastery - Series
+
+- 作品名：Valley of the Monastery - Series
+- 作者：alejandro_xyz
+- 原始 URL：https://www.artstation.com/artwork/qJ4r9z
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；崖顶白塔寺院+谷地梯田雾分层；旅人仅作尺度。
+- 截取日期：2026-10-26
+- 尺寸：1500×2667
+- SHA256：`b0d6c51442683e6e68851f5c8b6605a070d981928cbb4d2d866821b20be44b56`
+- 许可备注：版权归 alejandro_xyz；ArtStation 公开；仅作视觉参考。
+
+
+## alejandro-desert-research-megastructure-3562.jpg · Desert Research Megastructure - Series
+
+- 作品名：Desert Research Megastructure - Series
+- 作者：alejandro_xyz
+- 原始 URL：https://www.artstation.com/artwork/3E2rnY
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；沙谷白塔研究巨构：净环境无角色；3562宽幅。
+- 截取日期：2026-10-26
+- 尺寸：3562×1500
+- SHA256：`042ddc8dc22f112f233aaf2546a31e919c4aeca91a3ac71819214fe1dd3cf85f`
+- 许可备注：版权归 alejandro_xyz；ArtStation 公开；仅作视觉参考。
+
+
+## esemaauri-industrial-cathedral-3000.jpg · Industrial cathedral
+
+- 作品名：Industrial cathedral
+- 作者：esemaauri
+- 原始 URL：https://www.artstation.com/artwork/Ny6mVd
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；崖穴工业哥特堂：暖窗冷壁；小人仅尺度；竖构图。
+- 截取日期：2026-10-26
+- 尺寸：1496×3000
+- SHA256：`09af993c4848c80c32a6af16047dd9623e57cf04fb128c22f9d18dc8a34a2fbd`
+- 许可备注：版权归 esemaauri；ArtStation 公开；仅作视觉参考。
+
+
+## dariusk-cathedral-of-ice-2048.jpg · The Cathedral of Ice
+
+- 作品名：The Cathedral of Ice
+- 作者：dariusk
+- 原始 URL：https://www.artstation.com/artwork/kDd630
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；破顶冰穹+车队尺度：高俯冻原巨构；无字无UI。
+- 截取日期：2026-10-26
+- 尺寸：2048×872
+- SHA256：`55c7e53018ff629fcab757d503c6f67a87ab36cf427b2397e3f3ca97ccd2f215`
+- 许可备注：版权归 dariusk；ArtStation 公开；仅作视觉参考。
+
+
+## kellen8-neon-rain-district-3840.jpg · Neon Rain District
+
+- 作品名：Neon Rain District
+- 作者：kellen8
+- 原始 URL：https://www.artstation.com/artwork/KRO6Q4
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；雨夜霓虹竖街峡谷：车道尺度；无主导角色；3840方幅。
+- 截取日期：2026-10-26
+- 尺寸：3840×3792
+- SHA256：`d2c7d93896e548f2c4d6b0637ee770fa903bdd1e7e164eecb9839d17c88d348e`
+- 许可备注：版权归 kellen8；ArtStation 公开；仅作视觉参考。
+
+
+## alejandro-last-horizon-colony-2960.jpg · The Last Horizon Colony - Series
+
+- 作品名：The Last Horizon Colony - Series
+- 作者：alejandro_xyz
+- 原始 URL：https://www.artstation.com/artwork/JrARd0
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；绿霾废港弯塔：远城雾分层；飞船作尺度；无字。
+- 截取日期：2026-10-26
+- 尺寸：2960×1696
+- SHA256：`6e7d4fed34679006b7280317859f201a76038fdf0c07b9aff30748a5342fb048`
+- 许可备注：版权归 alejandro_xyz；ArtStation 公开；仅作视觉参考。
