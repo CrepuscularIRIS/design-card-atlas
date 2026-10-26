@@ -574,3 +574,99 @@
 - 尺寸：2620×2048
 - SHA256：`4ad0d1904641049cae215c068a2c14609051fa78dfd42698118929e2a1cd0e3f`
 - 许可备注：Rick Guidice / NASA Ames 1975 概念画公开传播；仅作视觉参考。
+
+## fluex-high-water-1920.jpg · High Water (Ceiling Zero)
+
+- 作品名：High Water — cathedral-scale sea gates in eternal fog
+- 作者：PTG FLUEX（@Fluex_Artworks）
+- 原始 URL：https://x.com/Fluex_Artworks/status/2109713208680517726
+- 类型：静帧-AI（公开 X）
+- 机位/时间/步骤：X media :orig（1920×2400）；核对工业海防巨构+雾无角色/UI。
+- 截取日期：2026-10-26
+- 尺寸：1920×2400
+- SHA256：`349e6390a0bd2578847fa4286bd872a22b91f4643a7bd39cf17e8855135f4b0d`
+- 许可备注：版权归 Fluex_Artworks；公开 X 静帧；仅作视觉参考，不可自由商用。
+
+## arav-abandoned-cathedral-3840.jpg · Abandoned Cathedral (UE5)
+
+- 作品名：Abandoned Cathedral Atmospheric Environment Design Showcase (Unreal Engine 5)
+- 作者：Arav（arav-three-d）
+- 原始 URL：https://www.artstation.com/artwork/x3XPo1
+- 类型：静帧-环境（ArtStation / UE5）
+- 机位/时间/步骤：WebFetch og → ArtStation CDN 4k JPG；核对荒废哥特外景净环境无角色。
+- 截取日期：2026-10-26
+- 尺寸：3840×2160
+- SHA256：`a045dde2bfac635ca1c1884fef8a9d29c0a4129527a98464f44de88950918d82`
+- 许可备注：版权归原作者 Arav；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## yassine-gothic-cathedral-1920.jpg · Gothic Cathedral Environment
+
+- 作品名：Gothic Cathedral Environment — nature-reclaimed abandoned gothic
+- 作者：yassine sidqui（yassinesidqui7）
+- 原始 URL：https://yassinesidqui7.artstation.com/projects/Nrx3R1
+- 类型：静帧-环境（ArtStation）
+- 机位/时间/步骤：ArtStation CDN large/4k；核对藤蔓哥特立面+雾无角色。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`b92a3b1637c44544e9e27d975f8e0567a65dfc6eaeef5801111d52020bd34375`
+- 许可备注：版权归 yassine sidqui；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## mazur-efir-orbital-city-2560.jpg · «Efir» orbital city
+
+- 作品名：«Efir» orbital city
+- 作者：Aleksey Mazur（mazalg）
+- 原始 URL：https://www.artstation.com/artwork/YAREX
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k；核对轨道环城巨构净环境。
+- 截取日期：2026-10-26
+- 尺寸：2560×1600
+- SHA256：`e17e89cc9fbb165d76ae786d32df781277f7a8a09915c2cf8b5801137f782304`
+- 许可备注：版权归 Aleksey Mazur；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## nicholas-lim-quad-tower-3200.jpg · Quad Tower arcology
+
+- 作品名：Quad Tower — Giant Future Arcology（倒挂穹顶弧学）
+- 作者：Nicholas Lim
+- 原始 URL：https://nicholaslim.artstation.com/projects/R3qZRE
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k；核对悬挂反摩天楼+对接湾净环境。
+- 截取日期：2026-10-26
+- 尺寸：3200×1600
+- SHA256：`104af74ea51b9108bd30da8ceebe9ae6aaf177226eddf3343ff0a360ae4505d6`
+- 许可备注：版权归 Nicholas Lim；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## albert-llin-ruined-temple-2798.jpg · Ruined Temple (UE4 stylized)
+
+- 作品名：Ruined Temple — UE4 Stylized Environment
+- 作者：Albert Llin
+- 原始 URL：https://albertllin.artstation.com/projects/r9WvgJ
+- 类型：静帧-环境（ArtStation / UE4）
+- 机位/时间/步骤：ArtStation CDN 4k；核对风格化废墟神庙+雾光；雕像为建筑焦点非英雄角色。
+- 截取日期：2026-10-26
+- 尺寸：2798×1574
+- SHA256：`dc9010acac0a236b527451d83a28fcdda46310d28b80d299a97d4627d99b1286`
+- 许可备注：版权归 Albert Llin；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## yuta-shimpo-canyon-temple-1920.jpg · Canyon temple
+
+- 作品名：Canyon temple — desert canyon stepped temple
+- 作者：Yuta Shimpo（yutaabeshimpo）
+- 原始 URL：https://www.artstation.com/artwork/rJkara
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN large（4k 403）；核对峡谷神庙+水阶；红袍小人仅尺度。
+- 截取日期：2026-10-26
+- 尺寸：1869×1920（长边 1920）
+- SHA256：`e5652dc25f0bb646e6adaa4258187dff568550dfb003c7f38da627251a9935dd`
+- 许可备注：版权归 Yuta Shimpo；ArtStation 公开；仅作视觉参考，不可自由商用。
+
+## fluex-the-tide-1920.jpg · The Tide
+
+- 作品名：The Tide — colossal head at the shoreline
+- 作者：PTG FLUEX（@Fluex_Artworks）
+- 原始 URL：https://x.com/Fluex_Artworks/status/2114675916257275926
+- 类型：静帧-AI（公开 X）
+- 机位/时间/步骤：X media :orig（1920×2400）；核对沙滩巨像尺度环境，行人仅尺度。
+- 截取日期：2026-10-26
+- 尺寸：1920×2400
+- SHA256：`a7fa51cc6e007e2855f9620710851ddc1c09ca10398962bd1d4d9ee43e99af0e`
+- 许可备注：版权归 Fluex_Artworks；公开 X 静帧；仅作视觉参考，不可自由商用。
