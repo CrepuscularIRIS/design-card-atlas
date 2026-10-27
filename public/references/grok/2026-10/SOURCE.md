@@ -1977,3 +1977,87 @@
 - 机位/时间/步骤：ArtStation CDN 4k/large 实看；生物荧光洞城：青菌冷光对照暖窗与崖居阶；净环境
 - 维度/落点：fog-separates-depth;cold-world-warm-refuge;scale-by-familiar-objects;bioluminescent-cavern;high-view-reads-hierarchy → card:fog-separates-depth;博客 Canyon；Shrine
 - 许可：版权归 caufe；ArtStation 公开；仅作视觉参考
+
+
+## Grok R3 · 2026-10-27
+
+### sorasharma-the-pipe-city-3750.jpg
+- 作品名：The Pipe City
+- 作者：sorasharma
+- 原始 URL：https://www.artstation.com/artwork/Bkr6eD
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R3）
+- 尺寸：3000×3750；sha256：`c013c47c1113d30ac5ac265b39d30c01ab0307f4f8264d9e80318b3b201e8270`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；管网巨构纵深：前景粗管框景+小人走道读尺度；净工业建立镜头；净环境
+- 维度/落点：industrial-pipe-network;fog-separates-depth;scale-by-familiar-objects;framed-distant-view → card:industrial-pipe-network；博客 Industrial；Megastructure
+- 许可：版权归 sorasharma；ArtStation 公开；仅作视觉参考
+### alejandro-xyz-futuristic-canal-series-2581.jpg
+- 作品名：Futuristic Canal - Series
+- 作者：alejandro_xyz
+- 原始 URL：https://www.artstation.com/artwork/98qRQQ
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R3）
+- 尺寸：2581×1400；sha256：`74b9eda5974a11fc26e99d3cafd652622a09e3a1eb78479d59ca8c8fe246af06`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；水淹弧廊运河：红绿雾分层+桥廊读尺度；季风/水淹弧廊建立；净环境
+- 维度/落点：fog-separates-depth;megastructure-silhouette;cold-world-warm-refuge;flooded-arcology-canal → card:fog-separates-depth；博客 Megastructure；Industrial
+- 许可：版权归 alejandro_xyz；ArtStation 公开；仅作视觉参考
+### adambandel-dream-city-canals-2048.jpg
+- 作品名：Dream City Canals
+- 作者：adambandel
+- 原始 URL：https://www.artstation.com/artwork/LePzWA
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R3）
+- 尺寸：2048×2048；sha256：`0f17830238ca4a5cc33f34b851e36f0c3a253385cdc9d6cdd47f3a998c42d678`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；竖街运河夹缝：拱桥框出远亮口；水淹弧廊纵深建立；净环境
+- 维度/落点：framed-distant-view;megastructure-silhouette;flooded-arcology;vertical-slum-density → card:framed-distant-view；博客 Megastructure；Canyon
+- 许可：版权归 adambandel；ArtStation 公开；仅作视觉参考
+### maese-elodin-ship-corridor-enviroment-hard-surface-1920.jpg
+- 作品名：Ship Corridor Enviroment, Hard Surface
+- 作者：maese_elodin
+- 原始 URL：https://www.artstation.com/artwork/Al26Nz
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R3）
+- 尺寸：1920×1080；sha256：`02dd5cf35da17741e085f1515dc5df2e1088fd457b446baf51dc7b7d22a42285`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；世代舰走廊对称透视：舱门橙条节奏；净硬表面内景；净环境
+- 维度/落点：colonnade-rhythm;generation-ship-interior;ordered-frame → card:colonnade-rhythm；博客 Station；Megastructure
+- 许可：版权归 maese_elodin；ArtStation 公开；仅作视觉参考
+### wael-tabbara-power-grid-3750.jpg
+- 作品名：Power Grid
+- 作者：wael_tabbara
+- 原始 URL：https://www.artstation.com/artwork/L4Vb4K
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R3）
+- 尺寸：3000×3750；sha256：`b6752aee17fe0bc393a3071f5b35abe0dfaea7ebf03438f2025d3534880c36ea`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；冷却塔电力网深坑：缆线框景+工人读尺度；工业教堂建立；净环境
+- 维度/落点：industrial-pipe-network;fog-separates-depth;scale-by-familiar-objects;high-view-reads-hierarchy;cooling-tower-megacity → card:industrial-pipe-network；博客 Industrial；Megastructure
+- 许可：版权归 wael_tabbara；ArtStation 公开；仅作视觉参考
+### alejandro-xyz-desert-interface-command-center-series-1920.jpg
+- 作品名：Desert Interface Command Center - Series
+- 作者：alejandro_xyz
+- 原始 URL：https://www.artstation.com/artwork/oJ1aOL
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R3）
+- 尺寸：1920×798；sha256：`6ef702695c06f2c28417de78b23ebee0938cc84964620f2ba41dd848c8855525`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；沙漠巨壁框景：峡谷门洞托出远方指挥穹顶与城带；净环境
+- 维度/落点：framed-distant-view;megastructure-silhouette;fog-separates-depth;oasis-arcology → card:framed-distant-view；博客 Canyon；Megastructure
+- 许可：版权归 alejandro_xyz；ArtStation 公开；仅作视觉参考
+### taile0802-garden-palace-1920.jpg
+- 作品名：Garden Palace
+- 作者：taile0802
+- 原始 URL：https://www.artstation.com/artwork/EaPOlA
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R3）
+- 尺寸：1920×960；sha256：`def1f844c422dc91cf58eb607a4ab0c6ef22be0b7f7257df9638db1656f74095`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；空中花园宫殿低视：狮身像夹道+暖门对照冷暮；净建立；净环境
+- 维度/落点：scale-by-familiar-objects;colonnade-rhythm;cold-world-warm-refuge;sky-garden-palace → card:scale-by-familiar-objects；博客 Shrine；Megastructure
+- 许可：版权归 taile0802；ArtStation 公开；仅作视觉参考
+### raagskarnavar-the-aegis-hangar-3840.jpg
+- 作品名：The Aegis Hangar
+- 作者：raagskarnavar
+- 原始 URL：https://www.artstation.com/artwork/lxBZPV
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R3）
+- 尺寸：3840×1976；sha256：`8922c82cddb14fca8cf4e211978a8d1e2c618f62b1ee0a403b1a3a1a623095df`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；世代舰机库：舰列与端窗行星读尺度；净工业内景建立；净环境
+- 维度/落点：scale-by-familiar-objects;framed-distant-view;generation-ship-hangar;high-view-reads-hierarchy → card:scale-by-familiar-objects；博客 Station；Orbital
+- 许可：版权归 raagskarnavar；ArtStation 公开；仅作视觉参考
