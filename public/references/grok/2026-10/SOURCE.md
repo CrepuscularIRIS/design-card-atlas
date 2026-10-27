@@ -2226,3 +2226,84 @@
 - 机位/时间/步骤：ArtStation CDN 4k/large 实看；移动小行星采矿蜂巢球：六边形壳+矿核；净轨道巨构；净环境
 - 维度/落点：megastructure-silhouette;scale-by-familiar-objects;honeycomb-habitat;orbital-megastructure → card:megastructure-silhouette;博客 Orbital;Megastructure
 - 许可：版权归 gramophone；ArtStation 公开；仅作视觉参考
+
+### nonohara-cliff-city-waterfall-6000.jpg
+- 作品名：Cliff City -a scene of waterfall-
+- 作者：nonohara
+- 原始 URL：https://www.artstation.com/artwork/L2lqdw
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R6）
+- 尺寸：3840×6000；sha256：`5dac6a1ca02796d28e41fae67bd87ed76cc2c1bd50331b3f705a17010d51381a`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；峡谷瀑布层叠崖城：风车塔楼+小人读尺；净瀑布崖城建立；净环境。
+- 维度/落点：megastructure-silhouette;framed-distant-view;fog-separates-depth;waterfall-cliff-city → 博客 Canyon;Megastructure;Shrine
+- 许可：版权归 nonohara；ArtStation 公开；仅作视觉参考
+### ghzli-golden-cliffside-bazaar-1920.jpg
+- 作品名：Golden Cliffside Bazaar
+- 作者：ghzli
+- 原始 URL：https://www.artstation.com/artwork/x3l5LR
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R6）
+- 尺寸：1920×1080；sha256：`cfe373c146316bc9754816b9358248b81eaf031ab070c85a418adaa8b07f4584`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；金崖岸边集市廊：藤蔓石堤+河渠；净崖市建立；净环境。
+- 维度/落点：high-view-reads-hierarchy;ordered-frame-wild-growth;hanging-bazaar-canyon → 博客 Canyon;Harbor;Megastructure
+- 许可：版权归 ghzli；ArtStation 公开；仅作视觉参考
+### bradwright-obsidian-reverie-berlin-3000.jpg
+- 作品名：OBSIDIAN REVERIE_future Berlin city concepts
+- 作者：bradwright
+- 原始 URL：https://www.artstation.com/artwork/vYned
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R6）
+- 尺寸：3000×1219；sha256：`b61ddb70a67c0cbdeabf598c026ad2e2eb5276afa013628b4eab5fbe72cd765d`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；黑曜石巨构城俯视：中央青光井+白柱；净赛博巨构建立；净环境。
+- 维度/落点：megastructure-silhouette;high-view-reads-hierarchy;fog-separates-depth;obsidian-megacity → 博客 Megastructure;Orbital;Industrial
+- 许可：版权归 bradwright；ArtStation 公开；仅作视觉参考
+### tobymonks-ancient-desert-city-3840.jpg
+- 作品名：Ancient Desert City - Unreal Engine 5
+- 作者：tobymonks
+- 原始 URL：https://www.artstation.com/artwork/xdDm0O
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R6）
+- 尺寸：3840×1674；sha256：`e0ee78e9fcf0554e3b4874f82dcac61ca4c58db812a2253e0de69148fcb5fb33`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；沙暴废神殿框景：圆堂穹顶嵌崖寺；净沙漠古都建立；净环境。
+- 维度/落点：framed-distant-view;colonnade-rhythm;megastructure-silhouette;desert-temple-city → 博客 Desert;Megastructure;Shrine
+- 许可：版权归 tobymonks；ArtStation 公开；仅作视觉参考
+### copper-octopus-underground-city-1920.jpg
+- 作品名：Underground city - Animation environment concept
+- 作者：copper-octopus
+- 原始 URL：https://www.artstation.com/artwork/3d3aWE
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R6）
+- 尺寸：1920×1080；sha256：`de0b4afa4b1d60091eb4e52f66d2c43857e4fb1e7aa79c2623de48b2bfd79e2f`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；洞穴哥特地下城：钟乳托塔+雾底；净地下城建立；净环境。
+- 维度/落点：megastructure-silhouette;fog-separates-depth;cold-world-warm-refuge;underground-cavern-city → 博客 Canyon;Gothic;Megastructure
+- 许可：版权归 copper-octopus；ArtStation 公开；仅作视觉参考
+### corbingrbr-bioluminescent-cavern-2048.jpg
+- 作品名：Bioluminescent Cavern
+- 作者：corbingrbr
+- 原始 URL：https://www.artstation.com/artwork/5v022z
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R6）
+- 尺寸：2048×2048；sha256：`668fcec679b6c72a745544e02a2f3fc779fe6385b7fa8fa42d7bcf96ff9116ed`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；生物荧光洞穴：青池+苔台小人；净荧光洞城建立；净环境。
+- 维度/落点：fog-separates-depth;ordered-frame-wild-growth;scale-by-familiar-objects;bioluminescent-cavern → 博客 Canyon;Shrine;Megastructure
+- 许可：版权归 corbingrbr；ArtStation 公开；仅作视觉参考
+### pwpratham-lost-monastery-mountains-3840.jpg
+- 作品名：The Lost Monastery in the Mountains
+- 作者：pwpratham
+- 原始 URL：https://www.artstation.com/artwork/984bqv
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R6）
+- 尺寸：3840×2160；sha256：`56f295f22cf35d848a5c0fa5095d8796fc02058c900920fb61d7e5126fb99812`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；湖心岛山寺：绿丘托哥特寺；净山寺建立；净环境。
+- 维度/落点：megastructure-silhouette;framed-distant-view;fog-separates-depth;mountain-monastery → 博客 Shrine;Canyon;Gothic
+- 许可：版权归 pwpratham；ArtStation 公开；仅作视觉参考
+### haechan-park-bamboo-forest-torii-2048.jpg
+- 作品名：Bamboo Forest Torii Gate
+- 作者：haechan_park
+- 原始 URL：https://www.artstation.com/artwork/WX5W8v
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R6）
+- 尺寸：2048×1152；sha256：`a635708bcf827269b98c886fe1597e851968f20e8557a02b576598806946047e`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；竹林鸟居石阶：灯笼框景；净鸟居谷建立；净环境。
+- 维度/落点：framed-distant-view;colonnade-rhythm;ordered-frame-wild-growth;torii-valley → 博客 Shrine;Gothic
+- 许可：版权归 haechan_park；ArtStation 公开；仅作视觉参考
