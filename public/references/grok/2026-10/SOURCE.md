@@ -1478,3 +1478,110 @@
 - 尺寸：1080×1920
 - SHA256：`5e9ef1576928d1d96f2469030309eb840016a881ad95d46a261361c2131b70cc`
 - 许可备注：版权归 allison111；ArtStation 公开；仅作视觉参考。
+
+
+# R10 · 2026-10-26
+
+## arith-garai-desert-sandstone-fortress-3840.jpg · A Desert Sandstone Fortress
+
+- 作品名：A Desert Sandstone Fortress
+- 作者：arith_garai
+- 原始 URL：https://www.artstation.com/artwork/9BNoqv
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；崖壁嵌入式砂岩堡垒：穹顶与门廊尺度清晰；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：3840×2160
+- SHA256：`f7e4fe2a2c9c3429b2516ce7b3aa7bde1457351ffa4a6934ab7b1132548f6c44`
+- 许可备注：版权归 arith_garai；ArtStation 公开；仅作视觉参考。
+
+
+## mohamedali-r-ruins-beneath-the-dunes-1920.jpg · Ruins Beneath the Dunes – Sci‑Fi Desert Environment
+
+- 作品名：Ruins Beneath the Dunes – Sci‑Fi Desert Environment
+- 作者：mohamedali_r
+- 原始 URL：https://www.artstation.com/artwork/Zlv6QG
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；沙丘风塔遗迹+远景天际线：旅人尺度；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`5a5bb8f93d2aecacd2e26a8705f24bde090b3f1dfee51265a10fdbe0b6a499fc`
+- 许可备注：版权归 mohamedali_r；ArtStation 公开；仅作视觉参考。
+
+
+## zhaozerui-pagoda-bamboo-grove-3840.jpg · A pagoda in a bamboo grove
+
+- 作品名：A pagoda in a bamboo grove
+- 作者：zhaozerui
+- 原始 URL：https://www.artstation.com/artwork/6N1845
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；竹林雾中石塔暖门：仙侠哥特氛围；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：3840×2297
+- SHA256：`8d092269259a893773662fa829b77fcd05b115149c1c816a1ae7e1b414d41ed3`
+- 许可备注：版权归 zhaozerui；ArtStation 公开；仅作视觉参考。
+
+
+## threedpixel-floating-harbor-fortress-1920.jpg · Floating Harbor Fortress | Environment Art | Maya, Substance
+
+- 作品名：Floating Harbor Fortress | Environment Art | Maya, Substance
+- 作者：threedpixel
+- 原始 URL：https://www.artstation.com/artwork/V2n4r8
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；雾港浮堡机械底盘+小舟尺度：环境向；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：1920×1920
+- SHA256：`64750feb32dbebecc9fc5e33444713d72a493897f7390841001960d54ecc1bd8`
+- 许可备注：版权归 threedpixel；ArtStation 公开；仅作视觉参考。
+
+
+## sreeharivg1-aetheria-environment-3072.jpg · AETHERIA - ENVIRONMENT DESIGN
+
+- 作品名：AETHERIA - ENVIRONMENT DESIGN
+- 作者：sreeharivg1
+- 原始 URL：https://www.artstation.com/artwork/Wd2QeN
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；云上海拔浮岛城+能量穹：史诗巨构；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：3072×1302
+- SHA256：`90f62cf9d321bf9fac2a2c95afa0ca1d9068ae602cd82bafdc0140a952d4f04f`
+- 许可备注：版权归 sreeharivg1；ArtStation 公开；仅作视觉参考。
+
+
+## esage-core-city-1920.jpg · Core City - Part of the Modern Fantasy Story
+
+- 作品名：Core City - Part of the Modern Fantasy Story
+- 作者：esage
+- 原始 URL：https://www.artstation.com/artwork/KayXdx
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；同心圆环巨城+中央尖塔：俯视层级可读；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`7af1c12aaba38d488398b2a565c646f1c55e1299b590d8812e2ec30ad3336b40`
+- 许可备注：版权归 esage；ArtStation 公开；仅作视觉参考。
+
+
+## megvin-lost-city-of-tikal-3840.jpg · "Lost city of Tikal"
+
+- 作品名："Lost city of Tikal"
+- 作者：megvin
+- 原始 URL：https://www.artstation.com/artwork/lxKPJz
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；云雾石城巨柱+飞艇尺度：史诗古构；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：3840×1816
+- SHA256：`c26bb9db2892a5b196172669da9ddf450c24c597955b2f6afa8e9e879b65628c`
+- 许可备注：版权归 megvin；ArtStation 公开；仅作视觉参考。
+
+
+## im-ivy-skyscraper-piercing-the-clouds-3840.jpg · Skyscraper Piercing the Clouds
+
+- 作品名：Skyscraper Piercing the Clouds
+- 作者：im-ivy
+- 原始 URL：https://www.artstation.com/artwork/NG0zbP
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；穿云尖塔+环轨光环：轨道电梯感；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：2560×3840
+- SHA256：`010988796221ff3bbeded32e8a332c8f1b82c70a1af1de758db0cfb8806b991d`
+- 许可备注：版权归 im-ivy；ArtStation 公开；仅作视觉参考。
+

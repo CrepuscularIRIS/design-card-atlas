@@ -370,3 +370,34 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
+
+
+---
+
+# R10 提案补记（2026-10-26）
+
+## 挂现有卡
+
+### 1. `megastructure-silhouette` ← arith-garai-desert-sandstone-fortress-3840.jpg + mohamedali-r-ruins-beneath-the-dunes-1920.jpg + threedpixel-floating-harbor-fortress-1920.jpg + sreeharivg1-aetheria-environment-3072.jpg + esage-core-city-1920.jpg + megvin-lost-city-of-tikal-3840.jpg + im-ivy-skyscraper-piercing-the-clouds-3840.jpg
+- **证明什么**：砂岩堡垒、沙丘风塔、雾港浮堡、云上浮岛、圆环巨城、石柱城、穿云尖塔外轮廓先于细节。
+- **博客落点**：Orbital；Megastructure；Cyberpunk；Gothic。
+
+### 2. `fog-separates-depth` / `framed-distant-view` ← mohamedali-r-ruins-beneath-the-dunes-1920.jpg + zhaozerui-pagoda-bamboo-grove-3840.jpg + threedpixel-floating-harbor-fortress-1920.jpg + sreeharivg1-aetheria-environment-3072.jpg + megvin-lost-city-of-tikal-3840.jpg + im-ivy-skyscraper-piercing-the-clouds-3840.jpg
+- **证明什么**：沙丘霾、竹雾、港雾、云海、石城云、穿云层把远景收进画面。
+- **博客落点**：Gothic/Canyon；Xianxia；Megastructure。
+
+### 3. `scale-by-familiar-objects` / `cold-world-warm-refuge` ← mohamedali-r-ruins-beneath-the-dunes-1920.jpg + zhaozerui-pagoda-bamboo-grove-3840.jpg + threedpixel-floating-harbor-fortress-1920.jpg + megvin-lost-city-of-tikal-3840.jpg + arith-garai-desert-sandstone-fortress-3840.jpg
+- **证明什么**：旅人/灯柱、僧侣、小舟、飞艇相对巨构变尺度；暖门/暖穹在冷雾沙中成避难点。
+- **博客落点**：Gothic；Xianxia；Megastructure。
+
+### 4. `high-view-reads-hierarchy` ← sreeharivg1-aetheria-environment-3072.jpg + esage-core-city-1920.jpg + im-ivy-skyscraper-piercing-the-clouds-3840.jpg
+- **证明什么**：浮岛穹罩层、圆环城同心层、尖塔环轨层可读层级。
+- **博客落点**：Orbital；Megastructure；Cyberpunk。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：均可挂现有卡。若后续再收 1–2 件「雾港浮堡 / 同心圆环巨城」不同作品，可议 `fog-harbor-floating-fortress` 或 `concentric-core-megacity` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
