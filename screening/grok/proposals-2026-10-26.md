@@ -401,3 +401,92 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
+
+
+---
+
+# R11 提案补记（2026-10-26）
+
+## 挂现有卡
+
+### 1. `fog-separates-depth` / `cold-world-warm-refuge` / `framed-distant-view` ← feraziniremi01-japanese-shrine-dark-fantasy-3840.jpg + xentabsenta-forest-shrine-2048.jpg + michael-lopezibanez-desert-cultist-temple-3840.jpg
+- **证明什么**：暗黑鸟居雾阶、林间神社暖灯、沙漠祭坛沙霾把远景收进画面；冷雾/沙中的暖门灯成避难点。
+- **博客落点**：Gothic/Xianxia；Canyon；Megastructure。
+
+### 2. `colonnade-rhythm` / `fog-separates-depth` ← mr-sceeney-gothic-cathedral-1920.jpg + kim-jeong-tae-gothic-cathedral-ue5-1920.jpg
+- **证明什么**：哥特柱廊节奏与窗光/体积光层次；大堂净环境无角色前景。
+- **博客落点**：Gothic。
+
+### 3. `megastructure-silhouette` / `high-view-reads-hierarchy` ← sen-tidn-new-eden-sci-fi-city-1920.jpg + simon-chukov-floating-city-3840.jpg + wookun-red-desert-ruins-3840.jpg + michael-lopezibanez-desert-cultist-temple-3840.jpg
+- **证明什么**：新伊甸天际、海上星形浮城、红沙塔群、沙漠祭坛外轮廓先于细节；俯视/远塔可读层级。
+- **博客落点**：Megastructure；Cyberpunk；Orbital；Canyon。
+
+### 4. `scale-by-familiar-objects` ← wookun-red-desert-ruins-3840.jpg + michael-lopezibanez-desert-cultist-temple-3840.jpg
+- **证明什么**：旅人/骨肋廊道相对塔群与祭坛变尺度。
+- **博客落点**：Gothic/Canyon；Megastructure。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：均可挂现有卡。若后续再收 1–2 件「暗黑鸟居神社 / 海上俯视浮城」不同作品，可议 `dark-torii-shrine-fog` 或 `aerial-ocean-floating-city` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
+
+
+---
+
+# R12 提案补记（2026-10-26）
+
+## 挂现有卡
+
+### 1. `megastructure-silhouette` / `high-view-reads-hierarchy` ← emanshehabi-zigurat-city-3840.jpg + nick-stath-grand-brutalist-hotel-1920.jpg + poullitocreate-round-brutalism-megastructure-1920.jpg + mighty-melon-brutalist-dystopian-city-1920.jpg + meganerid-orbital-dock-1920.jpg
+- **证明什么**：河谷阶梯城、沙漠半埋粗野巨构、圆盘阵列内腔、雾港板楼轨线、轨道船坞外轮廓先于细节；俯视/远城灯带可读层级。
+- **博客落点**：Megastructure；Canyon；Cyberpunk；Orbital。
+
+### 2. `colossus-crosses-the-frame` / `framed-distant-view` / `fog-separates-depth` ← anomander-cliffside-monastery-2070.jpg + alexson-cliffside-temple-ruins-1920.jpg + sergeypogoreliy-cliffside-temple-1920.jpg
+- **证明什么**：巨佛/捧水雕像跨框、云海崖寺、悬空汉阁把远景收进画面；海雾/云海分层。
+- **博客落点**：Gothic/Canyon；Xianxia；Megastructure。
+
+### 3. `scale-by-familiar-objects` / `fog-separates-depth` ← emanshehabi-zigurat-city-3840.jpg + nick-stath-grand-brutalist-hotel-1920.jpg + poullitocreate-round-brutalism-megastructure-1920.jpg + meganerid-orbital-dock-1920.jpg
+- **证明什么**：帆船/直升机/旅人/宇航员相对巨构变尺度；沙霾/体积光雾分层。
+- **博客落点**：Megastructure；Orbital；Canyon。
+
+### 4. `colonnade-rhythm` / `ordered-frame-wild-growth` ← alexson-cliffside-temple-ruins-1920.jpg + sergeypogoreliy-cliffside-temple-1920.jpg
+- **证明什么**：石廊拱券节奏；悬阁木构飞檐与峭壁框景。
+- **博客落点**：Gothic；Xianxia。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：均可挂现有卡。若后续再收 1–2 件「河谷阶梯 Zigurat / 轨道电梯坞」不同作品，可议 `ziggurat-river-megacity` 或 `orbital-elevator-dock` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
+
+
+---
+
+# R13 提案补记（2026-10-26）
+
+## 挂现有卡
+
+### 1. `megastructure-silhouette` / `high-view-reads-hierarchy` / `fog-separates-depth` ← sorasharma-neon-veins-megacity-3000.jpg + spiritart-space-elevator-city-3840.jpg + wansry-city-to-the-stars-2480.jpg + leo-li-satellite-city-3840.jpg
+- **证明什么**：霓虹雾城天际、夜城天梯射束、云上圆环城、白昼卫星城针塔外轮廓先于细节；高台/俯视可读层级；霾/云海分层。
+- **博客落点**：Cyberpunk；Megastructure；Orbital。
+
+### 2. `megastructure-silhouette` / `scale-by-familiar-objects` ← christianmarcy-moon-mining-colony-3840.jpg + emil-van-dam-modular-bishop-rings-3840.jpg
+- **证明什么**：宇航员/机器人相对月面殖民地变尺度；双平行 Bishop 环内缘城光与辐条桁架可读轨道巨构。
+- **博客落点**：Orbital；Megastructure。
+
+### 3. `cold-world-warm-refuge` / `colonnade-rhythm` / `fog-separates-depth` ← tumanhhoang-underwater-coral-city-2048.jpg + sharur3d-underwater-temple-1920.jpg
+- **证明什么**：珊瑚水下城暖窗 vs 冷水；多立克柱廊节奏+品红核光；水色体积光分层。
+- **博客落点**：Gothic；Megastructure。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：均可挂现有卡。若后续再收 1–2 件「云上圆环天梯城 / 双平行 Bishop 环」不同作品，可议 `ring-city-space-elevator` 或 `twin-bishop-orbital-habitat` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。

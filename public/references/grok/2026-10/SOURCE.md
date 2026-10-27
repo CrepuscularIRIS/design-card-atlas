@@ -1585,3 +1585,254 @@
 - SHA256：`010988796221ff3bbeded32e8a332c8f1b82c70a1af1de758db0cfb8806b991d`
 - 许可备注：版权归 im-ivy；ArtStation 公开；仅作视觉参考。
 
+
+## feraziniremi01-japanese-shrine-dark-fantasy-3840.jpg · Japanese Shrine - Dark Fantasy CGI Scene | D5 Render
+
+- 作品名：Japanese Shrine - Dark Fantasy CGI Scene | D5 Render
+- 作者：feraziniremi01
+- 原始 URL：https://www.artstation.com/artwork/K3bdw4
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；暗黑神社：鸟居/雾/石阶尺度清晰；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：3840×2877
+- SHA256：`afe7801025ae7ccec783250e920ac56be189c930627345620bc5b0190694e3e2`
+- 许可备注：版权归 feraziniremi01；ArtStation 公开；仅作视觉参考。
+
+## mr-sceeney-gothic-cathedral-1920.jpg · Gothic Cathedral Environment
+
+- 作品名：Gothic Cathedral Environment
+- 作者：mr_sceeney
+- 原始 URL：https://www.artstation.com/artwork/yD5oen
+- 类型：静帧-环境（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；哥特大堂环境：柱廊节奏+体积光；净环境无角色前景。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`f929e2d2dba81f35d474a07086ca44f5c073723de162d449b5074dd775e45089`
+- 许可备注：版权归 mr_sceeney；ArtStation 公开；仅作视觉参考。
+
+## kim-jeong-tae-gothic-cathedral-ue5-1920.jpg · Gothic Cathedral | 3D Environment Art [UE5]
+
+- 作品名：Gothic Cathedral | 3D Environment Art [UE5]
+- 作者：kim_jeong_tae
+- 原始 URL：https://www.artstation.com/artwork/3E5JDB
+- 类型：静帧-环境（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；UE5哥特大堂：飞扶壁与窗光层次；净环境巨构。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`66e04d2272a81a1ac88f8b496023e9f3be40c6be19e160beb110db25e75a4ede`
+- 许可备注：版权归 kim_jeong_tae；ArtStation 公开；仅作视觉参考。
+
+## sen-tidn-new-eden-sci-fi-city-1920.jpg · Environment Concept Art New Eden || Sci-fi city
+
+- 作品名：Environment Concept Art New Eden || Sci-fi city
+- 作者：sen_tidn
+- 原始 URL：https://www.artstation.com/artwork/g8rWZm
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；新伊甸科幻城天际：巨构外轮廓+层级可读；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：1920×815
+- SHA256：`2cb4d8fb79aa6c6fbbbfe5e000e0f506020f670004184ec3dd36c138e81f9604`
+- 许可备注：版权归 sen_tidn；ArtStation 公开；仅作视觉参考。
+
+## michael-lopezibanez-desert-cultist-temple-3840.jpg · Desert Cultist Temple
+
+- 作品名：Desert Cultist Temple
+- 作者：michael_lopezibanez
+- 原始 URL：https://www.artstation.com/artwork/Qxn8QE
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；沙漠祭坛塔：骨肋廊道+暖沙霾；巨构剪影清晰。
+- 截取日期：2026-10-26
+- 尺寸：3840×2160
+- SHA256：`2e5535633ea4eab3dc62221b304dc66a3e650082da47e6c3137b608508009120`
+- 许可备注：版权归 michael_lopezibanez；ArtStation 公开；仅作视觉参考。
+
+## simon-chukov-floating-city-3840.jpg · FLOATING CITY
+
+- 作品名：FLOATING CITY
+- 作者：simon_chukov
+- 原始 URL：https://www.artstation.com/artwork/ZGoJnZ
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；海上浮城俯视：星形/花形岛城层级；净巨构无角色。
+- 截取日期：2026-10-26
+- 尺寸：3840×2036
+- SHA256：`73938832768f1e8d6b8d2946490920e2229e8bb6f01d6e7ae12ca6a56a406943`
+- 许可备注：版权归 simon_chukov；ArtStation 公开；仅作视觉参考。
+
+## wookun-red-desert-ruins-3840.jpg · Red Desert Ruins
+
+- 作品名：Red Desert Ruins
+- 作者：wookun
+- 原始 URL：https://www.artstation.com/artwork/1Ne53K
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；红沙遗迹塔群：旅人尺度+远塔纵深；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：3840×1646
+- SHA256：`f42f2586464f86bc3daffd7578c3d4b552db068762dfa8dbf7f3d38a72e9b952`
+- 许可备注：版权归 wookun；ArtStation 公开；仅作视觉参考。
+
+## xentabsenta-forest-shrine-2048.jpg · Forest Shrine - Unreal Engine Environment
+
+- 作品名：Forest Shrine - Unreal Engine Environment
+- 作者：xentabsenta
+- 原始 URL：https://www.artstation.com/artwork/zxyX5m
+- 类型：静帧-环境（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；林间神社：雾中石阶与暖灯；净环境氛围。
+- 截取日期：2026-10-26
+- 尺寸：2048×2048
+- SHA256：`2c71c806d0e02bf4332dd912b6e0f804b8d7215711c756b2976cd11ad4c9bed7`
+- 许可备注：版权归 xentabsenta；ArtStation 公开；仅作视觉参考。
+
+
+## emanshehabi-zigurat-city-3840.jpg · ZIGURAT CITY 3DMP/Environment
+
+- 作品名：ZIGURAT CITY 3DMP/Environment
+- 作者：emanshehabi
+- 原始 URL：https://www.artstation.com/artwork/bKGqwg
+- 类型：静帧-环境（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；河谷阶梯金字塔城：多层Zigurat+桥船尺度。
+- 截取日期：2026-10-26
+- 尺寸：3840×2025
+- SHA256：`30555944d452b8c65f55a41fd69757f93142f7781c828256145b27182ac88a0c`
+- 许可备注：版权归 emanshehabi；ArtStation 公开；仅作视觉参考
+
+## nick-stath-grand-brutalist-hotel-1920.jpg · The Grand Brutalist Hotel
+
+- 作品名：The Grand Brutalist Hotel
+- 作者：nick_stath
+- 原始 URL：https://www.artstation.com/artwork/3db9eJ
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；沙漠半埋粗野主义巨构：直升机尺度+沙丘剪影。
+- 截取日期：2026-10-26
+- 尺寸：1920×914
+- SHA256：`8bcbe813d8dfad67537f90fabc0b3f386f09525fa379cee7f4f653e47f8e6b4f`
+- 许可备注：版权归 nick_stath；ArtStation 公开；仅作视觉参考
+
+## poullitocreate-round-brutalism-megastructure-1920.jpg · A round brutalism megastructure place
+
+- 作品名：A round brutalism megastructure place
+- 作者：poullitocreate
+- 原始 URL：https://www.artstation.com/artwork/QxnQ34
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；圆形浮台阵列巨构内腔：旅人尺度+体积光柱。
+- 截取日期：2026-10-26
+- 尺寸：1420×1920
+- SHA256：`ca1fb7f4b46142c5c1cd5c5d2156531cb63c706855f2d10910f03a6a40fe657c`
+- 许可备注：版权归 poullitocreate；ArtStation 公开；仅作视觉参考
+
+## mighty-melon-brutalist-dystopian-city-1920.jpg · Brutalist Dystopian industrial City
+
+- 作品名：Brutalist Dystopian industrial City
+- 作者：mighty_melon3467
+- 原始 URL：https://www.artstation.com/artwork/bgZgDn
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；雾港工业轨线：粗野板楼+远城灯带。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`a05d1df4b75da6343e84055016d039916d44abc8ba8a5ae3ef4283ab304af68a`
+- 许可备注：版权归 mighty_melon3467；ArtStation 公开；仅作视觉参考
+
+## anomander-cliffside-monastery-2070.jpg · Cliffside Monastery
+
+- 作品名：Cliffside Monastery
+- 作者：anomander
+- 原始 URL：https://www.artstation.com/artwork/rJl2W2
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；海岸巨佛崖寺：雕像尺度+层叠白墙红顶。
+- 截取日期：2026-10-26
+- 尺寸：2070×1080
+- SHA256：`4c2314a4bc13892f3f97fdf8d05aa78a4b973a0f8b9a82de5da786b5ef38a3d9`
+- 许可备注：版权归 anomander；ArtStation 公开；仅作视觉参考
+
+## alexson-cliffside-temple-ruins-1920.jpg · Cliffside temple ruins
+
+- 作品名：Cliffside temple ruins
+- 作者：alexson
+- 原始 URL：https://www.artstation.com/artwork/NrxxQ1
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；云上海拔崖寺：捧水雕像+柱廊。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`dc0cf68e8d501d2c6c3826a8988c890bf59038015c483d56c694a7af4ed78ebc`
+- 许可备注：版权归 alexson；ArtStation 公开；仅作视觉参考
+
+## sergeypogoreliy-cliffside-temple-1920.jpg · Cliffside temple
+
+- 作品名：Cliffside temple
+- 作者：sergeypogoreliy
+- 原始 URL：https://www.artstation.com/artwork/6LgQPn
+- 类型：静帧-环境（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；悬空汉式崖阁：三层飞檐+峭壁木柱。
+- 截取日期：2026-10-26
+- 尺寸：1920×1200
+- SHA256：`473baf111bf4fddc3832f19c21d6ed60c14a65914567f8e2d1d28a375dce337f`
+- 许可备注：版权归 sergeypogoreliy；ArtStation 公开；仅作视觉参考
+
+## meganerid-orbital-dock-1920.jpg · Orbital Dock
+
+- 作品名：Orbital Dock
+- 作者：meganerid
+- 原始 URL：https://www.artstation.com/artwork/lrRlz
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；轨道船坞俯视：电梯桩+并排舰体+星球。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`146897a2c68cbb6511787e4374a594465239ac59151c9561b8d991978778adc8`
+- 许可备注：版权归 meganerid；ArtStation 公开；仅作视觉参考
+
+## R13 · 2026-10-26 ~20:52 ET
+### sorasharma-neon-veins-megacity-3000.jpg
+- 来源：https://www.artstation.com/artwork/5WL18P （sorasharma）
+- 尺寸：3000×3750；sha256：`93a28122e5d0431f6a258f411f485df009db194b7ceffd1b020b93058eaea263`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；高台俯视霓虹雾城：黄霾分层+日文立招天际；净环境无角色前景
+- 维度/落点：E霓虹巨构;F黄霾分层;B高视层级;A污染漫射 → card:megastructure-silhouette;card:high-view-reads-hierarchy;card:fog-separates-depth;博客 Cyberpunk;Megastructure
+- 许可：版权归 sorasharma；ArtStation 公开；仅作视觉参考
+
+### spiritart-space-elevator-city-3840.jpg
+- 来源：https://www.artstation.com/artwork/18ran2 （spiritart）
+- 尺寸：3840×2160；sha256：`70a0bd1270ef099c734c2f8a54c6d16c1f46681a98fb8edcda20db2dc3500c5e`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；夜城中央天梯尖塔射束：高台俯视+霓虹纵深；净巨构
+- 维度/落点：E天梯剪影;A青蓝射束;B高视层级;F夜霾 → card:megastructure-silhouette;card:high-view-reads-hierarchy;card:fog-separates-depth;博客 Megastructure;Cyberpunk
+- 许可：版权归 spiritart；ArtStation 公开；仅作视觉参考
+
+### wansry-city-to-the-stars-2480.jpg
+- 来源：https://www.artstation.com/artwork/G8WBX3 （wansry）
+- 尺寸：2480×1288；sha256：`0312d6647e938766cf40b27b2c94114410147536a88ecfd3d289e915e5b63b49`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；云上海拔圆环城+中央天梯柱：俯视层级+地桥尺度；净硬科幻
+- 维度/落点：E圆环城剪影;B高视层级;F云海分层;C飞鸟尺度 → card:megastructure-silhouette;card:high-view-reads-hierarchy;card:fog-separates-depth;博客 Megastructure;Orbital
+- 许可：版权归 wansry；ArtStation 公开；仅作视觉参考
+
+### leo-li-satellite-city-3840.jpg
+- 来源：https://www.artstation.com/artwork/EaQdK4 （leo_li_art）
+- 尺寸：3840×1640；sha256：`9b00cc7c4e4daea4652f4dc1502a03018fbb88c5b9230b1c61af0a72ac927777`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；白昼卫星城中央针塔枢纽：高视层级+工业管道尺度；净巨构
+- 维度/落点：E针塔剪影;B高视层级;D工业管线;A高空漫射 → card:megastructure-silhouette;card:high-view-reads-hierarchy;card:scale-by-familiar-objects;博客 Megastructure;Cyberpunk
+- 许可：版权归 leo_li_art；ArtStation 公开；仅作视觉参考
+
+### christianmarcy-moon-mining-colony-3840.jpg
+- 来源：https://www.artstation.com/artwork/lDvbd5 （christianmarcy）
+- 尺寸：3840×1985；sha256：`d6d3af5305b2d74fbead7f7ec73b19fa30ff2e67b1fece36a6b74c4e9b077b12`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；月面采矿殖民地：穹顶+行走机器人田；宇航员仅尺度；净工业
+- 维度/落点：E月面殖民地;C熟悉物尺度;A冷工业灯;D桁架节奏 → card:megastructure-silhouette;card:scale-by-familiar-objects;博客 Orbital;Megastructure
+- 许可：版权归 christianmarcy；ArtStation 公开；仅作视觉参考
+
+### emil-van-dam-modular-bishop-rings-3840.jpg
+- 来源：https://www.artstation.com/artwork/mAOX91 （emil_van_dam）
+- 尺寸：3840×1909；sha256：`a418fa5f3ddd32202a9b79c06a22d473fe8d1750d7f81ec21e9683553b28fd93`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；双平行 Bishop 环轨道栖地：内缘城光+辐条桁架；净轨道巨构
+- 维度/落点：E环带剪影;D辐条桁架;A内缘城光;B斜视层级 → card:megastructure-silhouette;card:high-view-reads-hierarchy;博客 Orbital
+- 许可：版权归 emil_van_dam；ArtStation 公开；仅作视觉参考
+
+### tumanhhoang-underwater-coral-city-2048.jpg
+- 来源：https://www.artstation.com/artwork/ob3QAz （tumanhhoang）
+- 尺寸：2048×2048；sha256：`057626a7b9ae5b1c0f983ce27518ba71e28cdec8a1be3ed09988f7202054d4b3`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；珊瑚礁环抱水下城：暖窗冷水+尖塔尺度；小人仅尺度
+- 维度/落点：E水下城尺度;A暖窗冷水;F水色分层;C熟悉物尺度 → card:cold-world-warm-refuge;card:megastructure-silhouette;card:fog-separates-depth;博客 Gothic;Megastructure
+- 许可：版权归 tumanhhoang；ArtStation 公开；仅作视觉参考
+
+### sharur3d-underwater-temple-1920.jpg
+- 来源：https://www.artstation.com/artwork/3OkDE （sharur3d）
+- 尺寸：1920×1080；sha256：`105480bb28c3d612c179a2d204adad928f40328fc6e80808a00e82adffa11bd4`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；水下多立克柱廊神殿+品红能量核：净环境无角色；体积光
+- 维度/落点：E柱廊尺度;A品红核光;D柱廊节奏;F水色体积光 → card:colonnade-rhythm;card:cold-world-warm-refuge;card:fog-separates-depth;博客 Gothic;Megastructure
+- 许可：版权归 sharur3d；ArtStation 公开；仅作视觉参考
+
