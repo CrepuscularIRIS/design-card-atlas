@@ -159,3 +159,54 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md R3 段）。正式卡挂图由人工从参考库挑选。
+
+
+---
+
+# Grok 补图 / 新卡提议 · 2026-10-27（R4）
+
+只提议，不改 `public/cards/**`。人工合并时再挂图。
+
+## R4 补图提议
+
+### 1. `megastructure-silhouette` ← apocalypse007-cloud-monastery-3840.jpg + kingpeng-glacier-city-3840.jpg + janan-the-city-of-sandstorm-1998.jpg + theodimalta-crystal-cave-2048.jpg
+- **证明什么（云寺）**：崖壁蓝瓦白墙叠层剪影先于细节，雪峰雾谷托出尺度。
+- **证明什么（冰川城）**：冰晶塔与狮身像剪影统领冷蓝全景。
+- **证明什么（沙暴城）**：沙尘雷电中阶梯堡垒剪影可读。
+- **证明什么（水晶洞）**：蓝晶簇巨构剪影压住湿地探索者。
+- **博客落点**：Megastructure；Shrine；Canyon；Cold。
+
+### 2. `fog-separates-depth` ← alejandro-xyz-the-concrete-hive-series-3015.jpg + mariten-japanese-stilt-city-1920.jpg + kingpeng-glacier-city-3840.jpg
+- **证明什么（蜂巢）**：工业雾把远端塔楼推远，近景模块舱仍保形体。
+- **证明什么（高脚城）**：冷雾分层读出栈桥村落与岩柱天桥。
+- **证明什么（冰川）**：冰雾丢远山反差，近景拱桥仍清。
+- **博客落点**：Industrial；Harbor；Cold。
+
+### 3. `scale-by-familiar-objects` ← apocalypse007-cloud-monastery-2-3840.jpg + eiko0724-airship-dock-3840.jpg + alejandro-xyz-the-concrete-hive-series-3015.jpg
+- **证明什么**：石阶小人/飞艇港行人/橙车工人相对巨构，巨大变直觉。
+- **博客落点**：Shrine；Orbital；Industrial。
+
+### 4. `high-view-reads-hierarchy` ← eiko0724-airship-dock-3840.jpg
+- **证明什么**：俯视飞艇港码头层级：穹顶—栈桥—云海。
+- **博客落点**：Orbital；Megastructure。
+
+### 5. `cold-world-warm-refuge` ← mariten-japanese-stilt-city-1920.jpg + apocalypse007-cloud-monastery-3840.jpg
+- **证明什么**：冷雾水面对照暖灯窗；冷雪峰对照暖木廊。
+- **博客落点**：Harbor；Shrine。
+
+### 6. `framed-distant-view` ← apocalypse007-cloud-monastery-2-3840.jpg + kingpeng-glacier-city-3840.jpg
+- **证明什么**：石阶/前景树框远雪峰；狮身像与拱桥框冰塔城。
+- **博客落点**：Shrine；Cold。
+
+### 7. `skybridge-hive` ← alejandro-xyz-the-concrete-hive-series-3015.jpg + mariten-japanese-stilt-city-1920.jpg
+- **证明什么（蜂巢）**：模块舱天桥跨越工业街谷。
+- **证明什么（高脚）**：岩柱间木天桥连住雾中聚落。
+- **博客落点**：Industrial；Harbor。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：收下语言均可挂到现有卡（megastructure / fog / scale / high-view / cold-world / framed-distant）。若后续再收 1–2 件「飞艇港云上海港 / 水晶洞城 / 沙暴台地城」不同作品，可议 `zeppelin-dock-skyport`、`crystal-cavern-city` 或 `sandstorm-mesa-arcology` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md R4 段）。正式卡挂图由人工从参考库挑选。
