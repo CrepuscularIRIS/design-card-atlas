@@ -2307,3 +2307,83 @@
 - 机位/时间/步骤：ArtStation CDN 4k/large 实看；竹林鸟居石阶：灯笼框景；净鸟居谷建立；净环境。
 - 维度/落点：framed-distant-view;colonnade-rhythm;ordered-frame-wild-growth;torii-valley → 博客 Shrine;Gothic
 - 许可：版权归 haechan_park；ArtStation 公开；仅作视觉参考
+### arainmorn-morning-harbour-town-3000.jpg
+- 作品名：Morning in the Harbour Town
+- 作者：arainmorn
+- 原始 URL：https://www.artstation.com/artwork/8ba32Q
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R7）
+- 尺寸：3000×1816；sha256：`da6b487555e2f9a7831e296c69755f441e9922913deb961cd8c6121dc9a49348`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；雾港码头蒸汽烟囱：冷雾分层读远岸仓；净蒸汽港湾建立；净环境。
+- 维度/落点：fog-separates-depth;high-view-reads-hierarchy;steam-harbor;scale-by-familiar-objects → 博客 Harbor;Cold;Megastructure
+- 许可：版权归 arainmorn；ArtStation 公开；仅作视觉参考
+### mohsenghafari-observatory-high-mountain-1920.jpg
+- 作品名：Observatory of High Mountain
+- 作者：mohsenghafari
+- 原始 URL：https://www.artstation.com/artwork/83wJw
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R7）
+- 尺寸：1920×1200；sha256：`7dc73fe413118c6b4c1453715eebdbcbf97fe12af69b904a02fe03a660beb304`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；沙崖金穹观象台：望远镜塔嵌峰顶；净沙漠观象建立；净环境。
+- 维度/落点：megastructure-silhouette;framed-distant-view;desert-observatory;colonnade-rhythm → 博客 Desert;Shrine;Megastructure
+- 许可：版权归 mohsenghafari；ArtStation 公开；仅作视觉参考
+### namanjain26-orbital-space-station-1920.jpg
+- 作品名：Sci-Fi Orbital Space Station | 3D Environment
+- 作者：namanjain26
+- 原始 URL：https://www.artstation.com/artwork/RqYvgm
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R7）
+- 尺寸：1920×1080；sha256：`399e28da80ba2cea88ddfbfe348d1fac6645c420a875abd12b52381f1f56453a`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；圆柱轨道站贴行星弧：潮汐锁巨构剪影；净轨道建立；净环境。
+- 维度/落点：megastructure-silhouette;tidal-lock-station;orbital-megastructure;scale-by-familiar-objects → 博客 Orbital;Megastructure;Station
+- 许可：版权归 namanjain26；ArtStation 公开；仅作视觉参考
+### davelhan-sunken-temple-3840.jpg
+- 作品名：“The Sunken Temple”
+- 作者：davelhan
+- 原始 URL：https://www.artstation.com/artwork/GvlRra
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R7）
+- 尺寸：3840×1680；sha256：`f8290009c1d3a9f750bf7396541e2aaaccc4644f2990040d5d619e9a7031dde0`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；洞底沉寺蓝光柱：小人灯读尺；净洞穴神殿建立；净环境。
+- 维度/落点：megastructure-silhouette;framed-distant-view;cold-world-warm-refuge;cavern-shrine → 博客 Shrine;Canyon;Gothic
+- 许可：版权归 davelhan；ArtStation 公开；仅作视觉参考
+### leekahs-ancient-ruins-sacred-pool-1920.jpg
+- 作品名：Ancient Ruins by the Sacred Pool – 3D Environment Scene
+- 作者：leekahs
+- 原始 URL：https://www.artstation.com/artwork/K3kZvW
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R7）
+- 尺寸：1920×1080；sha256：`a3aa4bcb2991a3e83e9b5828308cebd5e15b3a2471969d25fc31e33e52bdfc8c`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；峡谷圣池莲台神龛：倒影框雕像；净莲池神殿建立；净环境。
+- 维度/落点：framed-distant-view;ordered-frame-wild-growth;lotus-terrace;canyon-shrine → 博客 Shrine;Canyon;Desert
+- 许可：版权归 leekahs；ArtStation 公开；仅作视觉参考
+### hectorlopez11-forgotten-temple-1920.jpg
+- 作品名：Forgotten Temple
+- 作者：hectorlopez11
+- 原始 URL：https://www.artstation.com/artwork/eJRzxX
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R7）
+- 尺寸：1920×1080；sha256：`6d4510294edd3e54fab2d8cb7bf814b721d3c7b0b80bb90ada85d398891048a4`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；红崖埃及神殿谷：方尖碑+坐像读尺；净沙漠神殿城建立；净环境。
+- 维度/落点：megastructure-silhouette;framed-distant-view;colonnade-rhythm;desert-temple-canyon → 博客 Desert;Canyon;Shrine
+- 许可：版权归 hectorlopez11；ArtStation 公开；仅作视觉参考
+### junjayzhu-deep-space-station-1920.jpg
+- 作品名：Deep Space Station - 3D Environment
+- 作者：junjayzhu
+- 原始 URL：https://www.artstation.com/artwork/wO0OXg
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R7）
+- 尺寸：1920×1080；sha256：`61ac346b1e39d1891d11943afa8e3648e810b15fc70f09f08bc3e95554c13954`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；八角模块链连轨道坞：金链托舱；净轨道船坞建立；净环境。
+- 维度/落点：megastructure-silhouette;orbital-shipyard;tidal-lock-station;cold-world-warm-refuge → 博客 Orbital;Megastructure;Station
+- 许可：版权归 junjayzhu；ArtStation 公开；仅作视觉参考
+### manojch248-ancient-ruined-temple-river-1920.jpg
+- 作品名：A 3D environment of an ancient ruined temple
+- 作者：manojch248
+- 原始 URL：https://www.artstation.com/artwork/1Nmxq2
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R7）
+- 尺寸：1920×1080；sha256：`7b70d2bd59db75ea6790ee8812d7c7f05a73deda53a728f2d66f2d512112b4ea`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；红崖河岸古寺：帆船框景雾崖；净红崖河寺建立；净环境。
+- 维度/落点：framed-distant-view;fog-separates-depth;ordered-frame-wild-growth;mangrove-canyon-temple → 博客 Canyon;Shrine;Harbor
+- 许可：版权归 manojch248；ArtStation 公开；仅作视觉参考

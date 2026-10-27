@@ -316,3 +316,61 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md R6 段）。正式卡挂图由人工从参考库挑选。
+
+
+---
+
+# Grok 补图 / 新卡提议 · 2026-10-27（R7）
+
+只提议，不改 `public/cards/**`。人工合并时再挂图。
+
+## 补图提议
+
+### 1. `megastructure-silhouette` ← mohsenghafari-observatory-high-mountain-1920.jpg + namanjain26-orbital-space-station-1920.jpg + davelhan-sunken-temple-3840.jpg + hectorlopez11-forgotten-temple-1920.jpg + junjayzhu-deep-space-station-1920.jpg
+- **证明什么（观象台）**：沙崖金穹望远镜塔剪影压住远雾丘。
+- **证明什么（轨道站）**：圆柱潮汐锁站贴行星弧，巨构剪影先于细节。
+- **证明什么（沉寺）**：洞底寺剪影被蓝光柱钉住。
+- **证明什么（埃及神殿）**：红崖坐像+方尖碑统领沙谷。
+- **证明什么（深空站）**：八角模块链连成坞，冷金链剪影可读。
+- **博客落点**：Desert；Orbital；Shrine；Canyon；Megastructure。
+
+### 2. `framed-distant-view` ← leekahs-ancient-ruins-sacred-pool-1920.jpg + manojch248-ancient-ruined-temple-river-1920.jpg + davelhan-sunken-temple-3840.jpg
+- **证明什么（圣池）**：莲池前景框住雕像神龛。
+- **证明什么（河寺）**：前景叶缘/帆船框住红崖古寺。
+- **证明什么（沉寺）**：洞壁左右框住蓝光寺。
+- **博客落点**：Shrine；Canyon；Harbor。
+
+### 3. `fog-separates-depth` ← arainmorn-morning-harbour-town-3000.jpg + manojch248-ancient-ruined-temple-river-1920.jpg
+- **证明什么（雾港）**：河雾把对岸仓与远山推远，近景码头仍保形体。
+- **证明什么（河寺）**：崖雾把远红崖推远。
+- **博客落点**：Harbor；Cold；Canyon。
+
+### 4. `high-view-reads-hierarchy` ← arainmorn-morning-harbour-town-3000.jpg
+- **证明什么**：高视读出码头—驳船—对岸仓—烟囱层级。
+- **博客落点**：Harbor；Cold。
+
+### 5. `colonnade-rhythm` ← mohsenghafari-observatory-high-mountain-1920.jpg + hectorlopez11-forgotten-temple-1920.jpg
+- **证明什么（观象）**：拱廊把视线送向金穹望远镜。
+- **证明什么（埃及）**：坐像列与门廊节奏把视线送向崖寺。
+- **博客落点**：Desert；Shrine。
+
+### 6. `ordered-frame-wild-growth` ← leekahs-ancient-ruins-sacred-pool-1920.jpg + manojch248-ancient-ruined-temple-river-1920.jpg
+- **证明什么**：莲叶/绿树/崖藤压住石构边缘，秩序框住野生长。
+- **博客落点**：Shrine；Canyon。
+
+### 7. `cold-world-warm-refuge` ← davelhan-sunken-temple-3840.jpg + arainmorn-morning-harbour-town-3000.jpg
+- **证明什么（沉寺）**：冷蓝光柱对照寺门暖橙，洞底避难感。
+- **证明什么（雾港）**：冷雾对照仓口暖褐，港湾劳动避难感。
+- **博客落点**：Gothic；Harbor；Cold。
+
+### 8. `scale-by-familiar-objects` ← arainmorn-morning-harbour-town-3000.jpg + davelhan-sunken-temple-3840.jpg + namanjain26-orbital-space-station-1920.jpg
+- **证明什么**：人马/小人灯/行星弧相对港湾、沉寺、轨道站，巨大变直觉。
+- **博客落点**：Harbor；Shrine；Orbital。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：收下语言均可挂到现有卡。若后续再收 1–2 件「风塔沙漠城 / 倒置崖构 / 莲台天空 / 红树林根庙」不同作品，可议 `windcatcher-desert`、`inverted-cliff`、`lotus-terrace-sky` 或 `mangrove-root-temple` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md R7 段）。正式卡挂图由人工从参考库挑选。
