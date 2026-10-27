@@ -473,3 +473,50 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md R9 段）。正式卡挂图由人工从参考库挑选。
+
+
+---
+
+# Grok 补图 / 新卡提议 · 2026-10-27（R10）
+
+只提议，不改 `public/cards/**`。人工合并时再挂图。
+
+## 补图提议
+
+### 1. `megastructure-silhouette` ← valeriapankratova-fantasy-city-hanging-aqueduct-3020.jpg + ekan97-upside-down-aerial-city-2946.jpg + alejandro-xyz-monolith-station-ix-2667.jpg + drilltothecore-desert-refinery-3840.jpg + stevemobcannon-phtanum-city-of-irgal-3250.jpg
+- **证明什么（悬挂渡槽）**：空中运河剪影压住哥特巨殿与下层城。
+- **证明什么（倒置崖城）**：倒挂穹顶城剪影统领云海虚空。
+- **证明什么（沙漠独石）**：竖塔剪影刺破青绿天幕。
+- **证明什么（荒漠炼厂）**：矮堡模块剪影压住沙雾。
+- **证明什么（环城针塔）**：圆形巨构+中针剪影压住红畦。
+- **博客落点**：Megastructure；Harbor；Desert；Industrial；Canyon。
+
+### 2. `fog-separates-depth` ← jgranada-solar-terraces-2560.jpg + shouheng-altar-of-the-eye-3000.jpg + ekan97-upside-down-aerial-city-2946.jpg
+- **证明什么（太阳能梯田）**：山雾把远圆顶农业环推远。
+- **证明什么（菌丝塔谷）**：绿雾把远楼与近暖窗分层。
+- **证明什么（倒置崖城）**：云海把倒挂城与浮岩分层。
+- **博客落点**：Megastructure；Canyon；Cold。
+
+### 3. `framed-distant-view` ← minze-exile-of-water-monk-temple-2000.jpg + alejandro-xyz-monolith-station-ix-2667.jpg + stevemobcannon-phtanum-city-of-irgal-3250.jpg
+- **证明什么（悬寺）**：岩檐/木桥前景框住倒锥塔城。
+- **证明什么（独石站）**：沙丘小人框住远塔。
+- **证明什么（环城）**：红畦前景框住雪山前圆城。
+- **博客落点**：Shrine；Desert；Canyon。
+
+### 4. `high-view-reads-hierarchy` ← valeriapankratova-fantasy-city-hanging-aqueduct-3020.jpg + shouheng-altar-of-the-eye-3000.jpg
+- **证明什么（渡槽城）**：高视读出上层运河—拱柱—下层广场层级。
+- **证明什么（菌丝塔）**：俯视读出塔廊—峡谷底光层级。
+- **博客落点**：Megastructure；Industrial。
+
+### 5. `scale-by-familiar-objects` ← valeriapankratova-fantasy-city-hanging-aqueduct-3020.jpg + drilltothecore-desert-refinery-3840.jpg + minze-exile-of-water-monk-temple-2000.jpg
+- **证明什么**：帆船/猫道小人/木桥行人相对渡槽、炼厂与悬寺，巨大变直觉。
+- **博客落点**：Harbor；Industrial；Shrine。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：收下语言均可挂到现有卡。若后续再收 1–2 件「沙漏塔 / 红树林根庙 / 珊瑚干船坞 / 熔岩运河锻 / 雾铁路高架」不同作品，可议 `sandglass-tower`、`mangrove-root-temple`、`coral-drydock`、`lava-canal-forge` 或 `fog-railway-viaduct` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md R10 段）。正式卡挂图由人工从参考库挑选。
+

@@ -2562,3 +2562,92 @@
 - 机位/时间/步骤：ArtStation CDN 4k/large 实看；风暴浮岛巨构：背光剪影+雾幔；净天空浮陆建立；净环境
 - 维度/落点：megastructure-silhouette;fog-separates-depth;sky-terrace;framed-distant-view → Megastructure;Cold;Shrine
 - 许可：版权归 georgemcgill；ArtStation 公开；仅作视觉参考
+
+### jgranada-solar-terraces-2560.jpg
+- 作品名：Solar Terraces
+- 作者：jgranada
+- 原始 URL：https://www.artstation.com/artwork/B3a9yl
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R10）
+- 尺寸：2560×1440；sha256：`62762791d2f9e9b7f9cb55b14d2e7ae25b1e7b8cd6098b2b4fd5b75fdff733d7`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；太阳能梯田巨构：雾山托圆顶农业环；净太阳能梯田建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;solar-terrace;scale-by-familiar-objects → Megastructure;Shrine;Canyon
+- 许可：版权归 jgranada；ArtStation 公开；仅作视觉参考
+
+### drilltothecore-desert-refinery-3840.jpg
+- 作品名：Desert refinery
+- 作者：drilltothecore
+- 原始 URL：https://www.artstation.com/artwork/vDGL4D
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R10）
+- 尺寸：3840×2160；sha256：`1b57f171825dce3a11c6b9e2eaa855ac33214fe0d5101f2fa7a5b75fbf15057b`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；锈沙荒漠炼厂：矮堡模块+烟柱读尺；净荒漠炼厂建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;rust-desert-refinery;scale-by-familiar-objects → Industrial;Desert;Megastructure
+- 许可：版权归 drilltothecore；ArtStation 公开；仅作视觉参考
+
+### shouheng-altar-of-the-eye-3000.jpg
+- 作品名：眼之祭坛/Altar of the Eye
+- 作者：shouheng
+- 原始 URL：https://www.artstation.com/artwork/6NQEKw
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R10）
+- 尺寸：3000×1300；sha256：`67017c9f1b2d8e9131d317957af3af901f454122e15d8e945ac82a470e7ab383`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；菌丝/生物贫民窟塔：绿雾分层+眼标暖窗；净菌丝地下城建立；净环境
+- 维度/落点：fog-separates-depth;high-view-reads-hierarchy;mycelium-undercity;cold-world-warm-refuge → Megastructure;Industrial;Canyon
+- 许可：版权归 shouheng；ArtStation 公开；仅作视觉参考
+
+### alejandro-xyz-monolith-station-ix-2667.jpg
+- 作品名：Monolith Station IX - Series
+- 作者：alejandro_xyz
+- 原始 URL：https://www.artstation.com/artwork/mAJGZe
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R10）
+- 尺寸：1500×2667；sha256：`dceb8b9272d60fca2c33ecb641ef03ad04b11699440cbaf4cb40499969e0d691`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；沙漠独石站：青绿天幕下竖塔剪影；净沙漠巨构建立；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;desert-monolith;scale-by-familiar-objects → Desert;Megastructure;Cold
+- 许可：版权归 alejandro_xyz；ArtStation 公开；仅作视觉参考
+
+### valeriapankratova-fantasy-city-hanging-aqueduct-3020.jpg
+- 作品名：Fantasy city
+- 作者：valeriapankratova
+- 原始 URL：https://www.artstation.com/artwork/PeryRn
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R10）
+- 尺寸：3020×1613；sha256：`218fd52306bcb40c0472619399d74870ce5291ddbe1131f07ce656b8339296b5`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；悬挂渡槽城：空中运河行帆+哥特巨殿；净悬挂渡槽建立；净环境
+- 维度/落点：megastructure-silhouette;high-view-reads-hierarchy;hanging-aqueduct;scale-by-familiar-objects → Megastructure;Harbor;Gothic
+- 许可：版权归 valeriapankratova；ArtStation 公开；仅作视觉参考
+
+### ekan97-upside-down-aerial-city-2946.jpg
+- 作品名：upside-down aerial city
+- 作者：ekan97
+- 原始 URL：https://www.artstation.com/artwork/zDZ9bL
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R10）
+- 尺寸：2946×1030；sha256：`6ed094495edb27ca1a5994726920036cd35794c351baa255403ff496c48e2246`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；倒置崖城：青绿穹顶倒挂云海；净倒置崖构建立；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;inverted-cliff;fog-separates-depth → Megastructure;Shrine;Cold
+- 许可：版权归 ekan97；ArtStation 公开；仅作视觉参考
+
+### minze-exile-of-water-monk-temple-2000.jpg
+- 作品名：The Exile of Water - Monk Temple
+- 作者：minze
+- 原始 URL：https://www.artstation.com/artwork/44EE2
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R10）
+- 尺寸：2000×881；sha256：`85d39edb24c580d811b5700b722605aa6dc2a355b47ddb8b429555b21db9802b`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；悬寺沙崖：倒锥塔城+木桥读尺；净悬挂寺院建立；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;suspended-monastery;scale-by-familiar-objects → Shrine;Canyon;Megastructure
+- 许可：版权归 minze；ArtStation 公开；仅作视觉参考
+
+### stevemobcannon-phtanum-city-of-irgal-3250.jpg
+- 作品名：Phtanum - The City of Irgal
+- 作者：stevemobcannon
+- 原始 URL：https://www.artstation.com/artwork/Ny0veg
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R10）
+- 尺寸：2500×3250；sha256：`a7688b340c5803114efd435c61dc2208da2e6cf2c94954f5b687f8e77f191984`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；红畦环城针塔：雪山前圆形巨构；净环城稻畦建立；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;neon-rice-paddies;high-view-reads-hierarchy → Megastructure;Canyon;Shrine
+- 许可：版权归 stevemobcannon；ArtStation 公开；仅作视觉参考
+
