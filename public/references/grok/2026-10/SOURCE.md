@@ -1894,3 +1894,86 @@
 - 机位/时间/步骤：ArtStation CDN 4k/large 实看；冰月殖民地窗框远景；冷世界暖舱
 - 维度/落点：framed-distant-view;cold-world-warm-refuge;high-view-reads-hierarchy;scale-by-familiar-objects → card:framed-distant-view/card:cold-world-warm-refuge/card:high-view-reads-hierarchy/card:scale-by-familiar-objects;博客 Station/Orbital
 - 许可：版权归 lizzymikulich7；ArtStation 公开；仅作视觉参考
+
+
+## Grok R2 · 2026-10-27（America/New_York）
+### greezybear-resistance-city-lava-refinery-2064.jpg
+- 作品名：Resistance City" - The Largest & Only Industrial Lava Refinery on the Planet
+- 作者：greezybear
+- 原始 URL：https://www.artstation.com/artwork/LeEyAK
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R2）
+- 尺寸：2064×1112；sha256：`c2cddcefd2f0133b20498bb6d551b0e4ef8325fd45072d5299a5d8351231f891`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；高视岩浆工业炼城：冷金属网架托住暖核坑；净环境
+- 维度/落点：megastructure-silhouette;high-view-reads-hierarchy;cold-world-warm-refuge;pipe-industrial-lattice → card:megastructure-silhouette;博客 Megastructure；Industrial
+- 许可：版权归 greezybear；ArtStation 公开；仅作视觉参考
+### romain-lebouleux-geothermal-plant-part1-1920.jpg
+- 作品名：Geothermal Plant part 1
+- 作者：romain_lebouleux
+- 原始 URL：https://www.artstation.com/artwork/ykvLaQ
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R2）
+- 尺寸：1920×1920；sha256：`fef96f98b3c1c18c2b359fce068b2c9572172e03fd35d62b85d9272730f66964`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；地热厂蒸汽分层：青绿热泉+巨管枢纽；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;industrial-pipe-network;geothermal-industrial → card:fog-separates-depth;博客 Megastructure；Industrial
+- 许可：版权归 romain_lebouleux；ArtStation 公开；仅作视觉参考
+### metalrahul-geothermal-plant-outposts-2880.jpg
+- 作品名：Geothermal plant outposts
+- 作者：metalrahul
+- 原始 URL：https://www.artstation.com/artwork/QrzPGZ
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R2）
+- 尺寸：2880×1620；sha256：`80603105c72c4753a91174c85f828c3dfdc280ae65ed35ed0f38302ff44be7b5`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；火山崖岸工业站：熔流下泻对照冷灰烟海；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;cold-world-warm-refuge;magma-industrial-coast → card:megastructure-silhouette;博客 Canyon；Megastructure
+- 许可：版权归 metalrahul；ArtStation 公开；仅作视觉参考
+### pauljouard-ring-habitat-2250.jpg
+- 作品名：Ring Habitat
+- 作者：pauljouard
+- 原始 URL：https://www.artstation.com/artwork/4Al9l
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R2）
+- 尺寸：1713×2250；sha256：`77c0b5ce8ef3a7c26cc5fba8028b3ed7e4a0f3d159c214d4dc014dfb253d05b0`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；双环栖地俯视：农田水面相对安全红轨环；净环境
+- 维度/落点：megastructure-silhouette;high-view-reads-hierarchy;scale-by-familiar-objects;ring-rail-habitat → card:megastructure-silhouette;博客 Orbital；Megastructure
+- 许可：版权归 pauljouard；ArtStation 公开；仅作视觉参考
+### mitcharts-ringworld-habitat-2850.jpg
+- 作品名：Ringworld habitat
+- 作者：mitcharts
+- 原始 URL：https://www.artstation.com/artwork/nQyxkr
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R2）
+- 尺寸：2850×1208；sha256：`e166a7167fbd52f46cf7e275b8137ff14a4c25075e817bc9e50fcffbe74fc70b`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；环世界内曲：前景林丘框住弧面城市与虚空；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;ordered-frame-wild-growth;ring-rail-habitat → card:megastructure-silhouette;博客 Orbital；Megastructure
+- 许可：版权归 mitcharts；ArtStation 公开；仅作视觉参考
+### kenfairclough-megastructures-geofront-1920.jpg
+- 作品名：Megastructures GeoFront
+- 作者：kenfairclough
+- 原始 URL：https://www.artstation.com/artwork/dK0P0X
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R2）
+- 尺寸：1920×856；sha256：`5d4acb788c0a4c3d88130ead6df49ef0f0455b4b486c6488d8ceff37159de166`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；洞穴工业巨构：岩框+暖雾层读出塔吊与舰；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;fog-separates-depth;scale-by-familiar-objects;subterranean-industrial → card:framed-distant-view;博客 Canyon；Station
+- 许可：版权归 kenfairclough；ArtStation 公开；仅作视觉参考
+### freekaz-heimdall-dam-of-midgard-city-3840.jpg
+- 作品名：Heimdall Dam Of Midgard City
+- 作者：freekaz
+- 原始 URL：https://www.artstation.com/artwork/03Dyv4
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R2）
+- 尺寸：3840×1961；sha256：`c96bbee8134dad2eb32641d5142f54d48c0efbefc692c941b3cbdbb11661b917`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；弧形宫殿坝：泄洪白雾与塔尖旗列读尺度；净环境
+- 维度/落点：megastructure-silhouette;colonnade-rhythm;scale-by-familiar-objects;dam-megastructure → card:megastructure-silhouette;博客 Megastructure；Gothic
+- 许可：版权归 freekaz；ArtStation 公开；仅作视觉参考
+### caufe-underground-civilization-2752.jpg
+- 作品名：Underground Civilization — Cinematic Environment Concept
+- 作者：caufe
+- 原始 URL：https://www.artstation.com/artwork/RKAJPy
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R2）
+- 尺寸：2752×1536；sha256：`44a0d5fb78c1952e3802ac53d84c1a6d36e692e6f0d68d23ef4f911ac1e54279`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；生物荧光洞城：青菌冷光对照暖窗与崖居阶；净环境
+- 维度/落点：fog-separates-depth;cold-world-warm-refuge;scale-by-familiar-objects;bioluminescent-cavern;high-view-reads-hierarchy → card:fog-separates-depth;博客 Canyon；Shrine
+- 许可：版权归 caufe；ArtStation 公开；仅作视觉参考

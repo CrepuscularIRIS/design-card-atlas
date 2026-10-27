@@ -54,3 +54,57 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
+
+---
+
+# Grok 补图 / 新卡提议 · 2026-10-27（R2）
+
+只提议，不改 `public/cards/**`。人工合并时再挂图。
+
+## R2 补图提议
+
+### 1. `megastructure-silhouette` ← greezybear-resistance-city-lava-refinery-2064.jpg + metalrahul-geothermal-plant-outposts-2880.jpg + pauljouard-ring-habitat-2250.jpg + mitcharts-ringworld-habitat-2850.jpg + freekaz-heimdall-dam-of-midgard-city-3840.jpg
+- **证明什么（岩浆炼城）**：高视冷金属网架托住暖核坑，工业剪影先于细节。
+- **证明什么（火山崖站）**：崖岸模块+熔流竖条对照烟海，沿岸巨构可读。
+- **证明什么（双环栖地）**：相交环带农田/水面相对安全红轨，外形即环栖地。
+- **证明什么（环世界内曲）**：地面上弯入天，弧面城市剪影成立。
+- **证明什么（宫殿坝）**：弧形坝墙+塔尖泄洪，水利巨构剪影清晰。
+- **博客落点**：Megastructure；Orbital；Canyon；Industrial。
+
+### 2. `fog-separates-depth` ← romain-lebouleux-geothermal-plant-part1-1920.jpg + kenfairclough-megastructures-geofront-1920.jpg + caufe-underground-civilization-2752.jpg + metalrahul-geothermal-plant-outposts-2880.jpg
+- **证明什么（地热）**：蒸汽白雾先丢远景反差，近景热泉与巨管仍保形体。
+- **证明什么（GeoFront）**：洞内暖雾分层读出塔吊与舰体。
+- **证明什么（洞城）**：下层青雾托住崖居阶与暖窗。
+- **博客落点**：Megastructure；Canyon；Station。
+
+### 3. `cold-world-warm-refuge` ← greezybear-resistance-city-lava-refinery-2064.jpg + metalrahul-geothermal-plant-outposts-2880.jpg + caufe-underground-civilization-2752.jpg
+- **证明什么**：冷灰金属/烟海/青洞对照暖核、熔流或窗火。
+- **博客落点**：Industrial；Canyon；Shrine。
+
+### 4. `high-view-reads-hierarchy` ← greezybear-resistance-city-lava-refinery-2064.jpg + pauljouard-ring-habitat-2250.jpg + caufe-underground-civilization-2752.jpg
+- **证明什么**：俯视读出管网层级、环带农城分区、崖居阶梯层级。
+- **博客落点**：Megastructure；Orbital；Canyon。
+
+### 5. `scale-by-familiar-objects` ← kenfairclough-megastructures-geofront-1920.jpg + pauljouard-ring-habitat-2250.jpg + freekaz-heimdall-dam-of-midgard-city-3840.jpg + caufe-underground-civilization-2752.jpg
+- **证明什么**：飞舰/云朵农田/海鸟/小人相对巨构，巨大变直觉。
+- **博客落点**：Station；Orbital；Megastructure。
+
+### 6. `framed-distant-view` ← kenfairclough-megastructures-geofront-1920.jpg
+- **证明什么**：前景岩框切出洞内工业全景。
+- **博客落点**：Canyon；Station。
+
+### 7. `colonnade-rhythm` ← freekaz-heimdall-dam-of-midgard-city-3840.jpg
+- **证明什么**：坝顶拱列与旗杆重复把视线沿弧墙送出。
+- **博客落点**：Gothic；Megastructure。
+
+### 8. `ordered-frame-wild-growth` ← mitcharts-ringworld-habitat-2850.jpg
+- **证明什么**：前景林丘秩序框住弧面城市与虚空。
+- **博客落点**：Orbital。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：收下语言均可挂到现有卡（megastructure / fog / framed-distant / cold-world / high-view / scale / colonnade / ordered-frame）。若后续再收 1–2 件「地热蒸汽厂 / 岩浆工业炼城」不同作品，可议 `geothermal-steam-plant` 或 `magma-industrial-lattice` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md R2 段）。正式卡挂图由人工从参考库挑选。
