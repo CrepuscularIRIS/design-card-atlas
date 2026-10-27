@@ -432,3 +432,34 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
+
+
+---
+
+# R12 提案补记（2026-10-26）
+
+## 挂现有卡
+
+### 1. `megastructure-silhouette` / `high-view-reads-hierarchy` ← emanshehabi-zigurat-city-3840.jpg + nick-stath-grand-brutalist-hotel-1920.jpg + poullitocreate-round-brutalism-megastructure-1920.jpg + mighty-melon-brutalist-dystopian-city-1920.jpg + meganerid-orbital-dock-1920.jpg
+- **证明什么**：河谷阶梯城、沙漠半埋粗野巨构、圆盘阵列内腔、雾港板楼轨线、轨道船坞外轮廓先于细节；俯视/远城灯带可读层级。
+- **博客落点**：Megastructure；Canyon；Cyberpunk；Orbital。
+
+### 2. `colossus-crosses-the-frame` / `framed-distant-view` / `fog-separates-depth` ← anomander-cliffside-monastery-2070.jpg + alexson-cliffside-temple-ruins-1920.jpg + sergeypogoreliy-cliffside-temple-1920.jpg
+- **证明什么**：巨佛/捧水雕像跨框、云海崖寺、悬空汉阁把远景收进画面；海雾/云海分层。
+- **博客落点**：Gothic/Canyon；Xianxia；Megastructure。
+
+### 3. `scale-by-familiar-objects` / `fog-separates-depth` ← emanshehabi-zigurat-city-3840.jpg + nick-stath-grand-brutalist-hotel-1920.jpg + poullitocreate-round-brutalism-megastructure-1920.jpg + meganerid-orbital-dock-1920.jpg
+- **证明什么**：帆船/直升机/旅人/宇航员相对巨构变尺度；沙霾/体积光雾分层。
+- **博客落点**：Megastructure；Orbital；Canyon。
+
+### 4. `colonnade-rhythm` / `ordered-frame-wild-growth` ← alexson-cliffside-temple-ruins-1920.jpg + sergeypogoreliy-cliffside-temple-1920.jpg
+- **证明什么**：石廊拱券节奏；悬阁木构飞檐与峭壁框景。
+- **博客落点**：Gothic；Xianxia。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：均可挂现有卡。若后续再收 1–2 件「河谷阶梯 Zigurat / 轨道电梯坞」不同作品，可议 `ziggurat-river-megacity` 或 `orbital-elevator-dock` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
