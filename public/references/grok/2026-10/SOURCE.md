@@ -1585,3 +1585,100 @@
 - SHA256：`010988796221ff3bbeded32e8a332c8f1b82c70a1af1de758db0cfb8806b991d`
 - 许可备注：版权归 im-ivy；ArtStation 公开；仅作视觉参考。
 
+
+## feraziniremi01-japanese-shrine-dark-fantasy-3840.jpg · Japanese Shrine - Dark Fantasy CGI Scene | D5 Render
+
+- 作品名：Japanese Shrine - Dark Fantasy CGI Scene | D5 Render
+- 作者：feraziniremi01
+- 原始 URL：https://www.artstation.com/artwork/K3bdw4
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；暗黑神社：鸟居/雾/石阶尺度清晰；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：3840×2877
+- SHA256：`afe7801025ae7ccec783250e920ac56be189c930627345620bc5b0190694e3e2`
+- 许可备注：版权归 feraziniremi01；ArtStation 公开；仅作视觉参考。
+
+## mr-sceeney-gothic-cathedral-1920.jpg · Gothic Cathedral Environment
+
+- 作品名：Gothic Cathedral Environment
+- 作者：mr_sceeney
+- 原始 URL：https://www.artstation.com/artwork/yD5oen
+- 类型：静帧-环境（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；哥特大堂环境：柱廊节奏+体积光；净环境无角色前景。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`f929e2d2dba81f35d474a07086ca44f5c073723de162d449b5074dd775e45089`
+- 许可备注：版权归 mr_sceeney；ArtStation 公开；仅作视觉参考。
+
+## kim-jeong-tae-gothic-cathedral-ue5-1920.jpg · Gothic Cathedral | 3D Environment Art [UE5]
+
+- 作品名：Gothic Cathedral | 3D Environment Art [UE5]
+- 作者：kim_jeong_tae
+- 原始 URL：https://www.artstation.com/artwork/3E5JDB
+- 类型：静帧-环境（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；UE5哥特大堂：飞扶壁与窗光层次；净环境巨构。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`66e04d2272a81a1ac88f8b496023e9f3be40c6be19e160beb110db25e75a4ede`
+- 许可备注：版权归 kim_jeong_tae；ArtStation 公开；仅作视觉参考。
+
+## sen-tidn-new-eden-sci-fi-city-1920.jpg · Environment Concept Art New Eden || Sci-fi city
+
+- 作品名：Environment Concept Art New Eden || Sci-fi city
+- 作者：sen_tidn
+- 原始 URL：https://www.artstation.com/artwork/g8rWZm
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；新伊甸科幻城天际：巨构外轮廓+层级可读；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：1920×815
+- SHA256：`2cb4d8fb79aa6c6fbbbfe5e000e0f506020f670004184ec3dd36c138e81f9604`
+- 许可备注：版权归 sen_tidn；ArtStation 公开；仅作视觉参考。
+
+## michael-lopezibanez-desert-cultist-temple-3840.jpg · Desert Cultist Temple
+
+- 作品名：Desert Cultist Temple
+- 作者：michael_lopezibanez
+- 原始 URL：https://www.artstation.com/artwork/Qxn8QE
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；沙漠祭坛塔：骨肋廊道+暖沙霾；巨构剪影清晰。
+- 截取日期：2026-10-26
+- 尺寸：3840×2160
+- SHA256：`2e5535633ea4eab3dc62221b304dc66a3e650082da47e6c3137b608508009120`
+- 许可备注：版权归 michael_lopezibanez；ArtStation 公开；仅作视觉参考。
+
+## simon-chukov-floating-city-3840.jpg · FLOATING CITY
+
+- 作品名：FLOATING CITY
+- 作者：simon_chukov
+- 原始 URL：https://www.artstation.com/artwork/ZGoJnZ
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；海上浮城俯视：星形/花形岛城层级；净巨构无角色。
+- 截取日期：2026-10-26
+- 尺寸：3840×2036
+- SHA256：`73938832768f1e8d6b8d2946490920e2229e8bb6f01d6e7ae12ca6a56a406943`
+- 许可备注：版权归 simon_chukov；ArtStation 公开；仅作视觉参考。
+
+## wookun-red-desert-ruins-3840.jpg · Red Desert Ruins
+
+- 作品名：Red Desert Ruins
+- 作者：wookun
+- 原始 URL：https://www.artstation.com/artwork/1Ne53K
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；红沙遗迹塔群：旅人尺度+远塔纵深；无营销大字。
+- 截取日期：2026-10-26
+- 尺寸：3840×1646
+- SHA256：`f42f2586464f86bc3daffd7578c3d4b552db068762dfa8dbf7f3d38a72e9b952`
+- 许可备注：版权归 wookun；ArtStation 公开；仅作视觉参考。
+
+## xentabsenta-forest-shrine-2048.jpg · Forest Shrine - Unreal Engine Environment
+
+- 作品名：Forest Shrine - Unreal Engine Environment
+- 作者：xentabsenta
+- 原始 URL：https://www.artstation.com/artwork/zxyX5m
+- 类型：静帧-环境（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；林间神社：雾中石阶与暖灯；净环境氛围。
+- 截取日期：2026-10-26
+- 尺寸：2048×2048
+- SHA256：`2c71c806d0e02bf4332dd912b6e0f804b8d7215711c756b2976cd11ad4c9bed7`
+- 许可备注：版权归 xentabsenta；ArtStation 公开；仅作视觉参考。
+
