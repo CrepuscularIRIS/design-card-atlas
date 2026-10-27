@@ -108,3 +108,54 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md R2 段）。正式卡挂图由人工从参考库挑选。
+
+
+---
+
+# Grok 补图 / 新卡提议 · 2026-10-27（R3）
+
+只提议，不改 `public/cards/**`。人工合并时再挂图。
+
+## R3 补图提议
+
+### 1. `industrial-pipe-network` ← sorasharma-the-pipe-city-3750.jpg + wael-tabbara-power-grid-3750.jpg
+- **证明什么（管城内景）**：前景粗管框景把视线送向雾中走道小人，管网即空间骨架。
+- **证明什么（冷却塔电网）**：缆线框住深坑冷却塔与分层走道，工业管网读层级。
+- **博客落点**：Industrial；Megastructure。
+
+### 2. `fog-separates-depth` ← alejandro-xyz-futuristic-canal-series-2581.jpg + wael-tabbara-power-grid-3750.jpg + alejandro-xyz-desert-interface-command-center-series-1920.jpg
+- **证明什么（运河）**：毒绿雾分层读出桥廊与远端巨壁。
+- **证明什么（电网）**：坑底雾丢远景反差，近景工人与缆线仍保形体。
+- **证明什么（沙漠）**：热霾推远指挥穹顶与城带。
+- **博客落点**：Megastructure；Canyon；Industrial。
+
+### 3. `framed-distant-view` ← adambandel-dream-city-canals-2048.jpg + alejandro-xyz-desert-interface-command-center-series-1920.jpg + raagskarnavar-the-aegis-hangar-3840.jpg
+- **证明什么（竖街运河）**：拱桥与夹缝墙框出远亮口。
+- **证明什么（沙漠）**：双巨壁门洞框出谷底指挥中心。
+- **证明什么（机库）**：舱体纵深框住端窗行星。
+- **博客落点**：Canyon；Station；Megastructure。
+
+### 4. `scale-by-familiar-objects` ← sorasharma-the-pipe-city-3750.jpg + wael-tabbara-power-grid-3750.jpg + taile0802-garden-palace-1920.jpg + raagskarnavar-the-aegis-hangar-3840.jpg
+- **证明什么**：小人/工人/狮身像前人/地勤相对巨构，巨大变直觉。
+- **博客落点**：Industrial；Shrine；Station。
+
+### 5. `colonnade-rhythm` ← maese-elodin-ship-corridor-enviroment-hard-surface-1920.jpg + taile0802-garden-palace-1920.jpg
+- **证明什么（走廊）**：顶灯与壁板重复把视线送向舱门。
+- **证明什么（宫殿）**：台阶与旗列节奏导向暖门。
+- **博客落点**：Station；Shrine。
+
+### 6. `megastructure-silhouette` ← alejandro-xyz-futuristic-canal-series-2581.jpg + adambandel-dream-city-canals-2048.jpg + alejandro-xyz-desert-interface-command-center-series-1920.jpg
+- **证明什么**：运河巨壁剪影、竖街剪影、沙漠巨壁剪影先于细节。
+- **博客落点**：Megastructure；Canyon。
+
+### 7. `cold-world-warm-refuge` ← alejandro-xyz-futuristic-canal-series-2581.jpg + taile0802-garden-palace-1920.jpg
+- **证明什么**：冷湿运河对照暖红廊灯；冷暮宫殿对照暖门。
+- **博客落点**：Industrial；Shrine。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：收下语言均可挂到现有卡（industrial-pipe / fog / framed-distant / scale / colonnade / megastructure / cold-world）。若后续再收 1–2 件「冷却塔电网 / 水淹运河弧廊」不同作品，可议 `cooling-tower-power-grid` 或 `flooded-canal-arcology` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md R3 段）。正式卡挂图由人工从参考库挑选。
