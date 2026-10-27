@@ -427,3 +427,49 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md R8 段）。正式卡挂图由人工从参考库挑选。
+
+---
+
+# Grok 补图 / 新卡提议 · 2026-10-27（R9）
+
+只提议，不改 `public/cards/**`。人工合并时再挂图。
+
+## 补图提议
+
+### 1. `megastructure-silhouette` ← daniel-respaud-the-wind-catcher-1920.jpg + markfonzen-spire-of-the-salt-flats-2400.jpg + andrejdurikart-neo-hong-kong-3840.jpg + inkpunk-cobblestone-windcatcher-5583.jpg + georgemcgill-ziggurats-of-zaan-worlds-1920.jpg
+- **证明什么（玻璃果园）**：巨缸剪影统领雾尘温室。
+- **证明什么（盐沼尖塔）**：针塔剪影刺破盐原天空。
+- **证明什么（季风城谷）**：街谷巨构剪影压住雾桥。
+- **证明什么（粉霞风塔）**：石塔竖剪影压住云海。
+- **证明什么（风暴浮岛）**：浮陆背光剪影先于细节。
+- **博客落点**：Megastructure；Industrial；Canyon；Cold；Shrine。
+
+### 2. `fog-separates-depth` ← golbonmol-daily-003-yazd-2363.jpg + andrejdurikart-neo-hong-kong-3840.jpg + leeminhhoang-cyberpunk-city-bnw-3000.jpg + daniel-respaud-the-wind-catcher-1920.jpg
+- **证明什么（亚兹德）**：热霾把远山风塔推远。
+- **证明什么（季风城）**：雨雾把远白塔与近街谷分层。
+- **证明什么（灰度街谷）**：雾尽端把霓虹招牌推成层次。
+- **证明什么（玻璃果园）**：尘雾把远缸推深。
+- **博客落点**：Canyon；Megastructure；Industrial；Shrine。
+
+### 3. `framed-distant-view` ← leeminhhoang-cyberpunk-city-bnw-3000.jpg + inkpunk-cobblestone-windcatcher-5583.jpg + markfonzen-spire-of-the-salt-flats-2400.jpg
+- **证明什么（灰度街谷）**：两侧楼廊框住雾尽端。
+- **证明什么（粉霞风塔）**：云海前景框住石塔。
+- **证明什么（盐沼）**：碎冰前景框住远针塔。
+- **博客落点**：Megastructure；Shrine；Cold。
+
+### 4. `high-view-reads-hierarchy` ← garrett-grabau-mesopotamia-village-1920.jpg + inkpunk-cobblestone-windcatcher-5583.jpg
+- **证明什么（洪原塔城）**：高视读出围墙—民居—阶梯塔层级。
+- **证明什么（风塔竖构）**：仰视读出塔身—穹顶—天际层级。
+- **博客落点**：Canyon；Shrine；Megastructure。
+
+### 5. `scale-by-familiar-objects` ← andrejdurikart-neo-hong-kong-3840.jpg
+- **证明什么**：雨伞行人/球艇相对街谷巨构，巨大变直觉。
+- **博客落点**：Megastructure；Industrial。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：收下语言均可挂到现有卡。若后续再收 1–2 件「倒置崖构 / 莲台天空 / 红树林根庙 / 沙漏塔 / 潮汐磨坊村」不同作品，可议 `inverted-cliff`、`lotus-terrace-sky`、`mangrove-root-temple`、`sandglass-tower` 或 `tidal-mill-village` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md R9 段）。正式卡挂图由人工从参考库挑选。

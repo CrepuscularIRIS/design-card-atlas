@@ -2474,3 +2474,91 @@
 - 机位/时间/步骤：ArtStation CDN 4k/large 实看；石英刺海岸湾：晶刺+青洞光；净石英海岸建立；净环境。
 - 维度/落点：framed-distant-view;ordered-frame-wild-growth;quartz-coast;fog-separates-depth → 博客 Canyon;Harbor;Shrine
 - 许可：版权归 ilow_keyi；ArtStation 公开；仅作视觉参考
+
+### daniel-respaud-the-wind-catcher-1920.jpg
+- 作品名：The Wind Catcher
+- 作者：daniel-respaud
+- 原始 URL：https://www.artstation.com/artwork/3qGXPE
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R9）
+- 尺寸：1920×1080；sha256：`bca0580decdcca7cf1624714f500a3506a2059edcd73a293b86bca8f54f5d3e5`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；玻璃果园巨缸：雾尘分层读温室巨构；净玻璃果园建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;glass-orchard;framed-distant-view → Shrine;Industrial;Megastructure
+- 许可：版权归 daniel-respaud；ArtStation 公开；仅作视觉参考
+
+### golbonmol-daily-003-yazd-2363.jpg
+- 作品名：Daily 003 - Yazd
+- 作者：golbonmol
+- 原始 URL：https://www.artstation.com/artwork/w0r51O
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R9）
+- 尺寸：2363×1575；sha256：`5113024153244d51408eb5dd1508448d589b732cfe55a03f7e9ad03f9b873fb8`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；亚兹德风塔城：青绿穹顶+风塔剪影；净风塔沙漠城建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;windcatcher-desert;framed-distant-view → Canyon;Shrine;Megastructure
+- 许可：版权归 golbonmol；ArtStation 公开；仅作视觉参考
+
+### inkpunk-cobblestone-windcatcher-5583.jpg
+- 作品名：Cobblestone Windcatcher
+- 作者：inkpunk
+- 原始 URL：https://www.artstation.com/artwork/8BOL1G
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R9）
+- 尺寸：3840×5583；sha256：`7ff07ac35173b25d625c5fcc3ec2015f66c2ac5b904685158b8e30666be548cc`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；粉霞风塔竖剪影：云海托石塔；净风塔天际建立；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;windcatcher-tower;high-view-reads-hierarchy → Shrine;Megastructure;Cold
+- 许可：版权归 inkpunk；ArtStation 公开；仅作视觉参考
+
+### markfonzen-spire-of-the-salt-flats-2400.jpg
+- 作品名：Spire of the Salt Flats
+- 作者：markfonzen
+- 原始 URL：https://www.artstation.com/artwork/4NBwn
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R9）
+- 尺寸：2400×1350；sha256：`ec2f45a9d1e2e6775eb0e35ccf73f0ee6b5dae8e167a14a7ea25877402250c70`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；盐沼冰原针塔：晶刺竖构读尺；净盐沼尖塔建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;salt-flat-spires;framed-distant-view → Cold;Canyon;Megastructure
+- 许可：版权归 markfonzen；ArtStation 公开；仅作视觉参考
+
+### andrejdurikart-neo-hong-kong-3840.jpg
+- 作品名：Neo Hong Kong
+- 作者：andrejdurikart
+- 原始 URL：https://www.artstation.com/artwork/y44gv3
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R9）
+- 尺寸：3840×2496；sha256：`4464753d351c829a2c1d9c26d7353bf56dc55746b10b703f63d7385dfb110c62`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；季风霓虹城谷：球艇+雨伞桥读尺；净季风霓虹峡谷建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;monsoon-neon-canyon;scale-by-familiar-objects → Megastructure;Industrial;Canyon
+- 许可：版权归 andrejdurikart；ArtStation 公开；仅作视觉参考
+
+### leeminhhoang-cyberpunk-city-bnw-3000.jpg
+- 作品名：Cyberpunk City bnw
+- 作者：leeminhhoang
+- 原始 URL：https://www.artstation.com/artwork/GeYo2d
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R9）
+- 尺寸：3000×2000；sha256：`a42a5b7ef9c99c7be262af5e96e86eba61d170635cf2bc91a4266911c180351d`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；灰度霓虹街谷：雾尽端框景；净赛博街谷建立；净环境
+- 维度/落点：framed-distant-view;fog-separates-depth;neon-canyon;megastructure-silhouette → Megastructure;Industrial;Canyon
+- 许可：版权归 leeminhhoang；ArtStation 公开；仅作视觉参考
+
+### garrett-grabau-mesopotamia-village-1920.jpg
+- 作品名：Mesopotamia Village
+- 作者：garrett_grabau
+- 原始 URL：https://www.artstation.com/artwork/xD56Qm
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R9）
+- 尺寸：1920×1080；sha256：`e730ba3e6b8b35ef2642ef2e4d446ba9dd103f8f383d2a67d4e1c6ea8e7830e1`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；洪积平原阶梯塔城：高视读围墙层级；净ziggurat洪原建立；净环境
+- 维度/落点：high-view-reads-hierarchy;megastructure-silhouette;ziggurat-floodplain;framed-distant-view → Canyon;Megastructure;Shrine
+- 许可：版权归 garrett_grabau；ArtStation 公开；仅作视觉参考
+
+### georgemcgill-ziggurats-of-zaan-worlds-1920.jpg
+- 作品名：2D Environment - Ziggurats of Za'an - Worlds
+- 作者：georgemcgill
+- 原始 URL：https://www.artstation.com/artwork/5XZEm8
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R9）
+- 尺寸：1920×1080；sha256：`4b30376daee072bd731bfd2486d6499db8307c69d9106a94fcd601b99fe85da4`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；风暴浮岛巨构：背光剪影+雾幔；净天空浮陆建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;sky-terrace;framed-distant-view → Megastructure;Cold;Shrine
+- 许可：版权归 georgemcgill；ArtStation 公开；仅作视觉参考
