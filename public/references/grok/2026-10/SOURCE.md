@@ -1682,3 +1682,99 @@
 - SHA256：`2c71c806d0e02bf4332dd912b6e0f804b8d7215711c756b2976cd11ad4c9bed7`
 - 许可备注：版权归 xentabsenta；ArtStation 公开；仅作视觉参考。
 
+
+## emanshehabi-zigurat-city-3840.jpg · ZIGURAT CITY 3DMP/Environment
+
+- 作品名：ZIGURAT CITY 3DMP/Environment
+- 作者：emanshehabi
+- 原始 URL：https://www.artstation.com/artwork/bKGqwg
+- 类型：静帧-环境（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；河谷阶梯金字塔城：多层Zigurat+桥船尺度。
+- 截取日期：2026-10-26
+- 尺寸：3840×2025
+- SHA256：`30555944d452b8c65f55a41fd69757f93142f7781c828256145b27182ac88a0c`
+- 许可备注：版权归 emanshehabi；ArtStation 公开；仅作视觉参考
+
+## nick-stath-grand-brutalist-hotel-1920.jpg · The Grand Brutalist Hotel
+
+- 作品名：The Grand Brutalist Hotel
+- 作者：nick_stath
+- 原始 URL：https://www.artstation.com/artwork/3db9eJ
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；沙漠半埋粗野主义巨构：直升机尺度+沙丘剪影。
+- 截取日期：2026-10-26
+- 尺寸：1920×914
+- SHA256：`8bcbe813d8dfad67537f90fabc0b3f386f09525fa379cee7f4f653e47f8e6b4f`
+- 许可备注：版权归 nick_stath；ArtStation 公开；仅作视觉参考
+
+## poullitocreate-round-brutalism-megastructure-1920.jpg · A round brutalism megastructure place
+
+- 作品名：A round brutalism megastructure place
+- 作者：poullitocreate
+- 原始 URL：https://www.artstation.com/artwork/QxnQ34
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；圆形浮台阵列巨构内腔：旅人尺度+体积光柱。
+- 截取日期：2026-10-26
+- 尺寸：1420×1920
+- SHA256：`ca1fb7f4b46142c5c1cd5c5d2156531cb63c706855f2d10910f03a6a40fe657c`
+- 许可备注：版权归 poullitocreate；ArtStation 公开；仅作视觉参考
+
+## mighty-melon-brutalist-dystopian-city-1920.jpg · Brutalist Dystopian industrial City
+
+- 作品名：Brutalist Dystopian industrial City
+- 作者：mighty_melon3467
+- 原始 URL：https://www.artstation.com/artwork/bgZgDn
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；雾港工业轨线：粗野板楼+远城灯带。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`a05d1df4b75da6343e84055016d039916d44abc8ba8a5ae3ef4283ab304af68a`
+- 许可备注：版权归 mighty_melon3467；ArtStation 公开；仅作视觉参考
+
+## anomander-cliffside-monastery-2070.jpg · Cliffside Monastery
+
+- 作品名：Cliffside Monastery
+- 作者：anomander
+- 原始 URL：https://www.artstation.com/artwork/rJl2W2
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；海岸巨佛崖寺：雕像尺度+层叠白墙红顶。
+- 截取日期：2026-10-26
+- 尺寸：2070×1080
+- SHA256：`4c2314a4bc13892f3f97fdf8d05aa78a4b973a0f8b9a82de5da786b5ef38a3d9`
+- 许可备注：版权归 anomander；ArtStation 公开；仅作视觉参考
+
+## alexson-cliffside-temple-ruins-1920.jpg · Cliffside temple ruins
+
+- 作品名：Cliffside temple ruins
+- 作者：alexson
+- 原始 URL：https://www.artstation.com/artwork/NrxxQ1
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；云上海拔崖寺：捧水雕像+柱廊。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`dc0cf68e8d501d2c6c3826a8988c890bf59038015c483d56c694a7af4ed78ebc`
+- 许可备注：版权归 alexson；ArtStation 公开；仅作视觉参考
+
+## sergeypogoreliy-cliffside-temple-1920.jpg · Cliffside temple
+
+- 作品名：Cliffside temple
+- 作者：sergeypogoreliy
+- 原始 URL：https://www.artstation.com/artwork/6LgQPn
+- 类型：静帧-环境（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；悬空汉式崖阁：三层飞檐+峭壁木柱。
+- 截取日期：2026-10-26
+- 尺寸：1920×1200
+- SHA256：`473baf111bf4fddc3832f19c21d6ed60c14a65914567f8e2d1d28a375dce337f`
+- 许可备注：版权归 sergeypogoreliy；ArtStation 公开；仅作视觉参考
+
+## meganerid-orbital-dock-1920.jpg · Orbital Dock
+
+- 作品名：Orbital Dock
+- 作者：meganerid
+- 原始 URL：https://www.artstation.com/artwork/lrRlz
+- 类型：静帧-概念（ArtStation）
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；轨道船坞俯视：电梯桩+并排舰体+星球。
+- 截取日期：2026-10-26
+- 尺寸：1920×1080
+- SHA256：`146897a2c68cbb6511787e4374a594465239ac59151c9561b8d991978778adc8`
+- 许可备注：版权归 meganerid；ArtStation 公开；仅作视觉参考
