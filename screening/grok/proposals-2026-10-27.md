@@ -259,3 +259,60 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md R5 段）。正式卡挂图由人工从参考库挑选。
+
+
+---
+
+# Grok 补图 / 新卡提议 · 2026-10-27（R6）
+
+只提议，不改 `public/cards/**`。人工合并时再挂图。
+
+## 补图提议
+
+### 1. `megastructure-silhouette` ← nonohara-cliff-city-waterfall-6000.jpg + bradwright-obsidian-reverie-berlin-3000.jpg + tobymonks-ancient-desert-city-3840.jpg + copper-octopus-underground-city-1920.jpg + pwpratham-lost-monastery-mountains-3840.jpg
+- **证明什么（崖城）**：瀑布崖壁托举层叠塔楼风车，剪影先于细节。
+- **证明什么（黑曜石）**：俯视青光井+白柱统领密集工业城。
+- **证明什么（沙漠古都）**：圆堂穹顶嵌崖寺，神殿剪影压住沙谷。
+- **证明什么（地下城）**：钟乳托哥特塔剪影立于雾底。
+- **证明什么（山寺）**：湖心绿丘托寺，远距剪影可读。
+- **博客落点**：Canyon；Megastructure；Desert；Shrine。
+
+### 2. `framed-distant-view` ← tobymonks-ancient-desert-city-3840.jpg + haechan-park-bamboo-forest-torii-2048.jpg + nonohara-cliff-city-waterfall-6000.jpg + pwpratham-lost-monastery-mountains-3840.jpg
+- **证明什么（沙漠）**：前景石柱廊框出圆堂与崖寺。
+- **证明什么（鸟居）**：竹林石阶与灯笼框住红鸟居。
+- **证明什么（崖城/山寺）**：前景小人/湖岸框住远景巨构。
+- **博客落点**：Desert；Shrine；Canyon。
+
+### 3. `fog-separates-depth` ← bradwright-obsidian-reverie-berlin-3000.jpg + copper-octopus-underground-city-1920.jpg + corbingrbr-bioluminescent-cavern-2048.jpg
+- **证明什么**：雾/尘把远端塔/钟乳/洞壁推远，近景井口/塔基/苔台仍保形体。
+- **博客落点**：Megastructure；Canyon；Shrine。
+
+### 4. `high-view-reads-hierarchy` ← ghzli-golden-cliffside-bazaar-1920.jpg + bradwright-obsidian-reverie-berlin-3000.jpg
+- **证明什么（集市）**：高视读出堤廊—摊位—河渠层级。
+- **证明什么（黑曜石）**：俯视读出光井—模块环—远端白柱层级。
+- **博客落点**：Canyon；Harbor；Megastructure。
+
+### 5. `colonnade-rhythm` ← tobymonks-ancient-desert-city-3840.jpg + haechan-park-bamboo-forest-torii-2048.jpg
+- **证明什么（沙漠）**：石柱廊把视线送向圆堂。
+- **证明什么（鸟居）**：竹干/石灯节奏把视线送向鸟居。
+- **博客落点**：Desert；Shrine。
+
+### 6. `ordered-frame-wild-growth` ← ghzli-golden-cliffside-bazaar-1920.jpg + corbingrbr-bioluminescent-cavern-2048.jpg + haechan-park-bamboo-forest-torii-2048.jpg
+- **证明什么**：藤蔓/苔台/竹林压住石构边缘，秩序框住野生长。
+- **博客落点**：Canyon；Shrine。
+
+### 7. `scale-by-familiar-objects` ← nonohara-cliff-city-waterfall-6000.jpg + corbingrbr-bioluminescent-cavern-2048.jpg
+- **证明什么**：前景小人/驮兽相对崖城与荧光洞池，巨大变直觉。
+- **博客落点**：Canyon；Megastructure。
+
+### 8. `cold-world-warm-refuge` ← copper-octopus-underground-city-1920.jpg
+- **证明什么**：冷蓝洞雾对照塔窗暖光，地下避难感。
+- **博客落点**：Gothic；Canyon。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：收下语言均可挂到现有卡。若后续再收 1–2 件「风塔沙漠城 / 倒置崖构 / 莲台天空」不同作品，可议 `windcatcher-desert`、`inverted-cliff` 或 `lotus-terrace-sky` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md R6 段）。正式卡挂图由人工从参考库挑选。
