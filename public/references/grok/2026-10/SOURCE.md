@@ -1836,3 +1836,61 @@
 - 维度/落点：E柱廊尺度;A品红核光;D柱廊节奏;F水色体积光 → card:colonnade-rhythm;card:cold-world-warm-refuge;card:fog-separates-depth;博客 Gothic;Megastructure
 - 许可：版权归 sharur3d；ArtStation 公开；仅作视觉参考
 
+
+## Grok R1 · 2026-10-27（America/New_York）
+
+### zwenhao-ancient-tree-city-3840.jpg
+- 来源：https://www.artstation.com/artwork/nJkR24 （zwenhao）
+- 尺寸：3840×2160；sha256：`d17b6a2532858a5f4568abc8c69eb52366bde4a1b32351ee91d501fc78ffe980`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；峡谷树城暖底冷顶；净环境巨构
+- 维度/落点：E树城剪影;F雾分层;ordered-frame-wild-growth;cold-world-warm-refuge → card:megastructure-silhouette/card:framed-distant-view/card:ordered-frame-wild-growth/card:cold-world-warm-refuge;博客 Canyon/Shrine
+- 许可：版权归 zwenhao；ArtStation 公开；仅作视觉参考
+
+### paul-muller-dyson-sphere-construction-1920.jpg
+- 来源：https://www.artstation.com/artwork/w89VGX （paul_muller）
+- 尺寸：1920×1459；sha256：`e220df59a73a852b2a76c2c27ce5b0a805ede096aaeee0d5de5517ae996f5f98`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；开瓣戴森球围恒星；净轨道巨构
+- 维度/落点：E戴森剪影;C行星尺度 → card:megastructure-silhouette/card:scale-by-familiar-objects;博客 Orbital/Megastructure
+- 许可：版权归 paul_muller；ArtStation 公开；仅作视觉参考
+
+### eriche-asteroid-ship-3840.jpg
+- 来源：https://www.artstation.com/artwork/NxZ2yP （eriche）
+- 尺寸：3840×3840；sha256：`c94b3e5cf20399a63caff67d9fc61c276367e807ff30a124e9f33a5add18a0f8`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；海绵质小行星壳+机械核；净巨构
+- 维度/落点：E小行星船剪影;colossus;cold-world-warm-refuge;C无人机尺度 → card:megastructure-silhouette/card:colossus-crosses-the-frame/card:cold-world-warm-refuge/card:scale-by-familiar-objects;博客 Orbital/Megastructure
+- 许可：版权归 eriche；ArtStation 公开；仅作视觉参考
+
+### pi-art-city-light-torii-1920.jpg
+- 来源：https://www.artstation.com/artwork/eR43kX （pi_art）
+- 尺寸：1920×1080；sha256：`a32f800a0372ac92c500a5c2b53e362ed5dac4aea8b29295776a9f3dc5ba310e`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；雨夜鸟居框景神社路；净环境
+- 维度/落点：framed-distant-view;colonnade-rhythm;fog-separates-depth;cold-world-warm-refuge → card:framed-distant-view/card:colonnade-rhythm/card:fog-separates-depth/card:cold-world-warm-refuge;博客 Shrine/Gothic
+- 许可：版权归 pi_art；ArtStation 公开；仅作视觉参考
+
+### pi-art-city-light-harbor-1920.jpg
+- 来源：https://www.artstation.com/artwork/RKeN1W （pi_art）
+- 尺寸：1920×1080；sha256：`878a52dc6209e076c79f6b62c45489a361ba4b3e1007c46a3001587ee0da51e2`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；雨夜港湾鸟居灯笼；雾分远山
+- 维度/落点：fog-separates-depth;cold-world-warm-refuge;scale-by-familiar-objects → card:fog-separates-depth/card:cold-world-warm-refuge/card:scale-by-familiar-objects;博客 Shrine/Gothic
+- 许可：版权归 pi_art；ArtStation 公开；仅作视觉参考
+
+### stefanotsai-asimov-spaceport-1920.jpg
+- 来源：https://www.artstation.com/artwork/KamB8W （stefanotsai）
+- 尺寸：1920×587；sha256：`92cb78a98824adbe1641d0af9e3b9f18ce620360bd1dccd68f5a7134adbdebd2`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；仰视网格空间港花瓣体；净轨道
+- 维度/落点：E空间港剪影;C小人尺度 → card:megastructure-silhouette/card:scale-by-familiar-objects;博客 Orbital/Station
+- 许可：版权归 stefanotsai；ArtStation 公开；仅作视觉参考
+
+### ryuukei8569-approaching-megastructure-1920.jpg
+- 来源：https://www.artstation.com/artwork/ZGlnYX （ryuukei8569）
+- 尺寸：1920×1080；sha256：`c308e3743ce011db4ef46fb548204d7f44b6b9ad9500491280d560f2a3b1a171`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；轨道环栖地+接近舰；净巨构
+- 维度/落点：E环带剪影;C舰体尺度 → card:megastructure-silhouette/card:scale-by-familiar-objects;博客 Orbital/Megastructure
+- 许可：版权归 ryuukei8569；ArtStation 公开；仅作视觉参考
+
+### lizzymikulich7-pluto-colony-1920.jpg
+- 来源：https://www.artstation.com/artwork/y4Rzb8 （lizzymikulich7）
+- 尺寸：1920×1080；sha256：`66ca5d5f24a3bb290fb95dc75bf4ed4b722d0adf1cac4e9f5b9cff29de368baf`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；冰月殖民地窗框远景；冷世界暖舱
+- 维度/落点：framed-distant-view;cold-world-warm-refuge;high-view-reads-hierarchy;scale-by-familiar-objects → card:framed-distant-view/card:cold-world-warm-refuge/card:high-view-reads-hierarchy/card:scale-by-familiar-objects;博客 Station/Orbital
+- 许可：版权归 lizzymikulich7；ArtStation 公开；仅作视觉参考
