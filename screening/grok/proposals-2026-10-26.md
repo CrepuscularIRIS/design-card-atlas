@@ -463,3 +463,30 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
+
+
+---
+
+# R13 提案补记（2026-10-26）
+
+## 挂现有卡
+
+### 1. `megastructure-silhouette` / `high-view-reads-hierarchy` / `fog-separates-depth` ← sorasharma-neon-veins-megacity-3000.jpg + spiritart-space-elevator-city-3840.jpg + wansry-city-to-the-stars-2480.jpg + leo-li-satellite-city-3840.jpg
+- **证明什么**：霓虹雾城天际、夜城天梯射束、云上圆环城、白昼卫星城针塔外轮廓先于细节；高台/俯视可读层级；霾/云海分层。
+- **博客落点**：Cyberpunk；Megastructure；Orbital。
+
+### 2. `megastructure-silhouette` / `scale-by-familiar-objects` ← christianmarcy-moon-mining-colony-3840.jpg + emil-van-dam-modular-bishop-rings-3840.jpg
+- **证明什么**：宇航员/机器人相对月面殖民地变尺度；双平行 Bishop 环内缘城光与辐条桁架可读轨道巨构。
+- **博客落点**：Orbital；Megastructure。
+
+### 3. `cold-world-warm-refuge` / `colonnade-rhythm` / `fog-separates-depth` ← tumanhhoang-underwater-coral-city-2048.jpg + sharur3d-underwater-temple-1920.jpg
+- **证明什么**：珊瑚水下城暖窗 vs 冷水；多立克柱廊节奏+品红核光；水色体积光分层。
+- **博客落点**：Gothic；Megastructure。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：均可挂现有卡。若后续再收 1–2 件「云上圆环天梯城 / 双平行 Bishop 环」不同作品，可议 `ring-city-space-elevator` 或 `twin-bishop-orbital-habitat` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。

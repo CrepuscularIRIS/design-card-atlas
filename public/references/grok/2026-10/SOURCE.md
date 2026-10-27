@@ -1778,3 +1778,61 @@
 - 尺寸：1920×1080
 - SHA256：`146897a2c68cbb6511787e4374a594465239ac59151c9561b8d991978778adc8`
 - 许可备注：版权归 meganerid；ArtStation 公开；仅作视觉参考
+
+## R13 · 2026-10-26 ~20:52 ET
+### sorasharma-neon-veins-megacity-3000.jpg
+- 来源：https://www.artstation.com/artwork/5WL18P （sorasharma）
+- 尺寸：3000×3750；sha256：`93a28122e5d0431f6a258f411f485df009db194b7ceffd1b020b93058eaea263`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；高台俯视霓虹雾城：黄霾分层+日文立招天际；净环境无角色前景
+- 维度/落点：E霓虹巨构;F黄霾分层;B高视层级;A污染漫射 → card:megastructure-silhouette;card:high-view-reads-hierarchy;card:fog-separates-depth;博客 Cyberpunk;Megastructure
+- 许可：版权归 sorasharma；ArtStation 公开；仅作视觉参考
+
+### spiritart-space-elevator-city-3840.jpg
+- 来源：https://www.artstation.com/artwork/18ran2 （spiritart）
+- 尺寸：3840×2160；sha256：`70a0bd1270ef099c734c2f8a54c6d16c1f46681a98fb8edcda20db2dc3500c5e`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；夜城中央天梯尖塔射束：高台俯视+霓虹纵深；净巨构
+- 维度/落点：E天梯剪影;A青蓝射束;B高视层级;F夜霾 → card:megastructure-silhouette;card:high-view-reads-hierarchy;card:fog-separates-depth;博客 Megastructure;Cyberpunk
+- 许可：版权归 spiritart；ArtStation 公开；仅作视觉参考
+
+### wansry-city-to-the-stars-2480.jpg
+- 来源：https://www.artstation.com/artwork/G8WBX3 （wansry）
+- 尺寸：2480×1288；sha256：`0312d6647e938766cf40b27b2c94114410147536a88ecfd3d289e915e5b63b49`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；云上海拔圆环城+中央天梯柱：俯视层级+地桥尺度；净硬科幻
+- 维度/落点：E圆环城剪影;B高视层级;F云海分层;C飞鸟尺度 → card:megastructure-silhouette;card:high-view-reads-hierarchy;card:fog-separates-depth;博客 Megastructure;Orbital
+- 许可：版权归 wansry；ArtStation 公开；仅作视觉参考
+
+### leo-li-satellite-city-3840.jpg
+- 来源：https://www.artstation.com/artwork/EaQdK4 （leo_li_art）
+- 尺寸：3840×1640；sha256：`9b00cc7c4e4daea4652f4dc1502a03018fbb88c5b9230b1c61af0a72ac927777`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；白昼卫星城中央针塔枢纽：高视层级+工业管道尺度；净巨构
+- 维度/落点：E针塔剪影;B高视层级;D工业管线;A高空漫射 → card:megastructure-silhouette;card:high-view-reads-hierarchy;card:scale-by-familiar-objects;博客 Megastructure;Cyberpunk
+- 许可：版权归 leo_li_art；ArtStation 公开；仅作视觉参考
+
+### christianmarcy-moon-mining-colony-3840.jpg
+- 来源：https://www.artstation.com/artwork/lDvbd5 （christianmarcy）
+- 尺寸：3840×1985；sha256：`d6d3af5305b2d74fbead7f7ec73b19fa30ff2e67b1fece36a6b74c4e9b077b12`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；月面采矿殖民地：穹顶+行走机器人田；宇航员仅尺度；净工业
+- 维度/落点：E月面殖民地;C熟悉物尺度;A冷工业灯;D桁架节奏 → card:megastructure-silhouette;card:scale-by-familiar-objects;博客 Orbital;Megastructure
+- 许可：版权归 christianmarcy；ArtStation 公开；仅作视觉参考
+
+### emil-van-dam-modular-bishop-rings-3840.jpg
+- 来源：https://www.artstation.com/artwork/mAOX91 （emil_van_dam）
+- 尺寸：3840×1909；sha256：`a418fa5f3ddd32202a9b79c06a22d473fe8d1750d7f81ec21e9683553b28fd93`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；双平行 Bishop 环轨道栖地：内缘城光+辐条桁架；净轨道巨构
+- 维度/落点：E环带剪影;D辐条桁架;A内缘城光;B斜视层级 → card:megastructure-silhouette;card:high-view-reads-hierarchy;博客 Orbital
+- 许可：版权归 emil_van_dam；ArtStation 公开；仅作视觉参考
+
+### tumanhhoang-underwater-coral-city-2048.jpg
+- 来源：https://www.artstation.com/artwork/ob3QAz （tumanhhoang）
+- 尺寸：2048×2048；sha256：`057626a7b9ae5b1c0f983ce27518ba71e28cdec8a1be3ed09988f7202054d4b3`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；珊瑚礁环抱水下城：暖窗冷水+尖塔尺度；小人仅尺度
+- 维度/落点：E水下城尺度;A暖窗冷水;F水色分层;C熟悉物尺度 → card:cold-world-warm-refuge;card:megastructure-silhouette;card:fog-separates-depth;博客 Gothic;Megastructure
+- 许可：版权归 tumanhhoang；ArtStation 公开；仅作视觉参考
+
+### sharur3d-underwater-temple-1920.jpg
+- 来源：https://www.artstation.com/artwork/3OkDE （sharur3d）
+- 尺寸：1920×1080；sha256：`105480bb28c3d612c179a2d204adad928f40328fc6e80808a00e82adffa11bd4`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；水下多立克柱廊神殿+品红能量核：净环境无角色；体积光
+- 维度/落点：E柱廊尺度;A品红核光;D柱廊节奏;F水色体积光 → card:colonnade-rhythm;card:cold-world-warm-refuge;card:fog-separates-depth;博客 Gothic;Megastructure
+- 许可：版权归 sharur3d；ArtStation 公开；仅作视觉参考
+
