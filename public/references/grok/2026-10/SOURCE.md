@@ -2387,3 +2387,90 @@
 - 机位/时间/步骤：ArtStation CDN 4k/large 实看；红崖河岸古寺：帆船框景雾崖；净红崖河寺建立；净环境。
 - 维度/落点：framed-distant-view;fog-separates-depth;ordered-frame-wild-growth;mangrove-canyon-temple → 博客 Canyon;Shrine;Harbor
 - 许可：版权归 manojch248；ArtStation 公开；仅作视觉参考
+### yoannvitry-lighthouse-city-ext-2500.jpg
+- 作品名：Lighthouse city concept Ext
+- 作者：yoannvitry
+- 原始 URL：https://www.artstation.com/artwork/B3r8nr
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R8）
+- 尺寸：2500×1020；sha256：`498ab8857ce5e2d5d1e4a2f0ee6fec84b00feb37e3e3f2328ab7b742ae85a827`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；悬崖工业灯塔港：干船坞巨构+雾岸；净灯塔港城建立；净环境。
+- 维度/落点：megastructure-silhouette;fog-separates-depth;industrial-harbor;scale-by-familiar-objects → 博客 Harbor;Industrial;Megastructure
+- 许可：版权归 yoannvitry；ArtStation 公开；仅作视觉参考
+
+### enjoyarts-crystal-canyons-quartz-1920.jpg
+- 作品名：Crystal Canyons: Enormous Quartz Fissure & Mythical Valley Landscape
+- 作者：enjoyarts
+- 原始 URL：https://www.artstation.com/artwork/DYxlBE
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R8）
+- 尺寸：1920×1920；sha256：`020861b0827266c2ecb1a2b64105df6d32626764c50e2e046d79ed8824956c48`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；石英裂谷巨晶：蓝雾分层读峡谷；净石英峡谷建立；净环境。
+- 维度/落点：megastructure-silhouette;fog-separates-depth;quartz-canyon;framed-distant-view → 博客 Canyon;Shrine;Megastructure
+- 许可：版权归 enjoyarts；ArtStation 公开；仅作视觉参考
+
+### madbear13-mystic-haven-japanese-temple-1920.jpg
+- 作品名：Mystic Haven: A Japanese Temple Oasis
+- 作者：madbear13
+- 原始 URL：https://www.artstation.com/artwork/39Wxrm
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R8）
+- 尺寸：1920×720；sha256：`f9bf94e11743866dccf2494bd3446999cf22ea8556be0bca1615da134fd76957`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；雾湖神社鸟居：倒影框景；净镜湖神社建立；净环境。
+- 维度/落点：framed-distant-view;fog-separates-depth;mirror-lake-shrine;ordered-frame-wild-growth → 博客 Shrine;Harbor;Cold
+- 许可：版权归 madbear13；ArtStation 公开；仅作视觉参考
+
+### cowsmanaut-epic-stormy-lighthouse-3328.jpg
+- 作品名："Epic" Stormy Lighthouse
+- 作者：cowsmanaut
+- 原始 URL：https://www.artstation.com/artwork/8wDXmO
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R8）
+- 尺寸：3328×1536；sha256：`1bde174587d8b59fcca26d229931223312d9b5e98dc61846c3a52b2159044d1e`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；风暴灯塔断崖：浪雾劈岩读尺；净风暴灯塔建立；净环境。
+- 维度/落点：megastructure-silhouette;fog-separates-depth;stormbreak-lighthouse;framed-distant-view → 博客 Harbor;Cold;Megastructure
+- 许可：版权归 cowsmanaut；ArtStation 公开；仅作视觉参考
+
+### zefi-ro4ka-mountain-forge-3353.jpg
+- 作品名：Mountain forge
+- 作者：zefi_ro4ka
+- 原始 URL：https://www.artstation.com/artwork/Nqek5b
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R8）
+- 尺寸：3353×1386；sha256：`24b537e7ffb111035b9e538e3641429d7ab81b2eeba8e20104db408cd9a4ab5f`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；雪峰山锻桥廊：暖窗冷雾对照；净山锻神社建立；净环境。
+- 维度/落点：cold-world-warm-refuge;fog-separates-depth;mountain-forge;framed-distant-view → 博客 Shrine;Cold;Industrial
+- 许可：版权归 zefi_ro4ka；ArtStation 公开；仅作视觉参考
+
+### rkessler-lighthouse-city-concept-2965.jpg
+- 作品名：lighthouse city  concept
+- 作者：rkessler
+- 原始 URL：https://www.artstation.com/artwork/5WA2n8
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R8）
+- 尺寸：2451×2965；sha256：`5a2b675b797a7ecd6fa9543282895dfdc213409809c705bf5cc32ff19871ea41`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；竖构图雾港灯塔城：层叠码头读高；净雾港灯塔建立；净环境。
+- 维度/落点：high-view-reads-hierarchy;fog-separates-depth;vertical-harbor;megastructure-silhouette → 博客 Harbor;Cold;Megastructure
+- 许可：版权归 rkessler；ArtStation 公开；仅作视觉参考
+
+### remy-vanmeenen-post-apo-city-3840.jpg
+- 作品名：Post Apo City
+- 作者：remy_vanmeenen
+- 原始 URL：https://www.artstation.com/artwork/wYoDY
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R8）
+- 尺寸：3840×1246；sha256：`f62ff0a1324d14a8e2f7079bf1aacb404f15f324b281edbc2a3b9ffb8fdad9b7`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；毒雾废城巨构街谷：塌楼树生读尺；净末世城建立；净环境。
+- 维度/落点：megastructure-silhouette;fog-separates-depth;post-apo-megacity;framed-distant-view → 博客 Megastructure;Industrial;Canyon
+- 许可：版权归 remy_vanmeenen；ArtStation 公开；仅作视觉参考
+
+### ilow-keyi-quartz-spiked-coast-3000.jpg
+- 作品名：Quartz Spiked Coast Concept Art
+- 作者：ilow_keyi
+- 原始 URL：https://www.artstation.com/artwork/zxNmow
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R8）
+- 尺寸：3000×1500；sha256：`c3f7014745c35341c7d00faefcaba4476608240923d71333e6890390f7901285`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；石英刺海岸湾：晶刺+青洞光；净石英海岸建立；净环境。
+- 维度/落点：framed-distant-view;ordered-frame-wild-growth;quartz-coast;fog-separates-depth → 博客 Canyon;Harbor;Shrine
+- 许可：版权归 ilow_keyi；ArtStation 公开；仅作视觉参考

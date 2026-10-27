@@ -374,3 +374,56 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md R7 段）。正式卡挂图由人工从参考库挑选。
+
+
+---
+
+# Grok 补图 / 新卡提议 · 2026-10-27（R8）
+
+只提议，不改 `public/cards/**`。人工合并时再挂图。
+
+## 补图提议
+
+### 1. `megastructure-silhouette` ← yoannvitry-lighthouse-city-ext-2500.jpg + cowsmanaut-epic-stormy-lighthouse-3328.jpg + remy-vanmeenen-post-apo-city-3840.jpg + enjoyarts-crystal-canyons-quartz-1920.jpg
+- **证明什么（灯塔港）**：悬崖干船坞巨构剪影压住雾岸。
+- **证明什么（风暴灯塔）**：断崖灯塔剪影劈开浪雾。
+- **证明什么（末世城）**：塌楼街谷巨构剪影先于细节。
+- **证明什么（石英谷）**：巨晶裂谷剪影统领蓝雾。
+- **博客落点**：Harbor；Industrial；Megastructure；Canyon。
+
+### 2. `fog-separates-depth` ← yoannvitry-lighthouse-city-ext-2500.jpg + madbear13-mystic-haven-japanese-temple-1920.jpg + zefi-ro4ka-mountain-forge-3353.jpg + rkessler-lighthouse-city-concept-2965.jpg
+- **证明什么（灯塔港）**：海雾把远岸仓与近船坞分层。
+- **证明什么（镜湖神社）**：湖雾把远鸟居推远。
+- **证明什么（山锻）**：雪雾把远峰推远，近廊仍保形体。
+- **证明什么（竖港）**：层雾读出码头—灯塔层级。
+- **博客落点**：Harbor；Cold；Shrine。
+
+### 3. `framed-distant-view` ← madbear13-mystic-haven-japanese-temple-1920.jpg + ilow-keyi-quartz-spiked-coast-3000.jpg + cowsmanaut-epic-stormy-lighthouse-3328.jpg
+- **证明什么（镜湖）**：前景草缘框住湖心鸟居。
+- **证明什么（石英海岸）**：晶刺/岩拱框住青湾。
+- **证明什么（风暴灯塔）**：浪雾前景框住断崖灯塔。
+- **博客落点**：Shrine；Canyon；Harbor。
+
+### 4. `high-view-reads-hierarchy` ← rkessler-lighthouse-city-concept-2965.jpg
+- **证明什么**：竖构图高视读出码头—仓库—灯塔层级。
+- **博客落点**：Harbor；Cold。
+
+### 5. `cold-world-warm-refuge` ← zefi-ro4ka-mountain-forge-3353.jpg
+- **证明什么**：雪峰冷雾对照锻廊暖窗，山锻避难感。
+- **博客落点**：Shrine；Cold；Industrial。
+
+### 6. `ordered-frame-wild-growth` ← ilow-keyi-quartz-spiked-coast-3000.jpg + madbear13-mystic-haven-japanese-temple-1920.jpg
+- **证明什么**：草绿/粉花压住晶刺与神社石缘，秩序框住野生长。
+- **博客落点**：Canyon；Shrine。
+
+### 7. `scale-by-familiar-objects` ← yoannvitry-lighthouse-city-ext-2500.jpg + remy-vanmeenen-post-apo-city-3840.jpg
+- **证明什么**：驳船/锈车相对干船坞与塌楼街谷，巨大变直觉。
+- **博客落点**：Harbor；Megastructure。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：收下语言均可挂到现有卡。若后续再收 1–2 件「风塔沙漠城 / 倒置崖构 / 莲台天空 / 红树林根庙 / 盐沼尖塔」不同作品，可议 `windcatcher-desert`、`inverted-cliff`、`lotus-terrace-sky`、`mangrove-root-temple` 或 `salt-flat-spires` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md R8 段）。正式卡挂图由人工从参考库挑选。
