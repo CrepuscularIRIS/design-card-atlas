@@ -339,3 +339,34 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
+
+
+---
+
+# R9 提案补记（2026-10-26）
+
+## 挂现有卡
+
+### 1. `megastructure-silhouette` ← zhang-still-hanging-city-3840.jpg + lexmartin-subterranean-city-5120.jpg + hamada-hamada-ascendant-city-3840.jpg + oliviaelvira-subterranean-scifi-city-3840.jpg + allison111-endless-temple-1920.jpg
+- **证明什么**：轨道悬柱、地下竖城、岸线金字塔、竖井远城、叠层古石城外轮廓先于细节。
+- **博客落点**：Orbital；Megastructure；Cyberpunk；Gothic。
+
+### 2. `fog-separates-depth` / `framed-distant-view` ← sapphirethm-city-above-waterfalls-3840.jpg + gyax-city-hanging-cliffs-3508.jpg + saurabhkoranga2-ancient-submerged-temple-3840.jpg + oliviaelvira-subterranean-scifi-city-3840.jpg
+- **证明什么**：瀑群金光门殿、洞口框崖城、冷雾淹没石殿、窗框竖井把远景收进画面。
+- **博客落点**：Gothic/Canyon；Cyberpunk。
+
+### 3. `scale-by-familiar-objects` / `cold-world-warm-refuge` / `colonnade-rhythm` ← gyax-city-hanging-cliffs-3508.jpg + saurabhkoranga2-ancient-submerged-temple-3840.jpg + zhang-still-hanging-city-3840.jpg + allison111-endless-temple-1920.jpg
+- **证明什么**：飞艇/旅人、火把、飞船、僧侣相对巨构变尺度；暖窗/火把在冷雾中成避难点；柱廊叠层节奏。
+- **博客落点**：Gothic；Orbital；Megastructure。
+
+### 4. `high-view-reads-hierarchy` ← lexmartin-subterranean-city-5120.jpg + hamada-hamada-ascendant-city-3840.jpg + oliviaelvira-subterranean-scifi-city-3840.jpg
+- **证明什么**：竖城层桥、岸线金字塔台地、竖井底城灯带可读层级。
+- **博客落点**：Cyberpunk；Megastructure。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：均可挂现有卡。若后续再收 1–2 件「轨道悬城柱 / 竖向地下赛博城」不同作品，可议 `orbital-hanging-pillars` 或 `subterranean-vertical-city` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md）。正式卡挂图由人工从参考库挑选。
