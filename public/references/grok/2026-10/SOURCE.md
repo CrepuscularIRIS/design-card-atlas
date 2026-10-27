@@ -2061,3 +2061,86 @@
 - 机位/时间/步骤：ArtStation CDN 4k/large 实看；世代舰机库：舰列与端窗行星读尺度；净工业内景建立；净环境
 - 维度/落点：scale-by-familiar-objects;framed-distant-view;generation-ship-hangar;high-view-reads-hierarchy → card:scale-by-familiar-objects；博客 Station；Orbital
 - 许可：版权归 raagskarnavar；ArtStation 公开；仅作视觉参考
+
+
+## Grok R4 · 2026-10-27
+### apocalypse007-cloud-monastery-3840.jpg
+- 作品名：Cloud Monastery
+- 作者：apocalypse007
+- 原始 URL：https://www.artstation.com/artwork/VdoPLN
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R4）
+- 尺寸：3840×2160；sha256：`fab653db2cb1e0d6809be680db2b4c86a71237a5f6868a6b8cd6fc9cba2ae7b6`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；云端崖寺：蓝瓦白墙叠层+雪峰雾谷读尺度；净仙侠建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;cloud-monastery;xianxia-cliff-temple → card:megastructure-silhouette;博客 Shrine；Megastructure
+- 许可：版权归 apocalypse007；ArtStation 公开；仅作视觉参考
+### apocalypse007-cloud-monastery-2-3840.jpg
+- 作品名：Cloud Monastery 2
+- 作者：apocalypse007
+- 原始 URL：https://www.artstation.com/artwork/nYZgQ9
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R4）
+- 尺寸：3840×1920；sha256：`e5f5fd4c8a42a8e47926448b95c07c994881cc885510e3701d05f10abc076007`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；云寺低视：石阶红幡+远雪峰；小人读尺度；净仙侠建立；净环境
+- 维度/落点：scale-by-familiar-objects;framed-distant-view;cloud-monastery;xianxia-stair-ascent → card:scale-by-familiar-objects;博客 Shrine；Megastructure
+- 许可：版权归 apocalypse007；ArtStation 公开；仅作视觉参考
+### kingpeng-glacier-city-3840.jpg
+- 作品名：Glacier City
+- 作者：kingpeng
+- 原始 URL：https://www.artstation.com/artwork/x4ox2
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R4）
+- 尺寸：3840×1634；sha256：`e9c0864468a57820ccb0c387042f997c2a4a989de0a290f5cdcbc5511311ee97`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；冰川冰晶城：狮身像+拱桥框景冰塔冷光；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;framed-distant-view;glacier-ice-cathedral-city → card:megastructure-silhouette;博客 Cold；Megastructure
+- 许可：版权归 kingpeng；ArtStation 公开；仅作视觉参考
+### eiko0724-airship-dock-3840.jpg
+- 作品名：AIRSHIP DOCK
+- 作者：eiko0724
+- 原始 URL：https://www.artstation.com/artwork/qJDrQy
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R4）
+- 尺寸：3840×2068；sha256：`da39ba187c3ac47d4df656b53fc46749920861102e03f4886440461f93788b32`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；飞艇港：玻璃穹顶码头悬于云海；飞艇与小人读尺度；净空中港建立；净环境
+- 维度/落点：high-view-reads-hierarchy;scale-by-familiar-objects;zeppelin-dock-city;cloud-harbor → card:high-view-reads-hierarchy;博客 Orbital；Megastructure
+- 许可：版权归 eiko0724；ArtStation 公开；仅作视觉参考
+### alejandro-xyz-the-concrete-hive-series-3015.jpg
+- 作品名：The Concrete Hive - Series
+- 作者：alejandro_xyz
+- 原始 URL：https://www.artstation.com/artwork/lGJGOk
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R4）
+- 尺寸：3015×1696；sha256：`62df517338ec871e6f5da6d8043290aa65eb2ef2f460e3710cb5a51bb092b7c1`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；混凝土蜂巢：模块舱天桥跨越工业峡谷；橙车小人读尺度；雾分层；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;skybridge-hive;industrial-canyon → card:megastructure-silhouette;博客 Industrial；Megastructure
+- 许可：版权归 alejandro_xyz；ArtStation 公开；仅作视觉参考
+### janan-the-city-of-sandstorm-1998.jpg
+- 作品名：The city of sandstorm
+- 作者：janan
+- 原始 URL：https://www.artstation.com/artwork/xzA4ym
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R4）
+- 尺寸：1998×961；sha256：`fd4f478083935cec71558a38fdbcca88cc6c7b7940566e9d85f2be46e9126c17`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；沙暴台地城：雷电沙尘中阶梯堡垒剪影；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;sandstorm-arcology;mesa-citadel → card:megastructure-silhouette;博客 Canyon；Megastructure
+- 许可：版权归 janan；ArtStation 公开；仅作视觉参考
+### mariten-japanese-stilt-city-1920.jpg
+- 作品名：Japanese Stilt City
+- 作者：mariten
+- 原始 URL：https://www.artstation.com/artwork/rJkrb6
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R4）
+- 尺寸：1920×1080；sha256：`6e9c9b75f9258b5759a983c24e0225c496d96f4d887dc4399f83ce16b28e9a26`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；日式高脚水城：暖灯栈桥对照冷雾岩柱与天桥；净湿地建立；净环境
+- 维度/落点：fog-separates-depth;cold-world-warm-refuge;neon-wetland-stilt;framed-distant-view → card:fog-separates-depth;博客 Harbor；Megastructure
+- 许可：版权归 mariten；ArtStation 公开；仅作视觉参考
+### theodimalta-crystal-cave-2048.jpg
+- 作品名：24h keyframe challenge • Crystal cave
+- 作者：theodimalta
+- 原始 URL：https://www.artstation.com/artwork/JeORND
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R4）
+- 尺寸：2048×1152；sha256：`75a81332286272e4e7ccd52ea96e2df5ac3afc3a4e7cf360658aadfa7f59394c`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；水晶洞城：蓝晶簇巨构+湿地反光；探索者读尺度；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;crystal-cavern-city;scale-by-familiar-objects → card:megastructure-silhouette;博客 Canyon；Megastructure
+- 许可：版权归 theodimalta；ArtStation 公开；仅作视觉参考
