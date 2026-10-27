@@ -2144,3 +2144,85 @@
 - 机位/时间/步骤：ArtStation CDN 4k/large 实看；水晶洞城：蓝晶簇巨构+湿地反光；探索者读尺度；净环境
 - 维度/落点：megastructure-silhouette;fog-separates-depth;crystal-cavern-city;scale-by-familiar-objects → card:megastructure-silhouette;博客 Canyon；Megastructure
 - 许可：版权归 theodimalta；ArtStation 公开；仅作视觉参考
+
+## R5 · 2026-10-27
+### karlpoyzer-at-the-base-of-the-space-elevator-3463.jpg
+- 作品名：At The Base of The Space Elevator
+- 作者：karlpoyzer
+- 原始 URL：https://www.artstation.com/artwork/ArPPJo
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R5）
+- 尺寸：3463×2160；sha256：`dd080037aa53af5096fba7eb4526e88082f767df6b4d593328daca16142725fc`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；太空电梯基座：黄衣小人读尺度；净巨构建立；净环境
+- 维度/落点：megastructure-silhouette;scale-by-familiar-objects;space-elevator-terminus → card:megastructure-silhouette;博客 Orbital;Megastructure;Station
+- 许可：版权归 karlpoyzer；ArtStation 公开；仅作视觉参考
+### karamanserhat-gothic-library-cathedral-interior-2860.jpg
+- 作品名：Magnificent Huge Gothic Library Cathedral-Like Interior Environment
+- 作者：karamanserhat
+- 原始 URL：https://www.artstation.com/artwork/AZN6Vo
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R5）
+- 尺寸：2860×1293；sha256：`f12a117bc29716a247ea19eb49e93b03de8791abd49cae0725f1c339ed57e132`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；哥特图书馆大厅高视：红毯书架列柱；净大厅建立；净环境
+- 维度/落点：colonnade-rhythm;high-view-reads-hierarchy;grand-library-hall → card:colonnade-rhythm;博客 Gothic;Megastructure;Shrine
+- 许可：版权归 karamanserhat；ArtStation 公开；仅作视觉参考
+### 12toe-celestial-reflection-observatory-3840.jpg
+- 作品名：Celestial Reflection Observatory
+- 作者：12toe
+- 原始 URL：https://www.artstation.com/artwork/8wgbwx
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R5）
+- 尺寸：3840×1920；sha256：`d8aba07450c40b73aaad210de1f52d138eb59a3d1766b99fa33ccb1a01e78eca`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；海涡反光观象台：同心层+金桥小人；净反射巨构建立；净环境
+- 维度/落点：megastructure-silhouette;scale-by-familiar-objects;framed-distant-view;mirror-lake-reflection → card:megastructure-silhouette;博客 Megastructure;Harbor;Canyon
+- 许可：版权归 12toe；ArtStation 公开；仅作视觉参考
+### jeromecristalli-antarctica-research-station-3705.jpg
+- 作品名：Antarctica Research Station
+- 作者：jeromecristalli
+- 原始 URL：https://www.artstation.com/artwork/zPRVWZ
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R5）
+- 尺寸：3705×1702；sha256：`17c5de256805414d964f17f0e142e26abae7c868c8f0869de63ceb468a144e30`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；南极科考站全景：穹顶模块+雪雾崖；净寒带站建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;cold-world-warm-refuge;arctic-research-station → card:megastructure-silhouette;博客 Cold;Station;Megastructure
+- 许可：版权归 jeromecristalli；ArtStation 公开；仅作视觉参考
+### nizar-sadek-arctic-sci-fi-research-base-1920.jpg
+- 作品名：Arctic Sci-Fi Research Base – Environment Design
+- 作者：nizar_sadek
+- 原始 URL：https://www.artstation.com/artwork/Gvnagd
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R5）
+- 尺寸：1920×1020；sha256：`607ab8c5cb2882831e797afad377a3352113846c9cbbb7514f7cb244d2556386`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；北极科幻站雪暴：测地圆顶+工业筒仓；净寒带站建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;cold-world-warm-refuge;arctic-research-station → card:megastructure-silhouette;博客 Cold;Station;Megastructure
+- 许可：版权归 nizar_sadek；ArtStation 公开；仅作视觉参考
+### vholovko-arctic-research-station-1920.jpg
+- 作品名：Arctic Research Station
+- 作者：vholovko
+- 原始 URL：https://www.artstation.com/artwork/rR39eL
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R5）
+- 尺寸：1920×1080；sha256：`c0c854649e7daea04d71581e80d76c782362afebf96f64728fb73a3e24d082ba`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；北极站高视：双塔天桥+连廊穹顶；层级读尺建立；净环境
+- 维度/落点：high-view-reads-hierarchy;megastructure-silhouette;cold-world-warm-refuge;arctic-research-station → card:high-view-reads-hierarchy;博客 Cold;Orbital;Megastructure
+- 许可：版权归 vholovko；ArtStation 公开；仅作视觉参考
+### oscarfrith-vertical-bamboo-farm-2560.jpg
+- 作品名：Vertical Bamboo Farm
+- 作者：oscarfrith
+- 原始 URL：https://www.artstation.com/artwork/y4GW9J
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R5）
+- 尺寸：2560×1600；sha256：`d6620e9753cd41dab5a04f6cb03deb870983f464aa7c94ee50c88be290dc0d02`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；垂直竹林农场塔：层叠绿台嵌入河岸城；净竹构巨构；净环境
+- 维度/落点：megastructure-silhouette;ordered-frame-wild-growth;high-view-reads-hierarchy;bamboo-megastructure → card:megastructure-silhouette;博客 Megastructure;Canyon;Harbor
+- 许可：版权归 oscarfrith；ArtStation 公开；仅作视觉参考
+### gramophone-mobile-asteroid-mining-megastructure-2160.jpg
+- 作品名：Mobile Asteroid Mining Megastructure Concept
+- 作者：gramophone
+- 原始 URL：https://www.artstation.com/artwork/KeLPAx
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-27（R5）
+- 尺寸：2160×2160；sha256：`c0d5dab198a9c45b8280f740b5797b5a12fecca9309bcad0768f50bc9ec43de1`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；移动小行星采矿蜂巢球：六边形壳+矿核；净轨道巨构；净环境
+- 维度/落点：megastructure-silhouette;scale-by-familiar-objects;honeycomb-habitat;orbital-megastructure → card:megastructure-silhouette;博客 Orbital;Megastructure
+- 许可：版权归 gramophone；ArtStation 公开；仅作视觉参考

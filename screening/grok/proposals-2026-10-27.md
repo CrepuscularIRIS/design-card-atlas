@@ -210,3 +210,52 @@
 ## 仅入参考库
 
 全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md R4 段）。正式卡挂图由人工从参考库挑选。
+
+---
+
+# Grok 补图 / 新卡提议 · 2026-10-27（R5）
+
+只提议，不改 `public/cards/**`。人工合并时再挂图。
+
+## R5 补图提议
+
+### 1. `megastructure-silhouette` ← karlpoyzer-at-the-base-of-the-space-elevator-3463.jpg + 12toe-celestial-reflection-observatory-3840.jpg + gramophone-mobile-asteroid-mining-megastructure-2160.jpg + jeromecristalli-antarctica-research-station-3705.jpg
+- **证明什么（电梯）**：黄衣小人相对基座巨塔剪影，尺度一眼可读。
+- **证明什么（观象台）**：海涡同心层剪影压住金桥。
+- **证明什么（蜂巢矿）**：六边形壳球剪影统领小行星矿核。
+- **证明什么（南极站）**：穹顶模块剪影压住雪雾崖。
+- **博客落点**：Orbital；Megastructure；Cold；Harbor。
+
+### 2. `scale-by-familiar-objects` ← karlpoyzer-at-the-base-of-the-space-elevator-3463.jpg + 12toe-celestial-reflection-observatory-3840.jpg
+- **证明什么**：黄衣行人/金桥小人相对巨构，巨大变直觉。
+- **博客落点**：Orbital；Megastructure。
+
+### 3. `colonnade-rhythm` ← karamanserhat-gothic-library-cathedral-interior-2860.jpg
+- **证明什么**：红毯书架列柱把视线送向高窗与穹顶。
+- **博客落点**：Gothic；Shrine；Megastructure。
+
+### 4. `high-view-reads-hierarchy` ← karamanserhat-gothic-library-cathedral-interior-2860.jpg + vholovko-arctic-research-station-1920.jpg
+- **证明什么（图书馆）**：高视读出中厅—书架层—穹顶层级。
+- **证明什么（北极站）**：双塔天桥+连廊穹顶层级可读。
+- **博客落点**：Gothic；Cold；Station。
+
+### 5. `fog-separates-depth` ← jeromecristalli-antarctica-research-station-3705.jpg + nizar-sadek-arctic-sci-fi-research-base-1920.jpg
+- **证明什么**：雪雾把远端崖/山推远，近景穹顶模块仍保形体。
+- **博客落点**：Cold；Station。
+
+### 6. `cold-world-warm-refuge` ← jeromecristalli-antarctica-research-station-3705.jpg + nizar-sadek-arctic-sci-fi-research-base-1920.jpg + vholovko-arctic-research-station-1920.jpg
+- **证明什么**：冷雪暴对照暖窗灯/内廊光，寒带站避难感。
+- **博客落点**：Cold；Station。
+
+### 7. `framed-distant-view` ← 12toe-celestial-reflection-observatory-3840.jpg + oscarfrith-vertical-bamboo-farm-2560.jpg
+- **证明什么（观象台）**：同心层框出远海涡与金桥。
+- **证明什么（竹农）**：河岸绿台框出远塔城层。
+- **博客落点**：Harbor；Megastructure。
+
+## 新卡候选
+
+本轮**不建** `public/candidates/`：收下语言均可挂到现有卡（megastructure / scale / colonnade / high-view / fog / cold-world / framed-distant）。若后续再收 1–2 件「太空电梯终点广场 / 镜湖巨城 / 垂直竹构」不同作品，可议 `space-elevator-terminus`、`mirror-lake-megacity` 或 `bamboo-vertical-farm` 新卡。
+
+## 仅入参考库
+
+全部「收」帧已落在 `public/references/grok/2026-10/`（见 SOURCE.md R5 段）。正式卡挂图由人工从参考库挑选。
