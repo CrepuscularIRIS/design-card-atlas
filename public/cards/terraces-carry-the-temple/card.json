@@ -75,5 +75,47 @@
       "work_id": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/02-camp.html",
       "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/buffalo/02-camp.html"
     }
+  ],
+  "impl": [
+    {
+      "work": "Athenaion · 水庭 / Grand staircase / Panorama（同一作品三机位）",
+      "source": "Repos/athenaion/src/acropolis/stair.js:41-129",
+      "technique": "planStair 按地形层台拆分梯段/休息平台，buildStair 实际发射阶梯、平台及承台；米制配置在 src/world/layout.js:37-68,100-110，主殿中心在:73-81，机位在 src/world/shots.js:5-10（全景）、11-14（水庭）、27-30（大阶梯）。需结合地形 levels 和建造依赖迁移，不能把台阶纹理当层台。",
+      "params": [
+        {
+          "name": "acropolis top",
+          "value": "54",
+          "kind": "源码"
+        },
+        {
+          "name": "terrace drops",
+          "value": "12 / 12 / 11 / 10",
+          "kind": "源码"
+        },
+        {
+          "name": "riser / tread",
+          "value": "0.23 / 0.33",
+          "kind": "源码"
+        },
+        {
+          "name": "landing / midLanding",
+          "value": "7 / 2.8",
+          "kind": "源码"
+        },
+        {
+          "name": "flightRise",
+          "value": "8.5",
+          "kind": "源码"
+        },
+        {
+          "name": "stair widths",
+          "value": "12 / 14 / 16 / 18 / 21",
+          "kind": "源码"
+        }
+      ],
+      "license": "MIT（LICENSE:1-21）",
+      "reuse": "integrate",
+      "citadel": "none"
+    }
   ]
 }

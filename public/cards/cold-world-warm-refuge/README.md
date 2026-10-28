@@ -41,6 +41,23 @@
 - **迁移起点**：先以暖亮区域占画面2–6%为构图预算，只保留一处主暖光和至多两处远景回声。缩到400px后应先看到目的地，再看到整个环境。
 - **不能由图推出**：原片的物理照度、tone mapping、精确bloom阈值均未验证，不给伪精确参数。
 
+### 实现索引
+
+以下是源码阅读索引，不把邻接技术源说成原作实现，也不把现有基础组件说成整卡已落地。`Repos/` 相对 `~/Blog/`；`citadel` 列相对 `~/Blog/citadel/`。参数逐项标明来源，未做本轮运行测量。
+
+| 作品 | 源码（本地路径:行） | 技术与接入边界 | 参数（来源） | 许可 / 复用档 | Citadel 已有可复用入口 |
+|---|---|---|---|---|---|
+| Castle above the clouds | `none` | 原作灯窗/云海源码未定位；邻接技术源 Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html:3376-3403,3463-3497 将暖实用灯与冷环境分控，仅借光源分工，不声称复现云海。Citadel dress/light.js 可承接已有灯与环境调节。 | 暖亮区域=画面 2–6%（建议迁移值） | 原作源码及许可待验证；邻接江南未发现根 LICENSE，只借手法 / reference | `src/world/worlds/dress/light.js` |
+| 末日机器人短片 | `none` | 原作工作间/废墟灯光源码未定位；邻接技术源 Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html:3376-3403,3463-3497 可借冷环境加有限暖灯的方法，不提供机器人或工作间资产。 | 暖焦点数量=主焦点 1，远景回声至多 2（建议迁移值） | 原作源码及许可待验证；邻接江南未发现根 LICENSE，只借手法 / reference | `src/world/worlds/dress/light.js` |
+| 江南山谷 · 蓝调全景 | `Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html:3376-3403` | 暖灯独立选位并创建有限数量的 PointLight，蓝调 dusk 状态另设冷主光/半球光与灯窗开关（同文件:3463-3497）；发光窗不能替代照亮邻墙的实用灯。Citadel 可复用 dress/light.js:7-76 的灯/环境调节入口，不代表该卡已完整落地。 | dusk key=0x9cc4cc / intensity 0.72（源码）；hemi sky / ground=0x88b8bf / 0x232d2b（源码）；warm PointLight color / distance / decay=0xffa862 / 16 / 2（源码）；lamp count high / low=最多 8 / 4（源码）；warm bright area=画面 2–6%（建议迁移值） | 未发现作品仓根 LICENSE，授权范围待验证；仅借手法，不复制代码/资产 / borrow | `src/world/worlds/dress/light.js` |
+
+队列落点优先 street-1 的入口/街角暖灯；其余室内场景是否适合待验证。复用 dress/light.js 的 applyLight 调现有灯和添加有限实用灯，不照搬江南单位、曝光或灯数量。
+
+源码快照（2026-10-28 阅读；不是新增截图来源）：
+- `webgl-seascape-video@915cb7c9a318e03bd2228bc232494b496ff2316c`
+
+已检索 `citadel/src` 及 `src/world/worlds/cardfx/`；本批未发现这些卡的同名预制模块。未来首次落地时才由执行者沉淀 `src/world/worlds/cardfx/cold-world-warm-refuge.js`，此处不是已有文件承诺。
+
 ## 迁移到博客
 
 - **用在哪**：`citadel/src/world/worlds/title.js`的主视觉；`src/game/places.js`登记的Shrine夜间与Alley2夜间变体。

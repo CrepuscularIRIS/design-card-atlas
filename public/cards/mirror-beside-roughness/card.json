@@ -90,5 +90,77 @@
       "role": "counterexample",
       "work_id": "webgl-seascape-cosmos"
     }
+  ],
+  "impl": [
+    {
+      "work": "Falcon 9 · 海面降落",
+      "source": "Repos/falcon9-blender/film/envs.py:231-254",
+      "technique": "Blender 海面以低粗糙度 Principled BSDF、IOR 和程序噪声 bump 保留船影；邻接船体材料 film/droneship.py:363-393 由钢、漆、锈、湿区混合 roughness。是离线节点配方，非 WebGL 可直接导入模块；Citadel 可复用镜像相机/水面反射与 dress/surfaces.js:5-46 的材料差异化，湿地板接收器仍待验证。",
+      "params": [
+        {
+          "name": "ocean roughness / IOR",
+          "value": "0.06 / 1.33",
+          "kind": "源码"
+        },
+        {
+          "name": "wave_scale / wave_bump",
+          "value": "0.004 / 0.25",
+          "kind": "源码"
+        },
+        {
+          "name": "steel base roughness range",
+          "value": "0.64–0.8（后续仍叠加斑驳和掩模）",
+          "kind": "源码"
+        }
+      ],
+      "license": "脚本 MIT（LICENSE:1-25）；生成 .blend、模型、渲染和音视频另属 CC BY-NC 4.0（LICENSE-ASSETS.md:1-18），不可当作 MIT 资产",
+      "reuse": "borrow",
+      "citadel": "src/world/worlds/planarWaterReflection.js"
+    },
+    {
+      "work": "雷尼斯黑沙滩 · 海滩",
+      "source": "Repos/kimi-k31pro-opus55-benchmark-showcase/opus/reynisfjara/src/world/beach.js:88-162",
+      "technique": "干沙/砾石的粗糙度与颜色随 dampness 改变，并用岸线深度掩模划出水膜；平面倒影另见 src/fx/reflection.js:1-109 的镜像相机、斜近裁面和反射 RT。Citadel planarWaterReflection.js:6-69 已有水平水面镜像路线，地面着色与湿区遮罩仍需适配；dress/surfaces.js:5-46 可做粗糙区。",
+      "params": [
+        {
+          "name": "dry sand roughness",
+          "value": "0.94",
+          "kind": "源码"
+        },
+        {
+          "name": "damp roughness target",
+          "value": "0.4",
+          "kind": "源码"
+        },
+        {
+          "name": "reflection scale default",
+          "value": "0.5",
+          "kind": "源码"
+        }
+      ],
+      "license": "未发现作品仓根 LICENSE，授权范围待验证；仅借手法，不复制代码/资产",
+      "reuse": "borrow",
+      "citadel": "src/world/worlds/planarWaterReflection.js"
+    },
+    {
+      "work": "Unreal 云上神殿与巨龙",
+      "source": "none",
+      "technique": "原作反射算法待验证，不能凭画面断言 SSR 或光追；邻接技术源 Repos/kimi-k31pro-opus55-benchmark-showcase/opus/reynisfjara/src/fx/reflection.js:1-109 是可读的水平平面反射路线，仅借手法；Citadel 已有水面相机/RT，石地板材质与人物缺失反射需单独验收。",
+      "params": [
+        {
+          "name": "哑石 roughness",
+          "value": "0.7–0.9",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "局部湿面 roughness",
+          "value": "0.15–0.35",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作源码及许可待验证；邻接黑沙滩未发现根 LICENSE，只借手法",
+      "reuse": "reference",
+      "citadel": "src/world/worlds/planarWaterReflection.js"
+    }
   ]
 }

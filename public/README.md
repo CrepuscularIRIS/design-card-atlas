@@ -284,7 +284,7 @@
 <tr><td valign="top"><sub><a href="https://silentfleetkk.github.io/qingming-bianjing/opus-5.5/qingming-bianjing.html">清明上河 · 黄昏全城</a></sub></td><td valign="top"><sub><a href="https://github.com/Leonxlnx/athenaion">Athenaion · Panorama</a></sub></td><td valign="top"><sub><a href="https://github.com/holooooo/webgl-seascape-video/blob/915cb7c9a318e03bd2228bc232494b496ff2316c/episodes/04-jiangnan-voxel/interactive.html">江南山谷 · 蓝调全景</a></sub></td></tr>
 </table>
 
-<sub>**情绪** 开阔、统观 · **用在博客** atlas 地点总览与 title 远景备选 · <a href="cards/high-view-reads-hierarchy/README.md">拆解与做法 →</a></sub>
+<sub>**情绪** 开阔、统观 · **用在博客** street-1 场景总览机位；atlas/title locked, not changed · <a href="cards/high-view-reads-hierarchy/README.md">拆解与做法 →</a></sub>
 
 ### 低机位入场
 

@@ -74,5 +74,72 @@
       "role": "counterexample",
       "work_id": "https://three-good-godrays.ameo.design/#sponza"
     }
+  ],
+  "impl": [
+    {
+      "work": "中式幻想 RPG · 雾中巨像",
+      "source": "none",
+      "technique": "原作雾算法与几何源码未定位；邻接技术源 Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html:398-449 是可读的高度雾/距离 haze 路线，仅借手法，不能断言巨像原作用同一算法；Citadel place.js:232 只有距离雾基础入口。",
+      "params": [
+        {
+          "name": "远层 / 近层局部反差",
+          "value": "约 1/3–1/2，需灰度截图验收",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作源码及许可待验证；邻接江南未发现根 LICENSE，只借手法",
+      "reuse": "reference",
+      "citadel": "src/world/worlds/place.js"
+    },
+    {
+      "work": "江南山谷 · 蓝调全景",
+      "source": "Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html:398-449",
+      "technique": "沿视线解析积分指数高度雾，再加均匀距离 haze、朝光方向散射和不透明度上限；蓝调参数见同文件:3463-3497。原作全局替换 ShaderChunk，不可直接污染 Citadel 全站；现有 place.js:232 仅支持距离雾，是基础入口而非等价高度雾。",
+      "params": [
+        {
+          "name": "dusk fog color",
+          "value": "0x5a7a82",
+          "kind": "源码"
+        },
+        {
+          "name": "fogD / fogFall",
+          "value": "0.0048 / 0.03",
+          "kind": "源码"
+        },
+        {
+          "name": "haze / fogMax",
+          "value": "0.0008 / 0.9",
+          "kind": "源码"
+        }
+      ],
+      "license": "未发现作品仓根 LICENSE，授权范围待验证；仅借手法，不复制代码/资产",
+      "reuse": "borrow",
+      "citadel": "src/world/worlds/place.js"
+    },
+    {
+      "work": "清明上河 · 黄昏全城",
+      "source": "Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:467-507",
+      "technique": "在线性色空间计算视线高度积分与距离消光，叠加朝阳方向雾色后再 tone mapping；黄昏状态见同文件:2378-2391。Citadel place.js:232 可先接近中远距离雾，高度积分尚无等价模块，迁移需场景级隔离而非照搬全局 ShaderChunk。",
+      "params": [
+        {
+          "name": "dusk fogD / fogF / fogFar",
+          "value": "0.0021 / 0.032 / 0.00016",
+          "kind": "源码"
+        },
+        {
+          "name": "dusk fog color",
+          "value": "#c2a18a",
+          "kind": "源码"
+        },
+        {
+          "name": "dusk fogSunK",
+          "value": "0.8",
+          "kind": "源码"
+        }
+      ],
+      "license": "未发现作品仓根 LICENSE，授权范围待验证；仅借手法，不复制代码/资产",
+      "reuse": "borrow",
+      "citadel": "src/world/worlds/place.js"
+    }
   ]
 }
