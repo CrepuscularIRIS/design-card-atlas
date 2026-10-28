@@ -2920,3 +2920,92 @@
 - 维度/落点：colonnade-rhythm;ordered-frame-wild-growth;victorian-glasshouse;framed-distant-view → 博客 Shrine;Megastructure;Canyon
 - 许可：版权归 sammler；ArtStation 公开；仅作视觉参考
 
+
+### b3an0s-salg-arctic-shipwreck-3700.jpg
+- 作品名：Arctic Shipwreck scene
+- 作者：b3an0s_salg
+- 原始 URL：https://www.artstation.com/artwork/Ry13ar
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R4）
+- 尺寸：3700×2070；sha256：`f48369ddd506bfce64bf13eb4d951a5530c91920eef255ff33968d70be913d28`
+- 机位/时间/步骤：CDN 4k/large 实看；冰原搁浅巨轮与废墟雾气；净北极船骸建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;frozen-ship-graveyard;framed-distant-view → 博客 Harbor;Canyon;Megastructure
+- 许可：版权归 b3an0s_salg；ArtStation 公开；仅作视觉参考
+
+### llra-desert-outpost-salt-extractors-3840.jpg
+- 作品名：Desert Outpost | Salt Extractors
+- 作者：llra
+- 原始 URL：https://www.artstation.com/artwork/N5AZ1J
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R4）
+- 尺寸：3840×2560；sha256：`eef42141d9a595c3754be2c023963acb59ba782df44aca79d99db2c6439c473b`
+- 机位/时间/步骤：CDN 4k/large 实看；荒漠盐提取塔群与管线纵深；净盐矿前哨建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;salt-extractor-outpost;high-view-reads-hierarchy → 博客 Canyon;Megastructure;Harbor
+- 许可：版权归 llra；ArtStation 公开；仅作视觉参考
+
+### pouyamoayedi-cremation-sam-mcgee-3300.jpg
+- 作品名：Cremation of Sam McGee Environment Concept 2 : shipwreck
+- 作者：pouyamoayedi
+- 原始 URL：https://www.artstation.com/artwork/LB1WA
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R4）
+- 尺寸：3300×1950；sha256：`0ee89daa4cc5ea6b0fd73dd9e3d1032928a11ef8b9ef9b5eb684f6450bb43c8c`
+- 机位/时间/步骤：CDN 4k/large 实看；冰海焚船火光与残骸；净冷暖对照船骸建立；净环境
+- 维度/落点：fog-separates-depth;frozen-ship-graveyard;framed-distant-view;cold-world-warm-refuge → 博客 Harbor;Canyon;Gothic
+- 许可：版权归 pouyamoayedi；ArtStation 公开；仅作视觉参考
+
+### md-shaikh-cinematic-canyon-1920.jpg
+- 作品名：Cinematic Canyon Environment | Unreal Engine 5
+- 作者：md-shaikh
+- 原始 URL：https://www.artstation.com/artwork/dykArK
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R4）
+- 尺寸：1920×1080；sha256：`a950fe4ded44a54c72633a58fdc373deacce3ab0aa5c8048062d12fcdb4310e1`
+- 机位/时间/步骤：CDN 4k/large 实看；峡谷纵深雾层与岩壁路径；净峡谷环境建立；净环境
+- 维度/落点：framed-distant-view;fog-separates-depth;canyon-environment;high-view-reads-hierarchy → 博客 Canyon;Megastructure;Shrine
+- 许可：版权归 md-shaikh；ArtStation 公开；仅作视觉参考
+
+### oliyee-a-great-forge-1920.jpg
+- 作品名：A Great Forge
+- 作者：oliyee
+- 原始 URL：https://www.artstation.com/artwork/Jr4zJa
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R4）
+- 尺寸：1920×1080；sha256：`b6e3058875c25c03ffbb12a9aa83340890eb2471dae929b2ebe4f076e3117296`
+- 机位/时间/步骤：CDN 4k/large 实看；熔岩河畔巨型锻炉厅堂；净岩浆锻厂建立；净环境
+- 维度/落点：megastructure-silhouette;colossus-crosses-the-frame;magma-forge;cold-world-warm-refuge → 博客 Megastructure;Canyon;Gothic
+- 许可：版权归 oliyee；ArtStation 公开；仅作视觉参考
+
+### myiao-steamy-cityscape-3840.jpg
+- 作品名：Steamy Cityscape
+- 作者：myiao
+- 原始 URL：https://www.artstation.com/artwork/Jv8oLz
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R4）
+- 尺寸：3840×2160；sha256：`f235c8a891737ac1124c28de681139df872ee867f559dd96977b80c4e901886d`
+- 机位/时间/步骤：CDN 4k/large 实看；蒸汽朋克港城街景与塔群雾气；净蒸汽城建立；净环境（人物仅作尺度）
+- 维度/落点：megastructure-silhouette;fog-separates-depth;steampunk-cityscape;scale-by-familiar-objects → 博客 Megastructure;Gothic;Harbor
+- 许可：版权归 myiao；ArtStation 公开；仅作视觉参考
+
+### appoloss-industrial-outpost-1920.jpg
+- 作品名：Industrial outpost - Sci-Fi Environment
+- 作者：appoloss
+- 原始 URL：https://www.artstation.com/artwork/w83exw
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R4）
+- 尺寸：1920×1193；sha256：`87dda24ee0aab4e5a58438c790941cfc22dae31a554a6a39dd94d06c52551fb4`
+- 机位/时间/步骤：CDN 4k/large 实看；赤尘行星工业前哨与裂隙能量；净科幻前哨建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;industrial-outpost;framed-distant-view → 博客 Orbital;Megastructure;Canyon
+- 许可：版权归 appoloss；ArtStation 公开；仅作视觉参考
+
+### zefwastaken-underwater-city-1920.jpg
+- 作品名：Underwater City Environment
+- 作者：zefwastaken
+- 原始 URL：https://www.artstation.com/artwork/yJadE9
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R4）
+- 尺寸：1920×1080；sha256：`76dd7fca057c7f6f3e1e03ecac808cbb9f35e2015b09d7fd70f342ce4807407d`
+- 机位/时间/步骤：CDN 4k/large 实看；海底圆柱穹城与神光雾层；净水下城建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;underwater-city;framed-distant-view → 博客 Harbor;Megastructure;Canyon
+- 许可：版权归 zefwastaken；ArtStation 公开；仅作视觉参考
+
