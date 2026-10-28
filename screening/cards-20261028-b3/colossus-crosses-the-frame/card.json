@@ -12,13 +12,13 @@
   ],
   "mood": "压迫、敬畏",
   "summary": "只让巨物的一部分进入画面，同时留下熟悉轮廓，观众会主动补全框外的体量。",
-  "blog": "Shrine 巨像、title 近地标取景",
+  "blog": "Shrine 巨像、BlackCity 近地标取景",
   "shots": [
     {
       "file": "kimi-videos/017-stone-deity-7.918.jpg",
       "work": "云上石像",
       "url": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-2",
-      "proof": "膝与手臂越出下方和右边，脸与手势仍足以确认巨大人形。",
+      "proof": "膝与手臂越出下方与画面左侧，脸与手势仍足以确认巨大人形。",
       "capture": "浏览器抽看1.699、6.793、7.918、10.914s与尾段；7.918004s原尺寸视频帧，非连续全片。",
       "kind": "浏览器实看后的原画面",
       "local": "shots/01.jpg",
@@ -74,6 +74,83 @@
       "role": "counterexample",
       "work_id": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/02-camp.html",
       "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/buffalo/02-camp.html"
+    }
+  ],
+  "impl": [
+    {
+      "work": "云上石像",
+      "source": "none",
+      "technique": "原作源码未取得；邻接技术源 Repos/athenaion/src/modules/statues.js:197-269；Repos/athenaion/src/world/shots.js:24-42（MIT）。buildColossus 生成完整立像后用相机裁切；原龙/佛像资产不可用，此源只提供巨物尺度与取景邻接技术；不是原作实现证明，迁移待验证。",
+      "params": [
+        {
+          "name": "figure scale",
+          "value": "size / 2.0",
+          "kind": "源码"
+        },
+        {
+          "name": "出框比例",
+          "value": "1/4–1/2",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "相机视高",
+          "value": "1.6m",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作许可未明；邻接源许可见说明",
+      "reuse": "borrow",
+      "citadel": "none"
+    },
+    {
+      "work": "中式幻想 RPG · 雾中巨像",
+      "source": "none",
+      "technique": "原作源码未取得；邻接技术源 Repos/athenaion/src/modules/statues.js:197-269；Repos/athenaion/src/world/shots.js:24-42（MIT）。buildColossus 生成完整立像后用相机裁切；原龙/佛像资产不可用，此源只提供巨物尺度与取景邻接技术；不是原作实现证明，迁移待验证。",
+      "params": [
+        {
+          "name": "figure scale",
+          "value": "size / 2.0",
+          "kind": "源码"
+        },
+        {
+          "name": "出框比例",
+          "value": "1/4–1/2",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "相机视高",
+          "value": "1.6m",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作许可未明；邻接源许可见说明",
+      "reuse": "borrow",
+      "citadel": "none"
+    },
+    {
+      "work": "Unreal 云上神殿与巨龙",
+      "source": "none",
+      "technique": "原作源码未取得；邻接技术源 Repos/athenaion/src/modules/statues.js:197-269；Repos/athenaion/src/world/shots.js:24-42（MIT）。buildColossus 生成完整立像后用相机裁切；原龙/佛像资产不可用，此源只提供巨物尺度与取景邻接技术；不是原作实现证明，迁移待验证。",
+      "params": [
+        {
+          "name": "figure scale",
+          "value": "size / 2.0",
+          "kind": "源码"
+        },
+        {
+          "name": "出框比例",
+          "value": "1/4–1/2",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "相机视高",
+          "value": "1.6m",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作许可未明；邻接源许可见说明",
+      "reuse": "borrow",
+      "citadel": "none"
     }
   ]
 }

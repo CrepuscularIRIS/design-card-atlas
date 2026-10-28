@@ -36,6 +36,16 @@
 - **迁移试验**：约保留主体60–80%的识别线索，再移走一处关键完整性；不是破坏比例越大越好。使用灰模确认破损后仍认得物体。
 - 此处不提供未检查的破碎算法，也不把静帧等同可交互物理破坏。
 
+### 实现索引
+
+2026-10-28 已打开本地源码核对；当前 checkout 不等同旧成片版本。参数区分源码与建议迁移值，尚未在 Citadel 运行复刻。`citadel: none` 是尚未找到可复用实现，不是已落地声明。第三方路径相对 `~/Blog/`，Citadel 路径相对 `~/Blog/citadel/`。固定版本与许可见 [SOURCE.md](SOURCE.md)。
+
+| 作品 | 源码 / 邻接与手法 | 参数及性质 | 许可 / 复用 | Citadel 可复用实现 |
+|---|---|---|---|---|
+| Ozymandias · 孤立残像 | `none`；原作源码未取得；邻接技术源 Repos/athenaion/src/ruins/portico.js:29-49,168-176,340-375（MIT）。以完整柱鼓保留沟槽、顶部局部破断、碎件另置；只迁移几何残损，不声称重现原作腿像；不是原作实现证明，迁移待验证。 | 识别线索保留=60–80%（建议迁移值） | 原作许可未明；邻接源许可见说明 / borrow | `none` |
+| Athenaion · Fallen head | `Repos/athenaion/src/sculpt/head.js:210-229,498-523; Repos/athenaion/src/ruins/headpose.js:11-34`；sculpt/head.js 的 CHIPS/CRACKS 和 detail>0 分支用噪声断颈平面、局部球减法与有限裂面生成残损；headpose.js 仅用眼锚、面/冠轴、anchorDepth 与各向异性放置头像。两者职责分开；保留 sculpt/head.js 与 bake/head.js 几何管线，非损坏贴图。 | anchorDepth=4.42（源码）；aniso=[1.15,1,0.85]（源码）；断颈粗糙振幅=0.035 fbm + 0.012 noise（源码）；裂面宽=0.005 / 0.0016（源码） | MIT / integrate | `none` |
+| Athenaion · Ruined portico | `Repos/athenaion/src/ruins/portico.js:29-49,168-176,340-375`；保留柱身/柱头与残梁，SDF柱鼓局部 breakTop、石板缺失和分裂；接触高度由 floor9 求解 | 最后柱鼓 breakTop=0.25（源码）；flutes=24（源码）；裂板条件概率=0.38（源码） | MIT / integrate | `none` |
+
 ## 迁移到博客
 
 Shrine旧庭院可放一处残碑/倒像与仍在使用的主门对照；BlackCityHall若增加历史层，选择一处旧构件，不把所有立柱同时破坏。均为新提案。

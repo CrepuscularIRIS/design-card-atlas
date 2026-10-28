@@ -75,5 +75,77 @@
       "work_id": "opus-reynisfjara",
       "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/reynisfjara/index.html"
     }
+  ],
+  "impl": [
+    {
+      "work": "Ozymandias · 孤立残像",
+      "source": "none",
+      "technique": "原作源码未取得；邻接技术源 Repos/athenaion/src/ruins/portico.js:29-49,168-176,340-375（MIT）。以完整柱鼓保留沟槽、顶部局部破断、碎件另置；只迁移几何残损，不声称重现原作腿像；不是原作实现证明，迁移待验证。",
+      "params": [
+        {
+          "name": "识别线索保留",
+          "value": "60–80%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作许可未明；邻接源许可见说明",
+      "reuse": "borrow",
+      "citadel": "none"
+    },
+    {
+      "work": "Athenaion · Fallen head",
+      "source": "Repos/athenaion/src/sculpt/head.js:210-229,498-523; Repos/athenaion/src/ruins/headpose.js:11-34",
+      "technique": "sculpt/head.js 的 CHIPS/CRACKS 和 detail>0 分支用噪声断颈平面、局部球减法与有限裂面生成残损；headpose.js 仅用眼锚、面/冠轴、anchorDepth 与各向异性放置头像。两者职责分开；保留 sculpt/head.js 与 bake/head.js 几何管线，非损坏贴图。",
+      "params": [
+        {
+          "name": "anchorDepth",
+          "value": "4.42",
+          "kind": "源码"
+        },
+        {
+          "name": "aniso",
+          "value": "[1.15,1,0.85]",
+          "kind": "源码"
+        },
+        {
+          "name": "断颈粗糙振幅",
+          "value": "0.035 fbm + 0.012 noise",
+          "kind": "源码"
+        },
+        {
+          "name": "裂面宽",
+          "value": "0.005 / 0.0016",
+          "kind": "源码"
+        }
+      ],
+      "license": "MIT",
+      "reuse": "integrate",
+      "citadel": "none"
+    },
+    {
+      "work": "Athenaion · Ruined portico",
+      "source": "Repos/athenaion/src/ruins/portico.js:29-49,168-176,340-375",
+      "technique": "保留柱身/柱头与残梁，SDF柱鼓局部 breakTop、石板缺失和分裂；接触高度由 floor9 求解",
+      "params": [
+        {
+          "name": "最后柱鼓 breakTop",
+          "value": "0.25",
+          "kind": "源码"
+        },
+        {
+          "name": "flutes",
+          "value": "24",
+          "kind": "源码"
+        },
+        {
+          "name": "裂板条件概率",
+          "value": "0.38",
+          "kind": "源码"
+        }
+      ],
+      "license": "MIT",
+      "reuse": "integrate",
+      "citadel": "none"
+    }
   ]
 }

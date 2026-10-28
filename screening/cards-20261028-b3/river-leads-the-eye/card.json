@@ -12,7 +12,7 @@
   ],
   "mood": "开阔、悠远",
   "summary": "用连续水道在密集场景里留出一条可读路径，把近景、中景与远处地标串起来。",
-  "blog": "atlas 河岸组织、Beach 水口的后续建模",
+  "blog": "Beach 水口与岸边地标的后续建模",
   "shots": [
     {
       "file": "opus-a/poseidia-canal-photo.jpg",
@@ -88,6 +88,93 @@
       ],
       "role": "counterexample",
       "work_id": "webgl-seascape-cosmos"
+    }
+  ],
+  "impl": [
+    {
+      "work": "清明上河 · 黄昏全城",
+      "source": "Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:809-829,1221-1231",
+      "technique": "809–829 为 CatmullRom 中心线、法向和半河宽查询；1221–1231 的 occFree 对旋转建筑占地作 5×5 采样，1229 以 ri.d < ri.hw + 4 拒绝近岸建物。是采样式留白检查，非精确多边形排除；仅借布局逻辑，不复制整城。",
+      "params": [
+        {
+          "name": "RIVER_N",
+          "value": "1000",
+          "kind": "源码"
+        },
+        {
+          "name": "基础半河宽",
+          "value": "17.5m",
+          "kind": "源码"
+        },
+        {
+          "name": "桥头收窄项",
+          "value": "5m",
+          "kind": "源码"
+        },
+        {
+          "name": "岸边禁建余量",
+          "value": "4 世界单位",
+          "kind": "源码"
+        },
+        {
+          "name": "建筑占地采样",
+          "value": "5×5",
+          "kind": "源码"
+        }
+      ],
+      "license": "无根 LICENSE（Three vendor MIT 不覆盖作品）",
+      "reuse": "borrow",
+      "citadel": "none"
+    },
+    {
+      "work": "Poseidia · Sea Canal",
+      "source": "none",
+      "technique": "原作源码未取得；邻接技术源 Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:809-829,1221-1231（无根 LICENSE，只借手法）。以中心线与两岸禁建带保留直轴，近船/中桥/远殿由布局定位；不声称原作源码；不是原作实现证明，迁移待验证。",
+      "params": [
+        {
+          "name": "近端水道占宽",
+          "value": "25–45%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作许可未明；邻接源许可见说明",
+      "reuse": "borrow",
+      "citadel": "none"
+    },
+    {
+      "work": "Sakura River Valley",
+      "source": "none",
+      "technique": "原作源码未取得；邻接技术源 Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:809-829,1221-1231（无根 LICENSE，只借手法）。弯河中心线+地标锚点；原作行船与花瓣算法未知；不是原作实现证明，迁移待验证。",
+      "params": [
+        {
+          "name": "远端水道占宽",
+          "value": "5–10%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作许可未明；邻接源许可见说明",
+      "reuse": "borrow",
+      "citadel": "none"
+    },
+    {
+      "work": "江南山谷 · 清晨河岸",
+      "source": "Repos/webgl-seascape-video/jiangnan/src/02_terrain.js:262-267,310-389",
+      "technique": "水面网格以 terrainSample 水深裁掉干地三角形，岸墙/桥洞另属场景几何；这里只索引水岸交界，中心线路由参见汴京邻接源",
+      "params": [
+        {
+          "name": "WATER_BOX",
+          "value": "x[-48,60],z[-128,178]",
+          "kind": "源码"
+        },
+        {
+          "name": "水面网格步长",
+          "value": "1m",
+          "kind": "源码"
+        }
+      ],
+      "license": "无根 LICENSE",
+      "reuse": "borrow",
+      "citadel": "none"
     }
   ]
 }

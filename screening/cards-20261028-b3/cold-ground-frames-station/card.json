@@ -1,0 +1,175 @@
+{
+  "id": "cold-ground-frames-station",
+  "title": "冷境承托设施",
+  "group": "造型尺度",
+  "dimension": "D",
+  "dimensions": [
+    "D 模块与环境尺度",
+    "B 冷底点色",
+    "C 实体与空地",
+    "A 受光与遮蔽",
+    "F 风雪距离"
+  ],
+  "mood": "孤立、坚守",
+  "summary": "让冷色空地或寒雾托出人工设施，用连廊、入口和小型载具说明人在巨构中如何停留。",
+  "blog": "landfill-room-1 模块远端、black-city-1 巨构入口；只借寒境组织，不新增极地场景",
+  "impl": [
+    {
+      "work": "Antarctica Research Station",
+      "source": "none",
+      "technique": "原作源码未取得；邻接 Repos/fable-refinery/index.html:866-888,984-1025 提供分舱与显式连通端点；穹顶只邻接 Repos/hexasphere.js/src/hexasphere.js:90-112（完整 MIT 通知 README.md:46-55，Robert Scanlon 2014-2017）。迁移约束：主穹顶与小分舱保持尺度差，细连廊之间留低频空地；六/五边格不可冒充原作三角玻璃。",
+      "params": [
+        {
+          "name": "冷主色",
+          "value": "#9CB2C2",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "穹顶与分舱投影宽比",
+          "value": "约2–3:1",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作版权归艺术家，未取得代码/资产许可；邻接源分别标注",
+      "reuse": "borrow",
+      "citadel": "none"
+    },
+    {
+      "work": "Arctic Sci-Fi Research Base – Environment Design",
+      "source": "none",
+      "technique": "原作源码未取得；邻接 Repos/fable-refinery/index.html:866-888,984-1025 的圆柱罐/低模块（不提供原作中央球体）与 Repos/lygia/lighting/raymarch/fog.glsl:31-35 距离雾思路。迁移约束：暗场中央球体必须先读出，竖罐/低舱分三档；不能以加亮全场或密白点抹掉球体。冷色与雪点需另作场景验证。",
+      "params": [
+        {
+          "name": "冷主色",
+          "value": "#9CB2C2",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "中央球体投影画宽",
+          "value": "20–30%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作版权归艺术家，未取得代码/资产许可；邻接源分别标注",
+      "reuse": "borrow",
+      "citadel": "none"
+    },
+    {
+      "work": "Arctic Research Station",
+      "source": "none",
+      "technique": "原作源码未取得；邻接 Repos/fable-refinery/index.html:866-888,984-1025 的分离体块与连接端点。迁移约束：双塔之间的天桥须可辨、塔脚保留落地阴影，近载具只作遮挡尺度标尺；该源不提供飞机、承重天桥或双塔原模型。",
+      "params": [
+        {
+          "name": "冷主色",
+          "value": "#9CB2C2",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "双塔投影画高",
+          "value": "50–65%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作版权归艺术家，未取得代码/资产许可；邻接源分别标注",
+      "reuse": "borrow",
+      "citadel": "none"
+    },
+    {
+      "work": "Northern Research Station",
+      "source": "none",
+      "technique": "原作源码未取得；邻接 Repos/fable-refinery/index.html:866-888,984-1025 的体块层级与 Repos/lygia/lighting/raymarch/fog.glsl:31-35 距离雾思路。迁移约束：斜向暗立面保留大面积低亮度，亮入口小且可达，下方湿面承接；不声称此帧有雪原、穹顶或筒仓组合。",
+      "params": [
+        {
+          "name": "冷主色",
+          "value": "#9CB2C2",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "入口投影画宽",
+          "value": "2–5%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作版权归艺术家，未取得代码/资产许可；邻接源分别标注",
+      "reuse": "borrow",
+      "citadel": "none"
+    }
+  ],
+  "shots": [
+    {
+      "file": "grok/2026-10/jeromecristalli-antarctica-research-station-3705.jpg",
+      "local": "shots/01.jpg",
+      "work": "Antarctica Research Station",
+      "url": "https://www.artstation.com/artwork/zPRVWZ",
+      "proof": "中央穹顶与红白分舱由细连廊接起，雪地留出建筑之间的空白。",
+      "capture": "2026-10-28 headless Chrome 浏览器打开归档原图并 decode；原生 3705×1702；无裁切/放大；非实时 demo、非本轮重渲染。",
+      "kind": "作者概念图/环境渲染；归档静帧实看，非可运行网页截图",
+      "work_id": "grok-g796",
+      "dimensions": [
+        3705,
+        1702
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "grok/2026-10/nizar-sadek-arctic-sci-fi-research-base-1920.jpg",
+      "local": "shots/02.jpg",
+      "work": "Arctic Sci-Fi Research Base – Environment Design",
+      "url": "https://www.artstation.com/artwork/Gvnagd",
+      "proof": "中央球体、竖罐和低模块在暗蓝雪场中分成三档，雪点不能抹掉外形。",
+      "capture": "2026-10-28 headless Chrome 浏览器打开归档原图并 decode；原生 1920×1020；无裁切/放大；非实时 demo、非本轮重渲染。",
+      "kind": "作者概念图/环境渲染；归档静帧实看，非可运行网页截图",
+      "work_id": "grok-g797",
+      "dimensions": [
+        1920,
+        1020
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "grok/2026-10/vholovko-arctic-research-station-1920.jpg",
+      "local": "shots/03.jpg",
+      "work": "Arctic Research Station",
+      "url": "https://www.artstation.com/artwork/rR39eL",
+      "proof": "右侧双塔天桥和左侧低穹顶分级，前景橙色飞机压出远近。",
+      "capture": "2026-10-28 headless Chrome 浏览器打开归档原图并 decode；原生 1920×1080；无裁切/放大；非实时 demo、非本轮重渲染。",
+      "kind": "作者概念图/环境渲染；归档静帧实看，非可运行网页截图",
+      "work_id": "grok-g798",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "grok/2026-10/freon-northern-research-station-3840.jpg",
+      "local": "shots/04.jpg",
+      "work": "Northern Research Station",
+      "url": "https://www.artstation.com/artwork/LaavGk",
+      "proof": "斜向暗立面下的小亮入口与人物标尺度；冷光、湿面和电杆加强暴露感，不能据此认定雪厚。",
+      "capture": "2026-10-28 headless Chrome 浏览器打开归档原图并 decode；原生 3840×2114；无裁切/放大；非实时 demo、非本轮重渲染。",
+      "kind": "作者概念图/环境渲染；归档静帧实看，非可运行网页截图",
+      "work_id": "grok-g1336",
+      "dimensions": [
+        3840,
+        2114
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "grok/2026-10/rajdeephalder-industrial-warzone-2560.jpg",
+      "local": "shots/05.jpg",
+      "work": "Industrial Warzone | Cinematic 3D Environment",
+      "url": "https://www.artstation.com/artwork/yAAmWJ",
+      "proof": "设备与轨道铺满画面，下部缺少安静冷底；同为设施巨构，不等于寒境托举。",
+      "capture": "2026-10-28 headless Chrome 浏览器打开归档原图并 decode；原生 2560×1440；无裁切/放大；非实时 demo、非本轮重渲染。",
+      "kind": "作者概念图/环境渲染；归档静帧实看，非可运行网页截图",
+      "work_id": "grok-g1340",
+      "dimensions": [
+        2560,
+        1440
+      ],
+      "role": "counterexample"
+    }
+  ]
+}
