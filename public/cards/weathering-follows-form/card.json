@@ -74,5 +74,77 @@
       "role": "counterexample",
       "work_id": "https://three-good-godrays.ameo.design/#sponza"
     }
+  ],
+  "impl": [
+    {
+      "work": "Athenaion · Grand staircase",
+      "source": "Repos/athenaion/src/ruins/materials.js:131-158,207-215,284-317",
+      "technique": "已读到石材按 cav 凹腔、aux.y 边缘和法线朝向遮罩积垢、崩边与藻苔；不是由截图猜曲率。台阶具体几何属性生成链本批待验证，不把通用 shader 当 shot6 全链已核。先复用 Citadel lab/src/scenes/Shrine/decor.js:69-86 已按缝/阶鼻坐标布置苔与裂缝的路线，再决定是否移植材质。",
+      "params": [
+        {
+          "name": "ruinStone default roughness",
+          "value": "0.72",
+          "kind": "源码"
+        },
+        {
+          "name": "ruinStone default crust / edges",
+          "value": "0.8 / 0.6",
+          "kind": "源码"
+        },
+        {
+          "name": "weathering area",
+          "value": "可见面 10–20%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "MIT；如移植需携带 core/materials.js、glsl/rng 依赖与 cav/aux 属性，保留声明",
+      "reuse": "integrate",
+      "citadel": "lab/src/scenes/Shrine/decor.js"
+    },
+    {
+      "work": "Athenaion · Fallen head",
+      "source": "Repos/athenaion/src/ruins/materials.js:165-187,299-307",
+      "technique": "RN_HEAD 分支使用 cavity、aux.z 天空可见度和 aux.w 头发分类，让污迹按形体分布；默认 ensureCav 不能凭空生成真实凹腔。Repos/athenaion/src/core/materials.js:65-89 负责 shader hooks。Citadel lab/src/scenes/Shrine/decor.js:69-86 只可复用依附结构的 decal 思路，不具有该头像属性；迁移属性生成与兼容性待验证。",
+      "params": [
+        {
+          "name": "required channels",
+          "value": "cav; aux.y=edge, aux.z=sky, aux.w=hair",
+          "kind": "源码"
+        },
+        {
+          "name": "migration roughness",
+          "value": "0.75–0.95",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "MIT；头像资产与属性生成需另核，未声称可只复制一段 GLSL",
+      "reuse": "integrate",
+      "citadel": "lab/src/scenes/Shrine/decor.js"
+    },
+    {
+      "work": "Athenaion · Ruined portico",
+      "source": "Repos/athenaion/src/ruins/portico.js:292-329,345-386",
+      "technique": "固定种子生成地砖边缘崩损与 cavity；缺砖避开主通道，裂缝与草从接缝生长，再交给 ruinStoneMaterial；这是同项目 shot9 可核的几何路线，不代称 shot6 台阶源码。Citadel lab/src/scenes/Shrine/decor.js:81-86 的 ST 坐标阶鼻贴片可先复用到 corridor/door-305 边缝，坐标需按场景重算。",
+      "params": [
+        {
+          "name": "wearW",
+          "value": "0.035 + 0.07 * chipN²",
+          "kind": "源码"
+        },
+        {
+          "name": "citadel stair decal opacity",
+          "value": "crack 0.35 / moss 0.3",
+          "kind": "源码"
+        },
+        {
+          "name": "weathering area",
+          "value": "可见面 10–20%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "MIT；移植保留声明，优先现成 Citadel decal，材质与几何链联动",
+      "reuse": "integrate",
+      "citadel": "lab/src/scenes/Shrine/decor.js"
+    }
   ]
 }

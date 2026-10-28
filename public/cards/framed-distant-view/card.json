@@ -12,7 +12,7 @@
   ],
   "mood": "窥见、敬畏",
   "summary": "用有厚度的近景边界围住远处目标，让观众先拥有一个站立的位置。",
-  "blog": "title 前景、Shrine 入口与 Alley2 门洞",
+  "blog": "street-1 门廊、platform-1 窗景、Shrine 入口与 Alley2 门洞（title / atlas locked）",
   "shots": [
     {
       "file": "strong-scenes/athenaion-author-shot9.jpg",
@@ -73,6 +73,73 @@
       ],
       "role": "counterexample",
       "work_id": "https://three-good-godrays.ameo.design/#sponza"
+    }
+  ],
+  "impl": [
+    {
+      "work": "Athenaion · Ruined portico",
+      "source": "Repos/athenaion/src/ruins/portico.js:83-97,168-205",
+      "technique": "将近柱按 shot9 像素射线落到实体平面，残梁与左前景柱形成真实遮挡；Repos/athenaion/src/world/shots.js:41-42 固定观察机位。迁移到 street-1 门廊/Platform 窗边：保留近框厚度，重定目标与 FOV；src/world/worlds/place.js:535-546 仅承接机位，框的几何需用场景现有构件摆放，尚无同名 cardfx。",
+      "params": [
+        {
+          "name": "shot9 FOV / near",
+          "value": "36.5° / 0.3",
+          "kind": "源码"
+        },
+        {
+          "name": "architrave fragment length / D",
+          "value": "6.6 / 0.95，原场景单位",
+          "kind": "源码"
+        },
+        {
+          "name": "near frame total occlusion",
+          "value": "20–35%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "MIT；portico 依赖 ARCH 构件与相机投影工具，保留声明并按依赖移植",
+      "reuse": "integrate",
+      "citadel": "src/world/worlds/place.js"
+    },
+    {
+      "work": "Athenaion · 水庭",
+      "source": "Repos/athenaion/src/sets/shot2.js:168-210",
+      "technique": "实体墩柱、出框檐梁及沿檐藤蔓组成非闭合框；Repos/athenaion/src/world/shots.js:12-13 提供 shot2。只迁移几何框住远目标的做法，不复制到屏幕空间，不把机位插值当自动框景。src/world/worlds/place.js:535-546 可复用取景接口，场景摆位待验证。",
+      "params": [
+        {
+          "name": "shot2 FOV",
+          "value": "28.5°",
+          "kind": "源码"
+        },
+        {
+          "name": "pier width",
+          "value": "1.16，原场景单位",
+          "kind": "源码"
+        },
+        {
+          "name": "near frame total occlusion",
+          "value": "20–35%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "MIT；几何/藤蔓生成器需连同依赖审查，不是单文件即插即用",
+      "reuse": "integrate",
+      "citadel": "src/world/worlds/place.js"
+    },
+    {
+      "work": "中式幻想 RPG · 雾中巨像",
+      "source": "none",
+      "technique": "原作源码未定位，许可待验证；邻接技术源 Repos/athenaion/src/ruins/portico.js:168-205; Repos/athenaion/src/world/shots.js:41-42：用近处实体框遮挡远目标的邻接路线；可用 street-1 门廊而非从零重造巨像；保持会面人物的屏幕空间，录像中的水道/像资产不在此源内；不是原作实现，画面一致性待验证。",
+      "params": [
+        {
+          "name": "near frame total occlusion",
+          "value": "20–35%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作待验证；邻接源 MIT，原作资产不可据此复制",
+      "reuse": "reference",
+      "citadel": "src/world/worlds/place.js"
     }
   ]
 }

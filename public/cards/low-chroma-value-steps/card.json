@@ -76,5 +76,77 @@
       "role": "counterexample",
       "work_id": "https://three-good-godrays.ameo.design/#sponza"
     }
+  ],
+  "impl": [
+    {
+      "work": "黑沙之境 · 海岸全景",
+      "source": "Repos/kimi-k31pro-opus55-benchmark-showcase/kimi/iceland-black-sand/src/iceland/atmosphere.js:76-85,181-213",
+      "technique": "冷灰天空、雾与有色填光分开设置，再与暗岩/亮水材质分工；不是全屏一键去色。Citadel lab/src/core/post.js:334-340 具 exposure/lift/gain/contrast/saturation，但应先在 platform-1 或 hospital-1 分配暗体、中灰背景、少量亮窗，再用 grade 收束；适配待验证。",
+      "params": [
+        {
+          "name": "sky zenith / horizon",
+          "value": "0x3f505b / 0xa3adae",
+          "kind": "源码"
+        },
+        {
+          "name": "fog color / density",
+          "value": "0x8e9b9e / 0.0039",
+          "kind": "源码"
+        },
+        {
+          "name": "hemi intensity / sun intensity",
+          "value": "1.55 / 1.65",
+          "kind": "源码"
+        },
+        {
+          "name": "dark / mid / bright area",
+          "value": "50–65% / 25–40% / 5–10%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "未发现仓库根 LICENSE；作品代码授权待验证，只借手法，不复制代码/资产",
+      "reuse": "borrow",
+      "citadel": "lab/src/core/post.js"
+    },
+    {
+      "work": "雷尼斯黑沙滩 · 海滩",
+      "source": "Repos/kimi-k31pro-opus55-benchmark-showcase/opus/reynisfjara/src/config.js:41-50",
+      "technique": "overcast 以近邻冷灰配置天空/云/雾并保留暗云层；Repos/kimi-k31pro-opus55-benchmark-showcase/opus/reynisfjara/src/world/beach.js:75-98 按真实岸线区分湿带/浪区，支持地、水的不同表面角色；这里不是仅降 saturation 就生成银带的承诺。Citadel lab/src/core/post.js:334-340 收尾，材质与受光仍须逐面组织。",
+      "params": [
+        {
+          "name": "overcast zenith / horizon linear RGB",
+          "value": "[0.6,0.63,0.68] / [0.7,0.72,0.75]",
+          "kind": "源码"
+        },
+        {
+          "name": "cloudDark linear RGB",
+          "value": "[0.33,0.35,0.39]",
+          "kind": "源码"
+        },
+        {
+          "name": "overcast fogDensity / exposure",
+          "value": "0.00042 / 1.0",
+          "kind": "源码"
+        }
+      ],
+      "license": "未发现仓库根 LICENSE；作品代码授权待验证，只借手法，不复制代码/资产",
+      "reuse": "borrow",
+      "citadel": "lab/src/core/post.js"
+    },
+    {
+      "work": "中式幻想 RPG · 雾中巨像",
+      "source": "none",
+      "technique": "原作源码未定位，许可待验证；邻接技术源 Repos/kimi-k31pro-opus55-benchmark-showcase/opus/reynisfjara/src/config.js:41-50：借近邻灰色天空与深浅雾层的分工，在 hospital-b 或 Platform 先排三档明度；不声称原片雾/材质参数或生成方式已知，grade 不能替代暗舟/灰像/亮背景的空间摆放；不是原作实现，画面一致性待验证。",
+      "params": [
+        {
+          "name": "dark / mid / bright area",
+          "value": "50–65% / 25–40% / 5–10%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作待验证；邻接源 未发现根 LICENSE，只借手法，原作资产不可据此复制",
+      "reuse": "reference",
+      "citadel": "lab/src/core/post.js"
+    }
   ]
 }

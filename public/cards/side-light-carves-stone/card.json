@@ -73,5 +73,72 @@
       "role": "counterexample",
       "work_id": "https://three-good-godrays.ameo.design/#sponza"
     }
+  ],
+  "impl": [
+    {
+      "work": "Athenaion · Fallen head",
+      "source": "Repos/athenaion/src/world/looks.js:14-21,70-72",
+      "technique": "sunRel 按相机 heading 设置日光方位；shot8 用左后斜光让鼻梁、发束与眼窝分面。Repos/athenaion/src/core/engine.js:152-181 将 look 真正应用到相机、太阳与 grade。Citadel lab/src/scenes/Shrine/index.js:73-89 可调主光与 fill，lab/src/scenes/Shrine/matlib.js:15-21 可调石材；灰模先读出凹凸，再加纹理，现成灯并不等于整卡已落地。",
+      "params": [
+        {
+          "name": "shot8 relative azimuth / elevation",
+          "value": "-140° / 40°",
+          "kind": "源码"
+        },
+        {
+          "name": "shot8 sun RGB",
+          "value": "[1.0,0.87,0.70]",
+          "kind": "源码"
+        },
+        {
+          "name": "stone roughness",
+          "value": "0.7–0.9",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "MIT；保留 Athenaion 版权声明；材质/资产另核许可",
+      "reuse": "integrate",
+      "citadel": "lab/src/scenes/Shrine/index.js"
+    },
+    {
+      "work": "Athenaion · Temple facade",
+      "source": "Repos/athenaion/src/world/looks.js:62-67",
+      "technique": "shot5 主光位于相机左后侧，并设独立曝光/对比；配合真实柱沟和柱间遮挡产生明暗节奏，不是花纹贴图。执行路径 Repos/athenaion/src/core/engine.js:171-181。Citadel lab/src/scenes/Shrine/index.js:73-89 调光，lab/src/core/post.js:334-340 只作最后校准；不能照搬原作曝光。",
+      "params": [
+        {
+          "name": "shot5 relative azimuth / elevation",
+          "value": "-110° / 28°",
+          "kind": "源码"
+        },
+        {
+          "name": "shot5 exposure / contrast / saturation",
+          "value": "0.46 / 1.8 / 0.82",
+          "kind": "源码"
+        },
+        {
+          "name": "camera-side light starting range",
+          "value": "35–65°，非原作 shot5/8 光角",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "MIT；保留版权声明",
+      "reuse": "integrate",
+      "citadel": "lab/src/scenes/Shrine/index.js"
+    },
+    {
+      "work": "Blender cathedral interior",
+      "source": "none",
+      "technique": "原作源码未定位，许可待验证；邻接技术源 Repos/athenaion/src/world/looks.js:62-76; Repos/athenaion/src/core/engine.js:171-181：借相机相对侧光、低正面补光和实体柱沟；Shrine/BlackCityHall 先校灰模，不提供教堂模型，也不假定视频使用 Three.js；不是原作实现，画面一致性待验证。",
+      "params": [
+        {
+          "name": "stone roughness",
+          "value": "0.7–0.9",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作待验证；邻接源 MIT，原作资产不可据此复制",
+      "reuse": "reference",
+      "citadel": "lab/src/scenes/Shrine/index.js"
+    }
   ]
 }

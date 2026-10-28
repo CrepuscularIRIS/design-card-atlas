@@ -37,6 +37,22 @@ Kimi实现只作为机位插值参考：全景position=(27,9.5,44)、target=(-9,
 
 源码：[两级机位](https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/kimi/iceland-black-sand/src/iceland/main.js#L38-L49)；[位置与注视目标的过渡](https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/kimi/iceland-black-sand/src/iceland/main.js#L159-L177)。只借思路，不复制未授权代码。
 
+### 实现索引
+
+2026-10-28 源码阅读补索引；不新增截图、不改上方视觉判断。上方“不能由截图推出/尚未审 shader”等界限指原视觉阶段，本节另列本批核过的源码。`Repos/` 相对 `~/Blog/`，Citadel 路径相对 `~/Blog/citadel/`。本批未运行这些源码测量参数，标为“源码”的值不得当作实测。
+
+| 作品 | 源码（本地路径:行） | 技术与接入边界 | 参数（来源） | 许可 / 复用档 | Citadel 已有可复用入口 |
+|---|---|---|---|---|---|
+| 雷尼斯黑沙滩 · 海滩 → 柱壁 | `Repos/kimi-k31pro-opus55-benchmark-showcase/opus/reynisfjara/src/main.js:257-298` | goTo 先由地形求端点高度，再同时插值位置、target 和 FOV，并以正弦抬升避地；不是静态缩放。预设在 src/config.js:30-36。Citadel src/world/worlds/place.js:535-546,698-709 已有三者插值，但现为 0.9s cubic-out，未提供这套避地或两端停留。先用已有 goView 做 Platform/door-305 总览到细部，新增时长/停留需执行者显式实现并验证，不扩导航。 | source duration=2.8s（源码）；source path lift=sin(πk) * min(25, distance * 0.12)（源码）；citadel existing duration / easing=0.9s / cubic-out（源码）；migration segment / holds=2–3s / 两端各 1s（建议迁移值） | 未发现仓库根 LICENSE；作品代码授权待验证，只借手法，不复制代码/资产 / borrow | `src/world/worlds/place.js` |
+| 黑沙之境 · 海岸全景 | `Repos/kimi-k31pro-opus55-benchmark-showcase/kimi/iceland-black-sand/src/iceland/main.js:38-49,137-182` | 同步插值 position/target，immediate 或 reduced-motion 时直达；只支持总览与技术路线，不把其暗柱近景重新列为美术正例。Citadel src/world/worlds/place.js:698-709 可复用插值，镜头安全/遮挡与减少动态分支仍须按当前场景验收。 | source transition / easing=2100ms / cubic ease-in-out（源码）；wide position / target=[27,9.5,44] / [-9,4.8,-49]（源码）；close position / target=[26,12.5,-17] / [47,12,-61]（源码） | 未发现仓库根 LICENSE；作品代码授权待验证，只借手法，不复制代码/资产 / borrow | `src/world/worlds/place.js` |
+
+匹配表 Beyond Horizon 将本卡映射到 Metro/Platform 的导航语境；优先评估 platform-1 或 door-305 已有机位，不新增路线。先验两个静态端点，再验运动；安全、遮挡和 reduced-motion 行为独立验收。
+
+源码快照（本批读取，不是新增截图来源）：
+- `kimi-k31pro-opus55-benchmark-showcase@65e82c53b63f2fdd918617269c057d8e53af2c6f`
+
+已检索 `citadel/src`（含 `src/world/worlds/`）与 `lab/src`；本批未发现 `src/world/worlds/cardfx/` 目录或本卡同名预制模块。以上入口只表示可复用部分；首次完整落地才由执行者沉淀 cardfx，不在此虚构文件。title / atlas locked，任何队列用途均不解除锁定。
+
 ## 迁移到博客
 
 为BlackCityHall外廊提案“入口总览→登记门柱近景”；为Shrine提案“院落关系→门槛/灯”。先验近景新增信息，再决定是否连接动画，不据此恢复或新增导航路线。

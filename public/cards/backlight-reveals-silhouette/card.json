@@ -12,7 +12,7 @@
   ],
   "mood": "敬畏、压迫",
   "summary": "把亮背景放在需要读懂的外轮廓后面，让暗主体以形状而不是满身高光成立。",
-  "blog": "title 主建筑、Shrine 巨像背景",
+  "blog": "street-1 门廊、platform-1 窗侧、Shrine 巨像背景（title / atlas locked）",
   "shots": [
     {
       "file": "opus-a/qingming-dusk-bridge.jpg",
@@ -88,6 +88,83 @@
       ],
       "role": "counterexample",
       "work_id": "webgl-seascape-cosmos"
+    }
+  ],
+  "impl": [
+    {
+      "work": "清明上河 · 黄昏虹桥",
+      "source": "Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:2385-2388,2405-2418",
+      "technique": "dusk 将亮地平线、低太阳与半球补光分控；applyAtm 同时更新天空、雾、sun/hemi 和曝光。先在最终机位把桥栏/拱洞放在亮天前，再压住正面填光，不是轮廓描边 shader。Citadel lab/src/scenes/Shrine/index.js:73-89 已有主光/半球光/补光；还须按 street-1 或 platform-1 机位重排亮背景，不能只转太阳。",
+      "params": [
+        {
+          "name": "dusk sun elevation / azimuth",
+          "value": "6.5° / 252°",
+          "kind": "源码"
+        },
+        {
+          "name": "dusk sun intensity / hemi intensity",
+          "value": "2.4 / 0.7",
+          "kind": "源码"
+        },
+        {
+          "name": "dusk horizon / zenith",
+          "value": "#efb07a / #4d6290",
+          "kind": "源码"
+        },
+        {
+          "name": "bright opening",
+          "value": "画面 15–30%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "README 声明项目许可待定；不能以依赖 Three.js 的许可替代作品许可，只借手法",
+      "reuse": "borrow",
+      "citadel": "lab/src/scenes/Shrine/index.js"
+    },
+    {
+      "work": "Unreal 云上神殿与巨龙",
+      "source": "none",
+      "technique": "原作源码未定位，许可待验证；邻接技术源 Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:2385-2388,2405-2418：借亮天空/雾背景与暗主体照明分控；在 street-1 门廊或 platform-1 窗侧先构图，再限制正面补光；不提供龙、巨像或草原资产，亦不把草穗亮边当主体描边；不是原作实现，画面一致性待验证。",
+      "params": [
+        {
+          "name": "dark subject / bright opening",
+          "value": "约 45–65% / 15–30% 画面预算",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作待验证；邻接源 项目许可待定，仅借手法，原作资产不可据此复制",
+      "reuse": "reference",
+      "citadel": "lab/src/scenes/Shrine/index.js"
+    },
+    {
+      "work": "中式幻想 RPG · 雾中巨像",
+      "source": "none",
+      "technique": "原作源码未定位，许可待验证；邻接技术源 Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:2385-2388,2405-2418：借亮天空/雾背景与暗主体照明分控；在 street-1 门廊或 platform-1 窗侧先构图，再限制正面补光；不提供龙、巨像或草原资产，亦不把草穗亮边当主体描边；不是原作实现，画面一致性待验证。",
+      "params": [
+        {
+          "name": "dark subject / bright opening",
+          "value": "约 45–65% / 15–30% 画面预算",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作待验证；邻接源 项目许可待定，仅借手法，原作资产不可据此复制",
+      "reuse": "reference",
+      "citadel": "lab/src/scenes/Shrine/index.js"
+    },
+    {
+      "work": "长风 · 草原风起",
+      "source": "none",
+      "technique": "原作源码未定位，许可待验证；邻接技术源 Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:2385-2388,2405-2418：借亮天空/雾背景与暗主体照明分控；在 street-1 门廊或 platform-1 窗侧先构图，再限制正面补光；不提供龙、巨像或草原资产，亦不把草穗亮边当主体描边；不是原作实现，画面一致性待验证。",
+      "params": [
+        {
+          "name": "dark subject / bright opening",
+          "value": "约 45–65% / 15–30% 画面预算",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作待验证；邻接源 项目许可待定，仅借手法，原作资产不可据此复制",
+      "reuse": "reference",
+      "citadel": "lab/src/scenes/Shrine/index.js"
     }
   ]
 }
