@@ -94,8 +94,8 @@
     },
     {
       "work": "Athenaion · Fallen head",
-      "source": "Repos/athenaion/src/ruins/headpose.js:11-34",
-      "technique": "眼部锚点与面/冠两轴放置落地巨头像；需连同 sculpt/head.js 与 bake/head.js 的原几何管线，不是噪声贴图",
+      "source": "Repos/athenaion/src/sculpt/head.js:210-229,498-523; Repos/athenaion/src/ruins/headpose.js:11-34",
+      "technique": "sculpt/head.js 的 CHIPS/CRACKS 和 detail>0 分支用噪声断颈平面、局部球减法与有限裂面生成残损；headpose.js 仅用眼锚、面/冠轴、anchorDepth 与各向异性放置头像。两者职责分开；保留 sculpt/head.js 与 bake/head.js 几何管线，非损坏贴图。",
       "params": [
         {
           "name": "anchorDepth",
@@ -105,6 +105,16 @@
         {
           "name": "aniso",
           "value": "[1.15,1,0.85]",
+          "kind": "源码"
+        },
+        {
+          "name": "断颈粗糙振幅",
+          "value": "0.035 fbm + 0.012 noise",
+          "kind": "源码"
+        },
+        {
+          "name": "裂面宽",
+          "value": "0.005 / 0.0016",
           "kind": "源码"
         }
       ],

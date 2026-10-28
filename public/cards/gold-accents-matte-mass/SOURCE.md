@@ -45,3 +45,5 @@
 - `Repos/athenaion`：读取版本 `9b8bd23b39c458a50fb1201037360047781c45b5`；具体文件与行、参数、许可分工见 README 实现表。根 LICENSE：MIT（Leon Lin, 2026）。
 
 参数的源码默认值不等于既有截图的已验证运行实参；建议迁移值均待目标场景验证。
+
+实际赋材质核对：盾牌 `Repos/athenaion/src/modules/statues.js:260-263` 调用 `src/sculpt/statueMaterial.js:1-44,133-164,180-194`；纹理 G 不是仅颜色贴图，它参与金箔/青铜颜色、粗糙度、金属度遮罩。因此不采纳“贴图即非金属”的推断，但撤回 generic metal.js 是盾牌实际实现的旧引文。阶梯盆体 `src/props/brazier.js:266-275` 调用 `src/props/metals.js:45-69` 的 bronzeMaterial，rough=0.24。generic materials/metal.js 仅保留为悟空的邻接源。

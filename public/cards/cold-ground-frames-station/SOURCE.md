@@ -62,7 +62,7 @@
 
 - `fable-refinery`：本地核对版本 `3395ea52e2d5df20d039eba34fcbeb4e3bfb3a1d`；仓库 https://github.com/emollick/fable-refinery。`index.html:866-888,984-1025`；根 LICENSE 为 MIT（Ethan Mollick, 2026）。可集成此邻接代码，但当前原作项仍是 borrow；源码只有简化设备和管线，非原作资产。
 - `lygia`：本地核对版本 `ce08fe351478b6c14297d103a8ce98d8e787d4d2`；仓库 https://github.com/patriciogonzalezvivo/lygia.git。`lighting/raymarch/fog.glsl:31-35`；`LICENSE.md` 为 Prosperity 3.0。按项目规则只借思路，不复制代码。冷雾不是积雪/风雪。
-- `hexasphere.js`：本地核对版本 `97858fa17eb25f992e799cfaf1c4725265c513f8`；仓库 https://github.com/arscan/hexasphere.js。`src/hexasphere.js:90-112`；`package.json` 声明 MIT，未见根独立 LICENSE；保守借拓扑思路，复制前复核。双对偶六/五边格并非三角穹顶原作源码。
+- `hexasphere.js`：本地核对版本 `97858fa17eb25f992e799cfaf1c4725265c513f8`；仓库 https://github.com/arscan/hexasphere.js。`src/hexasphere.js:90-112`；`README.md:46-55` 包含完整 MIT 版权、许可与免责声明，Copyright (c) 2014-2017 Robert Scanlon；代码集成须保留版权与许可通知。原作资产仍未授权。双对偶六/五边格并非三角穹顶原作源码。
 
 视觉来源权利与代码许可分开；参数标记见 README 和 card.json。所有迁移尚未在目标场景运行验证。本批不改 Citadel 或第三方代码。
 

@@ -47,3 +47,5 @@
 - `Repos/athenaion`：读取版本 `9b8bd23b39c458a50fb1201037360047781c45b5`；具体文件与行、参数、许可分工见 README 实现表。根 LICENSE：MIT（Leon Lin, 2026）。
 
 参数的源码默认值不等于既有截图的已验证运行实参；建议迁移值均待目标场景验证。
+
+残损/放置职责核对：`src/sculpt/head.js:210-229,498-523` 生成断颈、崩口与裂面；`src/ruins/headpose.js:11-34` 只放置。两席所指是不同职责，不能单以 headpose 作为破损算法。路径均在 Repos/athenaion，版本沿用上文。

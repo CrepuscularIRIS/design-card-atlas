@@ -99,7 +99,7 @@
       ],
       "license": "无根 LICENSE",
       "reuse": "borrow",
-      "citadel": "src/world/worlds/planarWaterReflection.js:6-30,33-70"
+      "citadel": "src/world/worlds/planarWaterReflection.js:6-30,33-70; src/world/worlds/atlasWater.js:6-25,38-62"
     },
     {
       "work": "清明上河 · 雨中虹桥",
@@ -119,7 +119,7 @@
       ],
       "license": "无根 LICENSE",
       "reuse": "borrow",
-      "citadel": "src/world/worlds/planarWaterReflection.js:6-30,33-70"
+      "citadel": "src/world/worlds/planarWaterReflection.js:6-30,33-70; src/world/worlds/atlasWater.js:6-25,38-62"
     },
     {
       "work": "Falcon 9 · 海面降落",
@@ -143,8 +143,8 @@
         }
       ],
       "license": "源码 MIT；模型/成片 CC BY-NC 4.0",
-      "reuse": "integrate",
-      "citadel": "src/world/worlds/planarWaterReflection.js:6-30,33-70"
+      "reuse": "borrow",
+      "citadel": "src/world/worlds/planarWaterReflection.js:6-30,33-70; src/world/worlds/atlasWater.js:6-25,38-62"
     }
   ]
 }

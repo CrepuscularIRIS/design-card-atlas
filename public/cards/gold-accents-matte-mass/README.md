@@ -43,9 +43,9 @@
 
 | 作品 | 源码 / 邻接与手法 | 参数及性质 | 许可 / 复用 | Citadel 可复用实现 |
 |---|---|---|---|---|
-| Athenaion · Temple facade | `Repos/athenaion/src/materials/metal.js:22-55,76-104`；金属材质按 cavity 压暗、edge 提亮，金饰单独赋材质；需 core/materials.js 与 marble.js AO/noise 依赖，非整栋描金 | gold roughness=0.4（源码）；gold wear=0.45（源码）；metalness 基值=1（源码）；金饰可见面积=5–10%（建议迁移值） | MIT / integrate | `none` |
+| Athenaion · Temple facade | `Repos/athenaion/src/modules/statues.js:260-263; Repos/athenaion/src/sculpt/statueMaterial.js:1-44,133-164,180-194`；statues.js 给盾牌调用 statueMaterial，emblem 纹理 G 通道与顶点 B 金属遮罩控制青铜底/金箔纹样。shader 同时改变颜色、roughness 和 metalness；不是 materials/metal.js 默认 gold。需 proceduralMaterial、AO/cavity 顶点通道与 emblem UV/bumpMap；少量暖反弹不等同整盾发光。这里只定位盾牌，不以它证明所有冠饰/檐饰材质。 | shield emblem 分辨率=1024（源码）；shield bumpScale=3（源码）；emblem G 过渡=smoothstep(0.35,0.65,G)（源码）；纹理金属度=0.5→1.0（源码）；金色基色 RGB=[0.86,0.63,0.34]（源码）；金饰可见面积=5–10%（建议迁移值） | MIT / integrate | `none` |
 | 悟空 · 金箍与棍端 | `none`；原作源码未取得；邻接技术源 Repos/athenaion/src/materials/metal.js:22-55,76-104（MIT）。仅以 goldMaterial 的受光亮边邻接；角色、皮毛与模型不迁移；不是原作实现证明，迁移待验证。 | gold roughness=0.4（源码）；石材 roughness=0.7–0.9（建议迁移值） | 原作许可未明；邻接源许可见说明 / borrow | `none` |
-| Athenaion · Grand staircase | `Repos/athenaion/src/materials/metal.js:22-55,76-104`；金属材质按 cavity 压暗、edge 提亮，金饰单独赋材质；需 core/materials.js 与 marble.js AO/noise 依赖，非整栋描金 | gold roughness=0.4（源码）；gold wear=0.45（源码）；metalness 基值=1（源码）；金饰可见面积=5–10%（建议迁移值） | MIT / integrate | `none` |
+| Athenaion · Grand staircase | `Repos/athenaion/src/props/brazier.js:266-275; Repos/athenaion/src/props/metals.js:45-69`；BrazierSet 的盆体实际调用 bronzeMaterial，不是 goldMaterial。props/metals.js 用噪声铜锈压暗底色、提高粗糙度并降低局部金属度；金色外观不代表元素金。需该文件 proceduralMaterial/cached 依赖；腿材质另设 rough=0.46。 | 盆体 tint=0x9c8150（源码）；盆体 rough=0.24（源码）；盆体 patina=0.4（源码）；盆体 metal=1.0（源码）；盆体 envBoost=0.85（源码） | MIT / integrate | `none` |
 
 ## 迁移到博客
 

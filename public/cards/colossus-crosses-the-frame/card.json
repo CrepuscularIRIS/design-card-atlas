@@ -12,13 +12,13 @@
   ],
   "mood": "压迫、敬畏",
   "summary": "只让巨物的一部分进入画面，同时留下熟悉轮廓，观众会主动补全框外的体量。",
-  "blog": "Shrine 巨像、title 近地标取景",
+  "blog": "Shrine 巨像、BlackCity 近地标取景",
   "shots": [
     {
       "file": "kimi-videos/017-stone-deity-7.918.jpg",
       "work": "云上石像",
       "url": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-2",
-      "proof": "膝与手臂越出下方和右边，脸与手势仍足以确认巨大人形。",
+      "proof": "膝与手臂越出下方与画面左侧，脸与手势仍足以确认巨大人形。",
       "capture": "浏览器抽看1.699、6.793、7.918、10.914s与尾段；7.918004s原尺寸视频帧，非连续全片。",
       "kind": "浏览器实看后的原画面",
       "local": "shots/01.jpg",

@@ -47,3 +47,5 @@
 - `Repos/webgl-seascape-video`：读取版本 `915cb7c9a318e03bd2228bc232494b496ff2316c`；具体文件与行、参数、许可分工见 README 实现表。未见根 LICENSE，borrow；当前模块化代码不等同归档915cb7c9的单文件成片版本。
 
 参数的源码默认值不等于既有截图的已验证运行实参；建议迁移值均待目标场景验证。
+
+Citadel 复用补充：`src/world/worlds/atlasWater.js:6-25,38-62`（材质、梯度波、Fresnel 与反射采样），需 shoreColor 与反射 uniform；`planarWaterReflection.js` 调用为 render(camera,width,height)。索引现有实现不改变锁定 atlas。Falcon 项整体仍按 borrow，避免将源码 MIT 扩张为成片/模型可自由集成。

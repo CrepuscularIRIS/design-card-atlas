@@ -78,22 +78,32 @@
   "impl": [
     {
       "work": "Athenaion · Temple facade",
-      "source": "Repos/athenaion/src/materials/metal.js:22-55,76-104",
-      "technique": "金属材质按 cavity 压暗、edge 提亮，金饰单独赋材质；需 core/materials.js 与 marble.js AO/noise 依赖，非整栋描金",
+      "source": "Repos/athenaion/src/modules/statues.js:260-263; Repos/athenaion/src/sculpt/statueMaterial.js:1-44,133-164,180-194",
+      "technique": "statues.js 给盾牌调用 statueMaterial，emblem 纹理 G 通道与顶点 B 金属遮罩控制青铜底/金箔纹样。shader 同时改变颜色、roughness 和 metalness；不是 materials/metal.js 默认 gold。需 proceduralMaterial、AO/cavity 顶点通道与 emblem UV/bumpMap；少量暖反弹不等同整盾发光。这里只定位盾牌，不以它证明所有冠饰/檐饰材质。",
       "params": [
         {
-          "name": "gold roughness",
-          "value": "0.4",
+          "name": "shield emblem 分辨率",
+          "value": "1024",
           "kind": "源码"
         },
         {
-          "name": "gold wear",
-          "value": "0.45",
+          "name": "shield bumpScale",
+          "value": "3",
           "kind": "源码"
         },
         {
-          "name": "metalness 基值",
-          "value": "1",
+          "name": "emblem G 过渡",
+          "value": "smoothstep(0.35,0.65,G)",
+          "kind": "源码"
+        },
+        {
+          "name": "纹理金属度",
+          "value": "0.5→1.0",
+          "kind": "源码"
+        },
+        {
+          "name": "金色基色 RGB",
+          "value": "[0.86,0.63,0.34]",
           "kind": "源码"
         },
         {
@@ -128,28 +138,33 @@
     },
     {
       "work": "Athenaion · Grand staircase",
-      "source": "Repos/athenaion/src/materials/metal.js:22-55,76-104",
-      "technique": "金属材质按 cavity 压暗、edge 提亮，金饰单独赋材质；需 core/materials.js 与 marble.js AO/noise 依赖，非整栋描金",
+      "source": "Repos/athenaion/src/props/brazier.js:266-275; Repos/athenaion/src/props/metals.js:45-69",
+      "technique": "BrazierSet 的盆体实际调用 bronzeMaterial，不是 goldMaterial。props/metals.js 用噪声铜锈压暗底色、提高粗糙度并降低局部金属度；金色外观不代表元素金。需该文件 proceduralMaterial/cached 依赖；腿材质另设 rough=0.46。",
       "params": [
         {
-          "name": "gold roughness",
+          "name": "盆体 tint",
+          "value": "0x9c8150",
+          "kind": "源码"
+        },
+        {
+          "name": "盆体 rough",
+          "value": "0.24",
+          "kind": "源码"
+        },
+        {
+          "name": "盆体 patina",
           "value": "0.4",
           "kind": "源码"
         },
         {
-          "name": "gold wear",
-          "value": "0.45",
+          "name": "盆体 metal",
+          "value": "1.0",
           "kind": "源码"
         },
         {
-          "name": "metalness 基值",
-          "value": "1",
+          "name": "盆体 envBoost",
+          "value": "0.85",
           "kind": "源码"
-        },
-        {
-          "name": "金饰可见面积",
-          "value": "5–10%",
-          "kind": "建议迁移值"
         }
       ],
       "license": "MIT",

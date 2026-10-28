@@ -27,7 +27,7 @@
 
 图号按上方顺序。坐标为左上原点的全幅归一化位置，数值为画面估计，不是PBR反推或源场景实测。
 
-- **D · 模块与尺度**：01 中央穹顶位于约(49%,40%)，横宽约画宽18%，外围舱体约5–12%；03 双塔占画高约65%，飞机占画宽约40%且贴右下。不同尺度不是简单复制同一盒子。
+- **D · 模块与尺度**：01 中央穹顶位于约(49%,40%)，横宽约画宽18%，外围舱体约5–12%；03 双塔占画高约65%，可见飞机连同机翼的完整剪影横跨约60%画宽，位于右下前景。不同尺度不是简单复制同一盒子。
 - **B · 冷底点色**：01 雪与阴影主域近灰蓝 `#B5C2CA` / `#647889`，红色舱边约占画面5–10%；03 橙色飞机仅是近景点色。04 是蓝白冷照明，不是全系列都用暖窗的证据。色值与占比均为画面估计。
 - **C · 实体与空隙**：01 下半幅约有25–35%全幅面积作为低细节雪地/雾底，细连廊穿过去仍可读；02 中部设施密而四周雪地疏。04 改用下部约20%画高的低细节湿面承接大立面，是近景变体，并非雪原总图。
 - **A · 光与遮蔽**：03 两塔阴影斜向右下，底脚没有全部融入白雪；04 最亮冷光在上部中右约(60%,13%)，入口在约(44%,70%)，两者间保留暗立面。最亮灯区有截白，迁移不照抄其曝光。
@@ -45,12 +45,14 @@
 
 原作均无已确认源码，以下为已打开的邻接技术源，不是作品对应的完整实现。`source: none` 不以艺术家网址冒充源码；`citadel: none` 表示尚未找到已落地专用实现。路径相对 `~/Blog/`；2026-10-28核对。
 
+通用邻接：`Repos/fable-refinery/index.html:866-888,984-1025`（MIT）提供简化体块/连接端点；`Repos/lygia/lighting/raymarch/fog.glsl:31-35`（Prosperity 3.0）仅借指数距离雾 `1-exp(-distance*density)` 思路，不复制代码。雾不生成雪、冰或湿面，原作模型均不可据此取得许可。Hexasphere 的完整 MIT 通知见 `Repos/hexasphere.js/README.md:46-55`，Copyright (c) 2014-2017 Robert Scanlon；集成须保留版权与许可通知。其六/五边双对偶网格不是图01三角玻璃原实现。所有迁移待运行验证。
+
 | 作品 | 原作 / 邻接源码与机制 | 参数与性质 | 许可与接入 |
 |---|---|---|---|
-| Antarctica Research Station | `source: none`；原作源码未取得；邻接技术源 Repos/fable-refinery/index.html:866-888,984-1025（MIT） 提供模块体块和显式连接端点，Repos/lygia/lighting/raymarch/fog.glsl:31-35（Prosperity 3.0，只借指数距离雾手法） 提供冷境距离衰减。穹顶拓扑邻接 Repos/hexasphere.js/src/hexasphere.js:90-112（package.json 声明 MIT，未见独立 LICENSE，复制前复核）：这是六/五边双对偶网格，非图中三角玻璃原实现，只作拓扑参考。先搭设施与通路，再用冷色环境/距离雾分离；雾本身不会生成雪、冰或湿面。所有迁移待运行验证。 | 设施/环境画面面积=约40:60 起步（建议迁移值）；冷主色=#9CB2C2（建议迁移值）；可识别入口画宽=2–5%（建议迁移值）；雾公式=1-exp(-distance*density)（源码） | 原作版权归艺术家，未取得代码/资产许可；邻接源分别标注；`borrow`；`citadel: none` |
-| Arctic Sci-Fi Research Base – Environment Design | `source: none`；原作源码未取得；邻接技术源 Repos/fable-refinery/index.html:866-888,984-1025（MIT） 提供模块体块和显式连接端点，Repos/lygia/lighting/raymarch/fog.glsl:31-35（Prosperity 3.0，只借指数距离雾手法） 提供冷境距离衰减。穹顶拓扑邻接 Repos/hexasphere.js/src/hexasphere.js:90-112（package.json 声明 MIT，未见独立 LICENSE，复制前复核）：这是六/五边双对偶网格，非图中三角玻璃原实现，只作拓扑参考。先搭设施与通路，再用冷色环境/距离雾分离；雾本身不会生成雪、冰或湿面。所有迁移待运行验证。 | 设施/环境画面面积=约40:60 起步（建议迁移值）；冷主色=#9CB2C2（建议迁移值）；可识别入口画宽=2–5%（建议迁移值）；雾公式=1-exp(-distance*density)（源码） | 原作版权归艺术家，未取得代码/资产许可；邻接源分别标注；`borrow`；`citadel: none` |
-| Arctic Research Station | `source: none`；原作源码未取得；邻接技术源 Repos/fable-refinery/index.html:866-888,984-1025（MIT） 提供模块体块和显式连接端点，Repos/lygia/lighting/raymarch/fog.glsl:31-35（Prosperity 3.0，只借指数距离雾手法） 提供冷境距离衰减。穹顶拓扑邻接 Repos/hexasphere.js/src/hexasphere.js:90-112（package.json 声明 MIT，未见独立 LICENSE，复制前复核）：这是六/五边双对偶网格，非图中三角玻璃原实现，只作拓扑参考。先搭设施与通路，再用冷色环境/距离雾分离；雾本身不会生成雪、冰或湿面。所有迁移待运行验证。 | 设施/环境画面面积=约40:60 起步（建议迁移值）；冷主色=#9CB2C2（建议迁移值）；可识别入口画宽=2–5%（建议迁移值）；雾公式=1-exp(-distance*density)（源码） | 原作版权归艺术家，未取得代码/资产许可；邻接源分别标注；`borrow`；`citadel: none` |
-| Northern Research Station | `source: none`；原作源码未取得；邻接技术源 Repos/fable-refinery/index.html:866-888,984-1025（MIT） 提供模块体块和显式连接端点，Repos/lygia/lighting/raymarch/fog.glsl:31-35（Prosperity 3.0，只借指数距离雾手法） 提供冷境距离衰减。此帧是斜向暗立面与小入口，不声称含其他三帧的穹顶/筒仓组合。先搭设施与通路，再用冷色环境/距离雾分离；雾本身不会生成雪、冰或湿面。所有迁移待运行验证。 | 设施/环境画面面积=约40:60 起步（建议迁移值）；冷主色=#9CB2C2（建议迁移值）；可识别入口画宽=2–5%（建议迁移值）；雾公式=1-exp(-distance*density)（源码） | 原作版权归艺术家，未取得代码/资产许可；邻接源分别标注；`borrow`；`citadel: none` |
+| Antarctica Research Station | `source: none`；原作源码未取得；邻接 Repos/fable-refinery/index.html:866-888,984-1025 提供分舱与显式连通端点；穹顶只邻接 Repos/hexasphere.js/src/hexasphere.js:90-112（完整 MIT 通知 README.md:46-55，Robert Scanlon 2014-2017）。迁移约束：主穹顶与小分舱保持尺度差，细连廊之间留低频空地；六/五边格不可冒充原作三角玻璃。 | 冷主色=#9CB2C2（建议迁移值）；穹顶与分舱投影宽比=约2–3:1（建议迁移值） | 原作版权归艺术家，未取得代码/资产许可；邻接源分别标注；`borrow`；`citadel: none` |
+| Arctic Sci-Fi Research Base – Environment Design | `source: none`；原作源码未取得；邻接 Repos/fable-refinery/index.html:866-888,984-1025 的圆柱罐/低模块（不提供原作中央球体）与 Repos/lygia/lighting/raymarch/fog.glsl:31-35 距离雾思路。迁移约束：暗场中央球体必须先读出，竖罐/低舱分三档；不能以加亮全场或密白点抹掉球体。冷色与雪点需另作场景验证。 | 冷主色=#9CB2C2（建议迁移值）；中央球体投影画宽=20–30%（建议迁移值） | 原作版权归艺术家，未取得代码/资产许可；邻接源分别标注；`borrow`；`citadel: none` |
+| Arctic Research Station | `source: none`；原作源码未取得；邻接 Repos/fable-refinery/index.html:866-888,984-1025 的分离体块与连接端点。迁移约束：双塔之间的天桥须可辨、塔脚保留落地阴影，近载具只作遮挡尺度标尺；该源不提供飞机、承重天桥或双塔原模型。 | 冷主色=#9CB2C2（建议迁移值）；双塔投影画高=50–65%（建议迁移值） | 原作版权归艺术家，未取得代码/资产许可；邻接源分别标注；`borrow`；`citadel: none` |
+| Northern Research Station | `source: none`；原作源码未取得；邻接 Repos/fable-refinery/index.html:866-888,984-1025 的体块层级与 Repos/lygia/lighting/raymarch/fog.glsl:31-35 距离雾思路。迁移约束：斜向暗立面保留大面积低亮度，亮入口小且可达，下方湿面承接；不声称此帧有雪原、穹顶或筒仓组合。 | 冷主色=#9CB2C2（建议迁移值）；入口投影画宽=2–5%（建议迁移值） | 原作版权归艺术家，未取得代码/资产许可；邻接源分别标注；`borrow`；`citadel: none` |
 
 ## 迁移到博客
 

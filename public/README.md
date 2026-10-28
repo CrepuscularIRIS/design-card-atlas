@@ -125,7 +125,7 @@
 <tr><td valign="top"><sub><a href="https://poseidia.vercel.app/">Poseidia · Sea Canal</a></sub></td><td valign="top"><sub><a href="https://silentfleetkk.github.io/qingming-bianjing/opus-5.5/qingming-bianjing.html">清明上河 · 黄昏全城</a></sub></td><td valign="top"><sub><a href="https://valley.mengto.here.now/">Sakura River Valley</a></sub></td></tr>
 </table>
 
-<sub>**情绪** 开阔、悠远 · **用在博客** atlas 河岸组织、Beach 水口的后续建模 · <a href="cards/river-leads-the-eye/README.md">拆解与做法 →</a></sub>
+<sub>**情绪** 开阔、悠远 · **用在博客** Beach 水口与岸边地标的后续建模 · <a href="cards/river-leads-the-eye/README.md">拆解与做法 →</a></sub>
 
 <br>
 
@@ -158,11 +158,11 @@
 > 只让巨物的一部分进入画面，同时留下熟悉轮廓，观众会主动补全框外的体量。
 
 <table>
-<tr><td width="33%" valign="top"><a href="cards/colossus-crosses-the-frame/shots/01.jpg"><img src="cards/colossus-crosses-the-frame/shots/01.jpg" width="100%" alt="云上石像：膝与手臂越出下方和右边，脸与手势仍足以确认巨大人形。"></a></td><td width="33%" valign="top"><a href="cards/colossus-crosses-the-frame/shots/02.jpg"><img src="cards/colossus-crosses-the-frame/shots/02.jpg" width="100%" alt="中式幻想 RPG · 雾中巨像：两侧巨像的冠顶和身体被边框截断，中间水道仍能通行。"></a></td><td width="33%" valign="top"><a href="cards/colossus-crosses-the-frame/shots/03.jpg"><img src="cards/colossus-crosses-the-frame/shots/03.jpg" width="100%" alt="Unreal 云上神殿与巨龙：巨龙头与长须挤入近景，廊柱和小人物提供另一个尺度。"></a></td></tr>
+<tr><td width="33%" valign="top"><a href="cards/colossus-crosses-the-frame/shots/01.jpg"><img src="cards/colossus-crosses-the-frame/shots/01.jpg" width="100%" alt="云上石像：膝与手臂越出下方与画面左侧，脸与手势仍足以确认巨大人形。"></a></td><td width="33%" valign="top"><a href="cards/colossus-crosses-the-frame/shots/02.jpg"><img src="cards/colossus-crosses-the-frame/shots/02.jpg" width="100%" alt="中式幻想 RPG · 雾中巨像：两侧巨像的冠顶和身体被边框截断，中间水道仍能通行。"></a></td><td width="33%" valign="top"><a href="cards/colossus-crosses-the-frame/shots/03.jpg"><img src="cards/colossus-crosses-the-frame/shots/03.jpg" width="100%" alt="Unreal 云上神殿与巨龙：巨龙头与长须挤入近景，廊柱和小人物提供另一个尺度。"></a></td></tr>
 <tr><td valign="top"><sub><a href="https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-2">云上石像</a></sub></td><td valign="top"><sub><a href="https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203">中式幻想 RPG · 雾中巨像</a></sub></td><td valign="top"><sub><a href="https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-1">Unreal 云上神殿与巨龙</a></sub></td></tr>
 </table>
 
-<sub>**情绪** 压迫、敬畏 · **用在博客** Shrine 巨像、title 近地标取景 · <a href="cards/colossus-crosses-the-frame/README.md">拆解与做法 →</a></sub>
+<sub>**情绪** 压迫、敬畏 · **用在博客** Shrine 巨像、BlackCity 近地标取景 · <a href="cards/colossus-crosses-the-frame/README.md">拆解与做法 →</a></sub>
 
 ### 管网串起巨构
 
@@ -184,7 +184,7 @@
 <tr><td valign="top"><sub><a href="https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-4">Blender 机场室内雨林</a></sub></td><td valign="top"><sub><a href="https://github.com/Leonxlnx/athenaion">Athenaion · 水庭</a></sub></td><td valign="top"><sub><a href="https://github.com/Leonxlnx/athenaion">Athenaion · Ruined portico</a></sub></td></tr>
 </table>
 
-<sub>**情绪** 生机、时间 · **用在博客** Shrine 庭院与废墟边缘、atlas 绿化地标 · <a href="cards/ordered-frame-wild-growth/README.md">拆解与做法 →</a></sub>
+<sub>**情绪** 生机、时间 · **用在博客** Shrine 庭院与废墟边缘、Landfill 断口草簇 · <a href="cards/ordered-frame-wild-growth/README.md">拆解与做法 →</a></sub>
 
 ### 熟悉物标定巨构
 

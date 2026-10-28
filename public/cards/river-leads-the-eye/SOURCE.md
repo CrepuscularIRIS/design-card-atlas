@@ -56,3 +56,5 @@
 - `Repos/webgl-seascape-video`：读取版本 `915cb7c9a318e03bd2228bc232494b496ff2316c`；具体文件与行、参数、许可分工见 README 实现表。未见根 LICENSE，borrow；当前模块化代码不等同归档915cb7c9的单文件成片版本。
 
 参数的源码默认值不等于既有截图的已验证运行实参；建议迁移值均待目标场景验证。
+
+禁建证据补充：`Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:1221-1231`，尤其 1229 的 `ri.d < ri.hw + 4`；809–829 本身只提供河道查询。无根 LICENSE，仍只借手法。

@@ -48,9 +48,9 @@ Poseidia辅图给出直轴变体：两侧拱孔与灯柱向约(51%,32%)的远殿
 
 | 作品 | 源码 / 邻接与手法 | 参数及性质 | 许可 / 复用 | Citadel 可复用实现 |
 |---|---|---|---|---|
-| 清明上河 · 黄昏全城 | `Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:809-829`；CatmullRom 中心线取切/法向和半河宽，两岸建物排除水道；借布局逻辑而非复制整城 | RIVER_N=1000（源码）；基础半河宽=17.5m（源码）；桥头收窄项=5m（源码） | 无根 LICENSE（Three vendor MIT 不覆盖作品） / borrow | `none` |
-| Poseidia · Sea Canal | `none`；原作源码未取得；邻接技术源 Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:809-829（无根 LICENSE，只借手法）。以中心线与两岸禁建带保留直轴，近船/中桥/远殿由布局定位；不声称原作源码；不是原作实现证明，迁移待验证。 | 近端水道占宽=25–45%（建议迁移值） | 原作许可未明；邻接源许可见说明 / borrow | `none` |
-| Sakura River Valley | `none`；原作源码未取得；邻接技术源 Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:809-829（无根 LICENSE，只借手法）。弯河中心线+地标锚点；原作行船与花瓣算法未知；不是原作实现证明，迁移待验证。 | 远端水道占宽=5–10%（建议迁移值） | 原作许可未明；邻接源许可见说明 / borrow | `none` |
+| 清明上河 · 黄昏全城 | `Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:809-829,1221-1231`；809–829 为 CatmullRom 中心线、法向和半河宽查询；1221–1231 的 occFree 对旋转建筑占地作 5×5 采样，1229 以 ri.d < ri.hw + 4 拒绝近岸建物。是采样式留白检查，非精确多边形排除；仅借布局逻辑，不复制整城。 | RIVER_N=1000（源码）；基础半河宽=17.5m（源码）；桥头收窄项=5m（源码）；岸边禁建余量=4 世界单位（源码）；建筑占地采样=5×5（源码） | 无根 LICENSE（Three vendor MIT 不覆盖作品） / borrow | `none` |
+| Poseidia · Sea Canal | `none`；原作源码未取得；邻接技术源 Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:809-829,1221-1231（无根 LICENSE，只借手法）。以中心线与两岸禁建带保留直轴，近船/中桥/远殿由布局定位；不声称原作源码；不是原作实现证明，迁移待验证。 | 近端水道占宽=25–45%（建议迁移值） | 原作许可未明；邻接源许可见说明 / borrow | `none` |
+| Sakura River Valley | `none`；原作源码未取得；邻接技术源 Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:809-829,1221-1231（无根 LICENSE，只借手法）。弯河中心线+地标锚点；原作行船与花瓣算法未知；不是原作实现证明，迁移待验证。 | 远端水道占宽=5–10%（建议迁移值） | 原作许可未明；邻接源许可见说明 / borrow | `none` |
 | 江南山谷 · 清晨河岸 | `Repos/webgl-seascape-video/jiangnan/src/02_terrain.js:262-267,310-389`；水面网格以 terrainSample 水深裁掉干地三角形，岸墙/桥洞另属场景几何；这里只索引水岸交界，中心线路由参见汴京邻接源 | WATER_BOX=x[-48,60],z[-128,178]（源码）；水面网格步长=1m（源码） | 无根 LICENSE / borrow | `none` |
 
 ## 迁移到博客

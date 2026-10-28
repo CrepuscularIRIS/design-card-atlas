@@ -12,7 +12,7 @@
   ],
   "mood": "开阔、悠远",
   "summary": "用连续水道在密集场景里留出一条可读路径，把近景、中景与远处地标串起来。",
-  "blog": "atlas 河岸组织、Beach 水口的后续建模",
+  "blog": "Beach 水口与岸边地标的后续建模",
   "shots": [
     {
       "file": "opus-a/poseidia-canal-photo.jpg",
@@ -93,8 +93,8 @@
   "impl": [
     {
       "work": "清明上河 · 黄昏全城",
-      "source": "Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:809-829",
-      "technique": "CatmullRom 中心线取切/法向和半河宽，两岸建物排除水道；借布局逻辑而非复制整城",
+      "source": "Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:809-829,1221-1231",
+      "technique": "809–829 为 CatmullRom 中心线、法向和半河宽查询；1221–1231 的 occFree 对旋转建筑占地作 5×5 采样，1229 以 ri.d < ri.hw + 4 拒绝近岸建物。是采样式留白检查，非精确多边形排除；仅借布局逻辑，不复制整城。",
       "params": [
         {
           "name": "RIVER_N",
@@ -110,6 +110,16 @@
           "name": "桥头收窄项",
           "value": "5m",
           "kind": "源码"
+        },
+        {
+          "name": "岸边禁建余量",
+          "value": "4 世界单位",
+          "kind": "源码"
+        },
+        {
+          "name": "建筑占地采样",
+          "value": "5×5",
+          "kind": "源码"
         }
       ],
       "license": "无根 LICENSE（Three vendor MIT 不覆盖作品）",
@@ -119,7 +129,7 @@
     {
       "work": "Poseidia · Sea Canal",
       "source": "none",
-      "technique": "原作源码未取得；邻接技术源 Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:809-829（无根 LICENSE，只借手法）。以中心线与两岸禁建带保留直轴，近船/中桥/远殿由布局定位；不声称原作源码；不是原作实现证明，迁移待验证。",
+      "technique": "原作源码未取得；邻接技术源 Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:809-829,1221-1231（无根 LICENSE，只借手法）。以中心线与两岸禁建带保留直轴，近船/中桥/远殿由布局定位；不声称原作源码；不是原作实现证明，迁移待验证。",
       "params": [
         {
           "name": "近端水道占宽",
@@ -134,7 +144,7 @@
     {
       "work": "Sakura River Valley",
       "source": "none",
-      "technique": "原作源码未取得；邻接技术源 Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:809-829（无根 LICENSE，只借手法）。弯河中心线+地标锚点；原作行船与花瓣算法未知；不是原作实现证明，迁移待验证。",
+      "technique": "原作源码未取得；邻接技术源 Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:809-829,1221-1231（无根 LICENSE，只借手法）。弯河中心线+地标锚点；原作行船与花瓣算法未知；不是原作实现证明，迁移待验证。",
       "params": [
         {
           "name": "远端水道占宽",

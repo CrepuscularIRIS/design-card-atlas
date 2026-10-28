@@ -42,9 +42,11 @@
 
 | 作品 | 源码 / 邻接与手法 | 参数及性质 | 许可 / 复用 | Citadel 可复用实现 |
 |---|---|---|---|---|
-| Blender 机场室内雨林 | `none`；原作源码未取得；邻接技术源 Repos/athenaion/src/ruins/grass.js:64-97；Repos/athenaion/src/ruins/portico.js:206-228（MIT）。沿缝隙生成成簇草、沿表面约束藤蔓，不提供机场林冠或天幕资产；大树需另配，待验证；不是原作实现证明，迁移待验证。 已查 Citadel src/world/places/foliage.js:15-44，它只做实例减量，不生成草木，因此不能作为本卡现成效果。 | 主路留空=连续通道不放实例（建议迁移值） | 原作许可未明；邻接源许可见说明 / borrow | `none` |
-| Athenaion · 水庭 | `none`；水庭画面源码归属尚未定位；邻接技术源 Repos/athenaion/src/ruins/grass.js:64-97、src/ruins/portico.js:206-228（MIT）仅证实残廊草缝/藤蔓，不提供水庭树冠或圆亭植被布局；完整植被迁移待验证。 | density=2.2 簇/m（源码）；size=[0.06,0.2]m（源码）；藤蔓 steps=95（源码）；藤蔓 maxStems=170（源码） | MIT / borrow | `none` |
-| Athenaion · Ruined portico | `Repos/athenaion/src/ruins/grass.js:64-97; Repos/athenaion/src/ruins/portico.js:206-228`；草从 joints/patch/crack 不均匀采样；藤蔓 inside 谓词留亮柱面。需要 grass.js 的 tuftMesh 与植物材质、portico.js 中表面SDF与地面高度；Citadel foliage.js 只减量，不是生成器。 | density=2.2 簇/m（源码）；size=[0.06,0.2]m（源码）；藤蔓 steps=95（源码）；藤蔓 maxStems=170（源码） | MIT / integrate | `none` |
+| Blender 机场室内雨林 | `none`；原作源码未取得；邻接技术源 Repos/athenaion/src/ruins/grass.js:64-97；Repos/athenaion/src/ruins/portico.js:206-228（MIT）。沿缝隙生成成簇草、沿表面约束藤蔓，不提供机场林冠或天幕资产；大树需另配，待验证；不是原作实现证明，迁移待验证。 已查 Citadel src/world/places/foliage.js:15-44，它只做实例减量，不生成草木，不能作为生成器。 Citadel 已有局部草簇生成与缝隙/脚边聚簇，非林冠、藤蔓或森林生成器；见 citadel 索引。 | 主路留空=连续通道不放实例（建议迁移值） | 原作许可未明；邻接源许可见说明 / borrow | `lab/src/scenes/NeverlandRoom/moundDetail.js:28-56,81-96` |
+| Athenaion · 水庭 | `none`；水庭画面源码归属尚未定位；邻接技术源 Repos/athenaion/src/ruins/grass.js:64-97、src/ruins/portico.js:206-228（MIT）仅证实残廊草缝/藤蔓，不提供水庭树冠或圆亭植被布局；完整植被迁移待验证。 Citadel 已有局部草簇生成与缝隙/脚边聚簇，非林冠、藤蔓或森林生成器；见 citadel 索引。 | density=2.2 簇/m（源码）；size=[0.06,0.2]m（源码）；藤蔓 steps=95（源码）；藤蔓 maxStems=170（源码） | MIT / borrow | `lab/src/scenes/NeverlandRoom/moundDetail.js:28-56,81-96` |
+| Athenaion · Ruined portico | `Repos/athenaion/src/ruins/grass.js:64-97; Repos/athenaion/src/ruins/portico.js:206-228`；草从 joints/patch/crack 不均匀采样；藤蔓 inside 谓词留亮柱面。需要 grass.js 的 tuftMesh 与植物材质、portico.js 中表面SDF与地面高度；Citadel foliage.js 只减量，不是生成器。 Citadel 已有局部草簇生成与缝隙/脚边聚簇，非林冠、藤蔓或森林生成器；见 citadel 索引。 | density=2.2 簇/m（源码）；size=[0.06,0.2]m（源码）；藤蔓 steps=95（源码）；藤蔓 maxStems=170（源码） | MIT / integrate | `lab/src/scenes/NeverlandRoom/moundDetail.js:28-56,81-96` |
+
+Citadel 草簇边界：`lab/src/scenes/NeverlandRoom/moundDetail.js:28-56,81-96` 的 `tuft()` 生成固定种子、11 叶片草簇，`addMoundDetail(mound, M)` 按缝隙/脚边 patches 聚簇。后者同时添加垫层、卵石和接触阴影，并依赖 core/kit、core/mats、SDF/contact；不是可直接调用的独立草木包。可拆用局部草簇，不提供大树林冠、藤蔓或整座森林。`src/world/places/foliage.js:15-44` 仍只是实例减量。
 
 ## 迁移到博客
 

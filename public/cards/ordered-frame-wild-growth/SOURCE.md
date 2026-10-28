@@ -45,3 +45,5 @@
 - `Repos/athenaion`：读取版本 `9b8bd23b39c458a50fb1201037360047781c45b5`；具体文件与行、参数、许可分工见 README 实现表。根 LICENSE：MIT（Leon Lin, 2026）。
 
 参数的源码默认值不等于既有截图的已验证运行实参；建议迁移值均待目标场景验证。
+
+已补查 Citadel `lab/src/scenes/NeverlandRoom/moundDetail.js:28-56,81-96`：11 叶片局部草簇和 patches 聚簇为既有实现；不再将仅查到 foliage 减量器等同于没有草簇生成。接口及依赖边界见 README。
