@@ -3098,3 +3098,93 @@
 - 维度/落点：megastructure-silhouette;fog-separates-depth;airship-hangar-harbor;framed-distant-view → 博客 Harbor;Megastructure;Gothic
 - 许可：版权归 nelidazubia；ArtStation 公开；仅作视觉参考
 
+
+## 2026-10-28 R6
+
+### morganghan-solar-farm-environment-3840.jpg
+- 作品名：Solar Farm environment.
+- 作者：morganghan
+- 原始 URL：https://www.artstation.com/artwork/ELyGQ8
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R6）
+- 尺寸：3840×2112；sha256：`b7429bf3f45d69447930da54709ccf2c4fe193f2754d279537ab6d722e7accdc`
+- 机位/时间/步骤：CDN 4k/large 实看；荒漠晨雾阵列定日镜与中央接收塔；净太阳能巨构建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;heliostat-farm;framed-distant-view → 博客 Canyon;Megastructure;Orbital
+- 许可：版权归 morganghan；ArtStation 公开；仅作视觉参考
+
+### igorg-sci-fi-shipyard-heavy-greeble-industrial-concept-1920.jpg
+- 作品名：Sci-Fi Shipyard – Heavy Greeble Industrial Concept
+- 作者：igorg
+- 原始 URL：https://www.artstation.com/artwork/4NBJ32
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R6）
+- 尺寸：1920×938；sha256：`527de0118cdfe2992d0f5e559cd4fa86a37593cf1b0b69d135f6194cceda634d`
+- 机位/时间/步骤：CDN 4k/large 实看；干船坞龙门吊列与在建巨舰火花雾层；净船坞巨构建立；净环境
+- 维度/落点：megastructure-silhouette;high-view-reads-hierarchy;gantry-drydock;fog-separates-depth → 博客 Harbor;Megastructure;Gothic
+- 许可：版权归 igorg；ArtStation 公开；仅作视觉参考
+
+### pao-ship-breaking-yard-final-destination-3840.jpg
+- 作品名：Ship breaking yard final destination
+- 作者：pao
+- 原始 URL：https://www.artstation.com/artwork/PrkaB
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R6）
+- 尺寸：3840×2160；sha256：`f22caacf2698a81e67f0b89895bb432b8ac3ded6668480454e0a6234d0fae0ef`
+- 机位/时间/步骤：CDN 4k/large 实看；云上海军航母编队锈蚀甲板纵深；净空中舰港巨构建立；净环境
+- 维度/落点：megastructure-silhouette;colossus-crosses-the-frame;fog-separates-depth;framed-distant-view → 博客 Orbital;Megastructure;Harbor
+- 许可：版权归 pao；ArtStation 公开；仅作视觉参考
+
+### walker1986-old-geothermal-power-generation-facilities-renovation-projec-2284.jpg
+- 作品名：Old geothermal power generation facilities renovation project
+- 作者：walker1986
+- 原始 URL：https://www.artstation.com/artwork/RyJ6DX
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R6）
+- 尺寸：2284×940；sha256：`3619803940b312d4f1b2e74cee2d3d93f925ce0f324e03b1c4fb25d9c75bc427`
+- 机位/时间/步骤：CDN 4k/large 实看；热带湾峡坝群与中央尖塔桥网；净地热/水电湾城建立；净环境
+- 维度/落点：megastructure-silhouette;high-view-reads-hierarchy;framed-distant-view;cold-world-warm-refuge → 博客 Harbor;Canyon;Megastructure
+- 许可：版权归 walker1986；ArtStation 公开；仅作视觉参考
+
+### aaronbagley-vfx-geothermal-plant-facility-iceland-1920.jpg
+- 作品名：Geothermal Plant facility (Iceland)
+- 作者：aaronbagley_vfx
+- 原始 URL：https://www.artstation.com/artwork/KOPxVW
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R6）
+- 尺寸：1920×1010；sha256：`25241b0f9b130d9b74abb211bbc9628b064d2b3e4958bcb6d304b93ca0827f58`
+- 机位/时间/步骤：CDN 4k/large 实看；荒原地热厂排烟管廊与穹顶阵列；净地热厂建立；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;geothermal-plant;scale-by-familiar-objects → 博客 Canyon;Megastructure;Harbor
+- 许可：版权归 aaronbagley_vfx；ArtStation 公开；仅作视觉参考
+
+### jimmyslim-geothermal-plant-1920.jpg
+- 作品名：Geothermal Plant
+- 作者：jimmyslim
+- 原始 URL：https://www.artstation.com/artwork/EV0k6K
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R6）
+- 尺寸：1920×1080；sha256：`503bbdbc370ab2124325896ed66841c7150070c07db18790867dfe4be99d95ca`
+- 机位/时间/步骤：CDN 4k/large 实看；雪原冷却塔管廊与贮罐雾气；净寒地地热厂建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;cold-world-warm-refuge;framed-distant-view → 博客 Canyon;Gothic;Megastructure
+- 许可：版权归 jimmyslim；ArtStation 公开；仅作视觉参考
+
+### esteban-cpp-geothermal-station-of-artemis-planet-apollo-1920.jpg
+- 作品名：Geothermal station of Artemis, Planet Apollo
+- 作者：esteban_cpp
+- 原始 URL：https://www.artstation.com/artwork/ArYwno
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R6）
+- 尺寸：1920×1080；sha256：`fc0b48721aeb556e363fb2ea94eca9fa7be7a8f14b3501abfe0228937acebf12`
+- 机位/时间/步骤：CDN 4k/large 实看；异星峡谷冷却塔与穹顶前哨神光；净地热前哨建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;framed-distant-view;cold-world-warm-refuge → 博客 Orbital;Canyon;Megastructure
+- 许可：版权归 esteban_cpp；ArtStation 公开；仅作视觉参考
+
+### ikd94-the-heart-of-the-silo-2700.jpg
+- 作品名：The Heart of the Silo
+- 作者：ikd94
+- 原始 URL：https://www.artstation.com/artwork/lG3Aoo
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R6）
+- 尺寸：2160×2700；sha256：`d098685725afc4a0b3b3f7a6a41992f2d0b9a57254ddd204c9bacfbea86c2382`
+- 机位/时间/步骤：CDN 4k/large 实看；筒仓穹顶内庭红树水环与锈阶藤蔓；净筒仓生物穹建立；净环境
+- 维度/落点：ordered-frame-wild-growth;colonnade-rhythm;framed-distant-view;megastructure-silhouette → 博客 Gothic;Shrine;Megastructure
+- 许可：版权归 ikd94；ArtStation 公开；仅作视觉参考

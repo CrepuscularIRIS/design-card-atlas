@@ -52,3 +52,23 @@
 | Underwater City Environment（zefwastaken） | `megastructure-silhouette`；`fog-separates-depth`；`framed-distant-view` | Harbor；Megastructure；Canyon |
 
 备注：本轮避开 Oct 25–28 R1–R3 重矿（风塔/盐沼/霓虹/ziggurat 旧源/灯塔石英岸/雾港/观象台/轨道站旧源/沉寺/崖瀑/Berlin/沙漠UE5/地下城/荧光洞/山寺竹鸟居/树城/戴森/小行星船/冥王星/Asimov/太空电梯/哥特图书馆/竹农场/环栖/geofront/管城/运河/云寺/飞艇坞/太阳能梯田/荒漠炼厂/菌丝/独石站/悬挂渡槽/倒置崖/悬僧寺/稻畦环城/地热熔岩/tether/caravanserai/stepwell/bone cathedral/Atlantis/kelp/haze tower/mushroom lighthouse/northern research/cistern/alpine fortress/sunset pagoda/industrial warzone/jungle outpost/cenote/dead tide/lunar crater/collapsed industrial/sea city/Aurelia/victorian greenhouse）。新鲜源以 **北极船骸 / 荒漠盐提取前哨 / 冰海焚船 / 峡谷建立 / 熔岩锻炉 / 蒸汽朋克港城 / 赤尘工业前哨 / 海底穹城** 为主。
+
+
+---
+
+## R6
+
+本轮收下 8 帧；**不改** `public/cards`。仅提议现有视觉语言卡可被哪些收帧加固。
+
+| 收帧 | 建议加固的现有视觉语言卡（只提不改） | 博客落点提示 |
+|---|---|---|
+| Solar Farm environment.（morganghan） | `megastructure-silhouette`；`fog-separates-depth`；`framed-distant-view` | Canyon；Megastructure；Orbital |
+| Sci-Fi Shipyard Heavy Greeble（igorg） | `megastructure-silhouette`；`high-view-reads-hierarchy`；`fog-separates-depth` | Harbor；Megastructure；Gothic |
+| Ship breaking yard final destination（pao） | `megastructure-silhouette`；`colossus-crosses-the-frame`；`fog-separates-depth` | Orbital；Megastructure；Harbor |
+| Old geothermal power generation facilities renovation（walker1986） | `megastructure-silhouette`；`high-view-reads-hierarchy`；`framed-distant-view` | Harbor；Canyon；Megastructure |
+| Geothermal Plant facility Iceland（aaronbagley_vfx） | `megastructure-silhouette`；`framed-distant-view`；`scale-by-familiar-objects` | Canyon；Megastructure；Harbor |
+| Geothermal Plant（jimmyslim） | `megastructure-silhouette`；`fog-separates-depth`；`cold-world-warm-refuge` | Canyon；Gothic；Megastructure |
+| Geothermal station of Artemis（esteban_cpp） | `megastructure-silhouette`；`fog-separates-depth`；`framed-distant-view` | Orbital；Canyon；Megastructure |
+| The Heart of the Silo（ikd94） | `ordered-frame-wild-growth`；`colonnade-rhythm`；`framed-distant-view` | Gothic；Shrine；Megastructure |
+
+备注：本轮避开 Oct 25–28 R1–R5 重矿（冷却塔内景/沙漠管线/硫矿/水电坝/船闸/飞艇机库及更早矿点）。新鲜源以 **定日镜太阳能场 / 干船坞龙门吊 / 空中舰港巨构 / 湾峡地热水电城 / 冰岛地热厂 / 雪原地热厂 / 异星峡谷地热前哨 / 筒仓生物穹内庭** 为主。
