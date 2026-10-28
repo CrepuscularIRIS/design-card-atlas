@@ -2651,3 +2651,93 @@
 - 维度/落点：megastructure-silhouette;framed-distant-view;neon-rice-paddies;high-view-reads-hierarchy → Megastructure;Canyon;Shrine
 - 许可：版权归 stevemobcannon；ArtStation 公开；仅作视觉参考
 
+
+## 2026-10-28 R1
+
+### jaddrawss-argona-koda-tether-1920.jpg
+- 作品名：ARGONA - KODA TETHER
+- 作者：jaddrawss
+- 原始 URL：https://www.artstation.com/artwork/Qn5xP8
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R1）
+- 尺寸：1920×1080；sha256：`5532433fc2e64305bcda0668162c371895e248ba29e57eed4532d870e1466b5d`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；高视海岸巨城+竖向系泊柱与缆车；暖霞冷海分层
+- 维度/落点：E轨道缆柱剪影;high-view-reads-hierarchy;orbital-tether;cold-world-warm-refuge → Orbital;Megastructure;Harbor
+- 许可：版权归 jaddrawss；ArtStation 公开；仅作视觉参考
+
+### ozankoc-caravanserai-3840.jpg
+- 作品名：Caravanserai
+- 作者：ozankoc
+- 原始 URL：https://www.artstation.com/artwork/QYPm3
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R1）
+- 尺寸：3840×2160；sha256：`f44103de159276b2ffbc6c4f59a808f23a2374c4760b5fc015ee0a7975426ebc`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；双层拱廊节奏+中庭喷泉+门楼读尺
+- 维度/落点：colonnade-rhythm;framed-distant-view;caravanserai-courtyard;scale-by-familiar-objects → Canyon;Shrine;Megastructure
+- 许可：版权归 ozankoc；ArtStation 公开；仅作视觉参考
+
+### vanchickaaaa-rani-ka-vav-1920.jpg
+- 作品名：Rani ka Vav - 3D Environment
+- 作者：vanchickaaaa
+- 原始 URL：https://www.artstation.com/artwork/EzAN1n
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R1）
+- 尺寸：1920×902；sha256：`4cb744914b249f25bce4ea680eed2f8a557eb47f7316f2669da36e28aa7b2bdb`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；阶井柱廊重复+神龛浮雕密度+暖石冷影
+- 维度/落点：colonnade-rhythm;stepwell-canyon;megastructure-silhouette;ordered-frame-wild-growth → Canyon;Shrine;Megastructure
+- 许可：版权归 vanchickaaaa；ArtStation 公开；仅作视觉参考
+
+### dennismorgovan-bone-cathedral-1920.jpg
+- 作品名：[Free Scene] Bone Cathedral
+- 作者：dennismorgovan
+- 原始 URL：https://www.artstation.com/artwork/xJkLBX
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R1）
+- 尺寸：1920×1548；sha256：`bb963cc9704a6cc704cdf022f93ebce19b574463e5a3504ed305b3b78bc659e1`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；骨架跨框+月洞框景+烛火暖对照冷石
+- 维度/落点：colossus-crosses-the-frame;framed-distant-view;bone-cathedral;cold-world-warm-refuge → Gothic;Shrine;Megastructure
+- 许可：版权归 dennismorgovan；ArtStation 公开；仅作视觉参考
+
+### christerw1-atlantis-sunken-city-2048.jpg
+- 作品名：Atlantis, the Sunken City
+- 作者：christerw1
+- 原始 URL：https://www.artstation.com/artwork/Jem5ga
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R1）
+- 尺寸：2048×2000；sha256：`36c394d6f530c120cdeb1e4bd26c97a41fbea9e4f9586c3db0968b1d3a37dc42`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；水下雾分层+殿塔剪影+碎石广场读尺
+- 维度/落点：megastructure-silhouette;fog-separates-depth;drowned-basilica;framed-distant-view → Gothic;Canyon;Megastructure
+- 许可：版权归 christerw1；ArtStation 公开；仅作视觉参考
+
+### mixit3d-waterlogged-sunken-city-1920.jpg
+- 作品名：UE4 Underwater Sunken City Scene - Waterlogged
+- 作者：mixit3d
+- 原始 URL：https://www.artstation.com/artwork/lxrOZk
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R1）
+- 尺寸：1920×1080；sha256：`c0db0c626bd8e43231c558298e56b4ff87b5fd52a80f570dd371efc7c4102f04`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；体积光柱+巨藻框景+亚洲门殿锚点
+- 维度/落点：fog-separates-depth;ordered-frame-wild-growth;kelp-abyssal;framed-distant-view → Canyon;Shrine;Megastructure
+- 许可：版权归 mixit3d；ArtStation 公开；仅作视觉参考
+
+### idoru-sunken-city-1920.jpg
+- 作品名：Sunken CIty
+- 作者：idoru
+- 原始 URL：https://www.artstation.com/artwork/obQPVB
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R1）
+- 尺寸：1920×1080；sha256：`6553dc631385fa43acedc4a6464b1291db3b00791909d412c389155d459b63d2`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；高视街轴+水塔剪影+残骸层级
+- 维度/落点：high-view-reads-hierarchy;fog-separates-depth;drowned-street;megastructure-silhouette → Canyon;Gothic;Megastructure
+- 许可：版权归 idoru；ArtStation 公开；仅作视觉参考
+
+### exaii-procedural-sunken-city-1920.jpg
+- 作品名：Procedural Sunken City
+- 作者：exaii
+- 原始 URL：https://www.artstation.com/artwork/RyEPRr
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R1）
+- 尺寸：1920×1080；sha256：`262b925023222ef0f351c9f97b3ecb878145045497d9c64db9944b853ae7c422`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；模块骨架+深雾远影+穹顶焦点
+- 维度/落点：megastructure-silhouette;fog-separates-depth;abyssal-megastructure;colossus-crosses-the-frame → Megastructure;Orbital;Canyon
+- 许可：版权归 exaii；ArtStation 公开；仅作视觉参考
