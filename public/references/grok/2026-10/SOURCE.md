@@ -3277,3 +3277,92 @@
 - 机位/时间/步骤：CDN 4k/large 实看；混凝土竖井锈梯藤蔓浮萍池；净泄洪闸/工业竖井复绿建立；净环境
 - 维度/落点：ordered-frame-wild-growth;megastructure-silhouette;framed-distant-view;fog-separates-depth → 博客 Gothic;Canyon;Megastructure
 - 许可：版权归 josephbardolph；ArtStation 公开；仅作视觉参考
+## 2026-10-28 R8
+
+### wabisabivibes-pagoda-in-misty-mountains-2560.jpg
+- 作品名：Pagoda in misty mountains
+- 作者：wabisabivibes
+- 原始 URL：https://www.artstation.com/artwork/nEmogO
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R8）
+- 尺寸：2048×2560；sha256：`903ab095f77a572bdd1e3c01f5d19a31752e7f73deda97d456e3c909ce42494b`
+- 机位/时间/步骤：CDN 4k/large 实看；雾山五重塔与古松框景；净雾山宝塔建立；净环境
+- 维度/落点：fog-separates-depth;framed-distant-view;pagoda-mist;ordered-frame-wild-growth → 博客 Shrine;Canyon;Gothic
+- 许可：版权归 wabisabivibes；ArtStation 公开；仅作视觉参考
+
+### sebastiankesiak-beyond-the-ancient-mists-pagoda-3840.jpg
+- 作品名：Beyond the Ancient Mists: Pagoda
+- 作者：sebastiankesiak
+- 原始 URL：https://www.artstation.com/artwork/DrYBO
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R8）
+- 尺寸：3840×1902；sha256：`772cc162b03c56b7d696c7c2b119e1112783e5a4970bc58d181038541bca39b3`
+- 机位/时间/步骤：CDN 4k/large 实看；风暴峡湾剪影塔与扁舟尺度；净雾山宝塔史诗建立；净环境
+- 维度/落点：fog-separates-depth;megastructure-silhouette;framed-distant-view;cold-world-warm-refuge → 博客 Shrine;Canyon;Megastructure
+- 许可：版权归 sebastiankesiak；ArtStation 公开；仅作视觉参考
+
+### rhoutermans-abandoned-paper-mill-1920.jpg
+- 作品名：Abandoned Paper Mill
+- 作者：rhoutermans
+- 原始 URL：https://www.artstation.com/artwork/vowQa
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R8）
+- 尺寸：1920×1161；sha256：`fe51f4fcebea85f53976b219555bc41a7579526698a34b829773ce0c3f6c916b`
+- 机位/时间/步骤：CDN 4k/large 实看；废弃纸厂压辊苔藓藤蔓神光；净纸浆厂复绿建立；净环境
+- 维度/落点：ordered-frame-wild-growth;fog-separates-depth;framed-distant-view;industrial-reclaim → 博客 Gothic;Canyon;Megastructure
+- 许可：版权归 rhoutermans；ArtStation 公开；仅作视觉参考
+
+### fuzzymelox-danish-dry-dock-3116.jpg
+- 作品名：Danish Dry Dock
+- 作者：fuzzymelox
+- 原始 URL：https://www.artstation.com/artwork/v1J3NY
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R8）
+- 尺寸：3116×2106；sha256：`fec82a9c38aad2dab4da3f12a814da5fd10825e30f5e43ca5f5df1bdd3d821f8`
+- 机位/时间/步骤：CDN 4k/large 实看；干船坞仰视船艏红线与撑柱；净干船坞巨构建立；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;dry-dock;scale-by-familiar-objects → 博客 Harbor;Megastructure;Canyon
+- 许可：版权归 fuzzymelox；ArtStation 公开；仅作视觉参考
+
+### hernan-dry-dock-3162.jpg
+- 作品名：Dry Dock
+- 作者：hernan
+- 原始 URL：https://www.artstation.com/artwork/WmGOG
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R8）
+- 尺寸：3162×1503；sha256：`7df6240747fdc1826a6bb7b14ff9ed210acd976ddfd482aa9054e8a3b99a3509`
+- 机位/时间/步骤：CDN 4k/large 实看；雾夜港城巨轮与吊臂剪影；净赛博港坞建立；净环境
+- 维度/落点：fog-separates-depth;megastructure-silhouette;framed-distant-view;cyberpunk-harbor → 博客 Harbor;Megastructure;Gothic
+- 许可：版权归 hernan；ArtStation 公开；仅作视觉参考
+
+### skythenoob-arrol-gantry-showcase-3840.jpg
+- 作品名：Arrol Gantry Showcase
+- 作者：skythenoob
+- 原始 URL：https://www.artstation.com/artwork/6LqgB0
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R8）
+- 尺寸：3840×2160；sha256：`0218638c30946713faa3482ffef484779d223f9a14073cf6145151d2e1462f61`
+- 机位/时间/步骤：CDN 4k/large 实看；天车驾驶室望薄荷绿桁架干坞；净干船坞天车场建立；净环境
+- 维度/落点：megastructure-silhouette;high-view-reads-hierarchy;gantry-crane;framed-distant-view → 博客 Harbor;Megastructure;Canyon
+- 许可：版权归 skythenoob；ArtStation 公开；仅作视觉参考
+
+### pranav_16-salt-mine-cave-environment-1920.jpg
+- 作品名：Salt Mine cave Environment
+- 作者：pranav_16
+- 原始 URL：https://www.artstation.com/artwork/OGg9q8
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R8）
+- 尺寸：1920×804；sha256：`d5b1ae19927c46cc1534d81e9f6e7263a9250f5d2140de8d3af40c5ed2284990`
+- 机位/时间/步骤：CDN 4k/large 实看；盐矿巷道暖灯矿车与岩层；净盐矿洞厅建立；净环境
+- 维度/落点：framed-distant-view;fog-separates-depth;salt-mine-chamber;cold-world-warm-refuge → 博客 Canyon;Gothic;Shrine
+- 许可：版权归 pranav_16；ArtStation 公开；仅作视觉参考
+
+### olegwer-abandoned-post-apocalyptic-football-stadium-modular-environm-1920.jpg
+- 作品名：Abandoned Post-Apocalyptic Football Stadium - Modular Environment 3d Level
+- 作者：olegwer
+- 原始 URL：https://www.artstation.com/artwork/L4KNL5
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R8）
+- 尺寸：1920×1080；sha256：`fdff1c2d18dd7a8fea8d10893529efcd9068d5b317e1a567e23e8a471ad07d26`
+- 机位/时间/步骤：CDN 4k/large 实看；崩顶足球场巨骨定居点；净废墟体育场建立；净环境
+- 维度/落点：megastructure-silhouette;ordered-frame-wild-growth;stadium-ruins;high-view-reads-hierarchy → 博客 Gothic;Canyon;Megastructure
+- 许可：版权归 olegwer；ArtStation 公开；仅作视觉参考
