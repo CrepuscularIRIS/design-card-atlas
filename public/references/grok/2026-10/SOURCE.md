@@ -3009,3 +3009,92 @@
 - 维度/落点：megastructure-silhouette;fog-separates-depth;underwater-city;framed-distant-view → 博客 Harbor;Megastructure;Canyon
 - 许可：版权归 zefwastaken；ArtStation 公开；仅作视觉参考
 
+
+### tee3d-cooling-tower-1920.jpg
+- 作品名：Cooling Tower
+- 作者：tee3d
+- 原始 URL：https://www.artstation.com/artwork/58201O
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R5）
+- 尺寸：1920×1080；sha256：`f3572cb786c53c4657c65fb5850b73fa497e04d066938bab86890d0fdcbc0942`
+- 机位/时间/步骤：CDN 4k/large 实看；冷却塔内穹顶神光与苔藓井环；净冷却塔巨构建立；净环境
+- 维度/落点：megastructure-silhouette;ordered-frame-wild-growth;colonnade-rhythm;framed-distant-view → 博客 Megastructure;Gothic;Canyon
+- 许可：版权归 tee3d；ArtStation 公开；仅作视觉参考
+
+### cgsky-desert-pipeline-2789.jpg
+- 作品名：UE4 Desert Pipeline
+- 作者：cgsky
+- 原始 URL：https://www.artstation.com/artwork/58RVzg
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R5）
+- 尺寸：2789×1569；sha256：`8ca864d71799f965cd1479c2379a7c54451e1df614703f4521c0b10b650a844f`
+- 机位/时间/步骤：CDN 4k/large 实看；荒漠沙丘穿行巨型管线；净沙漠管廊建立；净环境
+- 维度/落点：colossus-crosses-the-frame;fog-separates-depth;desert-pipeline;framed-distant-view → 博客 Canyon;Megastructure;Harbor
+- 许可：版权归 cgsky；ArtStation 公开；仅作视觉参考
+
+### finnbrandon-venusian-sulfur-mine-2000.jpg
+- 作品名：Venusian Sulfur Mine
+- 作者：finnbrandon
+- 原始 URL：https://www.artstation.com/artwork/q9LqXD
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R5）
+- 尺寸：2000×1414；sha256：`88e20847e1de16fede03803cb7d25096508655827e9dbf45a95587bbbdc3c378`
+- 机位/时间/步骤：CDN 4k/large 实看；硫雾峡谷冷却塔与处理厂阵列；净硫矿巨构建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;sulfur-mine-industrial;high-view-reads-hierarchy → 博客 Canyon;Megastructure;Gothic
+- 许可：版权归 finnbrandon；ArtStation 公开；仅作视觉参考
+
+### kirinkarwai-domain-of-the-waterfall-2880.jpg
+- 作品名：Domain of the Waterfall - Art Nouveau, Hydroelectric Powerplant, Dam
+- 作者：kirinkarwai
+- 原始 URL：https://www.artstation.com/artwork/EzayN2
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R5）
+- 尺寸：2880×1620；sha256：`786c9a0d3e3d7066c06b0d48f1e9643723832d54c8dc263eeeb5ae37df792968`
+- 机位/时间/步骤：CDN 4k/large 实看；新艺术运河岸彩窗与远端坝墙；净水电港城建立；净环境
+- 维度/落点：megastructure-silhouette;colonnade-rhythm;framed-distant-view;cold-world-warm-refuge → 博客 Harbor;Gothic;Megastructure
+- 许可：版权归 kirinkarwai；ArtStation 公开；仅作视觉参考
+
+### luisesteves-hydroelectric-dam-scifi-3307.jpg
+- 作品名：Hydroelectric Dam Scifi
+- 作者：luisesteves
+- 原始 URL：https://www.artstation.com/artwork/NxKNbJ
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R5）
+- 尺寸：3307×1590；sha256：`0d827d49ecb6249ae8569454b90952ce3da4ad6ed2c7d1b18274ee460d3c2b84`
+- 机位/时间/步骤：CDN 4k/large 实看；雾橙峡谷坝顶吊机集装箱阵列；净科幻水电坝建立；净环境
+- 维度/落点：megastructure-silhouette;high-view-reads-hierarchy;fog-separates-depth;hydro-dam-industrial → 博客 Megastructure;Canyon;Harbor
+- 许可：版权归 luisesteves；ArtStation 公开；仅作视觉参考
+
+### sboterod-concordia-hydroelectric-dam-2560.jpg
+- 作品名：A hydroelectric dam on Concordia
+- 作者：sboterod
+- 原始 URL：https://www.artstation.com/artwork/08emY
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R5）
+- 尺寸：2560×1440；sha256：`d907a694fbba23169cbf5872b1e8f96f90d9109071fae2fd51f5206dc29d5f30`
+- 机位/时间/步骤：CDN 4k/large 实看；双月雪岭混凝土坝与穹顶前哨；净冷原水电巨构建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;cold-world-warm-refuge;colonnade-rhythm → 博客 Canyon;Megastructure;Orbital
+- 许可：版权归 sboterod；ArtStation 公开；仅作视觉参考
+
+### nico-hansen-great-locks-baalagos-3840.jpg
+- 作品名：Great Locks of Ba'alagos
+- 作者：nico_hansen
+- 原始 URL：https://www.artstation.com/artwork/WBwneX
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R5）
+- 尺寸：3840×2160；sha256：`bdf3592e3f275863ecfbf76a51d76eaacfc53c70003ede9fee1e8b49f76fa309`
+- 机位/时间/步骤：CDN 4k/large 实看；深渊船闸栈桥与抬升巨械；净船闸巨构建立；净环境（人物仅作尺度）
+- 维度/落点：high-view-reads-hierarchy;megastructure-silhouette;colonnade-rhythm;lock-staircase-canal → 博客 Harbor;Megastructure;Canyon
+- 许可：版权归 nico_hansen；ArtStation 公开；仅作视觉参考
+
+### nelidazubia-wwii-zeppelin-hangar-1920.jpg
+- 作品名：WWII Zeppelin Hangar
+- 作者：nelidazubia
+- 原始 URL：https://www.artstation.com/artwork/DYkQQ9
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R5）
+- 尺寸：1920×1141；sha256：`9899c272a16af6292f2c6665c581daf4a4aec025b564a0061bff4c87526d1670`
+- 机位/时间/步骤：CDN 4k/large 实看；夕照飞艇系泊球罐机库港湾；净飞艇港坞建立；净环境（人物仅作尺度）
+- 维度/落点：megastructure-silhouette;fog-separates-depth;airship-hangar-harbor;framed-distant-view → 博客 Harbor;Megastructure;Gothic
+- 许可：版权归 nelidazubia；ArtStation 公开；仅作视觉参考
+
