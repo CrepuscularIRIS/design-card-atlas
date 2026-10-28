@@ -41,5 +41,21 @@
     "head": "6c19f1b1f14408353989ad26cda27f1e1ede5e91",
     "origin": "https://github.com/achrefelouafi/ProceduralBuildingsThreeJS.git",
     "note": "Shallow blob-filtered Git with source checkout; large media/assets excluded from worktree. Not a full asset archive."
+  },
+  {
+    "repo": "Stepwells",
+    "url": "https://github.com/manashwebdev/Stepwells.git",
+    "date": "2026-10-28T13:58:22.740951+00:00",
+    "head": "6ea9274a09d6c8e50515408b7f7fa416f48409bd",
+    "origin": "https://github.com/manashwebdev/Stepwells.git",
+    "state": "cloned"
+  },
+  {
+    "repo": "bullKelpDive",
+    "url": "https://github.com/kolomyjec/bullKelpDive.git",
+    "date": "2026-10-28T13:58:22.741984+00:00",
+    "head": "3c128bdf099ccf992a68e8fb78a2ded5de3d1165",
+    "origin": "https://github.com/kolomyjec/bullKelpDive.git",
+    "state": "cloned"
   }
 ]
