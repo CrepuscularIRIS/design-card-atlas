@@ -36,6 +36,23 @@
 - **可见做法的界限**：本轮不据截图断言作者具体使用了曲率、顶点色或某张贴图；可在[原作代码](https://github.com/Leonxlnx/athenaion/tree/9b8bd23b39c458a50fb1201037360047781c45b5/src)继续查对应材质。
 - **迁移试验值**：先把大面积磨损限制在可见表面的10–20%，最深破损留在少数边角；粗糙度先试0.75–0.95。上述都是Blog试验范围，不是作者参数。
 
+### 实现索引
+
+2026-10-28 源码阅读补索引；不新增截图、不改上方视觉判断。上方“不能由截图推出/尚未审 shader”等界限指原视觉阶段，本节另列本批核过的源码。`Repos/` 相对 `~/Blog/`，Citadel 路径相对 `~/Blog/citadel/`。本批未运行这些源码测量参数，标为“源码”的值不得当作实测。
+
+| 作品 | 源码（本地路径:行） | 技术与接入边界 | 参数（来源） | 许可 / 复用档 | Citadel 已有可复用入口 |
+|---|---|---|---|---|---|
+| Athenaion · Grand staircase | `Repos/athenaion/src/acropolis/stair.js:165-219,483-501; Repos/athenaion/src/acropolis/materials.js:150-248,354-356` | 台阶以 S.get('tread') 生成断板、缺口、沉降和圆磨阶鼻，loadAcroMaterials 的 tread 键绑定独立 treadMaterial，非 ruinStoneMaterial。stepSlab 按立板脚、后接缝与阶鼻写入 aux.x 积垢带和 aux.y 磨损权重；材质再按法线筛选阶鼻、按行走轴减弱踏面斑驳，使苔藓集中在宽裂缝与接缝。roughness 0.5 是基础值，shader 按噪声及 aux 调整并 clamp 到 0.2–0.95。先复用 Citadel lab/src/scenes/Shrine/decor.js:69-86 已按缝/阶鼻坐标布置苔与裂缝的路线，再决定是否移植这套台阶材质与几何属性。 | treadMaterial base roughness=0.5；局部 shader clamp 0.2–0.95（源码）；uTrA axisX / walking half-width / moss / cracks=24 / 5.5 / 1.35 / 1.15，位置与宽度为原场景单位（源码）；weathering area=可见面 10–20%（建议迁移值） | MIT；如移植需携带 acropolis 台阶几何与 aux 属性、core/materials.js 及 glsl/rng 依赖，保留声明 / integrate | `lab/src/scenes/Shrine/decor.js` |
+| Athenaion · Fallen head | `Repos/athenaion/src/ruins/materials.js:165-187,299-307` | RN_HEAD 分支使用 cavity、aux.z 天空可见度和 aux.w 头发分类，让污迹按形体分布；默认 ensureCav 不能凭空生成真实凹腔。Repos/athenaion/src/core/materials.js:65-89 负责 shader hooks。Citadel lab/src/scenes/Shrine/decor.js:69-86 只可复用依附结构的 decal 思路，不具有该头像属性；迁移属性生成与兼容性待验证。 | required channels=cav; aux.y=edge, aux.z=sky, aux.w=hair（源码）；migration roughness=0.75–0.95（建议迁移值） | MIT；头像资产与属性生成需另核，未声称可只复制一段 GLSL / integrate | `lab/src/scenes/Shrine/decor.js` |
+| Athenaion · Ruined portico | `Repos/athenaion/src/ruins/portico.js:292-329,345-386` | 固定种子生成地砖边缘崩损与 cavity；缺砖避开主通道，裂缝与草从接缝生长，再交给 ruinStoneMaterial；这是同项目 shot9 可核的几何路线，不代称 shot6 台阶源码。Citadel lab/src/scenes/Shrine/decor.js:81-86 的 ST 坐标阶鼻贴片可先复用到 corridor/door-305 边缝，坐标需按场景重算。 | wearW=0.035 + 0.07 * chipN²（源码）；citadel stair decal opacity=crack 0.35 / moss 0.3（源码）；weathering area=可见面 10–20%（建议迁移值） | MIT；移植保留声明，优先现成 Citadel decal，材质与几何链联动 / integrate | `lab/src/scenes/Shrine/decor.js` |
+
+本卡为高频补索引项；队列仅在 self-residence-corridor-1 / door-305 存在合理边缝时试验，匹配表未直接命中。现代维护良好的墙面不应整面做旧；Shrine 现成 decal 是复用入口而非自动属性烘焙。
+
+源码快照（本批读取，不是新增截图来源）：
+- `athenaion@9b8bd23b39c458a50fb1201037360047781c45b5`
+
+已检索 `citadel/src`（含 `src/world/worlds/`）与 `lab/src`；本批未发现 `src/world/worlds/cardfx/` 目录或本卡同名预制模块。以上入口只表示可复用部分；首次完整落地才由执行者沉淀 cardfx，不在此虚构文件。title / atlas locked，任何队列用途均不解除锁定。
+
 ## 迁移到博客
 
 Shrine入口台阶可把草与磨损集中在边缘；BlackCityHall登记场景可让近处残构件与远处完整建筑形成时间对照。不要把所有地点都统一做旧，维护状态应服务各场景故事。

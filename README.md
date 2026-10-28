@@ -40,7 +40,7 @@
 <tr><td valign="top"><sub><a href="https://silentfleetkk.github.io/qingming-bianjing/opus-5.5/qingming-bianjing.html">清明上河 · 黄昏虹桥</a></sub></td><td valign="top"><sub><a href="https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-1">Unreal 云上神殿与巨龙</a></sub></td><td valign="top"><sub><a href="https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203">中式幻想 RPG · 雾中巨像</a></sub></td></tr>
 </table>
 
-<sub>**情绪** 敬畏、压迫 · **用在博客** title 主建筑、Shrine 巨像背景 · <a href="public/cards/backlight-reveals-silhouette/README.md">拆解与做法 →</a></sub>
+<sub>**情绪** 敬畏、压迫 · **用在博客** street-1 门廊、platform-1 窗侧、Shrine 巨像背景（title / atlas locked） · <a href="public/cards/backlight-reveals-silhouette/README.md">拆解与做法 →</a></sub>
 
 ### 侧光刻石
 
@@ -92,7 +92,7 @@
 <tr><td valign="top"><sub><a href="https://github.com/Leonxlnx/athenaion">Athenaion · Panorama</a></sub></td><td valign="top"><sub><a href="https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-1">Unreal 云上神殿与巨龙</a></sub></td><td valign="top"><sub><a href="https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/reynisfjara/index.html">雷尼斯黑沙滩 · 海滩</a></sub></td></tr>
 </table>
 
-<sub>**情绪** 张力、延伸 · **用在博客** title 主建筑取景、BlackCityHall 外廊 · <a href="public/cards/diagonal-mass-balance/README.md">拆解与做法 →</a></sub>
+<sub>**情绪** 张力、延伸 · **用在博客** luxury-house-1 窗侧、platform-1 柱廊、BlackCityHall 外廊（title / atlas locked） · <a href="public/cards/diagonal-mass-balance/README.md">拆解与做法 →</a></sub>
 
 ### 留空放大孤立物
 
@@ -114,7 +114,7 @@
 <tr><td valign="top"><sub><a href="https://github.com/Leonxlnx/athenaion">Athenaion · Ruined portico</a></sub></td><td valign="top"><sub><a href="https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203">中式幻想 RPG · 雾中巨像</a></sub></td><td valign="top"><sub><a href="https://github.com/Leonxlnx/athenaion">Athenaion · 水庭</a></sub></td></tr>
 </table>
 
-<sub>**情绪** 窥见、敬畏 · **用在博客** title 前景、Shrine 入口与 Alley2 门洞 · <a href="public/cards/framed-distant-view/README.md">拆解与做法 →</a></sub>
+<sub>**情绪** 窥见、敬畏 · **用在博客** street-1 门廊、platform-1 窗景、Shrine 入口与 Alley2 门洞（title / atlas locked） · <a href="public/cards/framed-distant-view/README.md">拆解与做法 →</a></sub>
 
 ### 河道串景
 

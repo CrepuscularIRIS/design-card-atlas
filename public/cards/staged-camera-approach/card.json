@@ -104,5 +104,62 @@
       "order": 5,
       "sha256": "5bd51ef63adc50e1015e85905da2aee224d1775769e13a81220d9e18ab422e6c"
     }
+  ],
+  "impl": [
+    {
+      "work": "雷尼斯黑沙滩 · 海滩 → 柱壁",
+      "source": "Repos/kimi-k31pro-opus55-benchmark-showcase/opus/reynisfjara/src/main.js:257-298",
+      "technique": "goTo 先由地形求端点高度，再同时插值位置、target 和 FOV，并以正弦抬升避地；不是静态缩放。预设在 src/config.js:30-36。Citadel src/world/worlds/place.js:535-546,698-709 已有三者插值，但现为 0.9s cubic-out，未提供这套避地或两端停留。先用已有 goView 做 Platform/door-305 总览到细部，新增时长/停留需执行者显式实现并验证，不扩导航。",
+      "params": [
+        {
+          "name": "source duration",
+          "value": "2.8s",
+          "kind": "源码"
+        },
+        {
+          "name": "source path lift",
+          "value": "sin(πk) * min(25, distance * 0.12)",
+          "kind": "源码"
+        },
+        {
+          "name": "citadel existing duration / easing",
+          "value": "0.9s / cubic-out",
+          "kind": "源码"
+        },
+        {
+          "name": "migration segment / holds",
+          "value": "2–3s / 两端各 1s",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "未发现仓库根 LICENSE；作品代码授权待验证，只借手法，不复制代码/资产",
+      "reuse": "borrow",
+      "citadel": "src/world/worlds/place.js"
+    },
+    {
+      "work": "黑沙之境 · 海岸全景",
+      "source": "Repos/kimi-k31pro-opus55-benchmark-showcase/kimi/iceland-black-sand/src/iceland/main.js:38-49,137-182",
+      "technique": "同步插值 position/target，immediate 或 reduced-motion 时直达；只支持总览与技术路线，不把其暗柱近景重新列为美术正例。Citadel src/world/worlds/place.js:698-709 可复用插值，镜头安全/遮挡与减少动态分支仍须按当前场景验收。",
+      "params": [
+        {
+          "name": "source transition / easing",
+          "value": "2100ms / cubic ease-in-out",
+          "kind": "源码"
+        },
+        {
+          "name": "wide position / target",
+          "value": "[27,9.5,44] / [-9,4.8,-49]",
+          "kind": "源码"
+        },
+        {
+          "name": "close position / target",
+          "value": "[26,12.5,-17] / [47,12,-61]",
+          "kind": "源码"
+        }
+      ],
+      "license": "未发现仓库根 LICENSE；作品代码授权待验证，只借手法，不复制代码/资产",
+      "reuse": "borrow",
+      "citadel": "src/world/worlds/place.js"
+    }
   ]
 }

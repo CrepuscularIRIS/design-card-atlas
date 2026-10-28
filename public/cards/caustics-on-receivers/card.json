@@ -89,5 +89,97 @@
       "role": "counterexample",
       "work_id": "webgl-seascape-cosmos"
     }
+  ],
+  "impl": [
+    {
+      "work": "Clearwater",
+      "source": "Repos/clearwater/index.html:283-347,508-522",
+      "technique": "WebGL2 水面梯度折射光线到水底，导数面积计算聚光，RGB 三通道累积到浮点 caustic RT，再采样调制河床 Esun；确为接收面受光，不是水面闪点。移植需连同水面场、RT/FBO、sun/深度和接收材质接口适配 Three.js，不能直接粘贴主循环。Citadel lab/src/scenes/Beach/shore.js:113-118,131-139 仅 BLUE 沙底视觉近似，可先复用，非物理折射。",
+      "params": [
+        {
+          "name": "caustic mesh G / target C",
+          "value": "256 / 1024",
+          "kind": "源码"
+        },
+        {
+          "name": "RGB water IOR",
+          "value": "[1.3315,1.3335,1.3365]，不是玻璃 IOR",
+          "kind": "源码"
+        },
+        {
+          "name": "intensity clamp",
+          "value": "40.0",
+          "kind": "源码"
+        },
+        {
+          "name": "white highlight area",
+          "value": "小于画面 5%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "MIT；版权 2026 Lumaris，移植保留声明",
+      "reuse": "integrate",
+      "citadel": "lab/src/scenes/Beach/shore.js"
+    },
+    {
+      "work": "Glass goblets · 12s",
+      "source": "none",
+      "technique": "原作源码未定位，许可待验证；邻接技术源 Repos/clearwater/index.html:297-339,508-522：可借折射→聚光纹理→接收面的分层，但 Clearwater 是水，不是棱面杯色散。Platform/cafe-1 器物可先复用 Citadel lab/src/scenes/Bar/index.js:143-165,177-185 的离光源侧静态月牙 decal；它不随折射求解、没有真实色散，杯体透射和投影方向需另接并验证，不编玻璃 IOR；不是原作实现，画面一致性待验证。",
+      "params": [
+        {
+          "name": "strong colored caustic area",
+          "value": "画面 10–25%",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "citadel static decal opacity / emissive",
+          "value": "0.6 / 0.4",
+          "kind": "源码"
+        }
+      ],
+      "license": "原作待验证；邻接源 MIT，原作资产不可据此复制",
+      "reuse": "reference",
+      "citadel": "lab/src/scenes/Bar/index.js"
+    },
+    {
+      "work": "Glass goblets · 21s",
+      "source": "none",
+      "technique": "原作源码未定位，许可待验证；邻接技术源 Repos/clearwater/index.html:297-339,508-522：可借折射→聚光纹理→接收面的分层，但 Clearwater 是水，不是棱面杯色散。Platform/cafe-1 器物可先复用 Citadel lab/src/scenes/Bar/index.js:143-165,177-185 的离光源侧静态月牙 decal；它不随折射求解、没有真实色散，杯体透射和投影方向需另接并验证，不编玻璃 IOR；不是原作实现，画面一致性待验证。",
+      "params": [
+        {
+          "name": "strong colored caustic area",
+          "value": "画面 10–25%",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "citadel static decal opacity / emissive",
+          "value": "0.6 / 0.4",
+          "kind": "源码"
+        }
+      ],
+      "license": "原作待验证；邻接源 MIT，原作资产不可据此复制",
+      "reuse": "reference",
+      "citadel": "lab/src/scenes/Bar/index.js"
+    },
+    {
+      "work": "清流 · 浅滩河床",
+      "source": "none",
+      "technique": "原作源码未定位，许可待验证；邻接技术源 Repos/clearwater/index.html:297-339,508-522：借水面法线折射到可见河床后调制入射光；Seiryu 原作实现未知。Citadel lab/src/scenes/Beach/shore.js:113-118,131-139 可先复用局限在近岸浅层的程序光网，当前只在 BLUE 有增益；不是物理焦散，不直接套到 Platform 玻璃杯；不是原作实现，画面一致性待验证。",
+      "params": [
+        {
+          "name": "citadel sand pattern scales / speeds",
+          "value": "2.2,3.7 / 0.16,-0.12",
+          "kind": "源码"
+        },
+        {
+          "name": "strong caustic area",
+          "value": "画面 10–25%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作待验证；邻接源 MIT，原作资产不可据此复制",
+      "reuse": "reference",
+      "citadel": "lab/src/scenes/Beach/shore.js"
+    }
   ]
 }

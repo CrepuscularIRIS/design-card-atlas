@@ -74,5 +74,77 @@
       "role": "counterexample",
       "work_id": "https://three-good-godrays.ameo.design/#sponza"
     }
+  ],
+  "impl": [
+    {
+      "work": "Athenaion · Grand staircase",
+      "source": "Repos/athenaion/src/acropolis/stair.js:165-219,483-501; Repos/athenaion/src/acropolis/materials.js:150-248,354-356",
+      "technique": "台阶以 S.get('tread') 生成断板、缺口、沉降和圆磨阶鼻，loadAcroMaterials 的 tread 键绑定独立 treadMaterial，非 ruinStoneMaterial。stepSlab 按立板脚、后接缝与阶鼻写入 aux.x 积垢带和 aux.y 磨损权重；材质再按法线筛选阶鼻、按行走轴减弱踏面斑驳，使苔藓集中在宽裂缝与接缝。roughness 0.5 是基础值，shader 按噪声及 aux 调整并 clamp 到 0.2–0.95。先复用 Citadel lab/src/scenes/Shrine/decor.js:69-86 已按缝/阶鼻坐标布置苔与裂缝的路线，再决定是否移植这套台阶材质与几何属性。",
+      "params": [
+        {
+          "name": "treadMaterial base roughness",
+          "value": "0.5；局部 shader clamp 0.2–0.95",
+          "kind": "源码"
+        },
+        {
+          "name": "uTrA axisX / walking half-width / moss / cracks",
+          "value": "24 / 5.5 / 1.35 / 1.15，位置与宽度为原场景单位",
+          "kind": "源码"
+        },
+        {
+          "name": "weathering area",
+          "value": "可见面 10–20%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "MIT；如移植需携带 acropolis 台阶几何与 aux 属性、core/materials.js 及 glsl/rng 依赖，保留声明",
+      "reuse": "integrate",
+      "citadel": "lab/src/scenes/Shrine/decor.js"
+    },
+    {
+      "work": "Athenaion · Fallen head",
+      "source": "Repos/athenaion/src/ruins/materials.js:165-187,299-307",
+      "technique": "RN_HEAD 分支使用 cavity、aux.z 天空可见度和 aux.w 头发分类，让污迹按形体分布；默认 ensureCav 不能凭空生成真实凹腔。Repos/athenaion/src/core/materials.js:65-89 负责 shader hooks。Citadel lab/src/scenes/Shrine/decor.js:69-86 只可复用依附结构的 decal 思路，不具有该头像属性；迁移属性生成与兼容性待验证。",
+      "params": [
+        {
+          "name": "required channels",
+          "value": "cav; aux.y=edge, aux.z=sky, aux.w=hair",
+          "kind": "源码"
+        },
+        {
+          "name": "migration roughness",
+          "value": "0.75–0.95",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "MIT；头像资产与属性生成需另核，未声称可只复制一段 GLSL",
+      "reuse": "integrate",
+      "citadel": "lab/src/scenes/Shrine/decor.js"
+    },
+    {
+      "work": "Athenaion · Ruined portico",
+      "source": "Repos/athenaion/src/ruins/portico.js:292-329,345-386",
+      "technique": "固定种子生成地砖边缘崩损与 cavity；缺砖避开主通道，裂缝与草从接缝生长，再交给 ruinStoneMaterial；这是同项目 shot9 可核的几何路线，不代称 shot6 台阶源码。Citadel lab/src/scenes/Shrine/decor.js:81-86 的 ST 坐标阶鼻贴片可先复用到 corridor/door-305 边缝，坐标需按场景重算。",
+      "params": [
+        {
+          "name": "wearW",
+          "value": "0.035 + 0.07 * chipN²",
+          "kind": "源码"
+        },
+        {
+          "name": "citadel stair decal opacity",
+          "value": "crack 0.35 / moss 0.3",
+          "kind": "源码"
+        },
+        {
+          "name": "weathering area",
+          "value": "可见面 10–20%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "MIT；移植保留声明，优先现成 Citadel decal，材质与几何链联动",
+      "reuse": "integrate",
+      "citadel": "lab/src/scenes/Shrine/decor.js"
+    }
   ]
 }
