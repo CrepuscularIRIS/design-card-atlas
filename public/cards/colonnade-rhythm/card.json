@@ -93,8 +93,8 @@
     },
     {
       "work": "Athenaion · Temple facade",
-      "source": "Repos/athenaion/src/modules/temple.js:53-67",
-      "technique": "peripteralTemple 按布局生成前后/两侧柱阵，darkCella 与内部减光保留柱间暗腔；尺寸在 src/world/layout.js:73-81，压缩透视机位在 src/world/shots.js:23-28。",
+      "source": "Repos/athenaion/src/arch/temple.js:267-307",
+      "technique": "peripteralTemple 本体通过 columnAxes 生成前后/两侧柱位并以 addInstance 发射柱体（src/arch/temple.js:267-307）；调用点 src/modules/temple.js:53-67 配置 darkCella 与内部减光以保留柱间暗腔；尺寸在 src/world/layout.js:73-81，压缩透视机位在 src/world/shots.js:23-28。",
       "params": [
         {
           "name": "columns",

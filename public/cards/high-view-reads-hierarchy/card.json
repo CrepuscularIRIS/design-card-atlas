@@ -12,7 +12,7 @@
   ],
   "mood": "开阔、统观",
   "summary": "把相机抬到能读懂地形与通路的位置，同时保留近景遮挡，避免把世界拍成桌面模型。",
-  "blog": "atlas 地点总览与 title 远景备选",
+  "blog": "street-1 场景总览机位；atlas/title locked, not changed",
   "shots": [
     {
       "file": "opus-a/qingming-dusk-wide.jpg",
@@ -80,7 +80,7 @@
     {
       "work": "清明上河 · 黄昏全城",
       "source": "Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:2500-2524",
-      "technique": "VIEWS.overview 在横竖屏分别设置斜俯瞰 position/target/FOV，bw 将桥局部平面坐标转世界坐标；不可把 bw 参数直接当 xyz。Citadel place.js:529-546 已有 named views/goView，可复用接口但必须重选场景机位。",
+      "technique": "VIEWS.overview 在横竖屏分别设置斜俯瞰 position/target/FOV，bw 将桥局部平面坐标转世界坐标；不可把 bw 参数直接当 xyz。Citadel place.js:529-546 已有 named views/goView，可复用接口但必须为 street-1 重选场景机位；atlas/title locked, not changed。",
       "params": [
         {
           "name": "landscape overview",

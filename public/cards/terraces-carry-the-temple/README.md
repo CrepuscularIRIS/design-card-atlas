@@ -42,7 +42,7 @@
 
 | 作品 | 源码（本地路径:行） | 技术与接入边界 | 参数（来源） | 许可 / 复用档 | Citadel 已有可复用入口 |
 |---|---|---|---|---|---|
-| Athenaion · 水庭 / Grand staircase / Panorama（同一作品三机位） | `Repos/athenaion/src/acropolis/stair.js:41-129` | planStair 按地形层台拆分梯段/休息平台，buildStair 实际发射阶梯、平台及承台；米制配置在 src/world/layout.js:37-68,100-110，主殿中心在:73-81，机位在 src/world/shots.js:11-16,29-34。需结合地形 levels 和建造依赖迁移，不能把台阶纹理当层台。 | acropolis top=54（源码）；terrace drops=12 / 12 / 11 / 10（源码）；riser / tread=0.23 / 0.33（源码）；landing / midLanding=7 / 2.8（源码）；flightRise=8.5（源码）；stair widths=12 / 14 / 16 / 18 / 21（源码） | MIT（LICENSE:1-21） / integrate | `none` |
+| Athenaion · 水庭 / Grand staircase / Panorama（同一作品三机位） | `Repos/athenaion/src/acropolis/stair.js:41-129` | planStair 按地形层台拆分梯段/休息平台，buildStair 实际发射阶梯、平台及承台；米制配置在 src/world/layout.js:37-68,100-110，主殿中心在:73-81，机位在 src/world/shots.js:5-10（全景）、11-14（水庭）、27-30（大阶梯）。需结合地形 levels 和建造依赖迁移，不能把台阶纹理当层台。 | acropolis top=54（源码）；terrace drops=12 / 12 / 11 / 10（源码）；riser / tread=0.23 / 0.33（源码）；landing / midLanding=7 / 2.8（源码）；flightRise=8.5（源码）；stair widths=12 / 14 / 16 / 18 / 21（源码） | MIT（LICENSE:1-21） / integrate | `none` |
 
 本批面向 CompanyMeetingroom 的基座/入口高差关系提案，不是给房间塞整座神殿；没有确认对应 cardfx，citadel=none。碰撞、可通行坡度与现有空间容积需先验证。
 

@@ -81,7 +81,7 @@
     {
       "work": "KESTREL-9 · 扫描 / 锁定（同一作品）",
       "source": "Repos/mg-styles-15/demos/22-hud/js/hud.js:1-141",
-      "technique": "Canvas2D 用细线/角标/三级明度画周边仪表，独立文字上下文，按 BOOT/SEARCH/SIGNAL DETECTED/LOCKED 切信息层级；事件色另由同仓 demos/22-hud/js/post.js:42-55 按目标径向波将 HUD 重染色，保留指定青色/真红区域。移植绘制器需接 cues、进度和合成依赖，不能把线色常量当最终像素；Citadel 未发现同等扫描/锁定叠层，已有 VerbHud.jsx:14-23 仅可借地点挂载/隐藏条件。",
+      "technique": "Canvas2D 用细线/角标/三级明度画周边仪表，独立文字上下文，按 BOOT/SEARCH/SIGNAL DETECTED/LOCKED 切信息层级；事件色另由同仓 demos/22-hud/js/post.js:42-55 按目标径向波将 HUD 重染色，保留指定青色/真红区域。移植绘制器需接 cues、进度和合成依赖，不能把线色常量当最终像素；Citadel 未发现同等扫描/锁定叠层，已有 src/ui/VerbHud.jsx:14-23 仅可借地点挂载/隐藏条件。",
       "params": [
         {
           "name": "stroke default width",
@@ -116,7 +116,7 @@
     {
       "work": "Warp Striker · 城市峡谷",
       "source": "Repos/awesome-opus5.5-frontend-showcases/repro/warp-shooter/index.html:23-57",
-      "technique": "绝对定位四角 HUD，用小标签/大数值和 1px 边框保留中央航道；src/hud.js:102-161 将游戏状态写入 DOM、将世界目标投影到屏幕，最多 6 个标记。仅移植边缘排版和状态绑定，不复制整套游戏 UI；Citadel 现有 VerbHud.jsx:14-23 不是等价细线叠层。",
+      "technique": "绝对定位四角 HUD，用小标签/大数值和 1px 边框保留中央航道；src/hud.js:102-161 将游戏状态写入 DOM、将世界目标投影到屏幕，最多 6 个标记。仅移植边缘排版和状态绑定，不复制整套游戏 UI；原作 index.html:52 的仪表 #7a1d6b 紫渐变接近项目禁区，勿移植；Citadel 现有 src/ui/VerbHud.jsx:14-23 不是等价细线叠层。",
       "params": [
         {
           "name": "cell border",

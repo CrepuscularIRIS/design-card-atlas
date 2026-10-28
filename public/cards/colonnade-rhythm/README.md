@@ -44,7 +44,7 @@
 | 作品 | 源码（本地路径:行） | 技术与接入边界 | 参数（来源） | 许可 / 复用档 | Citadel 已有可复用入口 |
 |---|---|---|---|---|---|
 | Blender cathedral interior | `none` | 原作石柱建模与布光待验证；邻接技术源 Repos/athenaion/src/modules/temple.js:53-67 以柱阵和暗内腔产生亮柱/暗隙节奏，不提供哥特柱束资产。 | 可见重复单元=6–10（建议迁移值） | 原作品源码及许可待验证；仅参考画面。邻接 Athenaion 源码为 MIT，不代表原作授权 / reference | `none` |
-| Athenaion · Temple facade | `Repos/athenaion/src/modules/temple.js:53-67` | peripteralTemple 按布局生成前后/两侧柱阵，darkCella 与内部减光保留柱间暗腔；尺寸在 src/world/layout.js:73-81，压缩透视机位在 src/world/shots.js:23-28。 | columns=front 8 / side 17（源码）；columnHeight=10.4（源码）；darkCella=true（源码）；interiorDark=0.5（源码）；facade FOV=18.5°（源码） | MIT（LICENSE:1-21） / integrate | `none` |
+| Athenaion · Temple facade | `Repos/athenaion/src/arch/temple.js:267-307` | peripteralTemple 本体通过 columnAxes 生成前后/两侧柱位并以 addInstance 发射柱体（src/arch/temple.js:267-307）；调用点 src/modules/temple.js:53-67 配置 darkCella 与内部减光以保留柱间暗腔；尺寸在 src/world/layout.js:73-81，压缩透视机位在 src/world/shots.js:23-28。 | columns=front 8 / side 17（源码）；columnHeight=10.4（源码）；darkCella=true（源码）；interiorDark=0.5（源码）；facade FOV=18.5°（源码） | MIT（LICENSE:1-21） / integrate | `none` |
 | Unreal 云上神殿与巨龙 | `none` | 原作朱柱、曲檐和反射源码未定位；邻接技术源 Repos/athenaion/src/modules/temple.js:53-67 可生成带暗腔的柱列，曲檐与朱漆材料仍需另找已授权资产。 | 相邻柱投影空隙=至少约柱宽 0.5 倍（建议迁移值） | 原作品源码及许可待验证；仅参考画面。邻接 Athenaion 源码为 MIT，不代表原作授权 / reference | `none` |
 
 本批面向 CompanyMeetingroom 的重复结构/暗腔提案；没有确认可直接复用的柱阵 cardfx，故 citadel=none。需先确认房间通路与遮挡，不强行把古典柱式搬进会议室。

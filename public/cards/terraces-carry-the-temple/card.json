@@ -80,7 +80,7 @@
     {
       "work": "Athenaion · 水庭 / Grand staircase / Panorama（同一作品三机位）",
       "source": "Repos/athenaion/src/acropolis/stair.js:41-129",
-      "technique": "planStair 按地形层台拆分梯段/休息平台，buildStair 实际发射阶梯、平台及承台；米制配置在 src/world/layout.js:37-68,100-110，主殿中心在:73-81，机位在 src/world/shots.js:11-16,29-34。需结合地形 levels 和建造依赖迁移，不能把台阶纹理当层台。",
+      "technique": "planStair 按地形层台拆分梯段/休息平台，buildStair 实际发射阶梯、平台及承台；米制配置在 src/world/layout.js:37-68,100-110，主殿中心在:73-81，机位在 src/world/shots.js:5-10（全景）、11-14（水庭）、27-30（大阶梯）。需结合地形 levels 和建造依赖迁移，不能把台阶纹理当层台。",
       "params": [
         {
           "name": "acropolis top",
