@@ -2741,3 +2741,93 @@
 - 机位/时间/步骤：ArtStation CDN 4k/large 实看；模块骨架+深雾远影+穹顶焦点
 - 维度/落点：megastructure-silhouette;fog-separates-depth;abyssal-megastructure;colossus-crosses-the-frame → Megastructure;Orbital;Canyon
 - 许可：版权归 exaii；ArtStation 公开；仅作视觉参考
+
+## 2026-10-28 R2
+
+### hotch8-tower-in-the-haze-2483.jpg
+- 作品名：The Tower in the Haze
+- 作者：hotch8
+- 原始 URL：https://www.artstation.com/artwork/x35Gl2
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R2）
+- 尺寸：2483×1495；sha256：`abda9f0fe19ed88cd90e3d5e54d47f803473a9236eafee11aa34bc2447cf5ac6`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；雾原废塔气船远哥特剪影；净废墟史诗建立；净环境
+- 维度/落点：framed-distant-view;fog-separates-depth;ruin-tower-haze;cold-world-warm-refuge → Gothic;Canyon;Megastructure
+- 许可：版权归 hotch8；ArtStation 公开；仅作视觉参考
+
+### perry-mushroom-lighthouse-3240.jpg
+- 作品名：Mushroom Lighthouse
+- 作者：perry
+- 原始 URL：https://www.artstation.com/artwork/4X5bo4
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R2）
+- 尺寸：3240×1920；sha256：`95be6b609fea6b0acc925e4aec3aae1ed5f581b318e9ec356a7c78af5c5b5fad`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；菌盖灯塔极光海岸；净孢子灯塔建立；净环境
+- 维度/落点：megastructure-silhouette;cold-world-warm-refuge;spore-lighthouse;ordered-frame-wild-growth → Shrine;Canyon;Megastructure
+- 许可：版权归 perry；ArtStation 公开；仅作视觉参考
+
+### freon-northern-research-station-3840.jpg
+- 作品名：Northern Research Station
+- 作者：freon
+- 原始 URL：https://www.artstation.com/artwork/LaavGk
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R2）
+- 尺寸：3840×2114；sha256：`1a23de9dd9f383f92a2f764948627b19acaf8e3cd9c5064534df1f24fa9ebe53`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；暴风雪中巨构科考站斜坡；净北极前哨建立；净环境
+- 维度/落点：megastructure-silhouette;cold-world-warm-refuge;arctic-outpost;colossus-crosses-the-frame → Orbital;Megastructure;Canyon
+- 许可：版权归 freon；ArtStation 公开；仅作视觉参考
+
+### marema-cistern-3840.jpg
+- 作品名：Cistern
+- 作者：marema
+- 原始 URL：https://www.artstation.com/artwork/xD0Enm
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R2）
+- 尺寸：3840×2715；sha256：`db7594183f6ffa151a1c7e1910c16fe55e73f53ff9d8362099dd76ece2c21eff`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；地下蓄水殿廊柱透视；净水库大教堂建立；净环境
+- 维度/落点：colonnade-rhythm;fog-separates-depth;underground-reservoir;framed-distant-view → Gothic;Shrine;Megastructure
+- 许可：版权归 marema；ArtStation 公开；仅作视觉参考
+
+### alejandro-xyz-fortress-between-mountain-and-sky-1930.jpg
+- 作品名：Fortress Between Mountain and Sky - Series
+- 作者：alejandro_xyz
+- 原始 URL：https://www.artstation.com/artwork/rl8LbE
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R2）
+- 尺寸：1930×1400；sha256：`0a2232fbf8ffcfebd940f3a0f19b36e0368a64ffccda8fc104c1b48b5a171df1`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；崖间哥特堡垒金辉雪峰；净高山崖站建立；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;alpine-cliff-fortress;cold-world-warm-refuge → Canyon;Gothic;Megastructure
+- 许可：版权归 alejandro_xyz；ArtStation 公开；仅作视觉参考
+
+### archanain-tranquil-sunset-pagoda-3840.jpg
+- 作品名：Tranquil Sunset Pagoda
+- 作者：archanain
+- 原始 URL：https://www.artstation.com/artwork/rJG2YO
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R2）
+- 尺寸：3840×2251；sha256：`0bdcf6bab35d2289fd42214b5764617c7c3ceeb0f00feba5c1483623096e0305`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；夕照倒影湖心桥塔；净镜湖神龛建立；净环境
+- 维度/落点：framed-distant-view;cold-world-warm-refuge;mirrored-lagoon-shrine;colonnade-rhythm → Shrine;Canyon;Megastructure
+- 许可：版权归 archanain；ArtStation 公开；仅作视觉参考
+
+### rajdeephalder-industrial-warzone-2560.jpg
+- 作品名：Industrial Warzone | Cinematic 3D Environment
+- 作者：rajdeephalder
+- 原始 URL：https://www.artstation.com/artwork/yAAmWJ
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R2）
+- 尺寸：2560×1440；sha256：`eee36ac339643438655498758291bd1c9bfa2d6530aaa6de762577f86818017c`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；巨型工业炮台炼厂轨道网；净能源铸造巨构建立；净环境
+- 维度/落点：megastructure-silhouette;high-view-reads-hierarchy;energy-foundry;colossus-crosses-the-frame → Megastructure;Canyon;Orbital
+- 许可：版权归 rajdeephalder；ArtStation 公开；仅作视觉参考
+
+### dylanballesteros-outpost-environment-1920.jpg
+- 作品名：Outpost Environment
+- 作者：dylanballesteros
+- 原始 URL：https://www.artstation.com/artwork/AlQYoo
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R2）
+- 尺寸：1920×1080；sha256：`3fd20bf721d9f8f6c697bd1b52259ea0d407cb142da095e99400374a1d2f6c9f`
+- 机位/时间/步骤：ArtStation CDN 4k/large 实看；藤蔓覆没科幻前哨坠舰；净丛林前哨建立；净环境
+- 维度/落点：ordered-frame-wild-growth;framed-distant-view;jungle-outpost;cold-world-warm-refuge → Canyon;Megastructure;Shrine
+- 许可：版权归 dylanballesteros；ArtStation 公开；仅作视觉参考
