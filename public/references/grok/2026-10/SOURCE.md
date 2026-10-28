@@ -2831,3 +2831,92 @@
 - 机位/时间/步骤：ArtStation CDN 4k/large 实看；藤蔓覆没科幻前哨坠舰；净丛林前哨建立；净环境
 - 维度/落点：ordered-frame-wild-growth;framed-distant-view;jungle-outpost;cold-world-warm-refuge → Canyon;Megastructure;Shrine
 - 许可：版权归 dylanballesteros；ArtStation 公开；仅作视觉参考
+
+### raylopez-cenote-temple-1920.jpg
+- 作品名：Cenote Temple Underground Environment Art for Mystery Box Challenge
+- 作者：raylopez
+- 原始 URL：https://www.artstation.com/artwork/L3ekOR
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R3）
+- 尺寸：1920×1135；sha256：`98742005bd0cd6a735966366c2b01ef6509214b80aaeaf20ae6adb3f3c126fb6`
+- 机位/时间/步骤：CDN 4k/large 实看；地底溶洞火光映石阶神庙；净石灰岩洞殿建立；净环境
+- 维度/落点：fog-separates-depth;ordered-frame-wild-growth;cenote-temple;framed-distant-view → 博客 Shrine;Canyon;Gothic
+- 许可：版权归 raylopez；ArtStation 公开；仅作视觉参考
+
+### quimescarra-dead-tide-1920.jpg
+- 作品名：Dead Tide — Environment Art | Unreal Engine
+- 作者：quimescarra
+- 原始 URL：https://www.artstation.com/artwork/9BwgaO
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R3）
+- 尺寸：1920×1080；sha256：`09bf8ec27b243738b1f6f645ae4bf99767706395026d51c26548368b738d88d4`
+- 机位/时间/步骤：CDN 4k/large 实看；洞口金光瀑雾中的层叠神殿遗迹；净洞穴神殿建立；净环境
+- 维度/落点：framed-distant-view;fog-separates-depth;cavern-temple-ruin;ordered-frame-wild-growth → 博客 Shrine;Canyon;Gothic
+- 许可：版权归 quimescarra；ArtStation 公开；仅作视觉参考
+
+### trixer-abandoned-alien-outpost-2238.jpg
+- 作品名：Abandoned alien outpost.
+- 作者：trixer
+- 原始 URL：https://www.artstation.com/artwork/QnzqQ3
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R3）
+- 尺寸：2238×1242；sha256：`d2d285c52be465b25ed63082c3a485e1e518d6ce95871d819880279802c7dd03`
+- 机位/时间/步骤：CDN 4k/large 实看；月面陨坑环塔与棱锥巨构俯视；净轨道工业建立；净环境
+- 维度/落点：megastructure-silhouette;high-view-reads-hierarchy;lunar-crater-outpost;colossus-crosses-the-frame → 博客 Orbital;Megastructure;Canyon
+- 许可：版权归 trixer；ArtStation 公开；仅作视觉参考
+
+### alejandro-xyz-collapsed-industrial-zone-3325.jpg
+- 作品名：Collapsed Industrial Zone - Series
+- 作者：alejandro_xyz
+- 原始 URL：https://www.artstation.com/artwork/NqD4E1
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R3）
+- 尺寸：3325×1400；sha256：`15299f39dbb67783f99ee54e967acbe86a97f62ac7f4153b89344059cc1c5e59`
+- 机位/时间/步骤：CDN 4k/large 实看；雾中崩塌工业广场巨构纵深；净工业废墟建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;industrial-collapse;high-view-reads-hierarchy → 博客 Megastructure;Canyon;Gothic
+- 许可：版权归 alejandro_xyz；ArtStation 公开；仅作视觉参考
+
+### theauthor-cenote-ik-kil-1920.jpg
+- 作品名：Cenote ik Kil 02
+- 作者：theauthor
+- 原始 URL：https://www.artstation.com/artwork/LLblv
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R3）
+- 尺寸：1920×1093；sha256：`5b2903c8d0e8eec94ee4c10fd79db2d49f39d04ddd240a186ff78dc66cc1ff34`
+- 机位/时间/步骤：CDN 4k/large 实看；石灰岩溶洞藤蔓与天光水潭；净自然溶洞圣所；净环境
+- 维度/落点：fog-separates-depth;ordered-frame-wild-growth;limestone-cenote;cold-world-warm-refuge → 博客 Shrine;Canyon;Megastructure
+- 许可：版权归 theauthor；ArtStation 公开；仅作视觉参考
+
+### marsmotion-sea-city-2-3840.jpg
+- 作品名：Sea City 2
+- 作者：marsmotion
+- 原始 URL：https://www.artstation.com/artwork/NxVkoD
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R3）
+- 尺寸：3840×2127；sha256：`89ee3e25e1533b02c46bfd05bd9e431c54ca30c0484214b8112d9c8e7810c9e8`
+- 机位/时间/步骤：CDN 4k/large 实看；夕照海中圆形浮港与中央塔；净潮汐港湾巨构；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;tide-harbor-disc;high-view-reads-hierarchy → 博客 Harbor;Orbital;Megastructure
+- 许可：版权归 marsmotion；ArtStation 公开；仅作视觉参考
+
+### hamada-hamada-aurelia-golden-spire-city-3840.jpg
+- 作品名：Aurelia - Golden Spire City | Sci-Fi Environment Concept
+- 作者：hamada_hamada
+- 原始 URL：https://www.artstation.com/artwork/eRbnrZ
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R3）
+- 尺寸：3840×2025；sha256：`4c8cc3bd203d2be12c08b8083670097a6cf77f28828e45a7c8dbf173bd0affda`
+- 机位/时间/步骤：CDN 4k/large 实看；橙黄塔群与阶台神殿出海雾；净日耀港城建立；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;golden-spire-harbor;cold-world-warm-refuge → 博客 Harbor;Megastructure;Shrine
+- 许可：版权归 hamada_hamada；ArtStation 公开；仅作视觉参考
+
+### sammler-victorian-greenhouse-1920.jpg
+- 作品名：Victorian Greenhouse - Lighting Study (Unreal Engine)
+- 作者：sammler
+- 原始 URL：https://www.artstation.com/artwork/q099zL
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R3）
+- 尺寸：1920×2562；sha256：`856318d6d1d62c4553274bea932dfc2c38947208ed7979e5ca916b2a2fd5ea81`
+- 机位/时间/步骤：CDN 4k/large 实看；维多利亚玻璃暖房睡莲池透光；净植物温室建立；净环境
+- 维度/落点：colonnade-rhythm;ordered-frame-wild-growth;victorian-glasshouse;framed-distant-view → 博客 Shrine;Megastructure;Canyon
+- 许可：版权归 sammler；ArtStation 公开；仅作视觉参考
+
