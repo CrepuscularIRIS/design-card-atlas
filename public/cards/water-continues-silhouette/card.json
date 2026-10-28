@@ -74,5 +74,77 @@
       "role": "counterexample",
       "work_id": "webgl-seascape-cosmos"
     }
+  ],
+  "impl": [
+    {
+      "work": "江南山谷 · 清晨河岸",
+      "source": "Repos/webgl-seascape-video/jiangnan/src/02_terrain.js:262-267,310-389",
+      "technique": "Reflector 反射真实场景、Fresnel 混合深浅水底，法线小幅扰动反射UV；不用任意倒影贴图替代岸上对象",
+      "params": [
+        {
+          "name": "clipBias",
+          "value": "0.002",
+          "kind": "源码"
+        },
+        {
+          "name": "Fresnel F0",
+          "value": "0.02",
+          "kind": "源码"
+        },
+        {
+          "name": "UV扰动系数",
+          "value": "0.02",
+          "kind": "源码"
+        }
+      ],
+      "license": "无根 LICENSE",
+      "reuse": "borrow",
+      "citadel": "src/world/worlds/planarWaterReflection.js:6-30,33-70"
+    },
+    {
+      "work": "清明上河 · 雨中虹桥",
+      "source": "Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:1088-1103",
+      "technique": "由河道左右边界生成 Reflector 网格，水面 y=0；相机层选择反射对象，雨扰动在 WaterShader 中需同时接入",
+      "params": [
+        {
+          "name": "WATER_Y",
+          "value": "0",
+          "kind": "源码"
+        },
+        {
+          "name": "clipBias",
+          "value": "0.002",
+          "kind": "源码"
+        }
+      ],
+      "license": "无根 LICENSE",
+      "reuse": "borrow",
+      "citadel": "src/world/worlds/planarWaterReflection.js:6-30,33-70"
+    },
+    {
+      "work": "Falcon 9 · 海面降落",
+      "source": "Repos/falcon9-blender/film/envs.py:231-254",
+      "technique": "Blender 海面 Principled BSDF 低粗糙度+世界坐标噪声 bump；函数默认值非56s成片的已核实实参，WebGL用项目平面反射替代光追",
+      "params": [
+        {
+          "name": "rough 默认",
+          "value": "0.06",
+          "kind": "源码"
+        },
+        {
+          "name": "IOR",
+          "value": "1.33",
+          "kind": "源码"
+        },
+        {
+          "name": "wave_bump 默认",
+          "value": "0.25",
+          "kind": "源码"
+        }
+      ],
+      "license": "源码 MIT；模型/成片 CC BY-NC 4.0",
+      "reuse": "integrate",
+      "citadel": "src/world/worlds/planarWaterReflection.js:6-30,33-70"
+    }
   ]
 }

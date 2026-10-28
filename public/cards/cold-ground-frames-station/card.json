@@ -1,0 +1,215 @@
+{
+  "id": "cold-ground-frames-station",
+  "title": "冷境承托设施",
+  "group": "造型尺度",
+  "dimension": "D",
+  "dimensions": [
+    "D 模块与环境尺度",
+    "B 冷底点色",
+    "C 实体与空地",
+    "A 受光与遮蔽",
+    "F 风雪距离"
+  ],
+  "mood": "孤立、坚守",
+  "summary": "让冷色空地或寒雾托出人工设施，用连廊、入口和小型载具说明人在巨构中如何停留。",
+  "blog": "landfill-room-1 模块远端、black-city-1 巨构入口；只借寒境组织，不新增极地场景",
+  "impl": [
+    {
+      "work": "Antarctica Research Station",
+      "source": "none",
+      "technique": "原作源码未取得；邻接技术源 Repos/fable-refinery/index.html:866-888,984-1025（MIT） 提供模块体块和显式连接端点，Repos/lygia/lighting/raymarch/fog.glsl:31-35（Prosperity 3.0，只借指数距离雾手法） 提供冷境距离衰减。穹顶拓扑邻接 Repos/hexasphere.js/src/hexasphere.js:90-112（package.json 声明 MIT，未见独立 LICENSE，复制前复核）：这是六/五边双对偶网格，非图中三角玻璃原实现，只作拓扑参考。先搭设施与通路，再用冷色环境/距离雾分离；雾本身不会生成雪、冰或湿面。所有迁移待运行验证。",
+      "params": [
+        {
+          "name": "设施/环境画面面积",
+          "value": "约40:60 起步",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "冷主色",
+          "value": "#9CB2C2",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "可识别入口画宽",
+          "value": "2–5%",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "雾公式",
+          "value": "1-exp(-distance*density)",
+          "kind": "源码"
+        }
+      ],
+      "license": "原作版权归艺术家，未取得代码/资产许可；邻接源分别标注",
+      "reuse": "borrow",
+      "citadel": "none"
+    },
+    {
+      "work": "Arctic Sci-Fi Research Base – Environment Design",
+      "source": "none",
+      "technique": "原作源码未取得；邻接技术源 Repos/fable-refinery/index.html:866-888,984-1025（MIT） 提供模块体块和显式连接端点，Repos/lygia/lighting/raymarch/fog.glsl:31-35（Prosperity 3.0，只借指数距离雾手法） 提供冷境距离衰减。穹顶拓扑邻接 Repos/hexasphere.js/src/hexasphere.js:90-112（package.json 声明 MIT，未见独立 LICENSE，复制前复核）：这是六/五边双对偶网格，非图中三角玻璃原实现，只作拓扑参考。先搭设施与通路，再用冷色环境/距离雾分离；雾本身不会生成雪、冰或湿面。所有迁移待运行验证。",
+      "params": [
+        {
+          "name": "设施/环境画面面积",
+          "value": "约40:60 起步",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "冷主色",
+          "value": "#9CB2C2",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "可识别入口画宽",
+          "value": "2–5%",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "雾公式",
+          "value": "1-exp(-distance*density)",
+          "kind": "源码"
+        }
+      ],
+      "license": "原作版权归艺术家，未取得代码/资产许可；邻接源分别标注",
+      "reuse": "borrow",
+      "citadel": "none"
+    },
+    {
+      "work": "Arctic Research Station",
+      "source": "none",
+      "technique": "原作源码未取得；邻接技术源 Repos/fable-refinery/index.html:866-888,984-1025（MIT） 提供模块体块和显式连接端点，Repos/lygia/lighting/raymarch/fog.glsl:31-35（Prosperity 3.0，只借指数距离雾手法） 提供冷境距离衰减。穹顶拓扑邻接 Repos/hexasphere.js/src/hexasphere.js:90-112（package.json 声明 MIT，未见独立 LICENSE，复制前复核）：这是六/五边双对偶网格，非图中三角玻璃原实现，只作拓扑参考。先搭设施与通路，再用冷色环境/距离雾分离；雾本身不会生成雪、冰或湿面。所有迁移待运行验证。",
+      "params": [
+        {
+          "name": "设施/环境画面面积",
+          "value": "约40:60 起步",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "冷主色",
+          "value": "#9CB2C2",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "可识别入口画宽",
+          "value": "2–5%",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "雾公式",
+          "value": "1-exp(-distance*density)",
+          "kind": "源码"
+        }
+      ],
+      "license": "原作版权归艺术家，未取得代码/资产许可；邻接源分别标注",
+      "reuse": "borrow",
+      "citadel": "none"
+    },
+    {
+      "work": "Northern Research Station",
+      "source": "none",
+      "technique": "原作源码未取得；邻接技术源 Repos/fable-refinery/index.html:866-888,984-1025（MIT） 提供模块体块和显式连接端点，Repos/lygia/lighting/raymarch/fog.glsl:31-35（Prosperity 3.0，只借指数距离雾手法） 提供冷境距离衰减。此帧是斜向暗立面与小入口，不声称含其他三帧的穹顶/筒仓组合。先搭设施与通路，再用冷色环境/距离雾分离；雾本身不会生成雪、冰或湿面。所有迁移待运行验证。",
+      "params": [
+        {
+          "name": "设施/环境画面面积",
+          "value": "约40:60 起步",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "冷主色",
+          "value": "#9CB2C2",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "可识别入口画宽",
+          "value": "2–5%",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "雾公式",
+          "value": "1-exp(-distance*density)",
+          "kind": "源码"
+        }
+      ],
+      "license": "原作版权归艺术家，未取得代码/资产许可；邻接源分别标注",
+      "reuse": "borrow",
+      "citadel": "none"
+    }
+  ],
+  "shots": [
+    {
+      "file": "grok/2026-10/jeromecristalli-antarctica-research-station-3705.jpg",
+      "local": "shots/01.jpg",
+      "work": "Antarctica Research Station",
+      "url": "https://www.artstation.com/artwork/zPRVWZ",
+      "proof": "中央穹顶与红白分舱由细连廊接起，雪地留出建筑之间的空白。",
+      "capture": "2026-10-28 headless Chrome 浏览器打开归档原图并 decode；原生 3705×1702；无裁切/放大；非实时 demo、非本轮重渲染。",
+      "kind": "作者概念图/环境渲染；归档静帧实看，非可运行网页截图",
+      "work_id": "grok-g796",
+      "dimensions": [
+        3705,
+        1702
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "grok/2026-10/nizar-sadek-arctic-sci-fi-research-base-1920.jpg",
+      "local": "shots/02.jpg",
+      "work": "Arctic Sci-Fi Research Base – Environment Design",
+      "url": "https://www.artstation.com/artwork/Gvnagd",
+      "proof": "中央球体、竖罐和低模块在暗蓝雪场中分成三档，雪点不能抹掉外形。",
+      "capture": "2026-10-28 headless Chrome 浏览器打开归档原图并 decode；原生 1920×1020；无裁切/放大；非实时 demo、非本轮重渲染。",
+      "kind": "作者概念图/环境渲染；归档静帧实看，非可运行网页截图",
+      "work_id": "grok-g797",
+      "dimensions": [
+        1920,
+        1020
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "grok/2026-10/vholovko-arctic-research-station-1920.jpg",
+      "local": "shots/03.jpg",
+      "work": "Arctic Research Station",
+      "url": "https://www.artstation.com/artwork/rR39eL",
+      "proof": "右侧双塔天桥和左侧低穹顶分级，前景橙色飞机压出远近。",
+      "capture": "2026-10-28 headless Chrome 浏览器打开归档原图并 decode；原生 1920×1080；无裁切/放大；非实时 demo、非本轮重渲染。",
+      "kind": "作者概念图/环境渲染；归档静帧实看，非可运行网页截图",
+      "work_id": "grok-g798",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "grok/2026-10/freon-northern-research-station-3840.jpg",
+      "local": "shots/04.jpg",
+      "work": "Northern Research Station",
+      "url": "https://www.artstation.com/artwork/LaavGk",
+      "proof": "斜向暗立面下的小亮入口与人物标尺度；冷光、湿面和电杆加强暴露感，不能据此认定雪厚。",
+      "capture": "2026-10-28 headless Chrome 浏览器打开归档原图并 decode；原生 3840×2114；无裁切/放大；非实时 demo、非本轮重渲染。",
+      "kind": "作者概念图/环境渲染；归档静帧实看，非可运行网页截图",
+      "work_id": "grok-g1336",
+      "dimensions": [
+        3840,
+        2114
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "grok/2026-10/rajdeephalder-industrial-warzone-2560.jpg",
+      "local": "shots/05.jpg",
+      "work": "Industrial Warzone | Cinematic 3D Environment",
+      "url": "https://www.artstation.com/artwork/yAAmWJ",
+      "proof": "设备与轨道铺满画面，下部缺少安静冷底；同为设施巨构，不等于寒境托举。",
+      "capture": "2026-10-28 headless Chrome 浏览器打开归档原图并 decode；原生 2560×1440；无裁切/放大；非实时 demo、非本轮重渲染。",
+      "kind": "作者概念图/环境渲染；归档静帧实看，非可运行网页截图",
+      "work_id": "grok-g1340",
+      "dimensions": [
+        2560,
+        1440
+      ],
+      "role": "counterexample"
+    }
+  ]
+}

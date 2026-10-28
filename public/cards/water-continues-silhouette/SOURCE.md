@@ -37,3 +37,13 @@
 - 尺寸：1920×1080；原尺寸保存，未放大、改色或重绘。
 - SHA256：`7aa4c416230909d14ddd2cfc4ebc7ca4759b67c4aa1db0c2a2b8e6c80fb04019`
 - [原片与操作详情](../../references/light-water/SOURCE.md)。
+
+## 2026-10-28 实现索引核对
+
+本轮不重拍既有视觉参考，仅新增读源码证据；图像来源与视频许可沿用上表。`source: none` 的作品仍无已确认原作源码，邻接实现不证明作品算法。Citadel 仅做只读检索，未改场景/预制模块。
+
+- `Repos/falcon9-blender`：读取版本 `c6a6349c0968870a7a864f8ba44d2182cafad60e`；具体文件与行、参数、许可分工见 README 实现表。LICENSE 仅授予 Python/脚本 MIT；LICENSE-ASSETS.md 对模型/渲染/成片为 CC BY-NC 4.0，不混用。
+- `Repos/qingming-bianjing`：读取版本 `d9d85a0a19e9e52daa028e37407637c3da211f31`；具体文件与行、参数、许可分工见 README 实现表。未见根 LICENSE，borrow；vendor 的 Three MIT 不授予整部作品许可。
+- `Repos/webgl-seascape-video`：读取版本 `915cb7c9a318e03bd2228bc232494b496ff2316c`；具体文件与行、参数、许可分工见 README 实现表。未见根 LICENSE，borrow；当前模块化代码不等同归档915cb7c9的单文件成片版本。
+
+参数的源码默认值不等于既有截图的已验证运行实参；建议迁移值均待目标场景验证。

@@ -37,6 +37,16 @@
 - 用同一环境光检查亮边能否随角度变化；如果始终整片同亮，先检查是否误把反光写成自发光。金色本身不能证明“金属”。
 - 本卡未核实角色视频的shader或资产来源，不提供伪造的源码永久链接；可见造型与材料分工才是本卡内容。
 
+### 实现索引
+
+2026-10-28 已打开本地源码核对；当前 checkout 不等同旧成片版本。参数区分源码与建议迁移值，尚未在 Citadel 运行复刻。`citadel: none` 是尚未找到可复用实现，不是已落地声明。第三方路径相对 `~/Blog/`，Citadel 路径相对 `~/Blog/citadel/`。固定版本与许可见 [SOURCE.md](SOURCE.md)。
+
+| 作品 | 源码 / 邻接与手法 | 参数及性质 | 许可 / 复用 | Citadel 可复用实现 |
+|---|---|---|---|---|
+| Athenaion · Temple facade | `Repos/athenaion/src/materials/metal.js:22-55,76-104`；金属材质按 cavity 压暗、edge 提亮，金饰单独赋材质；需 core/materials.js 与 marble.js AO/noise 依赖，非整栋描金 | gold roughness=0.4（源码）；gold wear=0.45（源码）；metalness 基值=1（源码）；金饰可见面积=5–10%（建议迁移值） | MIT / integrate | `none` |
+| 悟空 · 金箍与棍端 | `none`；原作源码未取得；邻接技术源 Repos/athenaion/src/materials/metal.js:22-55,76-104（MIT）。仅以 goldMaterial 的受光亮边邻接；角色、皮毛与模型不迁移；不是原作实现证明，迁移待验证。 | gold roughness=0.4（源码）；石材 roughness=0.7–0.9（建议迁移值） | 原作许可未明；邻接源许可见说明 / borrow | `none` |
+| Athenaion · Grand staircase | `Repos/athenaion/src/materials/metal.js:22-55,76-104`；金属材质按 cavity 压暗、edge 提亮，金饰单独赋材质；需 core/materials.js 与 marble.js AO/noise 依赖，非整栋描金 | gold roughness=0.4（源码）；gold wear=0.45（源码）；metalness 基值=1（源码）；金饰可见面积=5–10%（建议迁移值） | MIT / integrate | `none` |
+
 ## 迁移到博客
 
 Shrine仅给门钉、柱脚或一处纹章增加金饰，大石面与木柱保持哑；BlackCityHall若使用徽记，先让金色集中于标识边界，别把整座城描金。人物参考只借材质层次，不把现有2D角色改成3D或复制悟空资产。

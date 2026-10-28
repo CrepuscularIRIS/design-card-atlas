@@ -36,9 +36,19 @@
 - **迁移试验**：从一个熟悉小物的视高出发，逐步靠近，让巨物约1/4–1/2延出画框；脸/手势/门拱等关键识别线保留至少一组。这是构图建议而非测量原作裁切率。
 - 禁止依赖强景深把背景全抹掉来假装尺度，先在清楚的灰模里成立。
 
+### 实现索引
+
+2026-10-28 已打开本地源码核对；当前 checkout 不等同旧成片版本。参数区分源码与建议迁移值，尚未在 Citadel 运行复刻。`citadel: none` 是尚未找到可复用实现，不是已落地声明。第三方路径相对 `~/Blog/`，Citadel 路径相对 `~/Blog/citadel/`。固定版本与许可见 [SOURCE.md](SOURCE.md)。
+
+| 作品 | 源码 / 邻接与手法 | 参数及性质 | 许可 / 复用 | Citadel 可复用实现 |
+|---|---|---|---|---|
+| 云上石像 | `none`；原作源码未取得；邻接技术源 Repos/athenaion/src/modules/statues.js:197-269；Repos/athenaion/src/world/shots.js:24-42（MIT）。buildColossus 生成完整立像后用相机裁切；原龙/佛像资产不可用，此源只提供巨物尺度与取景邻接技术；不是原作实现证明，迁移待验证。 | figure scale=size / 2.0（源码）；出框比例=1/4–1/2（建议迁移值）；相机视高=1.6m（建议迁移值） | 原作许可未明；邻接源许可见说明 / borrow | `none` |
+| 中式幻想 RPG · 雾中巨像 | `none`；原作源码未取得；邻接技术源 Repos/athenaion/src/modules/statues.js:197-269；Repos/athenaion/src/world/shots.js:24-42（MIT）。buildColossus 生成完整立像后用相机裁切；原龙/佛像资产不可用，此源只提供巨物尺度与取景邻接技术；不是原作实现证明，迁移待验证。 | figure scale=size / 2.0（源码）；出框比例=1/4–1/2（建议迁移值）；相机视高=1.6m（建议迁移值） | 原作许可未明；邻接源许可见说明 / borrow | `none` |
+| Unreal 云上神殿与巨龙 | `none`；原作源码未取得；邻接技术源 Repos/athenaion/src/modules/statues.js:197-269；Repos/athenaion/src/world/shots.js:24-42（MIT）。buildColossus 生成完整立像后用相机裁切；原龙/佛像资产不可用，此源只提供巨物尺度与取景邻接技术；不是原作实现证明，迁移待验证。 | figure scale=size / 2.0（源码）；出框比例=1/4–1/2（建议迁移值）；相机视高=1.6m（建议迁移值） | 原作许可未明；邻接源许可见说明 / borrow | `none` |
+
 ## 迁移到博客
 
-Shrine会面背景可让像身出框但保留手与脸；title近地标取景可截掉楼顶，保留低处门窗。2D人物不能被巨大前景无意遮脸，取景需结合角色层一起看。
+Shrine（`shrine-1`）会面背景可让像身出框但保留手与脸；BlackCity（`black-city-1`）可借工业立面出框保留门窗。title 已锁定，不纳入本批迁移。2D人物不能被巨大前景无意遮脸，取景需结合角色层一起看。
 
 搭配熟悉物标定巨构、逆光露轮廓；与“全场景一眼看完”的俯瞰地图属于不同机位目标，不在同一镜头强求两者。
 

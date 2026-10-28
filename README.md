@@ -8,7 +8,7 @@
 
 给 Crepuscular Citadel 的 3D 场景与 UI 的参考图册。<br>每张卡只讲一种视觉语言，配一组真实画面；指着图说「做成这样」。
 
-<sub>25 张视觉卡 · 3 个场景配方 · 头图：<a href="https://silentfleetkk.github.io/qingming-bianjing/opus-5.5/qingming-bianjing.html">清明上河 · 黄昏全城</a></sub>
+<sub>27 张视觉卡 · 3 个场景配方 · 头图：<a href="https://silentfleetkk.github.io/qingming-bianjing/opus-5.5/qingming-bianjing.html">清明上河 · 黄昏全城</a></sub>
 
 <a href="#光影">光影</a> · <a href="#色彩">色彩</a> · <a href="#构图重心">构图重心</a> · <a href="#造型尺度">造型尺度</a> · <a href="#材质">材质</a> · <a href="#水与大气">水与大气</a> · <a href="#镜头运动">镜头运动</a> · <a href="#排版-ui">排版 UI</a> · <a href="#场景配方">场景配方</a>
 
@@ -131,6 +131,17 @@
 
 ## 造型尺度
 
+### 冷境承托设施
+
+> 让冷色空地或寒雾托出人工设施，用连廊、入口和小型载具说明人在巨构中如何停留。
+
+<table>
+<tr><td width="33%" valign="top"><a href="public/cards/cold-ground-frames-station/shots/01.jpg"><img src="public/cards/cold-ground-frames-station/shots/01.jpg" width="100%" alt="Antarctica Research Station：中央穹顶与红白分舱由细连廊接起，雪地留出建筑之间的空白。"></a></td><td width="33%" valign="top"><a href="public/cards/cold-ground-frames-station/shots/02.jpg"><img src="public/cards/cold-ground-frames-station/shots/02.jpg" width="100%" alt="Arctic Sci-Fi Research Base – Environment Design：中央球体、竖罐和低模块在暗蓝雪场中分成三档，雪点不能抹掉外形。"></a></td><td width="33%" valign="top"><a href="public/cards/cold-ground-frames-station/shots/03.jpg"><img src="public/cards/cold-ground-frames-station/shots/03.jpg" width="100%" alt="Arctic Research Station：右侧双塔天桥和左侧低穹顶分级，前景橙色飞机压出远近。"></a></td></tr>
+<tr><td valign="top"><sub><a href="https://www.artstation.com/artwork/zPRVWZ">Antarctica Research Station</a></sub></td><td valign="top"><sub><a href="https://www.artstation.com/artwork/Gvnagd">Arctic Sci-Fi Research Base – Environment Design</a></sub></td><td valign="top"><sub><a href="https://www.artstation.com/artwork/rR39eL">Arctic Research Station</a></sub></td></tr>
+</table>
+
+<sub>**情绪** 孤立、坚守 · **用在博客** landfill-room-1 模块远端、black-city-1 巨构入口；只借寒境组织，不新增极地场景 · <a href="public/cards/cold-ground-frames-station/README.md">拆解与做法 →</a></sub>
+
 ### 柱廊明暗节奏
 
 > 用重复的柱身与暗腔给空间节拍，再用递减的间距把视线带向深处。
@@ -152,6 +163,17 @@
 </table>
 
 <sub>**情绪** 压迫、敬畏 · **用在博客** Shrine 巨像、title 近地标取景 · <a href="public/cards/colossus-crosses-the-frame/README.md">拆解与做法 →</a></sub>
+
+### 管网串起巨构
+
+> 用粗管、桥架与运输线把设备串成有功能的整体，巨构的尺度来自连接关系，不只来自堆大的盒子。
+
+<table>
+<tr><td width="33%" valign="top"><a href="public/cards/networks-link-industrial-masses/shots/01.jpg"><img src="public/cards/networks-link-industrial-masses/shots/01.jpg" width="100%" alt="Geothermal Plant part 1：左侧粗管接入成组立罐，后方水平管线延至远处，青绿热泉留出设备轮廓。"></a></td><td width="33%" valign="top"><a href="public/cards/networks-link-industrial-masses/shots/02.jpg"><img src="public/cards/networks-link-industrial-masses/shots/02.jpg" width="100%" alt="The Pipe City：近粗管框住中部青色通道，小人所在桥面把管径变成可感尺度。"></a></td><td width="33%" valign="top"><a href="public/cards/networks-link-industrial-masses/shots/03.jpg"><img src="public/cards/networks-link-industrial-masses/shots/03.jpg" width="100%" alt="Power Grid：上部工人桥面压住下方深坑，管与缆沿多层环向结构延续。"></a></td></tr>
+<tr><td valign="top"><sub><a href="https://www.artstation.com/artwork/ykvLaQ">Geothermal Plant part 1</a></sub></td><td valign="top"><sub><a href="https://www.artstation.com/artwork/Bkr6eD">The Pipe City</a></sub></td><td valign="top"><sub><a href="https://www.artstation.com/artwork/L4Vb4K">Power Grid</a></sub></td></tr>
+</table>
+
+<sub>**情绪** 运转、沉重 · **用在博客** landfill-1 工业远景、landfill-room-1 罐体与检修通道；不迁入炮台/地热资产 · <a href="public/cards/networks-link-industrial-masses/README.md">拆解与做法 →</a></sub>
 
 ### 骨架规整草木野
 

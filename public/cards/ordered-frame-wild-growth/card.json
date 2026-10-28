@@ -74,5 +74,82 @@
       "role": "counterexample",
       "work_id": "https://modelzengarden.com/garden/opus-5-5-claude-code"
     }
+  ],
+  "impl": [
+    {
+      "work": "Blender 机场室内雨林",
+      "source": "none",
+      "technique": "原作源码未取得；邻接技术源 Repos/athenaion/src/ruins/grass.js:64-97；Repos/athenaion/src/ruins/portico.js:206-228（MIT）。沿缝隙生成成簇草、沿表面约束藤蔓，不提供机场林冠或天幕资产；大树需另配，待验证；不是原作实现证明，迁移待验证。 已查 Citadel src/world/places/foliage.js:15-44，它只做实例减量，不生成草木，因此不能作为本卡现成效果。",
+      "params": [
+        {
+          "name": "主路留空",
+          "value": "连续通道不放实例",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作许可未明；邻接源许可见说明",
+      "reuse": "borrow",
+      "citadel": "none"
+    },
+    {
+      "work": "Athenaion · 水庭",
+      "source": "none",
+      "technique": "水庭画面源码归属尚未定位；邻接技术源 Repos/athenaion/src/ruins/grass.js:64-97、src/ruins/portico.js:206-228（MIT）仅证实残廊草缝/藤蔓，不提供水庭树冠或圆亭植被布局；完整植被迁移待验证。",
+      "params": [
+        {
+          "name": "density",
+          "value": "2.2 簇/m",
+          "kind": "源码"
+        },
+        {
+          "name": "size",
+          "value": "[0.06,0.2]m",
+          "kind": "源码"
+        },
+        {
+          "name": "藤蔓 steps",
+          "value": "95",
+          "kind": "源码"
+        },
+        {
+          "name": "藤蔓 maxStems",
+          "value": "170",
+          "kind": "源码"
+        }
+      ],
+      "license": "MIT",
+      "reuse": "borrow",
+      "citadel": "none"
+    },
+    {
+      "work": "Athenaion · Ruined portico",
+      "source": "Repos/athenaion/src/ruins/grass.js:64-97; Repos/athenaion/src/ruins/portico.js:206-228",
+      "technique": "草从 joints/patch/crack 不均匀采样；藤蔓 inside 谓词留亮柱面。需要 grass.js 的 tuftMesh 与植物材质、portico.js 中表面SDF与地面高度；Citadel foliage.js 只减量，不是生成器。",
+      "params": [
+        {
+          "name": "density",
+          "value": "2.2 簇/m",
+          "kind": "源码"
+        },
+        {
+          "name": "size",
+          "value": "[0.06,0.2]m",
+          "kind": "源码"
+        },
+        {
+          "name": "藤蔓 steps",
+          "value": "95",
+          "kind": "源码"
+        },
+        {
+          "name": "藤蔓 maxStems",
+          "value": "170",
+          "kind": "源码"
+        }
+      ],
+      "license": "MIT",
+      "reuse": "integrate",
+      "citadel": "none"
+    }
   ]
 }

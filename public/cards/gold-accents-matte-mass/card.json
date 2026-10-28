@@ -74,5 +74,87 @@
       "role": "counterexample",
       "work_id": "https://github.com/OpenVGLab/awesome-opus5.5-frontend-showcases/blob/cac43b250f07b7b86f4709c61effc84269f46494/repro/imaginary-planets/index.html"
     }
+  ],
+  "impl": [
+    {
+      "work": "Athenaion · Temple facade",
+      "source": "Repos/athenaion/src/materials/metal.js:22-55,76-104",
+      "technique": "金属材质按 cavity 压暗、edge 提亮，金饰单独赋材质；需 core/materials.js 与 marble.js AO/noise 依赖，非整栋描金",
+      "params": [
+        {
+          "name": "gold roughness",
+          "value": "0.4",
+          "kind": "源码"
+        },
+        {
+          "name": "gold wear",
+          "value": "0.45",
+          "kind": "源码"
+        },
+        {
+          "name": "metalness 基值",
+          "value": "1",
+          "kind": "源码"
+        },
+        {
+          "name": "金饰可见面积",
+          "value": "5–10%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "MIT",
+      "reuse": "integrate",
+      "citadel": "none"
+    },
+    {
+      "work": "悟空 · 金箍与棍端",
+      "source": "none",
+      "technique": "原作源码未取得；邻接技术源 Repos/athenaion/src/materials/metal.js:22-55,76-104（MIT）。仅以 goldMaterial 的受光亮边邻接；角色、皮毛与模型不迁移；不是原作实现证明，迁移待验证。",
+      "params": [
+        {
+          "name": "gold roughness",
+          "value": "0.4",
+          "kind": "源码"
+        },
+        {
+          "name": "石材 roughness",
+          "value": "0.7–0.9",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作许可未明；邻接源许可见说明",
+      "reuse": "borrow",
+      "citadel": "none"
+    },
+    {
+      "work": "Athenaion · Grand staircase",
+      "source": "Repos/athenaion/src/materials/metal.js:22-55,76-104",
+      "technique": "金属材质按 cavity 压暗、edge 提亮，金饰单独赋材质；需 core/materials.js 与 marble.js AO/noise 依赖，非整栋描金",
+      "params": [
+        {
+          "name": "gold roughness",
+          "value": "0.4",
+          "kind": "源码"
+        },
+        {
+          "name": "gold wear",
+          "value": "0.45",
+          "kind": "源码"
+        },
+        {
+          "name": "metalness 基值",
+          "value": "1",
+          "kind": "源码"
+        },
+        {
+          "name": "金饰可见面积",
+          "value": "5–10%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "MIT",
+      "reuse": "integrate",
+      "citadel": "none"
+    }
   ]
 }

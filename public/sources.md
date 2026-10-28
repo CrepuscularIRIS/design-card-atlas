@@ -137,3 +137,9 @@ Opus、Kimi、Sonnet、DeepSeek等归因保留作者/发布者自述；混合制
 截图与视频帧保留原作者/素材权利人的权利，本库文档许可不覆盖第三方媒体；有明确许可者单独注明。`lygia`、`gsap-threejs-codrops`、`opus55-live-demos`只借思路，不粘贴代码。
 
 旧257张机制卡和旧网页只作工程背景，旧入口移入 [archive/engineering-v1](../archive/engineering-v1/)。新交付为Markdown README、卡片、图片和配方。本仓库已公开（2026-10-25）。
+
+## 2026-10-28 · 冷站与工业互联语言
+
+- [冷境承托设施](cards/cold-ground-frames-station/README.md)：g796/g797/g798/g1336 四幅原图，g1340 作边界反例；归档图 headless 实看，非实时引擎。04 只借暗立面/入口，不混称穹顶雪原。
+- [管网串起巨构](cards/networks-link-industrial-masses/README.md)：g682/g721/g725/g1340 四幅原图；g1101 独立堡垒式炼厂作连接网络的边界反例，非低画质淘汰。
+- 六张旧卡补实现索引：broken-form-remains-legible、colossus-crosses-the-frame、gold-accents-matte-mass、ordered-frame-wild-growth、river-leads-the-eye、water-continues-silhouette。每图权利与原作/邻接区别保留在各卡 SOURCE.md。未取得源码的作品不因邻接 MIT 获得资产使用许可。

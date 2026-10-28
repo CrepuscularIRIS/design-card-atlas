@@ -34,11 +34,21 @@
 先保证无植物灰模的结构清楚，再按区域分配植物密度。不要对每个网格格子放同样大小、同样方向的一棵树。
 
 - **迁移试验**：选择三种冠幅与至少两档疏密区；主路和识别轮廓保留连续空隙。先审400px缩图是否还有树冠大形，再审近景叶片。
-- 原作植被生成源码未在本卡核实；不把画面里的随机感写成已确认的Poisson或特定算法。
+- 原作视频植被算法仍未知；下表已核实 Athenaion 残廊的 joints 采样与表面约束藤蔓，不把它冒充机场林冠算法。
+
+### 实现索引
+
+2026-10-28 已打开本地源码核对；当前 checkout 不等同旧成片版本。参数区分源码与建议迁移值，尚未在 Citadel 运行复刻。`citadel: none` 是尚未找到可复用实现，不是已落地声明。第三方路径相对 `~/Blog/`，Citadel 路径相对 `~/Blog/citadel/`。固定版本与许可见 [SOURCE.md](SOURCE.md)。
+
+| 作品 | 源码 / 邻接与手法 | 参数及性质 | 许可 / 复用 | Citadel 可复用实现 |
+|---|---|---|---|---|
+| Blender 机场室内雨林 | `none`；原作源码未取得；邻接技术源 Repos/athenaion/src/ruins/grass.js:64-97；Repos/athenaion/src/ruins/portico.js:206-228（MIT）。沿缝隙生成成簇草、沿表面约束藤蔓，不提供机场林冠或天幕资产；大树需另配，待验证；不是原作实现证明，迁移待验证。 已查 Citadel src/world/places/foliage.js:15-44，它只做实例减量，不生成草木，因此不能作为本卡现成效果。 | 主路留空=连续通道不放实例（建议迁移值） | 原作许可未明；邻接源许可见说明 / borrow | `none` |
+| Athenaion · 水庭 | `none`；水庭画面源码归属尚未定位；邻接技术源 Repos/athenaion/src/ruins/grass.js:64-97、src/ruins/portico.js:206-228（MIT）仅证实残廊草缝/藤蔓，不提供水庭树冠或圆亭植被布局；完整植被迁移待验证。 | density=2.2 簇/m（源码）；size=[0.06,0.2]m（源码）；藤蔓 steps=95（源码）；藤蔓 maxStems=170（源码） | MIT / borrow | `none` |
+| Athenaion · Ruined portico | `Repos/athenaion/src/ruins/grass.js:64-97; Repos/athenaion/src/ruins/portico.js:206-228`；草从 joints/patch/crack 不均匀采样；藤蔓 inside 谓词留亮柱面。需要 grass.js 的 tuftMesh 与植物材质、portico.js 中表面SDF与地面高度；Citadel foliage.js 只减量，不是生成器。 | density=2.2 簇/m（源码）；size=[0.06,0.2]m（源码）；藤蔓 steps=95（源码）；藤蔓 maxStems=170（源码） | MIT / integrate | `none` |
 
 ## 迁移到博客
 
-Shrine庭院保留柱、檐、台阶的清楚边界，让草木在边缘和裂隙不均匀出现；atlas绿化只服务地点识别，不把所有岛面均匀铺草。当前是布局提案。
+Shrine庭院保留柱、檐、台阶的清楚边界，让草木在边缘和裂隙不均匀出现；Landfill（`landfill-1`）废墟边缘可沿断口布簇，Beach（`beach-1`）只在岸崖局部放草，均保留行走通道。atlas 已锁定，不在本批改动。
 
 搭配阶台托举主殿、风化依附形体；与密集HUD、满屏粒子冲突，因为三者都增加高频信息。巨像脸旁的植物应减量。
 
