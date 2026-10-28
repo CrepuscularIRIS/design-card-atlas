@@ -3188,3 +3188,92 @@
 - 机位/时间/步骤：CDN 4k/large 实看；筒仓穹顶内庭红树水环与锈阶藤蔓；净筒仓生物穹建立；净环境
 - 维度/落点：ordered-frame-wild-growth;colonnade-rhythm;framed-distant-view;megastructure-silhouette → 博客 Gothic;Shrine;Megastructure
 - 许可：版权归 ikd94；ArtStation 公开；仅作视觉参考
+## 2026-10-28 R7
+
+### cyberbang3-synchrotron-1920.jpg
+- 作品名：Synchrotron
+- 作者：cyberbang3
+- 原始 URL：https://www.artstation.com/artwork/lGn0we
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R7）
+- 尺寸：1920×1080；sha256：`1b8b44348b6c77a70d4f5f3563ab3b89d92166c3ffdd51372eb3db52a792da5a`
+- 机位/时间/步骤：CDN 4k/large 实看；林海白环同步辐射与束线厅；净粒子加速器环建立；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;synchrotron-ring;fog-separates-depth → 博客 Orbital;Canyon;Megastructure
+- 许可：版权归 cyberbang3；ArtStation 公开；仅作视觉参考
+
+### alecheck-marble-quarry-1920.jpg
+- 作品名：Marble Quarry
+- 作者：alecheck
+- 原始 URL：https://www.artstation.com/artwork/o2a6lz
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R7）
+- 尺寸：1920×1080；sha256：`41cb9c26fd139056daeee1a3a0daf6f531571fa3cb1d676c274f2c343b9d810f`
+- 机位/时间/步骤：CDN 4k/large 实看；夜采大理石坑灯柱雾尘与天车；净矿坑巨构建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;marble-quarry;cold-world-warm-refuge → 博客 Canyon;Gothic;Megastructure
+- 许可：版权归 alecheck；ArtStation 公开；仅作视觉参考
+
+### oknice-lost-quarry-4050.jpg
+- 作品名：Lost Quarry
+- 作者：oknice
+- 原始 URL：https://www.artstation.com/artwork/RnWrPE
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R7）
+- 尺寸：3240×4050；sha256：`7f1e06e89e817ee3a69262fbbd0567a5c8ec37c41a3c0c6534a36cea94d6dd75`
+- 机位/时间/步骤：CDN 4k/large 实看；洪水绿松石采石峡谷拱桥神光；净矿坑剧场建立；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;turquoise-quarry;ordered-frame-wild-growth → 博客 Canyon;Shrine;Megastructure
+- 许可：版权归 oknice；ArtStation 公开；仅作视觉参考
+
+### daryahubernatarava-old-grain-elevator-outskirts-3667.jpg
+- 作品名：Old grain elevator, outskirts
+- 作者：daryahubernatarava
+- 原始 URL：https://www.artstation.com/artwork/1NgPlo
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R7）
+- 尺寸：3667×1920；sha256：`3a07b42ba2677eba8a47def7e3f60b8fc138f4634631fd19947be997dfa6f3dd`
+- 机位/时间/步骤：CDN 4k/large 实看；阴天粉磨坊与橄榄绿筒仓泥路；净粮仓工业城外建立；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;grain-elevator;framed-distant-view → 博客 Gothic;Canyon;Harbor
+- 许可：版权归 daryahubernatarava；ArtStation 公开；仅作视觉参考
+
+### summerpudding-endless-city-railway-bridges-2500.jpg
+- 作品名：Endless City: Railway Bridges
+- 作者：summerpudding
+- 原始 URL：https://www.artstation.com/artwork/qABxzy
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R7）
+- 尺寸：2500×1250；sha256：`495e32d19d02194ba2efe66a97be3b7afd040b3517a114afaf4e52a2d55c3a5f`
+- 机位/时间/步骤：CDN 4k/large 实看；巨拱街谷铁路桥与车流人群；净赛博朋克立交巨构建立；净环境
+- 维度/落点：megastructure-silhouette;high-view-reads-hierarchy;colossus-crosses-the-frame;fog-separates-depth → 博客 Megastructure;Gothic;Harbor
+- 许可：版权归 summerpudding；ArtStation 公开；仅作视觉参考
+
+### anatoly-fedorov-radio-telescope-rt-70-2560.jpg
+- 作品名：Radio telescope RT-70
+- 作者：anatoly_fedorov
+- 原始 URL：https://www.artstation.com/artwork/5vNAng
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R7）
+- 尺寸：2560×1440；sha256：`a52ee5c58c2dab75e962b2e6b9ccd4f1ee499f1092709cd65574f7b0b8575e13`
+- 机位/时间/步骤：CDN 4k/large 实看；风暴天下巨型射电望远镜盘面与橙衣工人；净碟阵巨构建立；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;radio-telescope;scale-by-familiar-objects → 博客 Orbital;Canyon;Megastructure
+- 许可：版权归 anatoly_fedorov；ArtStation 公开；仅作视觉参考
+
+### kingbond-funicular-1920.jpg
+- 作品名：Funicular
+- 作者：kingbond
+- 原始 URL：https://www.artstation.com/artwork/wJ9noX
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R7）
+- 尺寸：1920×1080；sha256：`84f4eb297c534a8b575e15d73c3f1b081fd12f2bb885dd19c2cb59297f976ff5`
+- 机位/时间/步骤：CDN 4k/large 实看；废墟缆车房锈轨与秋藤外景；净缆车/索道站建立；净环境
+- 维度/落点：fog-separates-depth;framed-distant-view;funicular-cliff;ordered-frame-wild-growth → 博客 Gothic;Canyon;Harbor
+- 许可：版权归 kingbond；ArtStation 公开；仅作视觉参考
+
+### josephbardolph-floodgate-evacutation-system-002-3712.jpg
+- 作品名：Floodgate evacutation system 002
+- 作者：josephbardolph
+- 原始 URL：https://www.artstation.com/artwork/1xngWe
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R7）
+- 尺寸：3712×2784；sha256：`afe8c72968d646e16798f945dc8da9ea0bd07b935451ff7ceeac93a9d51b5ac0`
+- 机位/时间/步骤：CDN 4k/large 实看；混凝土竖井锈梯藤蔓浮萍池；净泄洪闸/工业竖井复绿建立；净环境
+- 维度/落点：ordered-frame-wild-growth;megastructure-silhouette;framed-distant-view;fog-separates-depth → 博客 Gothic;Canyon;Megastructure
+- 许可：版权归 josephbardolph；ArtStation 公开；仅作视觉参考
