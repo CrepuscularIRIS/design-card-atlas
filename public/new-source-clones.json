@@ -1,61 +1,88 @@
 [
-  {
-    "repo": "qingming-bianjing",
-    "url": "https://github.com/silentfleetkk/qingming-bianjing.git",
-    "date": "2026-10-25T07:11:11.911432+00:00",
-    "head": "d9d85a0a19e9e52daa028e37407637c3da211f31",
-    "origin": "https://github.com/silentfleetkk/qingming-bianjing.git",
-    "state": "cloned"
-  },
-  {
-    "repo": "clearwater",
-    "url": "https://github.com/aureliengmz/clearwater.git",
-    "date": "2026-10-25T07:11:11.914150+00:00",
-    "head": "4bc826134321043a25df3c2b6fed16fb7b9241e8",
-    "origin": "https://github.com/aureliengmz/clearwater.git",
-    "state": "cloned"
-  },
-  {
-    "repo": "falcon9-blender",
-    "url": "https://github.com/noahsabaj/falcon9-blender.git",
-    "date": "2026-10-25T07:11:11.916231+00:00",
-    "head": "c6a6349c0968870a7a864f8ba44d2182cafad60e",
-    "origin": "https://github.com/noahsabaj/falcon9-blender.git",
-    "state": "cloned"
-  },
-  {
-    "repo": "cybercity",
-    "url": "https://github.com/xikhar/cybercity.git",
-    "date": "2026-10-25T07:11:11.918467+00:00",
-    "recovery_fetch_exit": 128,
-    "state": "source_partial_clone",
-    "head": "21ce1e48294628e3a597bfdfd74be6e9c347856c",
-    "origin": "https://github.com/xikhar/cybercity.git",
-    "note": "Shallow blob-filtered Git with source checkout; large media/assets excluded from worktree. Not a full asset archive."
-  },
-  {
-    "repo": "ProceduralBuildingsThreeJS",
-    "url": "https://github.com/achrefelouafi/ProceduralBuildingsThreeJS.git",
-    "date": "2026-10-25T07:11:14.873619+00:00",
-    "state": "source_partial_clone",
-    "head": "6c19f1b1f14408353989ad26cda27f1e1ede5e91",
-    "origin": "https://github.com/achrefelouafi/ProceduralBuildingsThreeJS.git",
-    "note": "Shallow blob-filtered Git with source checkout; large media/assets excluded from worktree. Not a full asset archive."
-  },
-  {
-    "repo": "Stepwells",
-    "url": "https://github.com/manashwebdev/Stepwells.git",
-    "date": "2026-10-28T13:58:22.740951+00:00",
-    "head": "6ea9274a09d6c8e50515408b7f7fa416f48409bd",
-    "origin": "https://github.com/manashwebdev/Stepwells.git",
-    "state": "cloned"
-  },
-  {
-    "repo": "bullKelpDive",
-    "url": "https://github.com/kolomyjec/bullKelpDive.git",
-    "date": "2026-10-28T13:58:22.741984+00:00",
-    "head": "3c128bdf099ccf992a68e8fb78a2ded5de3d1165",
-    "origin": "https://github.com/kolomyjec/bullKelpDive.git",
-    "state": "cloned"
-  }
+ {
+  "repo": "qingming-bianjing",
+  "url": "https://github.com/silentfleetkk/qingming-bianjing.git",
+  "date": "2026-10-25T07:11:11.911432+00:00",
+  "head": "d9d85a0a19e9e52daa028e37407637c3da211f31",
+  "origin": "https://github.com/silentfleetkk/qingming-bianjing.git",
+  "state": "cloned"
+ },
+ {
+  "repo": "clearwater",
+  "url": "https://github.com/aureliengmz/clearwater.git",
+  "date": "2026-10-25T07:11:11.914150+00:00",
+  "head": "4bc826134321043a25df3c2b6fed16fb7b9241e8",
+  "origin": "https://github.com/aureliengmz/clearwater.git",
+  "state": "cloned"
+ },
+ {
+  "repo": "falcon9-blender",
+  "url": "https://github.com/noahsabaj/falcon9-blender.git",
+  "date": "2026-10-25T07:11:11.916231+00:00",
+  "head": "c6a6349c0968870a7a864f8ba44d2182cafad60e",
+  "origin": "https://github.com/noahsabaj/falcon9-blender.git",
+  "state": "cloned"
+ },
+ {
+  "repo": "cybercity",
+  "url": "https://github.com/xikhar/cybercity.git",
+  "date": "2026-10-25T07:11:11.918467+00:00",
+  "recovery_fetch_exit": 128,
+  "state": "source_partial_clone",
+  "head": "21ce1e48294628e3a597bfdfd74be6e9c347856c",
+  "origin": "https://github.com/xikhar/cybercity.git",
+  "note": "Shallow blob-filtered Git with source checkout; large media/assets excluded from worktree. Not a full asset archive."
+ },
+ {
+  "repo": "ProceduralBuildingsThreeJS",
+  "url": "https://github.com/achrefelouafi/ProceduralBuildingsThreeJS.git",
+  "date": "2026-10-25T07:11:14.873619+00:00",
+  "state": "source_partial_clone",
+  "head": "6c19f1b1f14408353989ad26cda27f1e1ede5e91",
+  "origin": "https://github.com/achrefelouafi/ProceduralBuildingsThreeJS.git",
+  "note": "Shallow blob-filtered Git with source checkout; large media/assets excluded from worktree. Not a full asset archive."
+ },
+ {
+  "repo": "Stepwells",
+  "url": "https://github.com/manashwebdev/Stepwells.git",
+  "date": "2026-10-28T13:58:22.740951+00:00",
+  "head": "6ea9274a09d6c8e50515408b7f7fa416f48409bd",
+  "origin": "https://github.com/manashwebdev/Stepwells.git",
+  "state": "cloned"
+ },
+ {
+  "repo": "bullKelpDive",
+  "url": "https://github.com/kolomyjec/bullKelpDive.git",
+  "date": "2026-10-28T13:58:22.741984+00:00",
+  "head": "3c128bdf099ccf992a68e8fb78a2ded5de3d1165",
+  "origin": "https://github.com/kolomyjec/bullKelpDive.git",
+  "state": "cloned"
+ },
+ {
+  "repo": "jungle-trail",
+  "url": "https://github.com/StarKnightt/jungle-trail.git",
+  "date": "2026-10-28T17:57:44.155862+00:00",
+  "head": "c15640d3a2b6f08ca68e4df98fdfc953ea8a070a",
+  "origin": "https://github.com/StarKnightt/jungle-trail.git",
+  "state": "cloned",
+  "note": "MIT (c) 2026 Prasenjit; first-person procedural jungle walk w/ overgrown stone ruins + waterfall, zero external assets; atlas PR #40/#41/#43 (r30)"
+ },
+ {
+  "repo": "Realm-of-the-Deep-Sea",
+  "url": "https://github.com/zym9863/Realm-of-the-Deep-Sea.git",
+  "date": "2026-10-28T17:57:44.155862+00:00",
+  "head": "76c48fe3b573817030e0065bf0727c0c42d419cb",
+  "origin": "https://github.com/zym9863/Realm-of-the-Deep-Sea.git",
+  "state": "cloned",
+  "note": "MIT (c) 2025 zym; three.js deep-sea exploration (underwater terrain, fish flocking, seaweed/coral); atlas PR #41 (r30)"
+ },
+ {
+  "repo": "belowjs",
+  "url": "https://github.com/patrick-morrison/belowjs.git",
+  "date": "2026-10-28T17:57:44.155862+00:00",
+  "head": "dd3bee96c0c09c924473933a15615376f97bed",
+  "origin": "https://github.com/patrick-morrison/belowjs.git",
+  "state": "cloned",
+  "note": "GPL-3.0 (c) patrick-morrison; three.js shipwreck VR dive viewer, dive lighting (src/dive); borrow-ideas only (copyleft); atlas PR #41 (r30)"
+ }
 ]
