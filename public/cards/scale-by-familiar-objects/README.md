@@ -41,6 +41,23 @@
 - **迁移起点**：安排主巨构、中型功能建筑、小尺度门窗三档，投影高度先试约1 : 0.25 : 0.04；至少一种参照应无需文字说明就能识别。数字是构图草案，需在最终机位校准。
 - 先看无纹理剪影，巨构应在400px缩图里仍能识别，参照物也不能小到完全消失。
 
+### 实现索引
+
+以下是源码阅读索引，不把邻接技术源说成原作实现，也不把现有基础组件说成整卡已落地。`Repos/` 相对 `~/Blog/`；`citadel` 列相对 `~/Blog/citadel/`。参数逐项标明来源，未做本轮运行测量。
+
+| 作品 | 源码（本地路径:行） | 技术与接入边界 | 参数（来源） | 许可 / 复用档 | Citadel 已有可复用入口 |
+|---|---|---|---|---|---|
+| Unreal 云上神殿与巨龙 | `none` | 原作如何建模/渲染待验证；邻接技术源 Repos/athenaion/src/world/layout.js:73-110 用柱高、巨像、台阶建立统一尺度，可借这种关系，不等同复现巨龙或原作人物。 | 主巨构 / 中建筑 / 小门窗投影高度=1 : 0.25 : 0.04（建议迁移值） | 原作品源码及许可待验证；仅参考画面。邻接 Athenaion 源码为 MIT，不代表原作授权 / reference | `none` |
+| Athenaion · Panorama | `Repos/athenaion/src/world/layout.js:73-110` | 用同一米制布局放置主殿、巨像与步级，再用斜俯视保留尺度关系；实际建殿入口 src/modules/temple.js:53-67，机位 src/world/shots.js:5-10。可移植布局和建造器，须连同依赖整理而非只抄尺寸。 | columnHeight=10.4（源码）；colossi heights=21 / 21 / 17（源码）；grand stair riser=0.23（源码）；panorama FOV=40°（源码） | MIT（LICENSE:1-21） / integrate | `none` |
+| Blender 机场室内雨林 | `none` | 原作屋盖、列车与树木的建造源码未定位；邻接技术源 Repos/athenaion/src/world/layout.js:73-110 的巨构/巨像/步级尺度层级可迁移，但不提供机场或列车资产。 | 可辨认尺度锚点=至少 1 类门、车辆或树冠（建议迁移值） | 原作品源码及许可待验证；仅参考画面。邻接 Athenaion 源码为 MIT，不代表原作授权 / reference | `none` |
+
+本批面向 CompanyMeetingroom 的门、窗、桌椅尺度锚点提案；尚未找到对应 cardfx 尺度模块，citadel=none 不表示要从零手写巨构。优先移植 Athenaion 布局/建造依赖或使用已有合规资产；不改 2D 人物体系。
+
+源码快照（2026-10-28 阅读；不是新增截图来源）：
+- `athenaion@9b8bd23b39c458a50fb1201037360047781c45b5`
+
+已检索 `citadel/src` 及 `src/world/worlds/cardfx/`；本批未发现这些卡的同名预制模块。未来首次落地时才由执行者沉淀 `src/world/worlds/cardfx/scale-by-familiar-objects.js`，此处不是已有文件承诺。
+
 ## 迁移到博客
 
 - **用在哪**：`src/world/worlds/atlas.js`的主地标；登记的BlackCityHall与Shrine会面背景。

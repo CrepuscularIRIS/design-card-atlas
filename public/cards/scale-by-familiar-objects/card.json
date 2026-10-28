@@ -74,5 +74,67 @@
       "role": "counterexample",
       "work_id": "https://p.migdal.pl/invisible-cities-opus-5.5/?solo=octavia&view=side"
     }
+  ],
+  "impl": [
+    {
+      "work": "Unreal 云上神殿与巨龙",
+      "source": "none",
+      "technique": "原作如何建模/渲染待验证；邻接技术源 Repos/athenaion/src/world/layout.js:73-110 用柱高、巨像、台阶建立统一尺度，可借这种关系，不等同复现巨龙或原作人物。",
+      "params": [
+        {
+          "name": "主巨构 / 中建筑 / 小门窗投影高度",
+          "value": "1 : 0.25 : 0.04",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作品源码及许可待验证；仅参考画面。邻接 Athenaion 源码为 MIT，不代表原作授权",
+      "reuse": "reference",
+      "citadel": "none"
+    },
+    {
+      "work": "Athenaion · Panorama",
+      "source": "Repos/athenaion/src/world/layout.js:73-110",
+      "technique": "用同一米制布局放置主殿、巨像与步级，再用斜俯视保留尺度关系；实际建殿入口 src/modules/temple.js:53-67，机位 src/world/shots.js:5-10。可移植布局和建造器，须连同依赖整理而非只抄尺寸。",
+      "params": [
+        {
+          "name": "columnHeight",
+          "value": "10.4",
+          "kind": "源码"
+        },
+        {
+          "name": "colossi heights",
+          "value": "21 / 21 / 17",
+          "kind": "源码"
+        },
+        {
+          "name": "grand stair riser",
+          "value": "0.23",
+          "kind": "源码"
+        },
+        {
+          "name": "panorama FOV",
+          "value": "40°",
+          "kind": "源码"
+        }
+      ],
+      "license": "MIT（LICENSE:1-21）",
+      "reuse": "integrate",
+      "citadel": "none"
+    },
+    {
+      "work": "Blender 机场室内雨林",
+      "source": "none",
+      "technique": "原作屋盖、列车与树木的建造源码未定位；邻接技术源 Repos/athenaion/src/world/layout.js:73-110 的巨构/巨像/步级尺度层级可迁移，但不提供机场或列车资产。",
+      "params": [
+        {
+          "name": "可辨认尺度锚点",
+          "value": "至少 1 类门、车辆或树冠",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作品源码及许可待验证；仅参考画面。邻接 Athenaion 源码为 MIT，不代表原作授权",
+      "reuse": "reference",
+      "citadel": "none"
+    }
   ]
 }

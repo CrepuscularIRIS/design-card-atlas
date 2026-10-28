@@ -36,6 +36,25 @@
 - **原作机位**：江南[CAMERAS](https://github.com/holooooo/webgl-seascape-video/blob/915cb7c9a318e03bd2228bc232494b496ff2316c/episodes/04-jiangnan-voxel/interactive.html#L3615-L3618)给出全景与高处机位；本卡所用截图的实际操作仍以SOURCE为准，不以代码存在替代实看。
 - **迁移试验**：画面至少保留一个近实体、一个通路、一个远地标；标记先只显示当前目标，避免总览变成仪表盘。
 
+### 实现索引
+
+以下是源码阅读索引，不把邻接技术源说成原作实现，也不把现有基础组件说成整卡已落地。`Repos/` 相对 `~/Blog/`；`citadel` 列相对 `~/Blog/citadel/`。参数逐项标明来源，未做本轮运行测量。
+
+| 作品 | 源码（本地路径:行） | 技术与接入边界 | 参数（来源） | 许可 / 复用档 | Citadel 已有可复用入口 |
+|---|---|---|---|---|---|
+| 清明上河 · 黄昏全城 | `Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:2500-2524` | VIEWS.overview 在横竖屏分别设置斜俯瞰 position/target/FOV，bw 将桥局部平面坐标转世界坐标；不可把 bw 参数直接当 xyz。Citadel place.js:529-546 已有 named views/goView，可复用接口但必须重选场景机位。 | landscape overview=pos=bw(80,66,34), target=bw(-24,-58,4)（源码）；portrait overview=pos=bw(64,80,46), target=bw(-6,-42,3)（源码）；overview FOV=42°（源码） | 未发现作品仓根 LICENSE，授权范围待验证；仅借手法，不复制代码/资产 / borrow | `src/world/worlds/place.js` |
+| Athenaion · Panorama | `Repos/athenaion/src/world/shots.js:5-10` | 作者透视相机在侧上方保留近殿遮挡并读到低城；布局 src/world/layout.js:37-110 决定高低关系，相机参数不是缩比地形的替代品。可把 preset 结构映射到 Citadel place.js:529-546 的 views/goView，不直接复制米制坐标。 | position=[108,66,30]（源码）；target=[15.1,61.5,-6.7]（源码）；FOV=40°（源码） | MIT（LICENSE:1-21） / integrate | `src/world/worlds/place.js` |
+| 江南山谷 · 蓝调全景 | `Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html:3612-3623` | SHOTS 提供山谷全景和山坡俯瞰两档透视相机，用河道和山脊保留布局方向；具体截图操作仍以原 SOURCE 为准，不把预设存在当成截图机位实测。Citadel place.js:529-546 可承接目标场景的具名机位。 | valley panorama=pos=[32,15,128], target=[-6,5,22], FOV=52°（源码）；hillside overview=pos=[80,42,52], target=[-10,3,-14], FOV=50°（源码） | 未发现作品仓根 LICENSE，授权范围待验证；仅借手法，不复制代码/资产 / borrow | `src/world/worlds/place.js` |
+
+队列落点优先 street-1 的场景总览机位。car-1 是车内场景，不直接套飞行/俯瞰镜头；是否有合适车外可见布局待验证。本批只索引 place.js 的 views/goView，不触碰锁定的 atlas/title。
+
+源码快照（2026-10-28 阅读；不是新增截图来源）：
+- `athenaion@9b8bd23b39c458a50fb1201037360047781c45b5`
+- `webgl-seascape-video@915cb7c9a318e03bd2228bc232494b496ff2316c`
+- `qingming-bianjing@d9d85a0a19e9e52daa028e37407637c3da211f31`
+
+已检索 `citadel/src` 及 `src/world/worlds/cardfx/`；本批未发现这些卡的同名预制模块。未来首次落地时才由执行者沉淀 `src/world/worlds/cardfx/high-view-reads-hierarchy.js`，此处不是已有文件承诺。
+
 ## 迁移到博客
 
 atlas总览用它说明地点之间的地理层级，进入地点后再切换为分级机位靠近。title远景如采用此法，应与标题阅读区一起调，不增加新前端交互。

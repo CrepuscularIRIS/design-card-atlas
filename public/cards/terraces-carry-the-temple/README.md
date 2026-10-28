@@ -36,6 +36,21 @@
 - **源码机位**：[Athenaion shots](https://github.com/Leonxlnx/athenaion/blob/9b8bd23b39c458a50fb1201037360047781c45b5/src/world/shots.js)。原作高质量静帧不等同本轮runtime表现。
 - **迁移试验**：宽平台与连续细阶交替；先用约3级大平台读懂上升关系，再补小步级。数量是层级起点，不是强制规格。
 
+### 实现索引
+
+以下是源码阅读索引，不把邻接技术源说成原作实现，也不把现有基础组件说成整卡已落地。`Repos/` 相对 `~/Blog/`；`citadel` 列相对 `~/Blog/citadel/`。参数逐项标明来源，未做本轮运行测量。
+
+| 作品 | 源码（本地路径:行） | 技术与接入边界 | 参数（来源） | 许可 / 复用档 | Citadel 已有可复用入口 |
+|---|---|---|---|---|---|
+| Athenaion · 水庭 / Grand staircase / Panorama（同一作品三机位） | `Repos/athenaion/src/acropolis/stair.js:41-129` | planStair 按地形层台拆分梯段/休息平台，buildStair 实际发射阶梯、平台及承台；米制配置在 src/world/layout.js:37-68,100-110，主殿中心在:73-81，机位在 src/world/shots.js:11-16,29-34。需结合地形 levels 和建造依赖迁移，不能把台阶纹理当层台。 | acropolis top=54（源码）；terrace drops=12 / 12 / 11 / 10（源码）；riser / tread=0.23 / 0.33（源码）；landing / midLanding=7 / 2.8（源码）；flightRise=8.5（源码）；stair widths=12 / 14 / 16 / 18 / 21（源码） | MIT（LICENSE:1-21） / integrate | `none` |
+
+本批面向 CompanyMeetingroom 的基座/入口高差关系提案，不是给房间塞整座神殿；没有确认对应 cardfx，citadel=none。碰撞、可通行坡度与现有空间容积需先验证。
+
+源码快照（2026-10-28 阅读；不是新增截图来源）：
+- `athenaion@9b8bd23b39c458a50fb1201037360047781c45b5`
+
+已检索 `citadel/src` 及 `src/world/worlds/cardfx/`；本批未发现这些卡的同名预制模块。未来首次落地时才由执行者沉淀 `src/world/worlds/cardfx/terraces-carry-the-temple.js`，此处不是已有文件承诺。
+
 ## 迁移到博客
 
 Shrine入口可先明确水/地面、第一平台、主门三个高度；BlackCityHall给厚门厅一个足够宽的基座。人物仍在2D层呈现，背景透视与角色脚部的接地位置需单独验收。

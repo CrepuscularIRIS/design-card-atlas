@@ -36,6 +36,24 @@
 - **原作源码值**：江南[MOODS与大气状态](https://github.com/holooooo/webgl-seascape-video/blob/915cb7c9a318e03bd2228bc232494b496ff2316c/episodes/04-jiangnan-voxel/interactive.html#L3465-L3500)黄昏雾色`0x5a7a82`、密度`0.0048`；这是该场景单位下的值，不能直接当Citadel标准。
 - **迁移试验**：在目标相机截近中远三层灰度图，先让远层局部反差约为近层的1/3–1/2；保留近棚或门框黑位。用实际画面验收，不以某个density数值验收。
 
+### 实现索引
+
+以下是源码阅读索引，不把邻接技术源说成原作实现，也不把现有基础组件说成整卡已落地。`Repos/` 相对 `~/Blog/`；`citadel` 列相对 `~/Blog/citadel/`。参数逐项标明来源，未做本轮运行测量。
+
+| 作品 | 源码（本地路径:行） | 技术与接入边界 | 参数（来源） | 许可 / 复用档 | Citadel 已有可复用入口 |
+|---|---|---|---|---|---|
+| 中式幻想 RPG · 雾中巨像 | `none` | 原作雾算法与几何源码未定位；邻接技术源 Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html:398-449 是可读的高度雾/距离 haze 路线，仅借手法，不能断言巨像原作用同一算法；Citadel place.js:232 只有距离雾基础入口。 | 远层 / 近层局部反差=约 1/3–1/2，需灰度截图验收（建议迁移值） | 原作源码及许可待验证；邻接江南未发现根 LICENSE，只借手法 / reference | `src/world/worlds/place.js` |
+| 江南山谷 · 蓝调全景 | `Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html:398-449` | 沿视线解析积分指数高度雾，再加均匀距离 haze、朝光方向散射和不透明度上限；蓝调参数见同文件:3463-3497。原作全局替换 ShaderChunk，不可直接污染 Citadel 全站；现有 place.js:232 仅支持距离雾，是基础入口而非等价高度雾。 | dusk fog color=0x5a7a82（源码）；fogD / fogFall=0.0048 / 0.03（源码）；haze / fogMax=0.0008 / 0.9（源码） | 未发现作品仓根 LICENSE，授权范围待验证；仅借手法，不复制代码/资产 / borrow | `src/world/worlds/place.js` |
+| 清明上河 · 黄昏全城 | `Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:467-507` | 在线性色空间计算视线高度积分与距离消光，叠加朝阳方向雾色后再 tone mapping；黄昏状态见同文件:2378-2391。Citadel place.js:232 可先接近中远距离雾，高度积分尚无等价模块，迁移需场景级隔离而非照搬全局 ShaderChunk。 | dusk fogD / fogF / fogFar=0.0021 / 0.032 / 0.00016（源码）；dusk fog color=#c2a18a（源码）；dusk fogSunK=0.8（源码） | 未发现作品仓根 LICENSE，授权范围待验证；仅借手法，不复制代码/资产 / borrow | `src/world/worlds/place.js` |
+
+队列落点优先 street-1 的街道纵深；短 corridor 或 door-305 能否容纳足够深度待验证，不为凑卡强加雾。现有 Fog/FogExp2 不是高度雾实现，先复用距离雾并检验近景黑位。
+
+源码快照（2026-10-28 阅读；不是新增截图来源）：
+- `webgl-seascape-video@915cb7c9a318e03bd2228bc232494b496ff2316c`
+- `qingming-bianjing@d9d85a0a19e9e52daa028e37407637c3da211f31`
+
+已检索 `citadel/src` 及 `src/world/worlds/cardfx/`；本批未发现这些卡的同名预制模块。未来首次落地时才由执行者沉淀 `src/world/worlds/cardfx/fog-separates-depth.js`，此处不是已有文件承诺。
+
 ## 迁移到博客
 
 Shrine把会面人物后的一层建筑与更远山体分开；atlas的远地标可减细节、减反差，当前地点保持清楚。人物是独立2D层，不为制造雾感给人物也盖同一层白纱。

@@ -37,6 +37,23 @@
 - **迁移起点**：Blog先用6–10个可见重复单元；相邻柱的投影空隙至少保留约柱宽的0.5倍；不要让近柱完全挡住远端入口。这些是构图试验起点，不是工程约束。
 - 光源沿柱列侧上方布置，保持最靠近镜头的柱面有中间调，远端目标可比侧廊亮一档。
 
+### 实现索引
+
+以下是源码阅读索引，不把邻接技术源说成原作实现，也不把现有基础组件说成整卡已落地。`Repos/` 相对 `~/Blog/`；`citadel` 列相对 `~/Blog/citadel/`。参数逐项标明来源，未做本轮运行测量。
+
+| 作品 | 源码（本地路径:行） | 技术与接入边界 | 参数（来源） | 许可 / 复用档 | Citadel 已有可复用入口 |
+|---|---|---|---|---|---|
+| Blender cathedral interior | `none` | 原作石柱建模与布光待验证；邻接技术源 Repos/athenaion/src/modules/temple.js:53-67 以柱阵和暗内腔产生亮柱/暗隙节奏，不提供哥特柱束资产。 | 可见重复单元=6–10（建议迁移值） | 原作品源码及许可待验证；仅参考画面。邻接 Athenaion 源码为 MIT，不代表原作授权 / reference | `none` |
+| Athenaion · Temple facade | `Repos/athenaion/src/modules/temple.js:53-67` | peripteralTemple 按布局生成前后/两侧柱阵，darkCella 与内部减光保留柱间暗腔；尺寸在 src/world/layout.js:73-81，压缩透视机位在 src/world/shots.js:23-28。 | columns=front 8 / side 17（源码）；columnHeight=10.4（源码）；darkCella=true（源码）；interiorDark=0.5（源码）；facade FOV=18.5°（源码） | MIT（LICENSE:1-21） / integrate | `none` |
+| Unreal 云上神殿与巨龙 | `none` | 原作朱柱、曲檐和反射源码未定位；邻接技术源 Repos/athenaion/src/modules/temple.js:53-67 可生成带暗腔的柱列，曲檐与朱漆材料仍需另找已授权资产。 | 相邻柱投影空隙=至少约柱宽 0.5 倍（建议迁移值） | 原作品源码及许可待验证；仅参考画面。邻接 Athenaion 源码为 MIT，不代表原作授权 / reference | `none` |
+
+本批面向 CompanyMeetingroom 的重复结构/暗腔提案；没有确认可直接复用的柱阵 cardfx，故 citadel=none。需先确认房间通路与遮挡，不强行把古典柱式搬进会议室。
+
+源码快照（2026-10-28 阅读；不是新增截图来源）：
+- `athenaion@9b8bd23b39c458a50fb1201037360047781c45b5`
+
+已检索 `citadel/src` 及 `src/world/worlds/cardfx/`；本批未发现这些卡的同名预制模块。未来首次落地时才由执行者沉淀 `src/world/worlds/cardfx/colonnade-rhythm.js`，此处不是已有文件承诺。
+
 ## 迁移到博客
 
 - **用在哪**：已登记地点BlackCityHall与Shrine入口；属于对应场景后续建模提案，不宣称它们已经拥有本图效果。

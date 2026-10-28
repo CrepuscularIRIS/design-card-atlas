@@ -74,5 +74,72 @@
       "role": "counterexample",
       "work_id": "webgl-seascape-jiangnan"
     }
+  ],
+  "impl": [
+    {
+      "work": "Castle above the clouds",
+      "source": "none",
+      "technique": "原作灯窗/云海源码未定位；邻接技术源 Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html:3376-3403,3463-3497 将暖实用灯与冷环境分控，仅借光源分工，不声称复现云海。Citadel dress/light.js 可承接已有灯与环境调节。",
+      "params": [
+        {
+          "name": "暖亮区域",
+          "value": "画面 2–6%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作源码及许可待验证；邻接江南未发现根 LICENSE，只借手法",
+      "reuse": "reference",
+      "citadel": "src/world/worlds/dress/light.js"
+    },
+    {
+      "work": "末日机器人短片",
+      "source": "none",
+      "technique": "原作工作间/废墟灯光源码未定位；邻接技术源 Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html:3376-3403,3463-3497 可借冷环境加有限暖灯的方法，不提供机器人或工作间资产。",
+      "params": [
+        {
+          "name": "暖焦点数量",
+          "value": "主焦点 1，远景回声至多 2",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作源码及许可待验证；邻接江南未发现根 LICENSE，只借手法",
+      "reuse": "reference",
+      "citadel": "src/world/worlds/dress/light.js"
+    },
+    {
+      "work": "江南山谷 · 蓝调全景",
+      "source": "Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html:3376-3403",
+      "technique": "暖灯独立选位并创建有限数量的 PointLight，蓝调 dusk 状态另设冷主光/半球光与灯窗开关（同文件:3463-3497）；发光窗不能替代照亮邻墙的实用灯。Citadel 可复用 dress/light.js:7-76 的灯/环境调节入口，不代表该卡已完整落地。",
+      "params": [
+        {
+          "name": "dusk key",
+          "value": "0x9cc4cc / intensity 0.72",
+          "kind": "源码"
+        },
+        {
+          "name": "hemi sky / ground",
+          "value": "0x88b8bf / 0x232d2b",
+          "kind": "源码"
+        },
+        {
+          "name": "warm PointLight color / distance / decay",
+          "value": "0xffa862 / 16 / 2",
+          "kind": "源码"
+        },
+        {
+          "name": "lamp count high / low",
+          "value": "最多 8 / 4",
+          "kind": "源码"
+        },
+        {
+          "name": "warm bright area",
+          "value": "画面 2–6%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "未发现作品仓根 LICENSE，授权范围待验证；仅借手法，不复制代码/资产",
+      "reuse": "borrow",
+      "citadel": "src/world/worlds/dress/light.js"
+    }
   ]
 }

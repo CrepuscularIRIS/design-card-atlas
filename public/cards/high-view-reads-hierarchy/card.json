@@ -75,5 +75,77 @@
       "work_id": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/02-camp.html",
       "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/buffalo/02-camp.html"
     }
+  ],
+  "impl": [
+    {
+      "work": "清明上河 · 黄昏全城",
+      "source": "Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:2500-2524",
+      "technique": "VIEWS.overview 在横竖屏分别设置斜俯瞰 position/target/FOV，bw 将桥局部平面坐标转世界坐标；不可把 bw 参数直接当 xyz。Citadel place.js:529-546 已有 named views/goView，可复用接口但必须重选场景机位。",
+      "params": [
+        {
+          "name": "landscape overview",
+          "value": "pos=bw(80,66,34), target=bw(-24,-58,4)",
+          "kind": "源码"
+        },
+        {
+          "name": "portrait overview",
+          "value": "pos=bw(64,80,46), target=bw(-6,-42,3)",
+          "kind": "源码"
+        },
+        {
+          "name": "overview FOV",
+          "value": "42°",
+          "kind": "源码"
+        }
+      ],
+      "license": "未发现作品仓根 LICENSE，授权范围待验证；仅借手法，不复制代码/资产",
+      "reuse": "borrow",
+      "citadel": "src/world/worlds/place.js"
+    },
+    {
+      "work": "Athenaion · Panorama",
+      "source": "Repos/athenaion/src/world/shots.js:5-10",
+      "technique": "作者透视相机在侧上方保留近殿遮挡并读到低城；布局 src/world/layout.js:37-110 决定高低关系，相机参数不是缩比地形的替代品。可把 preset 结构映射到 Citadel place.js:529-546 的 views/goView，不直接复制米制坐标。",
+      "params": [
+        {
+          "name": "position",
+          "value": "[108,66,30]",
+          "kind": "源码"
+        },
+        {
+          "name": "target",
+          "value": "[15.1,61.5,-6.7]",
+          "kind": "源码"
+        },
+        {
+          "name": "FOV",
+          "value": "40°",
+          "kind": "源码"
+        }
+      ],
+      "license": "MIT（LICENSE:1-21）",
+      "reuse": "integrate",
+      "citadel": "src/world/worlds/place.js"
+    },
+    {
+      "work": "江南山谷 · 蓝调全景",
+      "source": "Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html:3612-3623",
+      "technique": "SHOTS 提供山谷全景和山坡俯瞰两档透视相机，用河道和山脊保留布局方向；具体截图操作仍以原 SOURCE 为准，不把预设存在当成截图机位实测。Citadel place.js:529-546 可承接目标场景的具名机位。",
+      "params": [
+        {
+          "name": "valley panorama",
+          "value": "pos=[32,15,128], target=[-6,5,22], FOV=52°",
+          "kind": "源码"
+        },
+        {
+          "name": "hillside overview",
+          "value": "pos=[80,42,52], target=[-10,3,-14], FOV=50°",
+          "kind": "源码"
+        }
+      ],
+      "license": "未发现作品仓根 LICENSE，授权范围待验证；仅借手法，不复制代码/资产",
+      "reuse": "borrow",
+      "citadel": "src/world/worlds/place.js"
+    }
   ]
 }

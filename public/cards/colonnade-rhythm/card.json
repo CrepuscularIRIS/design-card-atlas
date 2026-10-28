@@ -74,5 +74,72 @@
       "role": "counterexample",
       "work_id": "https://three-good-godrays.ameo.design/#sponza"
     }
+  ],
+  "impl": [
+    {
+      "work": "Blender cathedral interior",
+      "source": "none",
+      "technique": "原作石柱建模与布光待验证；邻接技术源 Repos/athenaion/src/modules/temple.js:53-67 以柱阵和暗内腔产生亮柱/暗隙节奏，不提供哥特柱束资产。",
+      "params": [
+        {
+          "name": "可见重复单元",
+          "value": "6–10",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作品源码及许可待验证；仅参考画面。邻接 Athenaion 源码为 MIT，不代表原作授权",
+      "reuse": "reference",
+      "citadel": "none"
+    },
+    {
+      "work": "Athenaion · Temple facade",
+      "source": "Repos/athenaion/src/modules/temple.js:53-67",
+      "technique": "peripteralTemple 按布局生成前后/两侧柱阵，darkCella 与内部减光保留柱间暗腔；尺寸在 src/world/layout.js:73-81，压缩透视机位在 src/world/shots.js:23-28。",
+      "params": [
+        {
+          "name": "columns",
+          "value": "front 8 / side 17",
+          "kind": "源码"
+        },
+        {
+          "name": "columnHeight",
+          "value": "10.4",
+          "kind": "源码"
+        },
+        {
+          "name": "darkCella",
+          "value": "true",
+          "kind": "源码"
+        },
+        {
+          "name": "interiorDark",
+          "value": "0.5",
+          "kind": "源码"
+        },
+        {
+          "name": "facade FOV",
+          "value": "18.5°",
+          "kind": "源码"
+        }
+      ],
+      "license": "MIT（LICENSE:1-21）",
+      "reuse": "integrate",
+      "citadel": "none"
+    },
+    {
+      "work": "Unreal 云上神殿与巨龙",
+      "source": "none",
+      "technique": "原作朱柱、曲檐和反射源码未定位；邻接技术源 Repos/athenaion/src/modules/temple.js:53-67 可生成带暗腔的柱列，曲檐与朱漆材料仍需另找已授权资产。",
+      "params": [
+        {
+          "name": "相邻柱投影空隙",
+          "value": "至少约柱宽 0.5 倍",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原作品源码及许可待验证；仅参考画面。邻接 Athenaion 源码为 MIT，不代表原作授权",
+      "reuse": "reference",
+      "citadel": "none"
+    }
   ]
 }
