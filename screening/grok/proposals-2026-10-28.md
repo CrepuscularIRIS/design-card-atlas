@@ -72,3 +72,23 @@
 | The Heart of the Silo（ikd94） | `ordered-frame-wild-growth`；`colonnade-rhythm`；`framed-distant-view` | Gothic；Shrine；Megastructure |
 
 备注：本轮避开 Oct 25–28 R1–R5 重矿（冷却塔内景/沙漠管线/硫矿/水电坝/船闸/飞艇机库及更早矿点）。新鲜源以 **定日镜太阳能场 / 干船坞龙门吊 / 空中舰港巨构 / 湾峡地热水电城 / 冰岛地热厂 / 雪原地热厂 / 异星峡谷地热前哨 / 筒仓生物穹内庭** 为主。
+
+
+---
+
+## R7
+
+本轮收下 8 帧；**不改** `public/cards`。仅提议现有视觉语言卡可被哪些收帧加固。
+
+| 收帧 | 建议加固的现有视觉语言卡（只提不改） | 博客落点提示 |
+|---|---|---|
+| Synchrotron（cyberbang3） | `megastructure-silhouette`；`framed-distant-view`；`fog-separates-depth` | Orbital；Canyon；Megastructure |
+| Marble Quarry（alecheck） | `megastructure-silhouette`；`fog-separates-depth`；`cold-world-warm-refuge` | Canyon；Gothic；Megastructure |
+| Lost Quarry（oknice） | `megastructure-silhouette`；`framed-distant-view`；`ordered-frame-wild-growth` | Canyon；Shrine；Megastructure |
+| Old grain elevator, outskirts（daryahubernatarava） | `megastructure-silhouette`；`fog-separates-depth`；`framed-distant-view` | Gothic；Canyon；Harbor |
+| Endless City: Railway Bridges（summerpudding） | `megastructure-silhouette`；`high-view-reads-hierarchy`；`colossus-crosses-the-frame` | Megastructure；Gothic；Harbor |
+| Radio telescope RT-70（anatoly_fedorov） | `megastructure-silhouette`；`framed-distant-view`；`scale-by-familiar-objects` | Orbital；Canyon；Megastructure |
+| Funicular（kingbond） | `fog-separates-depth`；`framed-distant-view`；`ordered-frame-wild-growth` | Gothic；Canyon；Harbor |
+| Floodgate evacuation system 002（josephbardolph） | `ordered-frame-wild-growth`；`megastructure-silhouette`；`framed-distant-view` | Gothic；Canyon；Megastructure |
+
+备注：本轮避开 Oct 25–28 R1–R6 重矿（太阳能场/干船坞/拆船/地热厂/筒仓生物穹内庭及更早矿点）。新鲜源以 **同步辐射环 / 夜采大理石坑 / 洪水绿松石矿坑 / 粮仓工业外景 / 巨拱铁路立交城 / 风暴射电望远镜 / 废墟缆车站 / 泄洪闸竖井复绿** 为主。
