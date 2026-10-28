@@ -84,5 +84,14 @@
   "origin": "https://github.com/patrick-morrison/belowjs.git",
   "state": "cloned",
   "note": "GPL-3.0 (c) patrick-morrison; three.js shipwreck VR dive viewer, dive lighting (src/dive); borrow-ideas only (copyleft); atlas PR #41 (r30)"
+ },
+ {
+  "repo": "train-track-builder",
+  "url": "https://github.com/rsamwilson2323-cloud/train-track-builder.git",
+  "date": "2026-10-28T19:48:18.520248+00:00",
+  "head": "6ba9f17164939eb7a44e30ca1f42f7d7ee9d7938",
+  "origin": "https://github.com/rsamwilson2323-cloud/train-track-builder.git",
+  "state": "cloned",
+  "note": "MIT (c) 2026 Sam Wilson; three.js WebGPU cinematic railway builder: modular track snapping, bridges/slopes, viaducts, animated train, HDR day/night; atlas PR #44/#45 (r31)"
  }
 ]
