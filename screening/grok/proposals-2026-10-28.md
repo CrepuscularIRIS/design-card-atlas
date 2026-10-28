@@ -33,3 +33,22 @@
 | Victorian Greenhouse（sammler） | `colonnade-rhythm`；`ordered-frame-wild-growth`；`framed-distant-view` | Shrine；Megastructure；Canyon |
 
 备注：本轮避开 Oct 25–28 R1/R2 重矿（风塔/盐沼/霓虹/ziggurat 旧源/灯塔石英岸/雾港/观象台/轨道站旧源/沉寺/崖瀑/Berlin/沙漠UE5/地下城/荧光洞/山寺竹鸟居/树城/戴森/小行星船/冥王星/Asimov/太空电梯/哥特图书馆/竹农场/环栖/geofront/管城/运河/云寺/飞艇坞/太阳能梯田/荒漠炼厂/菌丝/独石站/悬挂渡槽/倒置崖/悬僧寺/稻畦环城/地热熔岩/tether/caravanserai/stepwell/bone cathedral/Atlantis/kelp/haze tower/mushroom lighthouse/northern research/cistern/alpine fortress/sunset pagoda/industrial warzone/jungle outpost）。新鲜源以 **石灰岩洞殿 / 洞穴神殿瀑雾 / 月面陨坑巨构 / 工业崩塌广场 / 自然溶洞圣所 / 圆形浮港 / 日耀港城 / 维多利亚玻璃暖房** 为主。
+
+---
+
+## R4
+
+本轮收下 8 帧；**不改** `public/cards`。仅提议现有视觉语言卡可被哪些收帧加固。
+
+| 收帧 | 建议加固的现有视觉语言卡（只提不改） | 博客落点提示 |
+|---|---|---|
+| Arctic Shipwreck scene（b3an0s_salg） | `megastructure-silhouette`；`fog-separates-depth`；`framed-distant-view` | Harbor；Canyon；Megastructure |
+| Desert Outpost Salt Extractors（llra） | `megastructure-silhouette`；`fog-separates-depth`；`high-view-reads-hierarchy` | Canyon；Megastructure；Harbor |
+| Cremation of Sam McGee shipwreck（pouyamoayedi） | `fog-separates-depth`；`framed-distant-view`；`cold-world-warm-refuge` | Harbor；Canyon；Gothic |
+| Cinematic Canyon Environment（md-shaikh） | `framed-distant-view`；`fog-separates-depth`；`high-view-reads-hierarchy` | Canyon；Megastructure；Shrine |
+| A Great Forge（oliyee） | `megastructure-silhouette`；`colossus-crosses-the-frame`；`cold-world-warm-refuge` | Megastructure；Canyon；Gothic |
+| Steamy Cityscape（myiao） | `megastructure-silhouette`；`fog-separates-depth`；`scale-by-familiar-objects` | Megastructure；Gothic；Harbor |
+| Industrial outpost（appoloss） | `megastructure-silhouette`；`fog-separates-depth`；`framed-distant-view` | Orbital；Megastructure；Canyon |
+| Underwater City Environment（zefwastaken） | `megastructure-silhouette`；`fog-separates-depth`；`framed-distant-view` | Harbor；Megastructure；Canyon |
+
+备注：本轮避开 Oct 25–28 R1–R3 重矿（风塔/盐沼/霓虹/ziggurat 旧源/灯塔石英岸/雾港/观象台/轨道站旧源/沉寺/崖瀑/Berlin/沙漠UE5/地下城/荧光洞/山寺竹鸟居/树城/戴森/小行星船/冥王星/Asimov/太空电梯/哥特图书馆/竹农场/环栖/geofront/管城/运河/云寺/飞艇坞/太阳能梯田/荒漠炼厂/菌丝/独石站/悬挂渡槽/倒置崖/悬僧寺/稻畦环城/地热熔岩/tether/caravanserai/stepwell/bone cathedral/Atlantis/kelp/haze tower/mushroom lighthouse/northern research/cistern/alpine fortress/sunset pagoda/industrial warzone/jungle outpost/cenote/dead tide/lunar crater/collapsed industrial/sea city/Aurelia/victorian greenhouse）。新鲜源以 **北极船骸 / 荒漠盐提取前哨 / 冰海焚船 / 峡谷建立 / 熔岩锻炉 / 蒸汽朋克港城 / 赤尘工业前哨 / 海底穹城** 为主。
