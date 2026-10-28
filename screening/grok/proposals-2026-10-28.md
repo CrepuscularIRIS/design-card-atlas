@@ -14,3 +14,22 @@
 | Procedural Sunken City（exaii） | `megastructure-silhouette`；`fog-separates-depth`；`colossus-crosses-the-frame` | Megastructure；Orbital；Canyon |
 
 备注：本轮刻意避开 Oct 25–27 重矿（风塔/盐沼/灯塔/石英岸/树城/戴森/地热厂/菌丝地下城/悬挂渡槽/倒置崖/僧寺桥/稻畦环城等），新鲜源以 **轨道系泊 / 商旅驿站 / 阶井峡谷 / 骨堂哥特 / 溺没巴西利卡 / 藻林溺城 / 深渊程序城** 为主。水下主题占 3–4 帧但构图与时代感不同（殿堂广场 / 藻林神门 / 俯视街巷 / 骨架穹顶）。
+
+---
+
+## R3
+
+本轮收下 8 帧；**不改** `public/cards`。仅提议现有视觉语言卡可被哪些收帧加固。
+
+| 收帧 | 建议加固的现有视觉语言卡（只提不改） | 博客落点提示 |
+|---|---|---|
+| Cenote Temple Underground（raylopez） | `fog-separates-depth`；`ordered-frame-wild-growth`；`framed-distant-view` | Shrine；Canyon；Gothic |
+| Dead Tide Environment（quimescarra） | `framed-distant-view`；`fog-separates-depth`；`ordered-frame-wild-growth` | Shrine；Canyon；Gothic |
+| Abandoned alien outpost（trixer） | `megastructure-silhouette`；`high-view-reads-hierarchy`；`colossus-crosses-the-frame` | Orbital；Megastructure；Canyon |
+| Collapsed Industrial Zone（alejandro_xyz） | `megastructure-silhouette`；`fog-separates-depth`；`high-view-reads-hierarchy` | Megastructure；Canyon；Gothic |
+| Cenote ik Kil 02（theauthor） | `fog-separates-depth`；`ordered-frame-wild-growth`；`cold-world-warm-refuge` | Shrine；Canyon；Megastructure |
+| Sea City 2（marsmotion） | `megastructure-silhouette`；`framed-distant-view`；`high-view-reads-hierarchy` | Harbor；Orbital；Megastructure |
+| Aurelia Golden Spire City（hamada_hamada） | `megastructure-silhouette`；`framed-distant-view`；`cold-world-warm-refuge` | Harbor；Megastructure；Shrine |
+| Victorian Greenhouse（sammler） | `colonnade-rhythm`；`ordered-frame-wild-growth`；`framed-distant-view` | Shrine；Megastructure；Canyon |
+
+备注：本轮避开 Oct 25–28 R1/R2 重矿（风塔/盐沼/霓虹/ziggurat 旧源/灯塔石英岸/雾港/观象台/轨道站旧源/沉寺/崖瀑/Berlin/沙漠UE5/地下城/荧光洞/山寺竹鸟居/树城/戴森/小行星船/冥王星/Asimov/太空电梯/哥特图书馆/竹农场/环栖/geofront/管城/运河/云寺/飞艇坞/太阳能梯田/荒漠炼厂/菌丝/独石站/悬挂渡槽/倒置崖/悬僧寺/稻畦环城/地热熔岩/tether/caravanserai/stepwell/bone cathedral/Atlantis/kelp/haze tower/mushroom lighthouse/northern research/cistern/alpine fortress/sunset pagoda/industrial warzone/jungle outpost）。新鲜源以 **石灰岩洞殿 / 洞穴神殿瀑雾 / 月面陨坑巨构 / 工业崩塌广场 / 自然溶洞圣所 / 圆形浮港 / 日耀港城 / 维多利亚玻璃暖房** 为主。
