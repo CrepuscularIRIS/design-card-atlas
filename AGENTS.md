@@ -4,6 +4,7 @@ Canonical specification: `docs/VISUAL_CARD_PROMPT.md` (v3). Read it before editi
 
 - README is the visual Reel. Do not build a frontend or drawing interface.
 - A card is one visual language, not a repository, implementation trick, or code component.
+- Each card also carries an implementation index (`impl` in card.json + README table, spec §6.1): local `Repos/` file:line, technique, labelled params, license, reuse tier, Citadel path. Polish plans cite cards by id, so the index must be real source that was opened and read; reusable code lives in Citadel `src/world/worlds/cardfx/`, never in this repo.
 - New publishable material lives in `public/`: cards, recipes, sources and dimension guide. Root README links into it.
 - Each selected card needs 3–8 real observed artwork screenshots, visible meaning, at least four concrete visual dimensions, and a specific current Citadel destination. Prefer multiple works per language.
 - Reject posters, logos, loading/error screens, editor/settings screenshots, generic 2D tools, and visually weak frames. Never invent an image or silently upscale a low-resolution source.
