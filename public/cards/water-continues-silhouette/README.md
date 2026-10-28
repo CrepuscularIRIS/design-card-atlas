@@ -36,20 +36,6 @@
 - **迁移试验值**：构图先给水面25–40%画高；选一个桥洞、灯柱或门洞作反射标尺。波纹加入后，400px缩图仍应认出至少一个成对轮廓。
 - 若使用屏幕空间反射，必须实看相机移动时是否突然断掉；截图本身不能证明离屏反射正确。
 
-### 实现索引
-
-2026-10-28 已打开本地源码核对；当前 checkout 不等同旧成片版本。参数区分源码与建议迁移值，尚未在 Citadel 运行复刻。`citadel: none` 是尚未找到可复用实现，不是已落地声明。第三方路径相对 `~/Blog/`，Citadel 路径相对 `~/Blog/citadel/`。固定版本与许可见 [SOURCE.md](SOURCE.md)。
-
-| 作品 | 源码 / 邻接与手法 | 参数及性质 | 许可 / 复用 | Citadel 可复用实现 |
-|---|---|---|---|---|
-| 江南山谷 · 清晨河岸 | `Repos/webgl-seascape-video/jiangnan/src/02_terrain.js:262-267,310-389`；Reflector 反射真实场景、Fresnel 混合深浅水底，法线小幅扰动反射UV；不用任意倒影贴图替代岸上对象 | clipBias=0.002（源码）；Fresnel F0=0.02（源码）；UV扰动系数=0.02（源码） | 无根 LICENSE / borrow | `src/world/worlds/planarWaterReflection.js:6-30,33-70; src/world/worlds/atlasWater.js:6-25,38-62` |
-| 清明上河 · 雨中虹桥 | `Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:1088-1103`；由河道左右边界生成 Reflector 网格，水面 y=0；相机层选择反射对象，雨扰动在 WaterShader 中需同时接入 | WATER_Y=0（源码）；clipBias=0.002（源码） | 无根 LICENSE / borrow | `src/world/worlds/planarWaterReflection.js:6-30,33-70; src/world/worlds/atlasWater.js:6-25,38-62` |
-| Falcon 9 · 海面降落 | `Repos/falcon9-blender/film/envs.py:231-254`；Blender 海面 Principled BSDF 低粗糙度+世界坐标噪声 bump；函数默认值非56s成片的已核实实参，WebGL用项目平面反射替代光追 | rough 默认=0.06（源码）；IOR=1.33（源码）；wave_bump 默认=0.25（源码） | 源码 MIT；模型/成片 CC BY-NC 4.0 / borrow | `src/world/worlds/planarWaterReflection.js:6-30,33-70; src/world/worlds/atlasWater.js:6-25,38-62` |
-
-Citadel 复用接口：`createWaterReflection(gl, scene, seas)` 返回 `render(camera, width, height)` / `dispose()`（源码形参名为 source，即 camera）；seas 材质需含 `uReflection`、`uReflectionMatrix`，不是 Reflector 的 `tDiffuse/textureMatrix` 直接替换。仅水平水面；每次以首个可见海面高度共享一张反射，非多高度同时独立反射。反射目标随模块 dispose。应逐个水面验证裁切与画质，不以有模块等于已复刻原作。
-
-现成水材质：`src/world/worlds/atlasWater.js:6-25,38-62` 的 `atlasWater(night=false)` 返回 ShaderMaterial，需几何 `shoreColor` 属性，并逐帧更新 `uTime`；反射模块供给 `uReflection` / `uReflectionMatrix`，Fresnel F0=0.02、8 组梯度波由源码定义。可供其他开放场景复用接口，不是修改已锁定 atlas 场景的提案。
-
 ## 迁移到博客
 
 Beach1/2已登记开放，其后续美术方案适合先做一个可读岸物与倒影组合；Shrine若加水庭，先让门柱或台阶反射成立，再添加漂浮花瓣。这里是新增方案，不表示已实现水庭。

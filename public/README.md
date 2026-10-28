@@ -8,7 +8,7 @@
 
 给 Crepuscular Citadel 的 3D 场景与 UI 的参考图册。<br>每张卡只讲一种视觉语言，配一组真实画面；指着图说「做成这样」。
 
-<sub>27 张视觉卡 · 3 个场景配方 · 头图：<a href="https://silentfleetkk.github.io/qingming-bianjing/opus-5.5/qingming-bianjing.html">清明上河 · 黄昏全城</a></sub>
+<sub>23 张视觉卡 · 3 个场景配方 · 头图：<a href="https://silentfleetkk.github.io/qingming-bianjing/opus-5.5/qingming-bianjing.html">清明上河 · 黄昏全城</a></sub>
 
 <a href="#光影">光影</a> · <a href="#色彩">色彩</a> · <a href="#构图重心">构图重心</a> · <a href="#造型尺度">造型尺度</a> · <a href="#材质">材质</a> · <a href="#水与大气">水与大气</a> · <a href="#镜头运动">镜头运动</a> · <a href="#排版-ui">排版 UI</a> · <a href="#场景配方">场景配方</a>
 
@@ -116,31 +116,9 @@
 
 <sub>**情绪** 窥见、敬畏 · **用在博客** street-1 门廊、platform-1 窗景、Shrine 入口与 Alley2 门洞（title / atlas locked） · <a href="cards/framed-distant-view/README.md">拆解与做法 →</a></sub>
 
-### 河道串景
-
-> 用连续水道在密集场景里留出一条可读路径，把近景、中景与远处地标串起来。
-
-<table>
-<tr><td width="33%" valign="top"><a href="cards/river-leads-the-eye/shots/05.jpg"><img src="cards/river-leads-the-eye/shots/05.jpg" width="100%" alt="Poseidia · Sea Canal：两道栏桥把中央水道框成直轴，近晶灯、小舟、远殿各占一个尺度。"></a></td><td width="33%" valign="top"><a href="cards/river-leads-the-eye/shots/01.jpg"><img src="cards/river-leads-the-eye/shots/01.jpg" width="100%" alt="清明上河 · 黄昏全城：斜河在密集屋顶中划开一条低细节通道，把桥放在两个岸区之间。"></a></td><td width="33%" valign="top"><a href="cards/river-leads-the-eye/shots/02.jpg"><img src="cards/river-leads-the-eye/shots/02.jpg" width="100%" alt="Sakura River Valley：河道从近船绕向远桥，山坡与岸草一起让出这条路径。"></a></td></tr>
-<tr><td valign="top"><sub><a href="https://poseidia.vercel.app/">Poseidia · Sea Canal</a></sub></td><td valign="top"><sub><a href="https://silentfleetkk.github.io/qingming-bianjing/opus-5.5/qingming-bianjing.html">清明上河 · 黄昏全城</a></sub></td><td valign="top"><sub><a href="https://valley.mengto.here.now/">Sakura River Valley</a></sub></td></tr>
-</table>
-
-<sub>**情绪** 开阔、悠远 · **用在博客** Beach 水口与岸边地标的后续建模 · <a href="cards/river-leads-the-eye/README.md">拆解与做法 →</a></sub>
-
 <br>
 
 ## 造型尺度
-
-### 冷境承托设施
-
-> 让冷色空地或寒雾托出人工设施，用连廊、入口和小型载具说明人在巨构中如何停留。
-
-<table>
-<tr><td width="33%" valign="top"><a href="cards/cold-ground-frames-station/shots/01.jpg"><img src="cards/cold-ground-frames-station/shots/01.jpg" width="100%" alt="Antarctica Research Station：中央穹顶与红白分舱由细连廊接起，雪地留出建筑之间的空白。"></a></td><td width="33%" valign="top"><a href="cards/cold-ground-frames-station/shots/02.jpg"><img src="cards/cold-ground-frames-station/shots/02.jpg" width="100%" alt="Arctic Sci-Fi Research Base – Environment Design：中央球体、竖罐和低模块在暗蓝雪场中分成三档，雪点不能抹掉外形。"></a></td><td width="33%" valign="top"><a href="cards/cold-ground-frames-station/shots/03.jpg"><img src="cards/cold-ground-frames-station/shots/03.jpg" width="100%" alt="Arctic Research Station：右侧双塔天桥和左侧低穹顶分级，前景橙色飞机压出远近。"></a></td></tr>
-<tr><td valign="top"><sub><a href="https://www.artstation.com/artwork/zPRVWZ">Antarctica Research Station</a></sub></td><td valign="top"><sub><a href="https://www.artstation.com/artwork/Gvnagd">Arctic Sci-Fi Research Base – Environment Design</a></sub></td><td valign="top"><sub><a href="https://www.artstation.com/artwork/rR39eL">Arctic Research Station</a></sub></td></tr>
-</table>
-
-<sub>**情绪** 孤立、坚守 · **用在博客** landfill-room-1 模块远端、black-city-1 巨构入口；只借寒境组织，不新增极地场景 · <a href="cards/cold-ground-frames-station/README.md">拆解与做法 →</a></sub>
 
 ### 柱廊明暗节奏
 
@@ -153,17 +131,6 @@
 
 <sub>**情绪** 庄严、神圣 · **用在博客** BlackCityHall 登记场景、Shrine 入口 · <a href="cards/colonnade-rhythm/README.md">拆解与做法 →</a></sub>
 
-### 巨像越画框
-
-> 只让巨物的一部分进入画面，同时留下熟悉轮廓，观众会主动补全框外的体量。
-
-<table>
-<tr><td width="33%" valign="top"><a href="cards/colossus-crosses-the-frame/shots/01.jpg"><img src="cards/colossus-crosses-the-frame/shots/01.jpg" width="100%" alt="云上石像：膝与手臂越出下方与画面左侧，脸与手势仍足以确认巨大人形。"></a></td><td width="33%" valign="top"><a href="cards/colossus-crosses-the-frame/shots/02.jpg"><img src="cards/colossus-crosses-the-frame/shots/02.jpg" width="100%" alt="中式幻想 RPG · 雾中巨像：两侧巨像的冠顶和身体被边框截断，中间水道仍能通行。"></a></td><td width="33%" valign="top"><a href="cards/colossus-crosses-the-frame/shots/03.jpg"><img src="cards/colossus-crosses-the-frame/shots/03.jpg" width="100%" alt="Unreal 云上神殿与巨龙：巨龙头与长须挤入近景，廊柱和小人物提供另一个尺度。"></a></td></tr>
-<tr><td valign="top"><sub><a href="https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-2">云上石像</a></sub></td><td valign="top"><sub><a href="https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203">中式幻想 RPG · 雾中巨像</a></sub></td><td valign="top"><sub><a href="https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-1">Unreal 云上神殿与巨龙</a></sub></td></tr>
-</table>
-
-<sub>**情绪** 压迫、敬畏 · **用在博客** Shrine 巨像、BlackCity 近地标取景 · <a href="cards/colossus-crosses-the-frame/README.md">拆解与做法 →</a></sub>
-
 ### 管网串起巨构
 
 > 用粗管、桥架与运输线把设备串成有功能的整体，巨构的尺度来自连接关系，不只来自堆大的盒子。
@@ -174,17 +141,6 @@
 </table>
 
 <sub>**情绪** 运转、沉重 · **用在博客** landfill-1 工业远景、landfill-room-1 罐体与检修通道；不迁入炮台/地热资产 · <a href="cards/networks-link-industrial-masses/README.md">拆解与做法 →</a></sub>
-
-### 骨架规整草木野
-
-> 把清楚的建筑骨架与不均匀生长的植物并置，让两种秩序互相说明。
-
-<table>
-<tr><td width="33%" valign="top"><a href="cards/ordered-frame-wild-growth/shots/01.jpg"><img src="cards/ordered-frame-wild-growth/shots/01.jpg" width="100%" alt="Blender 机场室内雨林：大网格天幕托住空间，下面林冠高低和疏密不一，水柱穿过两者。"></a></td><td width="33%" valign="top"><a href="cards/ordered-frame-wild-growth/shots/02.jpg"><img src="cards/ordered-frame-wild-growth/shots/02.jpg" width="100%" alt="Athenaion · 水庭：圆亭和栏杆有确定边界，树冠与草簇越出边界但没有填平道路。"></a></td><td width="33%" valign="top"><a href="cards/ordered-frame-wild-growth/shots/03.jpg"><img src="cards/ordered-frame-wild-growth/shots/03.jpg" width="100%" alt="Athenaion · Ruined portico：残柱与梁仍可读为规整构架，杂草沿地面与断口生长。"></a></td></tr>
-<tr><td valign="top"><sub><a href="https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-4">Blender 机场室内雨林</a></sub></td><td valign="top"><sub><a href="https://github.com/Leonxlnx/athenaion">Athenaion · 水庭</a></sub></td><td valign="top"><sub><a href="https://github.com/Leonxlnx/athenaion">Athenaion · Ruined portico</a></sub></td></tr>
-</table>
-
-<sub>**情绪** 生机、时间 · **用在博客** Shrine 庭院与废墟边缘、Landfill 断口草簇 · <a href="cards/ordered-frame-wild-growth/README.md">拆解与做法 →</a></sub>
 
 ### 熟悉物标定巨构
 

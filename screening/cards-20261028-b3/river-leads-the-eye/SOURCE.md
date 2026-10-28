@@ -9,7 +9,7 @@
 - 机位/时间/步骤：Chrome打开Opus版→默认汴河全景→黄昏华灯初上→H隐藏界面，待变化稳定；2494×905原生视口。
 - 尺寸：2494×905；原尺寸保存，未放大、改色或重绘。
 - SHA256：`5fdbc04616d583ed57f24d71285249262edf8a6e70c8dbe8549529808bd0680e`
-- [原片与操作详情](../../references/opus-a/SOURCE.md)。
+- [原片与操作详情](../../../public/references/opus-a/SOURCE.md)。
 
 ## 02.jpg · Sakura River Valley
 
@@ -18,7 +18,7 @@
 - 机位/时间/步骤：作者在线版默认行船镜头；已观察连续行船与花瓣，近船左下/红桥右后/塔右上时截图；没有timecode，非完整路径验收。
 - 尺寸：2494×905；原尺寸保存，未放大、改色或重绘。
 - SHA256：`9187a701c104bef582a622d84664ba5d5f75d83110734a4d391e9e5a919c2099`
-- [原片与操作详情](../../references/local-collections/SOURCE.md)。
+- [原片与操作详情](../../../public/references/local-collections/SOURCE.md)。
 
 ## 03.png · 江南山谷 · 清晨河岸
 
@@ -27,7 +27,7 @@
 - 机位/时间/步骤：本地3079江南interactive.html；02河边低机位→清晨→隐藏界面；1920×1080。画质曾自适应降低。
 - 尺寸：1920×1080；原尺寸保存，未放大、改色或重绘。
 - SHA256：`4cc30085a77796e235e74957481ffc42f02f2cc70bf94f9127fc9b0de6a50ba3`
-- [原片与操作详情](../../references/light-water/SOURCE.md)。
+- [原片与操作详情](../../../public/references/light-water/SOURCE.md)。
 
 ## 04.png · Shader & Cosmos · 吸积盘
 
@@ -36,7 +36,7 @@
 - 机位/时间/步骤：本地3079/Repos/webgl-seascape-video/episodes/03-shader-cosmos/interactive.html；高画质、暂停、08吸积盘、隐藏界面；质量1.1、亮度1、曝光0.85，波相位未固定。
 - 尺寸：1920×1080；原尺寸保存，未放大、改色或重绘。
 - SHA256：`7aa4c416230909d14ddd2cfc4ebc7ca4759b67c4aa1db0c2a2b8e6c80fb04019`
-- [原片与操作详情](../../references/light-water/SOURCE.md)。
+- [原片与操作详情](../../../public/references/light-water/SOURCE.md)。
 
 ## 05.jpg · Poseidia · Sea Canal
 
@@ -46,7 +46,7 @@
 - 尺寸：[2494, 905]
 - SHA256：`94077f92fd9191ab85988c2dbe8eb27084d545c41f12d32f8eeb1fc779240b0c`
 - 权利：原作者保留，未核实开放媒体许可，不移植原素材。
-- [原全图、截图流程与限制](../../references/opus-a/SOURCE.md)。
+- [原全图、截图流程与限制](../../../public/references/opus-a/SOURCE.md)。
 
 ## 2026-10-28 实现索引核对
 

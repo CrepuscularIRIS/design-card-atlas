@@ -1,5 +1,7 @@
 # 冷境承托设施
 
+> 已撤出正式卡库：修订一次后复核仍 FAIL。此文件保留当时未闭环内容，不可作为 card:cold-ground-frames-station 实现索引引用；具体差距与重出条件见 [批次筛选表](../../cards-20261028-b3.csv)。
+
 分组：造型尺度 · 主维度：D 模块与环境尺度、B 冷底点色、C 实体与空地、A 受光与遮蔽、F 风雪距离 · 情绪：孤立、坚守
 
 [![Antarctica Research Station](shots/01.jpg)](shots/01.jpg)
