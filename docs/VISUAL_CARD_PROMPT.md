@@ -201,6 +201,34 @@
 1–2 张做坏了的样子（自己调坏截图，或看过的平庸作品），说明错在哪个维度。
 ```
 
+## 6.1 实现索引（2026-10-28 起，卡的第二层）
+
+卡的主体仍是一种视觉语言（第 6 节模板不变）。在此之上，每张卡再带一层**实现索引**，让打磨方案只引用卡 id（`card:<id>`）就能找到「去哪拿、怎么接进 citadel」，不必再从头翻仓库。
+
+写在两处：`card.json` 的 `impl` 数组（机器可读，director/judge 检索用），以及 README「做法」节末尾的「实现索引」表（人读）。
+
+```json
+"impl": [
+  {
+    "work": "Clearwater",
+    "source": "Repos/clearwater/src/caustics.frag:12-48",
+    "technique": "一句话：它是怎么做出这个效果的",
+    "params": [{"name": "causticScale", "value": "0.35", "kind": "源码"}],
+    "license": "MIT",
+    "reuse": "integrate | borrow | reference",
+    "citadel": "src/world/worlds/cardfx/caustics-on-receivers.js | 已落地 <场景>:<文件> | none"
+  }
+]
+```
+
+规则：
+
+1. `source` 必须是 `~/Blog/Repos/` 下已 clone 仓的**文件与行**，打开读过才能写；作品网址不算实现。作品无源码时写 `"source": "none"`，并在 `technique` 里给最近的邻接技术源路径。
+2. `params[].kind` 只能是 `实测`（从画面量）、`源码`（源码里的值）、`建议迁移值`（为 citadel 估的起点），不得混写。
+3. `reuse`：`integrate`（MIT 等许可允许，可直接集成/移植代码）· `borrow`（只借手法，Prosperity / 无 LICENSE 必须是这一档）· `reference`（只参考构图与画面）。
+4. `citadel`：citadel 里已有的可复用实现路径；预制效果模块统一放 `citadel/src/world/worlds/cardfx/<card-id>.js`（首次在场景落地时由执行者沉淀）；尚未集成写 `none`。代码只放 citadel，atlas 只放链接。
+5. 一张卡可以有多条 `impl`（不同作品、不同实现路线）。实现索引不改变收卡标准：视觉弱的作品即使有好源码也不收。
+
 ## 7. 配方（`recipes/<id>.md`）
 
 配方用来验证卡能不能组装成一个完整场景，比如：
