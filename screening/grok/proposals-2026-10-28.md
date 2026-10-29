@@ -112,3 +112,22 @@
 
 **不新建卡。** 主题：雾山宝塔 / 纸浆厂复绿 / 干船坞天车 / 赛博港坞 / 盐矿洞厅 / 废墟体育场。
 
+
+---
+
+## R9
+
+本轮收下 8 帧；**不改** `public/cards`。仅提议现有视觉语言卡可被哪些收帧加固。
+
+| 收帧 | 建议加固的现有视觉语言卡（只提不改） | 博客落点提示 |
+|---|---|---|
+| Industrial Sanctuary（chensihan） | `megastructure-silhouette`；`framed-distant-view`；`fog-separates-depth` | Megastructure；Gothic；Canyon |
+| Industrial Silence.（talhakutay） | `fog-separates-depth`；`megastructure-silhouette`；`framed-distant-view` | Gothic；Megastructure；Canyon |
+| Ominous Lava Mining Dam（nick_vanderwal） | `megastructure-silhouette`；`framed-distant-view`；`scale-by-familiar-objects` | Canyon；Megastructure；Gothic |
+| Acid Refineries（ace_carman） | `megastructure-silhouette`；`framed-distant-view`；`industrial-reclaim` | Megastructure；Gothic；Harbor |
+| Abandoned Theme park（bwells） | `ordered-frame-wild-growth`；`framed-distant-view`；`fog-separates-depth` | Gothic；Canyon；Megastructure |
+| Destination（empresssayuri） | `framed-distant-view`；`fog-separates-depth`；`cold-world-warm-refuge` | Canyon；Gothic；Shrine |
+| Post-Apocalyptic Theme Park Environment（barisyarikkaya） | `ordered-frame-wild-growth`；`megastructure-silhouette`；`framed-distant-view` | Gothic；Canyon；Megastructure |
+| Industrial Slums - Caio Mesquita（m3dsacademy） | `megastructure-silhouette`；`fog-separates-depth`；`framed-distant-view` | Gothic；Megastructure；Canyon |
+
+**不新建卡。** 主题：工业圣殿 / 工业静默 / 熔岩矿坝 / 酸蚀炼厂 / 废弃主题公园 / 目的地环境 / 废土乐园 / 工业贫窟。
