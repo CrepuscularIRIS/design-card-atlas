@@ -3366,3 +3366,91 @@
 - 机位/时间/步骤：CDN 4k/large 实看；崩顶足球场巨骨定居点；净废墟体育场建立；净环境
 - 维度/落点：megastructure-silhouette;ordered-frame-wild-growth;stadium-ruins;high-view-reads-hierarchy → 博客 Gothic;Canyon;Megastructure
 - 许可：版权归 olegwer；ArtStation 公开；仅作视觉参考
+
+### chensihan-industrial-sanctuary-3840.jpg
+- 作品名：Industrial Sanctuary
+- 作者：chensihan
+- 原始 URL：https://www.artstation.com/artwork/XaeKol
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R9）
+- 尺寸：3840×1609；sha256：`8bcebc8d272d43857c97e74e53cb8bd8dbaa414b1032adf06f8cec2f2500c7ba`
+- 机位/时间/步骤：CDN 4k/large 实看；工业圣殿巨构外景建立；净工业巨构；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;industrial-sanctuary;fog-separates-depth → 博客 Megastructure;Gothic;Canyon
+- 许可：版权归 chensihan；ArtStation 公开；仅作视觉参考
+
+### talhakutay-industrial-silence-1920.jpg
+- 作品名：Industrial Silence.
+- 作者：talhakutay
+- 原始 URL：https://www.artstation.com/artwork/a0204J
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R9）
+- 尺寸：1920×1080；sha256：`d77bc9963ca451258198863d0caf6a7a54c1e30c213dc17fe8c5fcea3431c9ed`
+- 机位/时间/步骤：CDN 4k/large 实看；工业静默外景雾深建立；净工业外景；净环境
+- 维度/落点：fog-separates-depth;megastructure-silhouette;industrial-silence;framed-distant-view → 博客 Gothic;Megastructure;Canyon
+- 许可：版权归 talhakutay；ArtStation 公开；仅作视觉参考
+
+### nick_vanderwal-ominous-lava-mining-dam-1920.jpg
+- 作品名：Ominous Lava Mining Dam
+- 作者：nick_vanderwal
+- 原始 URL：https://www.artstation.com/artwork/3ENDJJ
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R9）
+- 尺寸：1920×1080；sha256：`759714cdc24b8f93af9e13cbf9b1ce871870ad16bc21c426c45d8a912a6a2318`
+- 机位/时间/步骤：CDN 4k/large 实看；熔岩矿坝巨构建立；净矿坝外景；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;lava-mining-dam;scale-by-familiar-objects → 博客 Canyon;Megastructure;Gothic
+- 许可：版权归 nick_vanderwal；ArtStation 公开；仅作视觉参考
+
+### ace_carman-acid-refineries-1920.jpg
+- 作品名：Acid Refineries
+- 作者：ace_carman
+- 原始 URL：https://www.artstation.com/artwork/lGR36k
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R9）
+- 尺寸：1920×1920；sha256：`d748886ff15799df4f832cbd5494694b0de864d55c6a50c3b2256f1050322db9`
+- 机位/时间/步骤：CDN 4k/large 实看；酸蚀炼厂巨构建立；净炼厂外景；净环境
+- 维度/落点：megastructure-silhouette;acid-refinery;framed-distant-view;industrial-reclaim → 博客 Megastructure;Gothic;Harbor
+- 许可：版权归 ace_carman；ArtStation 公开；仅作视觉参考
+
+### bwells-abandoned-theme-park-environment-concept-art-1920.jpg
+- 作品名：Abandoned Theme park | Environment Concept Art
+- 作者：bwells
+- 原始 URL：https://www.artstation.com/artwork/N5x90z
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R9）
+- 尺寸：1920×757；sha256：`0615bf4e54e45e8a6c6d55ce6851f22211140f7441ea841455c6fc84b7af2ec7`
+- 机位/时间/步骤：CDN 4k/large 实看；废弃主题公园横展建立；净废墟乐园；净环境
+- 维度/落点：ordered-frame-wild-growth;framed-distant-view;abandoned-theme-park;fog-separates-depth → 博客 Gothic;Canyon;Megastructure
+- 许可：版权归 bwells；ArtStation 公开；仅作视觉参考
+
+### empresssayuri-destination-environment-concept-art-study-2204.jpg
+- 作品名：Destination (Environment Concept art study)
+- 作者：empresssayuri
+- 原始 URL：https://www.artstation.com/artwork/LR3ne5
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R9）
+- 尺寸：2204×1698；sha256：`ed91a18ccb56e11d5fd9bc7fe60887e960b5c83860b45fa7f0b916adfcacee58`
+- 机位/时间/步骤：CDN 4k/large 实看；目的地环境概念建立；净环境外景；净环境
+- 维度/落点：framed-distant-view;fog-separates-depth;destination-env;cold-world-warm-refuge → 博客 Canyon;Gothic;Shrine
+- 许可：版权归 empresssayuri；ArtStation 公开；仅作视觉参考
+
+### barisyarikkaya-post-apocalyptic-theme-park-environment-1920.jpg
+- 作品名：Post-Apocalyptic Theme Park Environment
+- 作者：barisyarikkaya
+- 原始 URL：https://www.artstation.com/artwork/0aYOnw
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R9）
+- 尺寸：1920×1920；sha256：`c23ca92d37732296b4a506ea6d7893795dcb83202139fd09a8c3ee1bc455242d`
+- 机位/时间/步骤：CDN 4k/large 实看；废土主题公园环境建立；净废墟乐园；净环境
+- 维度/落点：ordered-frame-wild-growth;megastructure-silhouette;post-apoc-theme-park;framed-distant-view → 博客 Gothic;Canyon;Megastructure
+- 许可：版权归 barisyarikkaya；ArtStation 公开；仅作视觉参考
+
+### m3dsacademy-industrial-slums-caio-mesquita-1920.jpg
+- 作品名：Industrial Slums - Caio Mesquita
+- 作者：m3dsacademy
+- 原始 URL：https://www.artstation.com/artwork/oJdLDW
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-28（R9）
+- 尺寸：1920×960；sha256：`344ebe2387cb15277bb6e18407a6ca8f9e0f363839c18c56adf9ed751368f097`
+- 机位/时间/步骤：CDN 4k/large 实看；工业贫民窟横展建立；净工业贫窟外景；净环境
+- 维度/落点：megastructure-silhouette;industrial-slums;framed-distant-view;fog-separates-depth → 博客 Gothic;Megastructure;Canyon
+- 许可：版权归 m3dsacademy；ArtStation 公开；仅作视觉参考
