@@ -1,4 +1,4 @@
-# Grok screening proposals · 2026-10-29（R1）
+# Grok screening proposals · 2026-10-29（R1+R2）
 
 本轮收下 8 帧；**不改** `public/cards`。仅提议现有视觉语言卡可被哪些收帧加固。
 
@@ -14,3 +14,23 @@
 | Canyon Scrapyard [Environmental concept （johncat） | `framed-distant-view`；`fog-separates-depth`；`ordered-frame-wild-growth` | Canyon；Megastructure；Gothic |
 
 备注：本轮刻意避开 Oct 25–28 重矿（风塔/盐沼/霓虹峡谷/ziggurat/玻璃果园/灯塔石英岸/雾港/观象台旧源/轨道站旧源/Atlantis/kelp/cenote/地热厂/太阳能农场/干船坞/船拆/同步辐射/采石场/粮仓/射电望远镜/缆车/闸门/宝塔雾山/纸厂/Arrol/盐矿洞/废土体育场/工业圣殿静默熔岩坝酸炼厂主题公园工业贫窟/tether/caravanserai/stepwell/bone cathedral 等），并跳过 Oct 28 已收作者。新鲜源以 **峡谷渡槽 / 崖壁水塔 / 雾峰石桥 / 废弃工业通讯塔 / 谷地气柜式巨塔 / 深水工业站 / 峡湾崖龛 / 峡谷废料场** 为主。
+
+
+---
+
+# Grok screening proposals · 2026-10-29（R2）
+
+本轮收下 8 帧；**不改** `public/cards`。仅提议现有视觉语言卡可被哪些收帧加固。
+
+| 收帧 | 建议加固的现有视觉语言卡（只提不改） | 博客落点提示 |
+|---|---|---|
+| Geothermal Extraction Outpost "Ignis-7"（jacob-j） | `megastructure-silhouette`；`framed-distant-view`；`fog-separates-depth` | Megastructure；Industrial；Canyon |
+| Entrance No:5（bilalcankocaman） | `megastructure-silhouette`；`fog-separates-depth`；`scale-by-familiar-objects` | Megastructure；Gothic；Industrial |
+| Zyloth Settlement（vishhz） | `framed-distant-view`；`fog-separates-depth`；`megastructure-silhouette` | Canyon；Megastructure；Industrial |
+| Daily 3d sketches 5（abhinavsk） | `megastructure-silhouette`；`brutalist-tower`；`ordered-frame-wild-growth` | Megastructure；Gothic；Orbital |
+| Guard（delaneveart） | `framed-distant-view`；`megastructure-silhouette`；`scale-by-familiar-objects` | Shrine；Megastructure；Gothic |
+| Megalophobia - Brutalist Environments（redeugene） | `megastructure-silhouette`；`fog-separates-depth`；`framed-distant-view` | Megastructure；Gothic；Canyon |
+| UE4 Environment - Oasis Temple（tyler_oliver） | `framed-distant-view`；`fog-separates-depth`；`megastructure-silhouette` | Harbor；Shrine；Canyon |
+| Capri 2122（lorenzolanfranconi） | `framed-distant-view`；`megastructure-silhouette`；`ordered-frame-wild-growth` | Orbital；Harbor；Megastructure |
+
+备注：R2 关键词网刻意避开 R1 已挖的 desalination/aqueduct/gasometer/scrapyard 精确集，改走 **地热脊 / 潮汐坝 / 粮仓教堂 / 干船坞雾夜 / 射电望远镜谷 / 索道崖 / 闸门峡谷 / 大理石采石场 / 同步辐射外环 / 盐矿中殿 / 纸厂河 / 废体育场黄昏 / 电车库钠灯 / 水泥窑林 / 微波中继脊 / 啤酒厂教堂 / 船闸阶梯 / 单轨峡谷 / 沉淀池航拍 / 高山坝溢洪 / 斜拉雾桥 / 风暴海堤 / 破冰港 / 葡萄园修道院 / 竹脚手架巨构 / 立交夜景 / 冷却池蒸汽 / 石化火炬外景 / 填埋峡谷 / 玻璃厂烟囱林**，并以 brutalist / cliff temple / canyon bridge / geothermal 等宽词补足。跳过 Oct 25–29 已收作者优先。
