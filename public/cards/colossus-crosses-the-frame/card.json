@@ -1,0 +1,141 @@
+{
+  "id": "colossus-crosses-the-frame",
+  "title": "巨像越画框",
+  "group": "造型尺度",
+  "dimension": "D",
+  "dimensions": [
+    "D 局部识别",
+    "C 果断裁切",
+    "G 近身透视",
+    "A 轮廓可读",
+    "I 压迫"
+  ],
+  "mood": "压迫、敬畏",
+  "summary": "只让巨物的一部分进入画面，同时留下熟悉轮廓，观众会主动补全框外的体量。",
+  "blog": "black-city-2 巨物右窗：beast / look-up 固定取景；不是 black-city-1 工业立面",
+  "shots": [
+    {
+      "file": "kimi-videos/017-stone-deity-7.918.jpg",
+      "work": "云上石像",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-2",
+      "proof": "膝与手臂越出下方与画面左侧，脸与手势仍足以确认巨大人形。",
+      "capture": "浏览器抽看1.699、6.793、7.918、10.914s与尾段；7.918004s原尺寸视频帧，非连续全片。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-2"
+    },
+    {
+      "file": "kimi-videos/059-mist-colossi-1.788.jpg",
+      "work": "中式幻想 RPG · 雾中巨像",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203",
+      "proof": "两侧巨像的冠顶和身体被边框截断，中间水道仍能通行。",
+      "capture": "浏览器实际看10.03/12.49s并拖回1.788s；已观察原片1.788s原尺寸抽帧；非连续全片验收。",
+      "kind": "浏览器实看后的原画面",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203"
+    },
+    {
+      "file": "kimi-videos/016-celestial-palace-33.376.jpg",
+      "work": "Unreal 云上神殿与巨龙",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-1",
+      "proof": "巨龙头与长须挤入近景，廊柱和小人物提供另一个尺度。",
+      "capture": "浏览器抽看12.65/18.31/33.38秒；已观察原片33.376s原尺寸抽帧。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-1"
+    },
+    {
+      "file": "local-collections/counter-buffalo-camp-miniature.jpg",
+      "work": "水牛露营 · 浮岛",
+      "url": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/02-camp.html",
+      "proof": "从顶到底都看完的浮岛，让观众立刻知道模型边界。",
+      "capture": "实际完整首屏；真实作品对照，不是故障图。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/04.jpg",
+      "dimensions": [
+        2479,
+        900
+      ],
+      "role": "counterexample",
+      "work_id": "https://github.com/Zp-Peter/kimi-k31pro-opus55-benchmark-showcase/blob/65e82c53b63f2fdd918617269c057d8e53af2c6f/opus/buffalo/02-camp.html",
+      "local_route": "http://localhost:3079/Repos/kimi-k31pro-opus55-benchmark-showcase/opus/buffalo/02-camp.html"
+    }
+  ],
+  "impl": [
+    {
+      "work": "云上石像",
+      "source": "none",
+      "technique": "原作资产/源码未取得；邻接 Repos/athenaion/src/modules/statues.js:197-269 的 buildColossus(engine,variant,size,pedH,detail,opts) 可生成完整站立持盾像，依赖骨架、盾矛与材质模块，不是石佛。src/world/shots.js:24-25 的 shot5 明确保留整盔，不是裁切范例；只借完整形体与取景可分离的组织方式。",
+      "params": [
+        {
+          "name": "邻接模型 s",
+          "value": "size/2.0",
+          "kind": "源码"
+        },
+        {
+          "name": "转译识别线",
+          "value": "至少保留脸/手势一组",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原视频许可未明；邻接 MIT",
+      "reuse": "reference",
+      "citadel": "lab/src/scenes/BlackCityAquarium/index.js:130-140"
+    },
+    {
+      "work": "中式幻想 RPG · 雾中巨像",
+      "source": "none",
+      "technique": "原作源码未取得；邻接 Repos/athenaion/src/world/shots.js:24-42 提供 position/target/fov 相机预设结构，不提供图中的双侧巨像、河道或雾算法。两侧出框须独立验证；不能把 shot5 whole helmet 称为现成出框机位。",
+      "params": [
+        {
+          "name": "中部通道",
+          "value": "保留约1/4画宽",
+          "kind": "建议迁移值"
+        },
+        {
+          "name": "镜头起点",
+          "value": "citadel look-up FOV60°",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原视频许可未明；邻接 MIT",
+      "reuse": "reference",
+      "citadel": "lab/src/scenes/BlackCityAquarium/index.js:130-140"
+    },
+    {
+      "work": "Unreal 云上神殿与巨龙",
+      "source": "none",
+      "technique": "原作龙资产/源码未取得；邻接 Repos/athenaion/src/modules/statues.js:197-269 仅提供组装完整巨物的层级方式，不生成龙头、须或动画。Citadel 已有右窗怪物的头、獠牙和框外躯干，不需要先重造一条龙；其长躯/触须可提供局部识别。",
+      "params": [
+        {
+          "name": "已有 citadel 躯干顶",
+          "value": "y=5m（场景源码）",
+          "kind": "源码"
+        },
+        {
+          "name": "已有 citadel 躯干细分",
+          "value": "seg80 / radial22（场景源码）",
+          "kind": "源码"
+        }
+      ],
+      "license": "原视频许可未明；邻接 MIT",
+      "reuse": "reference",
+      "citadel": "lab/src/scenes/BlackCityAquarium/tank.js:288-322"
+    }
+  ]
+}

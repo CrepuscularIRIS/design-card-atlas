@@ -1,0 +1,155 @@
+{
+  "id": "high-walls-enclose-a-void",
+  "title": "高壁夹深口",
+  "group": "造型尺度",
+  "dimension": "D",
+  "dimensions": [
+    "D 壁高与空腔",
+    "C 三面围合",
+    "A 天口明暗",
+    "E 大切面与碎石",
+    "I 围困感"
+  ],
+  "mood": "幽深、围困",
+  "summary": "用贴近两侧的高壁夹住一个可辨认的空腔，让负空间而不是岩石数量成为主体。",
+  "blog": "shrine-1 cloud-terrace：借壁与负空间，不改成矿坑",
+  "shots": [
+    {
+      "file": "grok/2026-10/oknice-lost-quarry-4050.jpg",
+      "local": "shots/01.jpg",
+      "work": "Lost Quarry · oknice",
+      "url": "https://www.artstation.com/artwork/RnWrPE",
+      "proof": "左右壁占满侧边，狭长天空与远端横壁把视线压入坑内。",
+      "capture": "采集归档 g1980，origin/grok/collect-2026-10-28-r8；2026-10-28 本轮用 headless Chromium 打开原文件并逐张查看，非本地3D运行；作者原机位与FOV未取得。",
+      "kind": "作者环境/概念静帧，版权归作者，仅视觉参考",
+      "work_id": "https://www.artstation.com/artwork/RnWrPE",
+      "dimensions": [
+        3240,
+        4050
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "grok/2026-10/alecheck-marble-quarry-1920.jpg",
+      "local": "shots/02.jpg",
+      "work": "Marble Quarry · alecheck",
+      "url": "https://www.artstation.com/artwork/o2a6lz",
+      "proof": "切块岩壁和吊架上下包围，远端暗槽比任何灯具更像空间主体。",
+      "capture": "采集归档 g1979，origin/grok/collect-2026-10-28-r8；2026-10-28 本轮用 headless Chromium 打开原文件并逐张查看，非本地3D运行；作者原机位与FOV未取得。",
+      "kind": "作者环境/概念静帧，版权归作者，仅视觉参考",
+      "work_id": "https://www.artstation.com/artwork/o2a6lz",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "grok/2026-10/theauthor-cenote-ik-kil-1920.jpg",
+      "local": "shots/03.jpg",
+      "work": "Cenote ik Kil 02 · theauthor",
+      "url": "https://www.artstation.com/artwork/LLblv",
+      "proof": "前景藤蔓、两侧岩壁和上方小天口形成三面围合；天然壁而非人工切面。",
+      "capture": "采集归档 g1463，origin/grok/collect-2026-10-28-r8；2026-10-28 本轮用 headless Chromium 打开原文件并逐张查看，非本地3D运行；作者原机位与FOV未取得。",
+      "kind": "作者环境/概念静帧，版权归作者，仅视觉参考",
+      "work_id": "https://www.artstation.com/artwork/LLblv",
+      "dimensions": [
+        1920,
+        1093
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "grok/2026-10/appoloss-industrial-outpost-1920.jpg",
+      "local": "shots/04.jpg",
+      "work": "Industrial outpost · appoloss",
+      "url": "https://www.artstation.com/artwork/w83exw",
+      "proof": "前方地平线展开，裂隙低于人身，巨构不能形成近身高壁围合。",
+      "capture": "采集归档 g1608，origin/grok/collect-2026-10-28-r8；2026-10-28 本轮用 headless Chromium 打开原文件并逐张查看，非本地3D运行；作者原机位与FOV未取得。",
+      "kind": "作者环境/概念静帧，版权归作者，仅视觉参考",
+      "work_id": "https://www.artstation.com/artwork/w83exw",
+      "dimensions": [
+        1920,
+        1193
+      ],
+      "role": "counterexample"
+    }
+  ],
+  "impl": [
+    {
+      "work": "Lost Quarry · oknice",
+      "source": "none",
+      "technique": "原作源码/资产未取得；最近邻接技术源 Repos/ProceduralTerrains/src/manual/ManualTerrainField.js:490-537（MIT）。采石切面应是独立近竖直壁；terrace 高度量化只可先排出层级，不生成这种垂直矿坑。 可移植编辑算法但不是原作建模证明；完整洞壁仍需现有合规岩体资产。",
+      "params": [
+        {
+          "name": "terraceStep",
+          "value": "max(1, terraceStep)",
+          "kind": "源码"
+        },
+        {
+          "name": "creaseWidth",
+          "value": "clamp 0.04–0.8",
+          "kind": "源码"
+        },
+        {
+          "name": "侧壁总占幅",
+          "value": "约55–70%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原图版权归作者；邻接算法 MIT",
+      "reuse": "reference",
+      "citadel": "none"
+    },
+    {
+      "work": "Marble Quarry · alecheck",
+      "source": "none",
+      "technique": "原作源码/资产未取得；最近邻接技术源 Repos/ProceduralTerrains/src/manual/ManualTerrainField.js:490-537（MIT）。岩块大面与台阶须用块体/已有岩体重排；crease 只是向下切削的高斯剖面，不提供天车、悬挑或洞顶。 可移植编辑算法但不是原作建模证明；完整洞壁仍需现有合规岩体资产。",
+      "params": [
+        {
+          "name": "terraceStep",
+          "value": "max(1, terraceStep)",
+          "kind": "源码"
+        },
+        {
+          "name": "creaseWidth",
+          "value": "clamp 0.04–0.8",
+          "kind": "源码"
+        },
+        {
+          "name": "侧壁总占幅",
+          "value": "约55–70%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原图版权归作者；邻接算法 MIT",
+      "reuse": "reference",
+      "citadel": "none"
+    },
+    {
+      "work": "Cenote ik Kil 02 · theauthor",
+      "source": "none",
+      "technique": "原作源码/资产未取得；最近邻接技术源 Repos/ProceduralTerrains/src/manual/ManualTerrainField.js:490-537（MIT）。自然围壁可先借 ridge/crease 的宽窄控制排围合；藤蔓与倒悬岩不属于这个高度场。 可移植编辑算法但不是原作建模证明；完整洞壁仍需现有合规岩体资产。",
+      "params": [
+        {
+          "name": "terraceStep",
+          "value": "max(1, terraceStep)",
+          "kind": "源码"
+        },
+        {
+          "name": "creaseWidth",
+          "value": "clamp 0.04–0.8",
+          "kind": "源码"
+        },
+        {
+          "name": "侧壁总占幅",
+          "value": "约55–70%",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原图版权归作者；邻接算法 MIT",
+      "reuse": "reference",
+      "citadel": "none"
+    }
+  ]
+}

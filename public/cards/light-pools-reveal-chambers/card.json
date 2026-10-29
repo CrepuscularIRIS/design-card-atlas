@@ -1,0 +1,155 @@
+{
+  "id": "light-pools-reveal-chambers",
+  "title": "灯池显洞腔",
+  "group": "光影",
+  "dimension": "A",
+  "dimensions": [
+    "A 局部受光",
+    "C 暗间隔",
+    "D 壁顶体积",
+    "B 主辅灯色",
+    "I 作业痕迹"
+  ],
+  "mood": "隐秘、有人使用",
+  "summary": "不把洞穴整体照亮，让局部灯池分别触到侧壁、顶面与地面，暗间隔才把一个房间读成多段洞腔。",
+  "blog": "neverland-room mound-side：岩丘局部体积；不新增矿洞",
+  "shots": [
+    {
+      "file": "grok/2026-10/pranav_16-salt-mine-cave-environment-1920.jpg",
+      "local": "shots/01.jpg",
+      "work": "Salt Mine cave Environment · pranav_16",
+      "url": "https://www.artstation.com/artwork/OGg9q8",
+      "proof": "近侧岩块深暗，中段灯照亮顶与壁，矿车后方再退进暗缝。",
+      "capture": "采集归档 g2171，origin/grok/collect-2026-10-28-r8；2026-10-28 本轮用 headless Chromium 打开原文件并逐张查看，非本地3D运行；作者原机位与FOV未取得。",
+      "kind": "作者环境/概念静帧，版权归作者，仅视觉参考",
+      "work_id": "https://www.artstation.com/artwork/OGg9q8",
+      "dimensions": [
+        1920,
+        804
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "grok/2026-10/alecheck-marble-quarry-1920.jpg",
+      "local": "shots/02.jpg",
+      "work": "Marble Quarry · alecheck",
+      "url": "https://www.artstation.com/artwork/o2a6lz",
+      "proof": "白工作灯各照一段壁，橙灯只作小点，远壁被明暗间隔拆成多层。",
+      "capture": "采集归档 g1979，origin/grok/collect-2026-10-28-r8；2026-10-28 本轮用 headless Chromium 打开原文件并逐张查看，非本地3D运行；作者原机位与FOV未取得。",
+      "kind": "作者环境/概念静帧，版权归作者，仅视觉参考",
+      "work_id": "https://www.artstation.com/artwork/o2a6lz",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "grok/2026-10/raylopez-cenote-temple-1920.jpg",
+      "local": "shots/03.jpg",
+      "work": "Cenote Temple · raylopez",
+      "url": "https://www.artstation.com/artwork/L3ekOR",
+      "proof": "暖光显右壁与台阶，天口只照局部，左侧与前景仍是大暗区。",
+      "capture": "采集归档 g1459，origin/grok/collect-2026-10-28-r8；2026-10-28 本轮用 headless Chromium 打开原文件并逐张查看，非本地3D运行；作者原机位与FOV未取得。",
+      "kind": "作者环境/概念静帧，版权归作者，仅视觉参考",
+      "work_id": "https://www.artstation.com/artwork/L3ekOR",
+      "dimensions": [
+        1920,
+        1135
+      ],
+      "role": "reference"
+    },
+    {
+      "file": "grok/2026-10/finnbrandon-venusian-sulfur-mine-2000.jpg",
+      "local": "shots/04.jpg",
+      "work": "Venusian Sulfur Mine · finnbrandon",
+      "url": "https://www.artstation.com/artwork/q9LqXD",
+      "proof": "硫黄环境光把工厂、地面、远壁一起照亮，缺少暗间隔串起的室内体积。",
+      "capture": "采集归档 g1786，origin/grok/collect-2026-10-28-r8；2026-10-28 本轮用 headless Chromium 打开原文件并逐张查看，非本地3D运行；作者原机位与FOV未取得。",
+      "kind": "作者环境/概念静帧，版权归作者，仅视觉参考",
+      "work_id": "https://www.artstation.com/artwork/q9LqXD",
+      "dimensions": [
+        2000,
+        1414
+      ],
+      "role": "counterexample"
+    }
+  ],
+  "impl": [
+    {
+      "work": "Salt Mine cave Environment · pranav_16",
+      "source": "none",
+      "technique": "原作灯光/渲染源码未取得；邻接技术源 Repos/threejs-procedural-dungeon/src/main.js:1850-1894（MIT）用关键灯优先、剩余火把最远点采样，限制预算。暖灯需照到顶与侧壁，弯轨/矿车标定前后；不提供盐岩或轨道资产。 移植布点逻辑仍需提供受光实体与阴影，非洞穴生成器。",
+      "params": [
+        {
+          "name": "邻接 point-light budget",
+          "value": "12",
+          "kind": "源码"
+        },
+        {
+          "name": "邻接 decay",
+          "value": "2",
+          "kind": "源码"
+        },
+        {
+          "name": "亮区/暗间隔",
+          "value": "先做3段：近暗→中亮→后暗",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原图版权归作者；邻接布点 MIT",
+      "reuse": "reference",
+      "citadel": "none"
+    },
+    {
+      "work": "Marble Quarry · alecheck",
+      "source": "none",
+      "technique": "原作灯光/渲染源码未取得；邻接技术源 Repos/threejs-procedural-dungeon/src/main.js:1850-1894（MIT）用关键灯优先、剩余火把最远点采样，限制预算。工作白灯与低强度橙灯分职；点光采样只解决局部受光，不会自动产生图中的可见雾锥。 移植布点逻辑仍需提供受光实体与阴影，非洞穴生成器。",
+      "params": [
+        {
+          "name": "邻接 point-light budget",
+          "value": "12",
+          "kind": "源码"
+        },
+        {
+          "name": "邻接 decay",
+          "value": "2",
+          "kind": "源码"
+        },
+        {
+          "name": "亮区/暗间隔",
+          "value": "先做3段：近暗→中亮→后暗",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原图版权归作者；邻接布点 MIT",
+      "reuse": "reference",
+      "citadel": "none"
+    },
+    {
+      "work": "Cenote Temple · raylopez",
+      "source": "none",
+      "technique": "原作灯光/渲染源码未取得；邻接技术源 Repos/threejs-procedural-dungeon/src/main.js:1850-1894（MIT）用关键灯优先、剩余火把最远点采样，限制预算。暖侧光和顶部自然入光是两套来源；torch 布点不负责天口，也不生成神庙或水池。 移植布点逻辑仍需提供受光实体与阴影，非洞穴生成器。",
+      "params": [
+        {
+          "name": "邻接 point-light budget",
+          "value": "12",
+          "kind": "源码"
+        },
+        {
+          "name": "邻接 decay",
+          "value": "2",
+          "kind": "源码"
+        },
+        {
+          "name": "亮区/暗间隔",
+          "value": "先做3段：近暗→中亮→后暗",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原图版权归作者；邻接布点 MIT",
+      "reuse": "reference",
+      "citadel": "none"
+    }
+  ]
+}

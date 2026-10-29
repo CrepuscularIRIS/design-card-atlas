@@ -1,0 +1,9 @@
+id,类型,结论,理由,产物
+high-walls-enclose-a-void,新卡,待核,矿坑族拆为高壁围合语言；Marble Quarry与Lost Quarry为主图并以天然cenote互证,public/cards/high-walls-enclose-a-void/
+dark-water-anchors-the-walls,新卡,待核,矿坑族拆为暗水承底语言；不以邻接反射算法冒充水深吸收,public/cards/dark-water-anchors-the-walls/
+light-pools-reveal-chambers,新卡,待核,矿坑族拆为局部灯池显洞腔；Salt Mine为主图；邻接点光布点不冒充体积光,public/cards/light-pools-reveal-chambers/
+water-continues-silhouette,补索引,待核,保留视觉正文与原图；补三种真实实现和许可及citadel反射覆层边界,public/cards/water-continues-silhouette/
+colossus-crosses-the-frame,退卡重出,待核,删除whole-helmet裁切误证与错误工业立面落点；改为black-city-2既有怪物和beast机位；历史FAIL不变,public/cards/colossus-crosses-the-frame/
+ordered-frame-wild-growth,退卡重出,待核,更正真实草簇接口；定位shot2树冠与岸台地被；完整植被链与局部草簇分开；历史FAIL不变,public/cards/ordered-frame-wild-growth/
+soft-body-silhouette,软物轮廓候选,暂不升卡,既有r2照片1600×900不可放大；本轮原生1920床景仅取得一张且内部渲染粗糙；第二机位因__rig失效中止；未达3张强参考；当前实现为GoodboatRoom/soft.js sewnPillow而非旧盒枕,
+gravity-drape-overlap,重力悬垂叠压候选,暂不升卡,已有drape与cornerFall及restOn实现可索引但不替代视觉准入；尚无3张强1920参考且未建立索缆证据；WebGPU布模拟不证明床层碰撞或索缆悬链,

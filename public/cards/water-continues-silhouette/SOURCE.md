@@ -37,3 +37,21 @@
 - 尺寸：1920×1080；原尺寸保存，未放大、改色或重绘。
 - SHA256：`7aa4c416230909d14ddd2cfc4ebc7ca4759b67c4aa1db0c2a2b8e6c80fb04019`
 - [原片与操作详情](../../references/light-water/SOURCE.md)。
+
+## 实现来源版本与许可
+
+本轮只读核对，未修改第三方仓或 citadel；尚未新增 cardfx 模块。下面是读源码的固定版本，不意味着所有旧媒体都由该版本实测生成。
+
+- `webgl-seascape-video`：`915cb7c9a318e03bd2228bc232494b496ff2316c`；[固定版本](https://github.com/holooooo/webgl-seascape-video/tree/915cb7c9a318e03bd2228bc232494b496ff2316c)；未发现 LICENSE，只借手法。
+- `qingming-bianjing`：`d9d85a0a19e9e52daa028e37407637c3da211f31`；[固定版本](https://github.com/silentfleetkk/qingming-bianjing/tree/d9d85a0a19e9e52daa028e37407637c3da211f31)；未发现 LICENSE，只借手法。
+- `falcon9-blender`：`c6a6349c0968870a7a864f8ba44d2182cafad60e`；[固定版本](https://github.com/noahsabaj/falcon9-blender/tree/c6a6349c0968870a7a864f8ba44d2182cafad60e)；代码 MIT；模型、成片、音乐 CC BY-NC 4.0，不随代码许可授权。
+
+- citadel 只读版本：`498bb2fb07a78754f8cd6df113d720f220546a8c`。README 的具体路径与行已读；这是可复用代码索引，不是移植完成声明。
+
+本轮仅补实现索引，保留既有参考图与视觉正文。Falcon媒体许可见原仓LICENSE-ASSETS.md；代码MIT不授权商用其成片/模型。邻接源码默认值不倒推56s成片实参。
+
+## 已读实现的永久行链接
+
+- [`Repos/webgl-seascape-video/episodes/04-jiangnan-voxel/interactive.html:1090-1221`](https://github.com/holooooo/webgl-seascape-video/blob/915cb7c9a318e03bd2228bc232494b496ff2316c/episodes/04-jiangnan-voxel/interactive.html#L1090-L1221)
+- [`Repos/qingming-bianjing/opus-5.5/qingming-bianjing.html:1027-1104`](https://github.com/silentfleetkk/qingming-bianjing/blob/d9d85a0a19e9e52daa028e37407637c3da211f31/opus-5.5/qingming-bianjing.html#L1027-L1104)
+- [`Repos/falcon9-blender/film/envs.py:231-282`](https://github.com/noahsabaj/falcon9-blender/blob/c6a6349c0968870a7a864f8ba44d2182cafad60e/film/envs.py#L231-L282)
