@@ -1,0 +1,150 @@
+{
+  "id": "ordered-frame-wild-growth",
+  "title": "骨架规整草木野",
+  "group": "造型尺度",
+  "dimension": "D",
+  "dimensions": [
+    "D 规则与有机",
+    "C 密度分区",
+    "E 表面差",
+    "A 光下细节",
+    "I 生长感"
+  ],
+  "mood": "生机、时间",
+  "summary": "把清楚的建筑骨架与不均匀生长的植物并置，让两种秩序互相说明。",
+  "blog": "shrine-1 鸟居与栏栅旁分层林冠：ref / torii机位；优先调既有canopy，非岩丘草簇",
+  "shots": [
+    {
+      "file": "kimi-videos/019-airport-rainforest-13.773.jpg",
+      "work": "Blender 机场室内雨林",
+      "url": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-4",
+      "proof": "大网格天幕托住空间，下面林冠高低和疏密不一，水柱穿过两者。",
+      "capture": "浏览器看9.63s编辑器与13.77s成片；仅取13.773s，1920×1080原尺寸。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/01.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-4"
+    },
+    {
+      "file": "strong-scenes/athenaion-author-shot2.jpg",
+      "work": "Athenaion · 水庭",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "圆亭和栏杆有确定边界，树冠与草簇越出边界但没有填平道路。",
+      "capture": "作者独立3D成片；pos=[-19,7,227] target=[-13.6,14.8,127.4] FOV28.5°，版本9b8bd23；非本轮runtime。",
+      "kind": "已逐张查看的作者3D最终成片",
+      "local": "shots/02.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "strong-scenes/athenaion-author-shot9.jpg",
+      "work": "Athenaion · Ruined portico",
+      "url": "https://github.com/Leonxlnx/athenaion",
+      "proof": "残柱与梁仍可读为规整构架，杂草沿地面与断口生长。",
+      "capture": "作者最终独立渲染静帧；pos=[151.56,57.8,139.41]，target=[83.16,60,66.41]，FOV36.5°；非本轮runtime。",
+      "kind": "已逐张查看的作者3D最终成片",
+      "local": "shots/03.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "reference",
+      "work_id": "athenaion"
+    },
+    {
+      "file": "opus-c-guide/kimi-63-18s.jpg",
+      "work": "Blender cathedral interior",
+      "url": "https://x.com/k1rallik/status/2113693629713633435",
+      "proof": "柱束与长椅形成连续规整节奏，却没有有机植物轮廓；它是只有骨架、没有草木层的边界对照，不是教堂品质差。",
+      "capture": "浏览器观看成片，pageAssets保存已观察原片，18.000s原尺寸抽帧；编辑器时刻已排除。",
+      "kind": "本轮实际观察后截取",
+      "local": "shots/04.jpg",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "role": "counterexample",
+      "work_id": "kimi-cologne-cathedral"
+    }
+  ],
+  "impl": [
+    {
+      "work": "Blender 机场室内雨林",
+      "source": "none",
+      "technique": "原作源码与林冠资产未取得；最近邻接 Repos/athenaion/src/modules/vegetation.js:27-35 调 VegSystem→buildLibrary→scatterWorld→finalize；Repos/athenaion/src/vegetation/library.js:9-53 含 broad/pine/olive 等真树冠与LOD，不再用小草冒充森林。依赖 instances.js、trees.js、atlas/叶材质、wind/LOD钩子和 terrain/footprints，必须成链集成；不提供机场网格屋顶。",
+      "params": [
+        {
+          "name": "邻接 broadleaf LOD",
+          "value": "[100,40,10] px",
+          "kind": "源码"
+        },
+        {
+          "name": "冠幅档位",
+          "value": "至少3种",
+          "kind": "建议迁移值"
+        }
+      ],
+      "license": "原视频许可未明；邻接 MIT",
+      "reuse": "reference",
+      "citadel": "lab/src/scenes/Shrine/canopy.js:18-67,97-130; lab/src/scenes/Shrine/index.js:161-186"
+    },
+    {
+      "work": "Athenaion · 水庭",
+      "source": "Repos/athenaion/src/vegetation/scatter.js:266-307; Repos/athenaion/src/modules/flora.js:640-678",
+      "technique": "已定位shot2：hero按相机射线寻找地面并投影冠顶，303-307行在圆亭后安置cypress及olive；flora662-663为shot2岸台地被。虚拟设计画幅1672×941，不是1920成片像素实测。需要 vegetation.js/library.js 的树种库、VegSystem与terrain/sets/footprints；不等于残廊草缝算法。",
+      "params": [
+        {
+          "name": "shot2 olive scale",
+          "value": "sMin .6 / sMax 1.7",
+          "kind": "源码"
+        },
+        {
+          "name": "shot2 olive width",
+          "value": "1.45",
+          "kind": "源码"
+        },
+        {
+          "name": "shot2岸台 spacing",
+          "value": ".42",
+          "kind": "源码"
+        }
+      ],
+      "license": "MIT",
+      "reuse": "integrate",
+      "citadel": "none"
+    },
+    {
+      "work": "Athenaion · Ruined portico",
+      "source": "Repos/athenaion/src/ruins/grass.js:8-98; Repos/athenaion/src/ruins/portico.js:185-244; Repos/athenaion/src/ruins/ivy.js:112-192; Repos/athenaion/src/ruins/ivy.js:196-252",
+      "technique": "真实接口为 jointGrass(joints,opts)，内部 tuftGeometry()+grassMaterial()，没有tuftMesh。joints含p/t/len/patch/crack；依赖Three、proceduralMaterial/cached。portico以SDF、ground和inside约束growIvy，再由ivyMeshes输出茎/叶，依赖随机与大气材质；不是独立一函数可复制。",
+      "params": [
+        {
+          "name": "jointGrass density",
+          "value": "2.2簇/m",
+          "kind": "源码"
+        },
+        {
+          "name": "jointGrass size",
+          "value": "[.06,.2]m",
+          "kind": "源码"
+        },
+        {
+          "name": "portico ivy",
+          "value": "steps95 / step.045 / maxStems170",
+          "kind": "源码"
+        }
+      ],
+      "license": "MIT",
+      "reuse": "integrate",
+      "citadel": "lab/src/scenes/NeverlandRoom/moundDetail.js:28-56,81-96"
+    }
+  ]
+}

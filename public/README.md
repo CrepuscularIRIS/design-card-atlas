@@ -8,7 +8,7 @@
 
 给 Crepuscular Citadel 的 3D 场景与 UI 的参考图册。<br>每张卡只讲一种视觉语言，配一组真实画面；指着图说「做成这样」。
 
-<sub>23 张视觉卡 · 3 个场景配方 · 头图：<a href="https://silentfleetkk.github.io/qingming-bianjing/opus-5.5/qingming-bianjing.html">清明上河 · 黄昏全城</a></sub>
+<sub>25 张视觉卡 · 3 个场景配方 · 头图：<a href="https://silentfleetkk.github.io/qingming-bianjing/opus-5.5/qingming-bianjing.html">清明上河 · 黄昏全城</a></sub>
 
 <a href="#光影">光影</a> · <a href="#色彩">色彩</a> · <a href="#构图重心">构图重心</a> · <a href="#造型尺度">造型尺度</a> · <a href="#材质">材质</a> · <a href="#水与大气">水与大气</a> · <a href="#镜头运动">镜头运动</a> · <a href="#排版-ui">排版 UI</a> · <a href="#场景配方">场景配方</a>
 
@@ -131,6 +131,17 @@
 
 <sub>**情绪** 庄严、神圣 · **用在博客** BlackCityHall 登记场景、Shrine 入口 · <a href="cards/colonnade-rhythm/README.md">拆解与做法 →</a></sub>
 
+### 巨像越画框
+
+> 只让巨物的一部分进入画面，同时留下熟悉轮廓，观众会主动补全框外的体量。
+
+<table>
+<tr><td width="33%" valign="top"><a href="cards/colossus-crosses-the-frame/shots/01.jpg"><img src="cards/colossus-crosses-the-frame/shots/01.jpg" width="100%" alt="云上石像：膝与手臂越出下方与画面左侧，脸与手势仍足以确认巨大人形。"></a></td><td width="33%" valign="top"><a href="cards/colossus-crosses-the-frame/shots/02.jpg"><img src="cards/colossus-crosses-the-frame/shots/02.jpg" width="100%" alt="中式幻想 RPG · 雾中巨像：两侧巨像的冠顶和身体被边框截断，中间水道仍能通行。"></a></td><td width="33%" valign="top"><a href="cards/colossus-crosses-the-frame/shots/03.jpg"><img src="cards/colossus-crosses-the-frame/shots/03.jpg" width="100%" alt="Unreal 云上神殿与巨龙：巨龙头与长须挤入近景，廊柱和小人物提供另一个尺度。"></a></td></tr>
+<tr><td valign="top"><sub><a href="https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-2">云上石像</a></sub></td><td valign="top"><sub><a href="https://skillry.dev/ai-videos/kimi-k3-1/crangerus-549203">中式幻想 RPG · 雾中巨像</a></sub></td><td valign="top"><sub><a href="https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-1">Unreal 云上神殿与巨龙</a></sub></td></tr>
+</table>
+
+<sub>**情绪** 压迫、敬畏 · **用在博客** black-city-2 巨物右窗：beast / look-up 固定取景；不是 black-city-1 工业立面 · <a href="cards/colossus-crosses-the-frame/README.md">拆解与做法 →</a></sub>
+
 ### 管网串起巨构
 
 > 用粗管、桥架与运输线把设备串成有功能的整体，巨构的尺度来自连接关系，不只来自堆大的盒子。
@@ -141,6 +152,17 @@
 </table>
 
 <sub>**情绪** 运转、沉重 · **用在博客** landfill-1 工业远景、landfill-room-1 罐体与检修通道；不迁入炮台/地热资产 · <a href="cards/networks-link-industrial-masses/README.md">拆解与做法 →</a></sub>
+
+### 骨架规整草木野
+
+> 把清楚的建筑骨架与不均匀生长的植物并置，让两种秩序互相说明。
+
+<table>
+<tr><td width="33%" valign="top"><a href="cards/ordered-frame-wild-growth/shots/01.jpg"><img src="cards/ordered-frame-wild-growth/shots/01.jpg" width="100%" alt="Blender 机场室内雨林：大网格天幕托住空间，下面林冠高低和疏密不一，水柱穿过两者。"></a></td><td width="33%" valign="top"><a href="cards/ordered-frame-wild-growth/shots/02.jpg"><img src="cards/ordered-frame-wild-growth/shots/02.jpg" width="100%" alt="Athenaion · 水庭：圆亭和栏杆有确定边界，树冠与草簇越出边界但没有填平道路。"></a></td><td width="33%" valign="top"><a href="cards/ordered-frame-wild-growth/shots/03.jpg"><img src="cards/ordered-frame-wild-growth/shots/03.jpg" width="100%" alt="Athenaion · Ruined portico：残柱与梁仍可读为规整构架，杂草沿地面与断口生长。"></a></td></tr>
+<tr><td valign="top"><sub><a href="https://skillry.dev/ai-videos/kimi-k3-1/kimi-moonshot-068067-4">Blender 机场室内雨林</a></sub></td><td valign="top"><sub><a href="https://github.com/Leonxlnx/athenaion">Athenaion · 水庭</a></sub></td><td valign="top"><sub><a href="https://github.com/Leonxlnx/athenaion">Athenaion · Ruined portico</a></sub></td></tr>
+</table>
+
+<sub>**情绪** 生机、时间 · **用在博客** shrine-1 鸟居与栏栅旁分层林冠：ref / torii机位；优先调既有canopy，非岩丘草簇 · <a href="cards/ordered-frame-wild-growth/README.md">拆解与做法 →</a></sub>
 
 ### 熟悉物标定巨构
 
