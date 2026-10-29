@@ -1,9 +1,9 @@
 id,类型,结论,理由,产物
-high-walls-enclose-a-void,新卡,待核,矿坑族拆为高壁围合语言；Marble Quarry与Lost Quarry为主图并以天然cenote互证,public/cards/high-walls-enclose-a-void/
-dark-water-anchors-the-walls,新卡,待核,矿坑族拆为暗水承底语言；不以邻接反射算法冒充水深吸收,public/cards/dark-water-anchors-the-walls/
-light-pools-reveal-chambers,新卡,待核,矿坑族拆为局部灯池显洞腔；Salt Mine为主图；邻接点光布点不冒充体积光,public/cards/light-pools-reveal-chambers/
-water-continues-silhouette,补索引,待核,保留视觉正文与原图；补三种真实实现和许可及citadel反射覆层边界,public/cards/water-continues-silhouette/
-colossus-crosses-the-frame,退卡重出,待核,删除whole-helmet裁切误证与错误工业立面落点；改为black-city-2既有怪物和beast机位；历史FAIL不变,public/cards/colossus-crosses-the-frame/
-ordered-frame-wild-growth,退卡重出,待核,更正真实草簇接口；定位shot2树冠与岸台地被；完整植被链与局部草簇分开；历史FAIL不变,public/cards/ordered-frame-wild-growth/
+high-walls-enclose-a-void,新卡,撤回screening,ff13e7d双席FAIL：Cenote ik Kil含编辑器坐标轴与网格且不证围合深口；有效参考不足3张；cloud-terrace为开放远眺与近壁遮幅冲突；heightfield邻接不能生成垂壁；原稿保留不作正式索引,screening/cards-20261028-b4/high-walls-enclose-a-void/
+dark-water-anchors-the-walls,新卡,撤回screening,ff13e7d双席FAIL：Cenote ik Kil含编辑器界面且不证暗水接高壁；有效参考不足3张；1.2×.5m手水盆不支持本语言；实际waterSheet已有暗青body/deep而非所引reflectFloor；原稿保留不作正式索引,screening/cards-20261028-b4/dark-water-anchors-the-walls/
+light-pools-reveal-chambers,新卡,撤回screening,ff13e7d双席FAIL：Salt Mine文件1920×804但黑边内有效图像约1430×804，不足1920且不可放大；灯具/矿车比例错误；未指明既有2×2灯阵需重组；原稿保留不作正式索引,screening/cards-20261028-b4/light-pools-reveal-chambers/
+water-continues-silhouette,补索引,原稿双席PASS；释义待复核,ff13e7d实现索引两席均PASS；只澄清Falcon integrate为MIT材质逻辑移植，不是Python直连Three；原视觉保持不动,public/cards/water-continues-silhouette/
+colossus-crosses-the-frame,退卡重出,原稿双席PASS；勘误待复核,ff13e7d两席均PASS；修beast行133、实际开放覆盖、亮口16–22%与左前景船棚；保留原审查结论,public/cards/colossus-crosses-the-frame/
+ordered-frame-wild-growth,退卡重出,改稿待双席复核,ff13e7d双席FAIL；本次唯一返修：纠正水庭中部密柏/左下水面；改Shrine鸟居与既有canopy落点；换干净教堂作仅骨架边界反例；补library与ivyMeshes行链接；未宣称PASS,public/cards/ordered-frame-wild-growth/
 soft-body-silhouette,软物轮廓候选,暂不升卡,既有r2照片1600×900不可放大；本轮原生1920床景仅取得一张且内部渲染粗糙；第二机位因__rig失效中止；未达3张强参考；当前实现为GoodboatRoom/soft.js sewnPillow而非旧盒枕,
 gravity-drape-overlap,重力悬垂叠压候选,暂不升卡,已有drape与cornerFall及restOn实现可索引但不替代视觉准入；尚无3张强1920参考且未建立索缆证据；WebGPU布模拟不证明床层碰撞或索缆悬链,

@@ -12,7 +12,7 @@
   ],
   "mood": "生机、时间",
   "summary": "把清楚的建筑骨架与不均匀生长的植物并置，让两种秩序互相说明。",
-  "blog": "neverland-room 岩丘缝隙草簇；shrine-1庭院林冠需完整植被依赖，非草簇替代",
+  "blog": "shrine-1 鸟居与栏栅旁分层林冠：ref / torii机位；优先调既有canopy，非岩丘草簇",
   "shots": [
     {
       "file": "kimi-videos/019-airport-rainforest-13.773.jpg",
@@ -60,26 +60,26 @@
       "work_id": "athenaion"
     },
     {
-      "file": "opus-b/268-koyo-en-entry.jpg",
-      "work": "Kōyō-en · 入口",
-      "url": "https://modelzengarden.com/garden/opus-5-5-claude-code",
-      "proof": "叶片与草地的重复纹理接近木廊节奏，缩图时自然层也变成规整花纹。",
-      "capture": "Show me the results→Opus5.5 garden→Step inside；入口原生2494×905截图，未移动。",
-      "kind": "浏览器实看后的原画面",
+      "file": "opus-c-guide/kimi-63-18s.jpg",
+      "work": "Blender cathedral interior",
+      "url": "https://x.com/k1rallik/status/2113693629713633435",
+      "proof": "柱束与长椅形成连续规整节奏，却没有有机植物轮廓；它是只有骨架、没有草木层的边界对照，不是教堂品质差。",
+      "capture": "浏览器观看成片，pageAssets保存已观察原片，18.000s原尺寸抽帧；编辑器时刻已排除。",
+      "kind": "本轮实际观察后截取",
       "local": "shots/04.jpg",
       "dimensions": [
-        2494,
-        905
+        1920,
+        1080
       ],
       "role": "counterexample",
-      "work_id": "https://modelzengarden.com/garden/opus-5-5-claude-code"
+      "work_id": "kimi-cologne-cathedral"
     }
   ],
   "impl": [
     {
       "work": "Blender 机场室内雨林",
       "source": "none",
-      "technique": "原作源码与林冠资产未取得；最近邻接 Repos/athenaion/src/modules/vegetation.js:27-35 调 VegSystem→buildLibrary→scatterWorld→finalize；src/vegetation/library.js:19-53 含 broad/pine/olive 等真树冠与LOD，不再用小草冒充森林。依赖 instances.js、trees.js、atlas/叶材质、wind/LOD钩子和 terrain/footprints，必须成链集成；不提供机场网格屋顶。",
+      "technique": "原作源码与林冠资产未取得；最近邻接 Repos/athenaion/src/modules/vegetation.js:27-35 调 VegSystem→buildLibrary→scatterWorld→finalize；Repos/athenaion/src/vegetation/library.js:9-53 含 broad/pine/olive 等真树冠与LOD，不再用小草冒充森林。依赖 instances.js、trees.js、atlas/叶材质、wind/LOD钩子和 terrain/footprints，必须成链集成；不提供机场网格屋顶。",
       "params": [
         {
           "name": "邻接 broadleaf LOD",
@@ -94,7 +94,7 @@
       ],
       "license": "原视频许可未明；邻接 MIT",
       "reuse": "reference",
-      "citadel": "none"
+      "citadel": "lab/src/scenes/Shrine/canopy.js:18-67,97-130; lab/src/scenes/Shrine/index.js:161-186"
     },
     {
       "work": "Athenaion · 水庭",
@@ -123,7 +123,7 @@
     },
     {
       "work": "Athenaion · Ruined portico",
-      "source": "Repos/athenaion/src/ruins/grass.js:8-98; Repos/athenaion/src/ruins/portico.js:185-244; Repos/athenaion/src/ruins/ivy.js:112-189",
+      "source": "Repos/athenaion/src/ruins/grass.js:8-98; Repos/athenaion/src/ruins/portico.js:185-244; Repos/athenaion/src/ruins/ivy.js:112-192; Repos/athenaion/src/ruins/ivy.js:196-252",
       "technique": "真实接口为 jointGrass(joints,opts)，内部 tuftGeometry()+grassMaterial()，没有tuftMesh。joints含p/t/len/patch/crack；依赖Three、proceduralMaterial/cached。portico以SDF、ground和inside约束growIvy，再由ivyMeshes输出茎/叶，依赖随机与大气材质；不是独立一函数可复制。",
       "params": [
         {

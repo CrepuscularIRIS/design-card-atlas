@@ -124,12 +124,12 @@
       "params": [
         {
           "name": "已有 citadel 躯干顶",
-          "value": "y=5m（场景源码）",
+          "value": "y=5m",
           "kind": "源码"
         },
         {
           "name": "已有 citadel 躯干细分",
-          "value": "seg80 / radial22（场景源码）",
+          "value": "seg80 / radial22",
           "kind": "源码"
         }
       ],

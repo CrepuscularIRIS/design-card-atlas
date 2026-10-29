@@ -144,7 +144,7 @@
     {
       "work": "Falcon 9 · 海面降落",
       "source": "Repos/falcon9-blender/film/envs.py:231-282",
-      "technique": "Blender Principled水面用低粗糙度与IOR反射环境/物体，Noise→Bump保留大形。以下是ocean()函数默认值，56s原成片的具体shot实参尚未逐一回放核对，不称截图实测值。依赖bpy/Cycles或原作渲染设置、sky_node与场景对象；材质逻辑可转译，不能把Python直接接入Three。",
+      "technique": "Blender Principled水面用低粗糙度与IOR反射环境/物体，Noise→Bump保留大形。以下是ocean()函数默认值，56s原成片的具体shot实参尚未逐一回放核对，不称截图实测值。依赖bpy/Cycles或原作渲染设置、sky_node与场景对象；材质逻辑可转译，不能把Python直接接入Three。 integrate仅指MIT代码允许移植材质逻辑；Three侧仍需以既有反射层接线，不是运行bpy脚本或导入原媒体。",
       "params": [
         {
           "name": "rough default",
