@@ -93,5 +93,15 @@
   "origin": "https://github.com/rsamwilson2323-cloud/train-track-builder.git",
   "state": "cloned",
   "note": "MIT (c) 2026 Sam Wilson; three.js WebGPU cinematic railway builder: modular track snapping, bridges/slopes, viaducts, animated train, HDR day/night; atlas PR #44/#45 (r31)"
+ },
+ {
+  "repo": "gremlin-church",
+  "url": "https://github.com/Token-Gremlin/gremlin-church.git",
+  "date": "2026-11-28T12:39:20.642Z",
+  "head": "85d9feb2e8946f7995de8e8293375059e4d4447c",
+  "origin": "https://github.com/Token-Gremlin/gremlin-church.git",
+  "state": "cloned",
+  "license": "MIT",
+  "note": "adjacent source (not an author source): procedural walkable gothic cathedral, read for haunted-mansion-1 / haunted-mansion-corridor-1 refeed (scout-a r34-r41)"
  }
 ]

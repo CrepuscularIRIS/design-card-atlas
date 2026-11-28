@@ -3454,3 +3454,491 @@
 - 机位/时间/步骤：CDN 4k/large 实看；工业贫民窟横展建立；净工业贫窟外景；净环境
 - 维度/落点：megastructure-silhouette;industrial-slums;framed-distant-view;fog-separates-depth → 博客 Gothic;Megastructure;Canyon
 - 许可：版权归 m3dsacademy；ArtStation 公开；仅作视觉参考
+
+## 2026-11-28 代补 · 2026-10-29～10-31 等缺条（来源：各日 screening/grok CSV 账本；repo-scout 链停摆期间无人代补）
+
+以下条目由 2026-11-28 的主会话按各日 CSV 账本（标题 / 链接 / 作者 / 尺寸 / sha256 / 许可备注）机械生成，字段与上方手写条目同构；日期 2026-10-25、2026-10-29、2026-10-30、2026-10-31。
+
+### orbital-earthwalk-limb-14s.jpg
+- 作品名：ORBITAL — Earthwalk (ChrisGPT ISS Three.js)
+- 作者：ChrisGPT
+- 原始 URL：https://orbital-earthwalk-chris.love.chatgpt.site/
+- 类型：3D网页（ArtStation）
+- 截取日期：2026-10-25
+- 尺寸：3840×2160；sha256：`e9f502763f3365ac07dfbeaa92195244430b8244e52b6c6de16fe93ff2196b1a`
+- 机位/时间/步骤：X 4K 预告抽帧 EVA/地平线；1920 舱内走廊；live chatgpt.site 可玩（Browser-use 本轮 daemon 未起，computerUse 超时无截屏）；4K 电影级 ISS EVA+舱内走廊；大气散射与舱段尺度；官方 4K/1920 预告帧
+- 维度/落点：D轨道/舱内尺度;A大气散射边缘光;F地平雾带;C舱内模块主次 → card:scale-by-familiar-objects;card:thin-line-hud;博客 Station
+- 许可：版权归 ChrisGPT；ArtStation 公开；仅作视觉参考
+
+### cooper-station-axis-t02.jpg
+- 作品名：Cooper Station — O'Neill cylinder megastructure (Three.js cinematic)
+- 作者：TusharXo
+- 原始 URL：https://x.com/TusharXo/status/2113520062862877182
+- 类型：视频-3D（ArtStation）
+- 截取日期：2026-10-25
+- 尺寸：1920×1080；sha256：`1b53f0687a13dcc383e3468c8781131bf95f6ef862c6bf4833aff555891621e1`
+- 机位/时间/步骤：X amplify 1920×1080 抽帧 2s/14s/18s/26s；轴心住宅环与玉米地最佳；玉米地仰望端盖+郊区环内曲面：典型巨构尺度；1920 预告净环境帧无角色/营销字
+- 维度/落点：D巨构曲面尺度;A轴心逆光环;B田园绿vs金属冷;C轴线对称 → card:colossus-crosses-the-frame;card:scale-by-familiar-objects;card:high-view-reads-hierarchy;博客 Station
+- 许可：版权归 TusharXo；ArtStation 公开；仅作视觉参考
+
+### sakura-cho-temple-gate-day-t06.jpg
+- 作品名：Sakura-cho — temple gate dusk / day neighborhood tour
+- 作者：hamster_wat
+- 原始 URL：https://x.com/hamster_wat/status/2112299428245897283
+- 类型：视频-3D（ArtStation）
+- 截取日期：2026-10-25
+- 尺寸：1920×1080；sha256：`b579a6e356dd238ca634b71bfcf82e82d457b238bffc9ae2310f44496e460a80`
+- 机位/时间/步骤：X 1920×1080 街区巡礼片 6s 日景门 / 22s 暮色门；弃用操场日景帧；暮色寺门+垂樱+灯笼 bloom：修仙/神社调性净环境；日景鸟居门备选帧同片
+- 维度/落点：D古建门框尺度;A灯笼bloom;B粉樱冷暮紫;F雾朦 → card:framed-distant-view;card:cold-world-warm-refuge;card:fog-separates-depth;博客 Shrine
+- 许可：版权归 hamster_wat；ArtStation 公开；仅作视觉参考
+
+### space-train-fog-t20.jpg
+- 作品名：Space Train — orbital trestle + ringed planet (zengyphor)
+- 作者：zengyphor
+- 原始 URL：https://x.com/zengyphor/status/2112428736565973169
+- 类型：视频-CG（ArtStation）
+- 截取日期：2026-10-25
+- 尺寸：2560×1440；sha256：`283530c39259f06a82be75ddacf8ea583998e29d272de6ab6ec1ba8bf31dfbe1`
+- 机位/时间/步骤：X amplify 2560×1440 mp4 抽 3/8/14/20s；核对非左右 A/B 半幅；星际栈桥蒸汽火车与环状巨行星：净环境无角色/无左右对比框；2560×1440 多时间点抽帧
+- 维度/落点：E巨构尺度;A体积雾;C天体衬景;B冷暖(橙车窗/青行星) → card:megastructure-silhouette;card:fog-separates-depth
+- 许可：版权归 zengyphor；ArtStation 公开；仅作视觉参考
+
+### cloud-bound-isle-afternoon-1920.jpg
+- 作品名：Cloud-Bound Isle — nightfall floating pagoda diorama (ItsmeAjayKV / Qwen)
+- 作者：ItsmeAjayKV
+- 原始 URL：https://x.com/ItsmeAjayKV/status/2114199072416628910
+- 类型：视频-3D（ArtStation）
+- 截取日期：2026-10-25
+- 尺寸：1920×1080；sha256：`df890fdd763f122855a8f1a06ce34ab1d33981bf81d4c692f4367f6659acc9c0`
+- 机位/时间/步骤：X amplify 1920×1080 mp4 抽 20s 午 / 78s 夜；核非左右 A/B；浮空岛夜景：暖村灯+萤火+星空；净环境仙侠邻域；1920×1080 片 ~78s 夜段
+- 维度/落点：B冷夜暖灯;A灯笼bloom;D浮岛尺度;F云海 → card:cold-world-warm-refuge;card:fog-separates-depth;card:ordered-frame-wild-growth;博客 Shrine
+- 许可：版权归 ItsmeAjayKV；ArtStation 公开；仅作视觉参考
+
+### pagoda-garden-meseven-alt-1920.jpg
+- 作品名：Pagoda garden — sunny Three.js valley (meseven_journey)
+- 作者：meseven_journey
+- 原始 URL：https://x.com/meseven_journey/status/2113983355482198128
+- 类型：静帧-3D（ArtStation）
+- 截取日期：2026-10-25
+- 尺寸：1920×958；sha256：`adfff95e7e00325eef75d70f83f9aefae09d5711305978d5f5a6a3c49a37f9a4`
+- 机位/时间/步骤：帖内两张自截 name=orig；取俯瞰主塔帧为主；晴空谷地五层塔+樱+拱桥河：高视俯瞰净环境；自带截图 1920×958 达标
+- 维度/落点：D古建塔尺度;E高视层次;B樱粉/草绿;A硬影 → card:high-view-reads-hierarchy;card:ordered-frame-wild-growth;博客 Shrine
+- 许可：版权归 meseven_journey；ArtStation 公开；仅作视觉参考
+
+### sebastianharasimiuk-canyon-environment-with-aqueduct-in-unreal-1920.jpg
+- 作品名：Canyon Environment with Aqueduct in Unreal
+- 作者：sebastianharasimiuk
+- 原始 URL：https://www.artstation.com/artwork/x3QQy2
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：1920×1080；sha256：`579720ad403499bc42340d4bd33f71818f288855eca57ca25ea06dfe0d71faa2`
+- 机位/时间/步骤：CDN 4k/large 实看；峡谷渡槽远景建立；净峡谷巨构；净环境
+- 维度/落点：framed-distant-view;megastructure-silhouette;aqueduct-canyon;fog-separates-depth → card:framed-distant-view;博客 Canyon;Megastructure;Gothic
+- 许可：版权归 sebastianharasimiuk；ArtStation 公开；仅作视觉参考
+
+### jeremy_guibert-water-tower-1920.jpg
+- 作品名：Water tower
+- 作者：jeremy_guibert
+- 原始 URL：https://www.artstation.com/artwork/oAX0yq
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：1920×1080；sha256：`7f8ba3961ecf2c1418175d73f0cfaf06ddd9d8250b6db0d9dc842af93311b7f1`
+- 机位/时间/步骤：CDN 4k/large 实看；崖壁水塔云海上建立；净崖塔外景；净环境
+- 维度/落点：framed-distant-view;fog-separates-depth;cliff-water-tower;cold-world-warm-refuge → card:framed-distant-view;博客 Canyon;Gothic;Megastructure
+- 许可：版权归 jeremy_guibert；ArtStation 公开；仅作视觉参考
+
+### marilynmeme-mystic-peaks-ue-environment-design-lighting-showcase-3120.jpg
+- 作品名：Mystic Peaks · UE Environment Design & Lighting Showcase
+- 作者：marilynmeme
+- 原始 URL：https://www.artstation.com/artwork/Zlb6N0
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：3120×1775；sha256：`e5cc0aa41d9426aad6a80788dc911d22e2dbb3d3ed9e42f6c471f0ea2418f751`
+- 机位/时间/步骤：CDN 4k/large 实看；雾峰石桥峡谷建立；净雾峡外景；净环境
+- 维度/落点：fog-separates-depth;framed-distant-view;mystic-peaks-bridge;ordered-frame-wild-growth → card:fog-separates-depth;博客 Canyon;Shrine;Megastructure
+- 许可：版权归 marilynmeme；ArtStation 公开；仅作视觉参考
+
+### rasikalptech2-abounded-industrial-area-1920.jpg
+- 作品名：Abounded Industrial Area
+- 作者：rasikalptech2
+- 原始 URL：https://www.artstation.com/artwork/EYvy0N
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：1920×1080；sha256：`0f149a01d730bd1eea8248918bb77d7424efb4534f6ea7a15496ba69df2d7dde`
+- 机位/时间/步骤：CDN 4k/large 实看；废弃工业区通讯塔建立；净工业外景；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;abandoned-industrial;scale-by-familiar-objects → card:megastructure-silhouette;博客 Megastructure;Gothic;Canyon
+- 许可：版权归 rasikalptech2；ArtStation 公开；仅作视觉参考
+
+### snobird-creating-natural-environment-concept-art-using-blender-and-w-3500.jpg
+- 作品名：Creating Natural Environment Concept Art Using Blender and World Creator – Water Tower Scene
+- 作者：snobird
+- 原始 URL：https://www.artstation.com/artwork/obQydJ
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：3500×1625；sha256：`3a10e720f2dc03032003d68075a340b6e5c78b76a07fd699952f8d76f555aa83`
+- 机位/时间/步骤：CDN 4k/large 实看；谷地巨塔气柜式景观建立；净工业巨构；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;gasometer-landscape;framed-distant-view → card:megastructure-silhouette;博客 Megastructure;Canyon;Gothic
+- 许可：版权归 snobird；ArtStation 公开；仅作视觉参考
+
+### vegaart-deep-water-station-unreal-engine-5-underwater-sci-fi-environ-1920.jpg
+- 作品名：Deep Water Station — Unreal Engine 5 Underwater Sci-Fi Environment
+- 作者：vegaart
+- 原始 URL：https://www.artstation.com/artwork/qJZaPz
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：1920×1080；sha256：`7e119d9b2dad98eb7a4e93d00604457658be5928264b4b1bfd25274e95259e27`
+- 机位/时间/步骤：CDN 4k/large 实看；深水工业站水下建立；净港站巨构；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;deep-water-station;cold-world-warm-refuge → card:megastructure-silhouette;博客 Harbor;Megastructure;Orbital
+- 许可：版权归 vegaart；ArtStation 公开；仅作视觉参考
+
+### sebastien_ickx-return-3840.jpg
+- 作品名：Return
+- 作者：sebastien_ickx
+- 原始 URL：https://www.artstation.com/artwork/nYXvR1
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：3840×1455；sha256：`ca5bbb799294d41fd44d2cd91899f7a8d847681cab4cd55636c6d99190de41fd`
+- 机位/时间/步骤：CDN 4k/large 实看；峡湾崖壁神龛塔建立；净崖港外景；净环境
+- 维度/落点：framed-distant-view;fog-separates-depth;cliff-shrine-harbor;megastructure-silhouette → card:framed-distant-view;博客 Canyon;Shrine;Harbor
+- 许可：版权归 sebastien_ickx；ArtStation 公开；仅作视觉参考
+
+### johncat-canyon-scrapyard-environmental-concept-art-2100.jpg
+- 作品名：Canyon Scrapyard [Environmental concept art]
+- 作者：johncat
+- 原始 URL：https://www.artstation.com/artwork/XaawzL
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：2100×1297；sha256：`1328d94e8bd87e587ba76f8c2f19ed3232c6fef91f41553d7dc75726cd4dff4b`
+- 机位/时间/步骤：CDN 4k/large 实看；峡谷废料场远景建立；净废墟峡谷；净环境
+- 维度/落点：framed-distant-view;fog-separates-depth;canyon-scrapyard;ordered-frame-wild-growth → card:framed-distant-view;博客 Canyon;Megastructure;Gothic
+- 许可：版权归 johncat；ArtStation 公开；仅作视觉参考
+
+### jacob-j-geothermal-extraction-outpost-ignis-7-3840.jpg
+- 作品名：Geothermal Extraction Outpost "Ignis-7"
+- 作者：jacob-j
+- 原始 URL：https://www.artstation.com/artwork/L4qLQ0
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：3840×2209；sha256：`93ebe9108d7784bf036497155f4204bab49fa9b41b8c117c5c1e6a4d16918979`
+- 机位/时间/步骤：CDN 4k/large 实看；地热采掘前哨鸟瞰建立；净地热工业外景；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;geothermal-outpost;fog-separates-depth → card:megastructure-silhouette;博客 Megastructure;Industrial;Canyon
+- 许可：版权归 jacob-j；ArtStation 公开；仅作视觉参考
+
+### bilalcankocaman-entrance-no-5-3840.jpg
+- 作品名：Entrance No:5
+- 作者：bilalcankocaman
+- 原始 URL：https://www.artstation.com/artwork/L4egzr
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：3840×1634；sha256：`810ac7ecdef5716821ac30d7ae46a55600be9e24865d6855f363c6c94eafc957`
+- 机位/时间/步骤：CDN 4k/large 实看；雾中工业巨构入口远景建立；净工业外景；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;industrial-entrance;scale-by-familiar-objects → card:megastructure-silhouette;博客 Megastructure;Gothic;Industrial
+- 许可：版权归 bilalcankocaman；ArtStation 公开；仅作视觉参考
+
+### vishhz-zyloth-settlement-1920.jpg
+- 作品名：Zyloth Settlement
+- 作者：vishhz
+- 原始 URL：https://www.artstation.com/artwork/GekW2B
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：1920×1080；sha256：`6ba771a3c30545944d1c39dc6460c02f6a692abcf80ee1ce16c1600c8bbf199c`
+- 机位/时间/步骤：CDN 4k/large 实看；峡谷工业定居点尘雾建立；净峡谷前哨；净环境
+- 维度/落点：framed-distant-view;fog-separates-depth;canyon-outpost;megastructure-silhouette → card:framed-distant-view;博客 Canyon;Megastructure;Industrial
+- 许可：版权归 vishhz；ArtStation 公开；仅作视觉参考
+
+### abhinavsk-daily-3d-sketches-5-3840.jpg
+- 作品名：Daily 3d sketches 5
+- 作者：abhinavsk
+- 原始 URL：https://www.artstation.com/artwork/0315X5
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：3840×1632；sha256：`e4202e793c22fb122cc02a195f3139b6f03c76017d5133e8078381c8151c59f8`
+- 机位/时间/步骤：CDN 4k/large 实看；粗野主义巨构塔环仰视建立；净建筑巨构；净环境
+- 维度/落点：megastructure-silhouette;brutalist-tower;low-angle-scale;ordered-frame-wild-growth → card:megastructure-silhouette;博客 Megastructure;Gothic;Orbital
+- 许可：版权归 abhinavsk；ArtStation 公开；仅作视觉参考
+
+### delaneveart-guard-3840.jpg
+- 作品名：Guard
+- 作者：delaneveart
+- 原始 URL：https://www.artstation.com/artwork/L2OwzK
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：3840×2160；sha256：`4fabe7d557fcf3c5e074014cf92bdf9850d4f26712c7c1dcc86ab79ff4d84256`
+- 机位/时间/步骤：CDN 4k/large 实看；巨阶神龛门廊远景建立；净神龛外景；净环境
+- 维度/落点：framed-distant-view;megastructure-silhouette;shrine-portal;scale-by-familiar-objects → card:framed-distant-view;博客 Shrine;Megastructure;Gothic
+- 许可：版权归 delaneveart；ArtStation 公开；仅作视觉参考
+
+### redeugene-megalophobia-brutalist-environments-1920.jpg
+- 作品名：Megalophobia - Brutalist Environments
+- 作者：redeugene
+- 原始 URL：https://www.artstation.com/artwork/Zl6qE8
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：1920×1920；sha256：`4d6955396434404dc73d34542d9fc3a4374fbc001c0fa0029e914a8949ab2099`
+- 机位/时间/步骤：CDN 4k/large 实看；赤雾粗野主义巨塔对峙建立；净巨构峡谷；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;brutalist-canyon;framed-distant-view → card:megastructure-silhouette;博客 Megastructure;Gothic;Canyon
+- 许可：版权归 redeugene；ArtStation 公开；仅作视觉参考
+
+### tyler_oliver-ue4-environment-oasis-temple-1920.jpg
+- 作品名：UE4 Environment - Oasis Temple
+- 作者：tyler_oliver
+- 原始 URL：https://www.artstation.com/artwork/9NOXoW
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：1920×1920；sha256：`6db2f3a9f7d109bfef7efebca21eb538926d0427fe889e3fc458d6371e57c064`
+- 机位/时间/步骤：CDN 4k/large 实看；崖壁港湾神庙水雾建立；净港龛外景；净环境
+- 维度/落点：framed-distant-view;fog-separates-depth;harbor-temple;megastructure-silhouette → card:framed-distant-view;博客 Harbor;Shrine;Canyon
+- 许可：版权归 tyler_oliver；ArtStation 公开；仅作视觉参考
+
+### lorenzolanfranconi-capri-2122-1920.jpg
+- 作品名：Capri 2122
+- 作者：lorenzolanfranconi
+- 原始 URL：https://www.artstation.com/artwork/b5ZVOg
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：1920×1920；sha256：`0afff7c3ff3d44a3c39693ca8445f82d2434f53d9741f317f8d32727c5b72698`
+- 机位/时间/步骤：CDN 4k/large 实看；海岸浮空巨石阵列远景建立；净海岸巨构；净环境
+- 维度/落点：framed-distant-view;megastructure-silhouette;coastal-monoliths;ordered-frame-wild-growth → card:framed-distant-view;博客 Orbital;Harbor;Megastructure
+- 许可：版权归 lorenzolanfranconi；ArtStation 公开；仅作视觉参考
+
+### jwsargent-me-observatory-house-photoreal-environment-study-3840.jpg
+- 作品名：Observatory House - Photoreal Environment Study
+- 作者：jwsargent-me
+- 原始 URL：https://www.artstation.com/artwork/XPzzR
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：3840×2160；sha256：`4e07d50f3aae148c0c37b742e42753a86ff2eac65524f03fdd7ad1325bc3c8d7`
+- 机位/时间/步骤：CDN 4k/large 实看；崖壁观测穹顶水畔远景建立；净观象台外景；净环境
+- 维度/落点：framed-distant-view;megastructure-silhouette;observatory-dome;fog-separates-depth → card:framed-distant-view;博客 Megastructure;Canyon;Orbital
+- 许可：版权归 jwsargent-me；ArtStation 公开；仅作视觉参考
+
+### allanoliveira-environment-teleferico-rocinha-cable-car-1920.jpg
+- 作品名：Environment -teleférico-rocinha - cable car
+- 作者：allanoliveira
+- 原始 URL：https://www.artstation.com/artwork/w6Oq86
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：1920×1080；sha256：`7632f192b5c13502b70123099c4753113bddbda999406b64cdf4d8ed5ca425ec`
+- 机位/时间/步骤：CDN 4k/large 实看；山城缆车枢纽黄昏建立；净缆车谷地巨构；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;cable-car-hub;scale-by-familiar-objects → card:megastructure-silhouette;博客 Megastructure;Canyon;Harbor
+- 许可：版权归 allanoliveira；ArtStation 公开；仅作视觉参考
+
+### cmworks-orbital-naval-yard-3500.jpg
+- 作品名：Orbital Naval Yard
+- 作者：cmworks
+- 原始 URL：https://www.artstation.com/artwork/VJvo94
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：3500×1968；sha256：`4ddb1ff75db38a0c5f03fbe9ac872c9819e68c1d56a60bdfce7af792772ef583`
+- 机位/时间/步骤：CDN 4k/large 实看；轨道船坞格架停泊建立；净轨道船坞；净环境
+- 维度/落点：megastructure-silhouette;orbital-shipyard;framed-distant-view;fog-separates-depth → card:megastructure-silhouette;博客 Orbital;Megastructure;Industrial
+- 许可：版权归 cmworks；ArtStation 公开；仅作视觉参考
+
+### jacob_coffin-airshipyard-in-early-morning-postcard-from-a-solarpunk-3840.jpg
+- 作品名：Airshipyard in Early Morning - Postcard from a Solarpunk Future
+- 作者：jacob_coffin
+- 原始 URL：https://www.artstation.com/artwork/5v2rmz
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：3840×2671；sha256：`86adc0a578af16bf014d68cdcc7ac82befb483c2cdda404e990bb9c88540e755`
+- 机位/时间/步骤：CDN 4k/large 实看；沙漠飞艇船坞晨雾建立；净飞艇场外景；净环境
+- 维度/落点：framed-distant-view;megastructure-silhouette;airshipyard;ordered-frame-wild-growth → card:framed-distant-view;博客 Megastructure;Industrial;Canyon
+- 许可：版权归 jacob_coffin；ArtStation 公开；仅作视觉参考
+
+### agr97-arctic-pipeline-complex-3600.jpg
+- 作品名：Arctic pipeline complex
+- 作者：agr97
+- 原始 URL：https://www.artstation.com/artwork/eamG4X
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：3600×2025；sha256：`e5797a7e2299833d353ba98785004ffaeca0363a067a62294076522fd793d704`
+- 机位/时间/步骤：CDN 4k/large 实看；工业管廊雾中俯瞰建立；净管线巨构外景；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;pipeline-complex;framed-distant-view → card:megastructure-silhouette;博客 Megastructure;Industrial;Gothic
+- 许可：版权归 agr97；ArtStation 公开；仅作视觉参考
+
+### avahurst-suspension-bridge-2560.jpg
+- 作品名：Suspension Bridge
+- 作者：avahurst
+- 原始 URL：https://www.artstation.com/artwork/vJE1Zv
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：2560×1440；sha256：`15c906c33ca6b957394cae9828b061fa947e4d06f93b9b98d4d2384ab7d1c0d1`
+- 机位/时间/步骤：CDN 4k/large 实看；峡谷悬索桥秋色远景建立；净悬索桥峡谷；净环境
+- 维度/落点：framed-distant-view;megastructure-silhouette;suspension-bridge;fog-separates-depth → card:framed-distant-view;博客 Canyon;Megastructure;Gothic
+- 许可：版权归 avahurst；ArtStation 公开；仅作视觉参考
+
+### mzo-valley-1920.jpg
+- 作品名：Valley
+- 作者：mzo
+- 原始 URL：https://www.artstation.com/artwork/bK0AWn
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：1920×834；sha256：`fb98520538703072d91042f361f3780f5c22278071abdca6707bef900310572f`
+- 机位/时间/步骤：CDN 4k/large 实看；谷地冷却塔暮色建立；净冷却塔雾谷；净环境
+- 维度/落点：megastructure-silhouette;fog-separates-depth;cooling-tower-valley;framed-distant-view → card:megastructure-silhouette;博客 Megastructure;Industrial;Canyon
+- 许可：版权归 mzo；ArtStation 公开；仅作视觉参考
+
+### skolas-bene-asteroid-mining-station-1924.jpg
+- 作品名：Asteroid Mining Station
+- 作者：skolas-bene
+- 原始 URL：https://www.artstation.com/artwork/14lKy2
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-29
+- 尺寸：1924×1082；sha256：`5887c3fa375a8471c374a7919684f305cfcdd9afcb6222563bf4ebfd49d501fb`
+- 机位/时间/步骤：CDN 4k/large 实看；小行星采矿站星云建立；净轨道采矿前哨；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;asteroid-mining;orbital-outpost → card:megastructure-silhouette;博客 Orbital;Megastructure;Industrial
+- 许可：版权归 skolas-bene；ArtStation 公开；仅作视觉参考
+
+### peetermaimik-shipbreaking-yard-3840.jpg
+- 作品名：Shipbreaking yard
+- 作者：peetermaimik
+- 原始 URL：https://www.artstation.com/artwork/8by2XO
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-30
+- 尺寸：3840×1607；sha256：`a7d7ae599f2cd76572ffd5de4ffe525589510a7c4761cd27d601caf886332dab`
+- 机位/时间/步骤：CDN 4k/large 实看；船拆废场内外建立；工业锈蚀巨构；人物次要
+- 维度/落点：framed-distant-view;megastructure-silhouette;shipbreaking-industrial;fog-separates-depth → card:framed-distant-view;博客 Harbor;Megastructure;Gothic
+- 许可：版权归 peetermaimik；ArtStation 公开；仅作视觉参考
+
+### krishsadh2-cave-1920.jpg
+- 作品名：CAVE
+- 作者：krishsadh2
+- 原始 URL：https://www.artstation.com/artwork/PXgRwr
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-30
+- 尺寸：1920×1080；sha256：`92f0590f376142829c48baadee0d11af0d69ba6eed84d3b4da2bd7f527e7bfb9`
+- 机位/时间/步骤：CDN 4k/large 实看；熔岩管/洞窟出口光柱建立；净洞窟外望；净环境
+- 维度/落点：framed-distant-view;fog-separates-depth;cave-exit-light;cold-world-warm-refuge → card:framed-distant-view;博客 Canyon;Shrine;Megastructure
+- 许可：版权归 krishsadh2；ArtStation 公开；仅作视觉参考
+
+### jasmin_sue-veritos-2560.jpg
+- 作品名：Veritos
+- 作者：jasmin_sue
+- 原始 URL：https://www.artstation.com/artwork/eR5mwb
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-30
+- 尺寸：2560×1440；sha256：`d5e35129a9618fd7197e711e5eaae3fb5ef792414a2f9b42b1cddb87045a2f4e`
+- 机位/时间/步骤：CDN 4k/large 实看；生物发光洞窟神龛建立；净洞窟祭坛外景；净环境
+- 维度/落点：fog-separates-depth;bioluminescent-cave-shrine;framed-distant-view;cold-world-warm-refuge → card:fog-separates-depth;博客 Shrine;Canyon;Megastructure
+- 许可：版权归 jasmin_sue；ArtStation 公开；仅作视觉参考
+
+### cyclopticbadger-the-dark-tower-2560.jpg
+- 作品名："The dark Tower"
+- 作者：cyclopticbadger
+- 原始 URL：https://www.artstation.com/artwork/a00wOk
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-30
+- 尺寸：2560×1440；sha256：`484e2588e11ad19a1b4514bc1e5d3987a213b0f644c8be0d9aca350d1396b154`
+- 机位/时间/步骤：CDN 4k/large 实看；哥特浮空巨塔月影建立；净浮空巨构剪影；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;gothic-floating-tower;fog-separates-depth → card:megastructure-silhouette;博客 Gothic;Megastructure;Orbital
+- 许可：版权归 cyclopticbadger；ArtStation 公开；仅作视觉参考
+
+### unrealdimensionsstudio-swamp-tower-2002.jpg
+- 作品名：Swamp Tower — A Lighting Study in Five Moods
+- 作者：unrealdimensionsstudio
+- 原始 URL：https://www.artstation.com/artwork/Rq33Zm
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-30
+- 尺寸：2002×1126；sha256：`a485e0e783d27848112d0bba598cf5013dc0fe204bc6b37586300c4041787405`
+- 机位/时间/步骤：CDN 4k/large 实看；沼地石塔单体外景建立；净湿原立柱；净环境
+- 维度/落点：framed-distant-view;fog-separates-depth;swamp-monolith-tower;ordered-frame-wild-growth → card:framed-distant-view;博客 Canyon;Gothic;Shrine
+- 许可：版权归 unrealdimensionsstudio；ArtStation 公开；仅作视觉参考
+
+### alejandro_xyz-gothic-highlands-series-1930.jpg
+- 作品名：Gothic Highlands - Series
+- 作者：alejandro_xyz
+- 原始 URL：https://www.artstation.com/artwork/WXN0r2
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-30
+- 尺寸：1930×1400；sha256：`e44273b48f6be82e594a754527e55ec369dd1d02779f0459a847e47354fbbc4a`
+- 机位/时间/步骤：CDN 4k/large 实看；雪原哥特群塔建立；净高原巨构；净环境
+- 维度/落点：megastructure-silhouette;framed-distant-view;gothic-highland-citadel;fog-separates-depth → card:megastructure-silhouette;博客 Gothic;Megastructure;Canyon
+- 许可：版权归 alejandro_xyz；ArtStation 公开；仅作视觉参考
+
+### julia_po0lak-underwater-observatory-1920.jpg
+- 作品名：Underwater observatory
+- 作者：julia_po0lak
+- 原始 URL：https://www.artstation.com/artwork/xDam2Y
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-31
+- 尺寸：1920×1083；sha256：`2a4507e03f9a6c97e12a989b83e8e975967ef3a73353c4d3f9e11d3c466f85b9`
+- 机位/时间/步骤：CDN 4k/large 实看；水下观测穹顶外景建立；净海底巨构；人物次要
+- 维度/落点：underwater-observatory-dome;framed-distant-view;megastructure-silhouette;fog-separates-depth → card:framed-distant-view;博客 Harbor;Megastructure;Orbital
+- 许可：版权归 julia_po0lak；ArtStation 公开；仅作视觉参考
+
+### ingedl-ba-sing-se-3300.jpg
+- 作品名：Ba sing se
+- 作者：ingedl
+- 原始 URL：https://www.artstation.com/artwork/XnVE8R
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-31
+- 尺寸：2550×3300；sha256：`7dfff3d0c27cc3a6a39ba3052a877a5e115074d98e61dd119cca8e35312939d6`
+- 机位/时间/步骤：CDN 4k/large 实看；仙侠环山城墙巨构建立；净外城剪影；净环境
+- 维度/落点：xianxia-walled-megacity;framed-distant-view;megastructure-silhouette;fog-separates-depth → card:megastructure-silhouette;博客 Gothic;Megastructure;Canyon
+- 许可：版权归 ingedl；ArtStation 公开；仅作视觉参考
+
+### alejandro_xyz-industrial-nocturne-3015.jpg
+- 作品名：Industrial Nocturne - Series
+- 作者：alejandro_xyz
+- 原始 URL：https://www.artstation.com/artwork/rlolDL
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-31
+- 尺寸：3015×1696；sha256：`aabf5c5a01b515e7a6b2fbca878e7e7fc216221f9abf6a224369e1b3a47f28e8`
+- 机位/时间/步骤：CDN 4k/large 实看；工业夜景烟囱巨构建立；净工业天际；净环境
+- 维度/落点：industrial-nocturne-skyline;megastructure-silhouette;framed-distant-view;fog-separates-depth → card:megastructure-silhouette;博客 Harbor;Megastructure;Gothic
+- 许可：版权归 alejandro_xyz；ArtStation 公开；仅作视觉参考
+
+### alejandro_xyz-observatory-across-the-ice-plain-2667.jpg
+- 作品名：Observatory Across the Ice Plain - Series
+- 作者：alejandro_xyz
+- 原始 URL：https://www.artstation.com/artwork/5WQLXA
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-31
+- 尺寸：1500×2667；sha256：`9b87861ef33e4a129cf0f51f7a7da48a3970dec3d968dafb493e534ea03c1255`
+- 机位/时间/步骤：CDN 4k/large 实看；冰原观测台外景建立；净极地巨构；净环境
+- 维度/落点：arctic-observatory-ice-plain;framed-distant-view;megastructure-silhouette;cold-world-warm-refuge → card:framed-distant-view;博客 Canyon;Megastructure;Orbital
+- 许可：版权归 alejandro_xyz；ArtStation 公开；仅作视觉参考
+
+### hiimacupcake-cathedral-ruins-2716.jpg
+- 作品名：Cathedral Ruins
+- 作者：hiimacupcake
+- 原始 URL：https://www.artstation.com/artwork/3oL1ZD
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-31
+- 尺寸：1920×2716；sha256：`a373e067c81369723a4a3231f8cc4aa437d15abb753ebb1a53dff2a9760b9648`
+- 机位/时间/步骤：CDN 4k/large 实看；哥特教堂废墟雾谷建立；净废墟立面；净环境
+- 维度/落点：cathedral-ruin-fog-valley;framed-distant-view;fog-separates-depth;gothic-ruin → card:fog-separates-depth;博客 Gothic;Canyon;Shrine
+- 许可：版权归 hiimacupcake；ArtStation 公开；仅作视觉参考
+
+### moonku-ancient-flooded-ruins-3840.jpg
+- 作品名：Ancient Flooded Ruins
+- 作者：moonku
+- 原始 URL：https://www.artstation.com/artwork/mODgYv
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-31
+- 尺寸：3840×2160；sha256：`c763c3e10dcc06fb0dae02812653ded8dc38056afaf00173002e0e1af14d1848`
+- 机位/时间/步骤：CDN 4k/large 实看；淹没古典柱廊废墟建立；净水下遗迹；净环境
+- 维度/落点：ancient-flooded-colonnade;framed-distant-view;fog-separates-depth;cold-world-warm-refuge → card:framed-distant-view;博客 Harbor;Gothic;Shrine
+- 许可：版权归 moonku；ArtStation 公开；仅作视觉参考
+
+### bamboart-dockyard-3840.jpg
+- 作品名：Dockyard
+- 作者：bamboart
+- 原始 URL：https://www.artstation.com/artwork/lDqJnV
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-31
+- 尺寸：3840×2042；sha256：`3f403b5497af935f003e0de2fa8901feca88d3e80d0f0b9defd2d56c4cdb2b63`
+- 机位/时间/步骤：CDN 4k/large 实看；海岸巨型立柱城码头建立；净沿海巨构；净环境
+- 维度/落点：coastal-pillar-megastructure;megastructure-silhouette;framed-distant-view;fog-separates-depth → card:megastructure-silhouette;博客 Harbor;Megastructure;Canyon
+- 许可：版权归 bamboart；ArtStation 公开；仅作视觉参考
+
+### mael_mmart-lunar-data-vault-1920.jpg
+- 作品名：Lunar Data Vault-keyframes
+- 作者：mael_mmart
+- 原始 URL：https://www.artstation.com/artwork/elAz0Y
+- 类型：静帧-概念（ArtStation）
+- 截取日期：2026-10-31
+- 尺寸：1920×823；sha256：`7b97be2050870eb7a3bbb35440a2887ea61c09d72caba4f4c19d6c0f408df2ce`
+- 机位/时间/步骤：CDN 4k/large 实看；月球穹顶数据仓建立；净月面巨构；人物次要
+- 维度/落点：lunar-dome-vault;megastructure-silhouette;framed-distant-view;orbital-shield → card:megastructure-silhouette;博客 Orbital;Megastructure;Canyon
+- 许可：版权归 mael_mmart；ArtStation 公开；仅作视觉参考
