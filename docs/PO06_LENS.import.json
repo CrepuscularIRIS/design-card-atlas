@@ -1,0 +1,404 @@
+{
+ "name": "design-card-atlas",
+ "text": "# Citadel 视觉场景 — cognitive lenses\nSource: ~/Blog/design-card-atlas public/docs/DIMENSIONS.md（A–I 九组拆解维度）· 25 张正式卡 README 的 impl 表 · public/recipes；atlas main 0009b5e（2026-11-28）。卡是索引：打磨方案只引用 card:<id> / recipe:<id>，实现索引以各卡 README 的 impl 表为准（本地 Repos/ file:line、许可、Citadel 落点）。\nD01 backlight-reveals-silhouette：逆光分轮廓——主体边缘一圈光把它从背景里分出来，颜色与亮度给数值。\nD02 broken-form-remains-legible：破损可读——断口、磨损、残骸不毁掉形体的可辨认性；完整与破损对照。\nD03 caustics-on-receivers：焦散落在接收面上——高光分工与局部色散，不是全屏加亮（水族馆/浅水/水面下）。\nD04 cold-world-warm-refuge：冷世界暖避难——冷暖分区把视觉重心给发光的居住暗示（暖窗对冷夜）。\nD05 colonnade-rhythm：柱廊节奏——重复与尺度、消失点、侧光下的仪式感。\nD06 colossus-crosses-the-frame：巨物过框——局部可识别 + 果断裁切 + 近身透视 = 压迫（巨构/史诗感）。\nD07 diagonal-mass-balance：对角体量平衡——不对称张力靠亮暗配重与透视方向。\nD08 emptiness-isolates-landmark：空场孤立地标——负空间与高光预算只给一个单体。\nD09 fog-separates-depth：雾分层次——距离雾/高度雾切出前中后景，雾色取自天光。\nD10 framed-distant-view：框中远景——画中框、近远尺度对照、观察位置。\nD11 gold-accents-matte-mass：金点缀哑面体——小面积光泽只放结构节点。\nD12 high-view-reads-hierarchy：高视点读层级——布局、通路、高低层级与标注空间。\nD13 low-chroma-value-steps：低饱和明度阶——大色块靠明暗层级而不是饱和度。\nD14 low-eye-entry：低视点入境——通道引导线、前景裁切、雾中纵深。\nD15 mirror-beside-roughness：镜面傍粗面——粗糙度对照与接触边界保存形体（湿地面倒影）。\nD16 networks-link-industrial-masses：网络连接工业体量——设备层级、线路、表面因果。\nD17 ordered-frame-wild-growth：规则框住野生生长——藤蔓/荒草只在规则体上生长（复绿）。\nD18 scale-by-familiar-objects：熟悉物显尺度——人、车、窗格、云做参照。\nD19 side-light-carves-stone：侧光刻石——主光与阴影把凹凸层级读出来。\nD20 staged-camera-approach：分镜式接近——机位切换、前中后景、重复节奏（停顿—加速—缓停）。\nD21 terraces-carry-the-temple：层台承殿——层台与主殿、路径层级、面转折。\nD22 thin-line-hud：细线 HUD——等宽与边栏、发光面积克制、状态色。\nD23 type-yields-to-scene：字让位于景——字级与退场、负空间、文字亮度。\nD24 water-continues-silhouette：水延续剪影——反射连续性、水平分界、波面。\nD25 weathering-follows-form：风化随形——表面状态与破损层级由形体决定（锈、尘、湿）。\nGroup cues: A 光影（主光方向/光源类型/光比/边缘光/接触阴影与 AO/bloom 阈值/光叙事/反射高光）· B 色彩（主辅色 hex/冷暖分区/饱和度分布/明度阶梯/调色/点缀色）· C 构图重心（第一眼落点/主体位置/负空间/引导线/前中后景/平衡）· D 造型尺度（剪影/尺度对比/体块组织/细节密度/重复节奏/风格语汇）· E 材质（粗糙度/金属感/湿干尘锈/微结构/透明半透/发光材质）· F 水流体大气（水面/湿地面/雾/体积光/粒子/天空背景）· G 镜头运动（焦距透视/景深/运动/节奏曲线/转场/场景动态）· H 排版 UI（字体性格/字级/字与画面/网格/HUD 语汇/信息密度/交互反馈）· I 氛围叙事（情绪词 1–3 个/时间天气/世界观暗示/克制）。\nParadigm cues: 当前站点 = 风格化低多边形 + 烘焙光照（baked GLB，昼夜变体）+ 少量实时层（placeRain 雨/湿反射、fx 粒子涟漪脚印、霓虹、keeper lamp、verbScene 贴花）。集成优先：先复用项目内套路（src/world/fx、places、worlds/cardfx、audio 全合成）与 ~/Blog/Repos 带许可资产/手法（navis、gremlin-church、stanford-torus、three-gpu-pathtracer 等 MIT 可读码；画师静帧只借构图/光/雾手法，不搬资产），从零手写须说明理由。目标 = card 宣传片级；已知差距：远景世界感 / 主角材质 / 光照接触 / 后处理遮罩 / 细节成因。43 个 place 场景 id 见 citadel/src/world/places/manifest。\nAnti-patterns: 禁紫渐变、Inter、玻璃拟态、\"Scroll ↓\"、可见 em-dash、Google Fonts link；不开第二条后期链；不升 three.js；普通交互不震屏、不 FOV 冲击、不全屏闪；物件只在声明时动；减少动态下不做自动位移/转向/FOV；title 与 atlas（地图）的 3D 观感不动；hIE 只用 2D 立绘；不为谜题改已上线台词。\nEvaluation: 以截图本身为准不以读数为准——同机位 before/after 成对，自己看图；headless 六坑（等 placeApi.scene 与 loadingCard 落下、__noPostcard、setFixedTime 不用 URL t=、goView 等两帧、keeper lamp 到场冷染相位、readableArrival lift 覆盖夜色、不直调 render）；参考标尺 4.4–5.0 与及格线双口径，已上线版本是基线不回退；Low/Software 档必须不坏；音量与配乐只能真人戴耳机验收。\nFailure boundaries: baked 合并网格里的物件不能单独动（先普查再声明 movable）；SwiftShader 帧率不代表真机；NVMe 未挂载时 cacheDir/截图走 /tmp；gameplay/refactor 分支是用户暂停的玩法候选，视觉线不依赖它。\n绑定项目：~/Blog（Crepuscular Citadel）。原始卡、DIMENSIONS、recipes 按需读取，domainCards 是当前命中的真实卡片；引用卡片编号与图上位置。卡是参考不是实施承诺。",
+ "source": "/home/lingxufeng/Blog/design-card-atlas/public/docs/DIMENSIONS.md · VISUAL_CARD_PROMPT.md v3 · 25 formal cards · docs/PO06_LENS.md (atlas main 0009b5e, 2026-11-28)",
+ "keywords": [
+  "视觉",
+  "场景",
+  "打磨",
+  "视觉下一季",
+  "光影",
+  "材质",
+  "构图",
+  "雾",
+  "水",
+  "镜头",
+  "HUD",
+  "card",
+  "atlas",
+  "citadel",
+  "place",
+  "巨构",
+  "史诗感",
+  "赛博朋克",
+  "three.js",
+  "WebGL",
+  "Noctiluca",
+  "design-card-atlas",
+  "recipe",
+  "回灌",
+  "polish"
+ ],
+ "boundOnly": true,
+ "library": {
+  "root": "/home/lingxufeng/Blog/design-card-atlas/public/cards",
+  "cards": [
+   {
+    "id": "backlight-reveals-silhouette",
+    "path": "backlight-reveals-silhouette/README.md",
+    "keywords": [
+     "backlight-reveals-silhouette",
+     "逆光",
+     "轮廓光",
+     "剪影",
+     "边缘光",
+     "背光",
+     "光影",
+     "silhouette",
+     "backlight"
+    ]
+   },
+   {
+    "id": "broken-form-remains-legible",
+    "path": "broken-form-remains-legible/README.md",
+    "keywords": [
+     "broken-form-remains-legible",
+     "破损",
+     "残骸",
+     "废墟",
+     "断口",
+     "磨损",
+     "可读",
+     "材质",
+     "ruins",
+     "wreck"
+    ]
+   },
+   {
+    "id": "caustics-on-receivers",
+    "path": "caustics-on-receivers/README.md",
+    "keywords": [
+     "caustics-on-receivers",
+     "焦散",
+     "水光",
+     "折射",
+     "接收面",
+     "水族馆",
+     "浅水",
+     "材质",
+     "caustics"
+    ]
+   },
+   {
+    "id": "cold-world-warm-refuge",
+    "path": "cold-world-warm-refuge/README.md",
+    "keywords": [
+     "cold-world-warm-refuge",
+     "冷暖",
+     "避难",
+     "暖窗",
+     "冷夜",
+     "居住",
+     "色彩",
+     "refuge",
+     "warm"
+    ]
+   },
+   {
+    "id": "colonnade-rhythm",
+    "path": "colonnade-rhythm/README.md",
+    "keywords": [
+     "colonnade-rhythm",
+     "柱廊",
+     "重复",
+     "节奏",
+     "消失点",
+     "仪式",
+     "造型尺度",
+     "colonnade"
+    ]
+   },
+   {
+    "id": "colossus-crosses-the-frame",
+    "path": "colossus-crosses-the-frame/README.md",
+    "keywords": [
+     "colossus-crosses-the-frame",
+     "巨物",
+     "巨构",
+     "压迫",
+     "裁切",
+     "近身",
+     "史诗",
+     "造型尺度",
+     "colossus",
+     "megastructure"
+    ]
+   },
+   {
+    "id": "diagonal-mass-balance",
+    "path": "diagonal-mass-balance/README.md",
+    "keywords": [
+     "diagonal-mass-balance",
+     "对角",
+     "不对称",
+     "平衡",
+     "体量",
+     "配重",
+     "构图",
+     "diagonal"
+    ]
+   },
+   {
+    "id": "emptiness-isolates-landmark",
+    "path": "emptiness-isolates-landmark/README.md",
+    "keywords": [
+     "emptiness-isolates-landmark",
+     "空场",
+     "负空间",
+     "地标",
+     "孤立",
+     "留白",
+     "构图",
+     "emptiness"
+    ]
+   },
+   {
+    "id": "fog-separates-depth",
+    "path": "fog-separates-depth/README.md",
+    "keywords": [
+     "fog-separates-depth",
+     "雾",
+     "层次",
+     "距离雾",
+     "高度雾",
+     "纵深",
+     "大气",
+     "fog",
+     "mist"
+    ]
+   },
+   {
+    "id": "framed-distant-view",
+    "path": "framed-distant-view/README.md",
+    "keywords": [
+     "framed-distant-view",
+     "框景",
+     "远景",
+     "画中框",
+     "尺度对照",
+     "构图",
+     "framed"
+    ]
+   },
+   {
+    "id": "gold-accents-matte-mass",
+    "path": "gold-accents-matte-mass/README.md",
+    "keywords": [
+     "gold-accents-matte-mass",
+     "金色",
+     "哑光",
+     "点缀",
+     "光泽",
+     "材质",
+     "gold"
+    ]
+   },
+   {
+    "id": "high-view-reads-hierarchy",
+    "path": "high-view-reads-hierarchy/README.md",
+    "keywords": [
+     "high-view-reads-hierarchy",
+     "高视点",
+     "俯视",
+     "层级",
+     "布局",
+     "通路",
+     "镜头",
+     "hierarchy",
+     "high view"
+    ]
+   },
+   {
+    "id": "low-chroma-value-steps",
+    "path": "low-chroma-value-steps/README.md",
+    "keywords": [
+     "low-chroma-value-steps",
+     "低饱和",
+     "明度",
+     "色阶",
+     "肃穆",
+     "色彩",
+     "chroma",
+     "value"
+    ]
+   },
+   {
+    "id": "low-eye-entry",
+    "path": "low-eye-entry/README.md",
+    "keywords": [
+     "low-eye-entry",
+     "低视点",
+     "入境",
+     "引导线",
+     "前景",
+     "通道",
+     "镜头",
+     "entry"
+    ]
+   },
+   {
+    "id": "mirror-beside-roughness",
+    "path": "mirror-beside-roughness/README.md",
+    "keywords": [
+     "mirror-beside-roughness",
+     "镜面",
+     "粗糙度",
+     "反射",
+     "湿地面",
+     "对照",
+     "材质",
+     "mirror",
+     "roughness"
+    ]
+   },
+   {
+    "id": "networks-link-industrial-masses",
+    "path": "networks-link-industrial-masses/README.md",
+    "keywords": [
+     "networks-link-industrial-masses",
+     "工业",
+     "网络",
+     "管线",
+     "设备",
+     "连接",
+     "造型尺度",
+     "industrial",
+     "networks"
+    ]
+   },
+   {
+    "id": "ordered-frame-wild-growth",
+    "path": "ordered-frame-wild-growth/README.md",
+    "keywords": [
+     "ordered-frame-wild-growth",
+     "藤蔓",
+     "荒草",
+     "生长",
+     "规则",
+     "复绿",
+     "造型尺度",
+     "overgrowth",
+     "vines"
+    ]
+   },
+   {
+    "id": "scale-by-familiar-objects",
+    "path": "scale-by-familiar-objects/README.md",
+    "keywords": [
+     "scale-by-familiar-objects",
+     "尺度",
+     "参照物",
+     "人",
+     "车",
+     "巨大",
+     "造型尺度",
+     "scale"
+    ]
+   },
+   {
+    "id": "side-light-carves-stone",
+    "path": "side-light-carves-stone/README.md",
+    "keywords": [
+     "side-light-carves-stone",
+     "侧光",
+     "石材",
+     "凹凸",
+     "阴影",
+     "庄严",
+     "光影",
+     "side light",
+     "stone"
+    ]
+   },
+   {
+    "id": "staged-camera-approach",
+    "path": "staged-camera-approach/README.md",
+    "keywords": [
+     "staged-camera-approach",
+     "机位",
+     "分镜",
+     "接近",
+     "切换",
+     "节奏",
+     "镜头",
+     "camera",
+     "staged"
+    ]
+   },
+   {
+    "id": "terraces-carry-the-temple",
+    "path": "terraces-carry-the-temple/README.md",
+    "keywords": [
+     "terraces-carry-the-temple",
+     "层台",
+     "殿",
+     "路径",
+     "阶梯",
+     "神社",
+     "造型尺度",
+     "terraces",
+     "temple",
+     "shrine"
+    ]
+   },
+   {
+    "id": "thin-line-hud",
+    "path": "thin-line-hud/README.md",
+    "keywords": [
+     "thin-line-hud",
+     "HUD",
+     "细线",
+     "等宽",
+     "边栏",
+     "状态色",
+     "排版",
+     "hud"
+    ]
+   },
+   {
+    "id": "type-yields-to-scene",
+    "path": "type-yields-to-scene/README.md",
+    "keywords": [
+     "type-yields-to-scene",
+     "字体",
+     "字级",
+     "退场",
+     "排版",
+     "让位",
+     "UI",
+     "typography"
+    ]
+   },
+   {
+    "id": "water-continues-silhouette",
+    "path": "water-continues-silhouette/README.md",
+    "keywords": [
+     "water-continues-silhouette",
+     "水面",
+     "反射",
+     "剪影",
+     "分界",
+     "波",
+     "大气",
+     "water",
+     "reflection"
+    ]
+   },
+   {
+    "id": "weathering-follows-form",
+    "path": "weathering-follows-form/README.md",
+    "keywords": [
+     "weathering-follows-form",
+     "风化",
+     "锈",
+     "痕迹",
+     "表面",
+     "破损",
+     "材质",
+     "weathering",
+     "rust"
+    ]
+   }
+  ]
+ }
+}
